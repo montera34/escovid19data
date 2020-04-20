@@ -10,9 +10,9 @@ Los datos de Girona para casos acumulados experimentan un descenso debido al cam
 
 ## Los datos / The data
 
-Los datos se publican en este CSV: [/data/output/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/-/blob/master/data/output//covid19-provincias-spain_consolidated.csv)
+Los datos se publican en este CSV: [/data/output/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/blob/master/data/output/covid19-provincias-spain_consolidated.csv)
 
-Data are published in this CSV file: [/data/output/spain/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/-/blob/master/data/output/covid19-provincias-spain_consolidated.csv)
+Data are published in this CSV file: [/data/output/spain/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/blob/master/data/output/covid19-provincias-spain_consolidated.csv)
 
 It includes now INE code for provinces and data per 100.000 inhabitants.
 'NA' is indicated when no data is available.
