@@ -38,6 +38,7 @@ Downloaded data from working spreadsheet are processed with analysis/evolution_s
 * `daily_deaths_inc` Calculated as the percentage from last day (cumulativ)
 * `daily_deaths_avg3` Average daily deaths in the last 3 days (current and last 2 days) 
 * `daily_deaths_avg6` Average daily deaths in the last 6 days (current and last 5 days) 
+* `source_name` Name of source of information, separated by ;
 * `source` Source of information, separated by ;
 * `comments` Comments of the data
 
@@ -84,10 +85,87 @@ Mándanos tu análisis o visualización si usas estos datos (covid19@montera34.c
 * [Mapas de afectados por coronavirus en España](https://mapa-de-afectados-por-coronavirus-plataformacovid.hub.arcgis.com/) iniciativa mantenida por voluntarios e impulsada por Esri España.
 * [Un dashboard de análisis](https://cultureofinsight.shinyapps.io/covid-19/) mantenido por [@harlesden88](https://twitter.com/harlesden88)
 
-## Fuentes
+## Fuentes de información
 
 Se han usado varias fuentes, la mayoría oficiales, algunas periodísicas, que se indican en cada una de los datos por día y provincia en la columna "source".
-Puedes leer más información sobre cada una de las fuentes: https://docs.google.com/document/d/12wkE0w1kdBHdwkj6AhPc0VnSQHgP_zz5rcVTyqng5y8/edit#
+Puedes leer más información sobre cada [una de las fuentes en este documento](https://docs.google.com/document/d/12wkE0w1kdBHdwkj6AhPc0VnSQHgP_zz5rcVTyqng5y8/edit#)
+
+### Comunidades uniprovinciales: Asturias, Baleares, Cantabria, Madrid, Murcia, Navara y La Rioja (Ceuta y Melilla)
+
+**Actualmente**: Se toma la serie histórica del Instituto de Salud Carlos III (https://covid19.isciii.es/resources/serie_historica_acumulados.csv).
+
+**Pasado**: Se usaba al principio los datos de RTVE, luego se sustituyó por los datos de los PDF del Ministerio de Sanidad que recopila Datadista.
+
+### Andalucía
+
+**Actualmente**: se utiliza [la serie histórica de acumulados](https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/operaciones/consulta/anual/38228?CodOper=b3_2314&codConsulta=38228) que publica la Junta de Andalucía. La volcamos manualmente en nuestra hoja de cálculo en la pestaña "[andalucía](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=1472471361)" y descargamos directamente desde ahí.
+
+Fuente de datos (2020.04.28): Junta de Andalucía 100%.
+
+**Pasado**: Para los primeros días se usaron los datos que ofrecía RTVE en la [visualización hecha con Flourish](https://public.flourish.studio/visualisation/1451263/). Más tarde se usaron las notas de prensa de la Junta de Andalucía ([ver ejemplo](https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/233232.html) del 13.03.2020).
+
+### Aragón
+
+**Actualmente**: Se utilizan las notas de prensa publicadas en Aragonhoy.net (Gobierno de Aragón): [ejemplo de nota de prensa de 28.04.2020](http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1379/id.259392). Lo datos se vuelcan en la pestaña común ["provincias" de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=0). **Pasado**: Para los primeros días se usaron los datos que ofrecía RTVE en la [visualización hecha con Flourish](https://public.flourish.studio/visualisation/1451263/) y algunos periódicos.
+
+Fuente de datos (2020.04.28): Gobierno de Aragón 66%, RTVE 21%, G. de Aragón y RTVE 8%, Prensa 5%.
+
+### Canarias
+
+**Actualmente**: Se utilizan las notas de prensa publicadas por el Gobierno de Canarias: [ejemplo de nota de prensa de 28.04.2020](https://www3.gobiernodecanarias.org/noticias/la-consejeria-de-sanidad-registra-1887-casos-acumulados-de-coronavirus-covid-19/). Lo datos se vuelcan en la pestaña común ["provincias" de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=0) por isla.
+
+Fuente de datos (2020.04.28): Gobierno de Canarias 100%.
+
+### Castilla-La Mancha
+
+**Actualmente**: Se utilizan las notas de prensa publicadas por el Castilla-La Mancha: [ejemplo de nota de prensa de 28.04.2020](https://www.castillalamancha.es/actualidad/notasdeprensa/contin%C3%BAa-la-tendencia-de-m%C3%A1s-altas-epidemiol%C3%B3gicas-y-menos-hospitalizados-en-castilla-la-mancha-en). Lo datos se vuelcan en la pestaña común ["provincias" de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=0) por provincia.
+
+Fuente de datos (2020.04.28): Gobierno de Castilla-La Mancha 73%, RTVE 27%.
+
+### Castilla y León
+
+**Actualmente**: Se copia pegan datos de [la página de datos abiertos](https://analisis.datosabiertos.jcyl.es/pages/coronavirus/) de la Junta de Castilla y León en la pestaña común ["provincias" de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=0) por provincia.
+
+Fuente de datos (2020.04.28): Junta de Castilla y León: 87%, RTVE 13%.
+
+### Cataluña
+
+**Actualmente**: 
+
+* para los **casos** se usan los datos de [Transparencia de Catalunya](https://analisi.transparenciacatalunya.cat/Salut/Registre-de-test-de-COVID-19-realitzats-a-Cataluny/jj6z-iyrp/data) y se procesan con este script count_catalunya.R. Puedes ver el resultado en este CSV data/output/spain/catalunya-cases-evolution-by-province.csv Se actualiza diariamente.
+
+Fuente de datos (2020.04.28):  Transparencia de Catalunya 100% 
+
+* para los **fallecidos** se ha volcado manualmente el contenido del [dashboard de Salut de la Generalitat](https://app.powerbi.com/view?r=eyJrIjoiZTkyNTcwNjgtNTQ4Yi00ZTg0LTk1OTctNzM3ZGEzNWE4OTIxIiwidCI6IjNiOTQyN2RjLWQzMGUtNDNiYy04YzA2LWZmNzI1MzY3NmZlYyIsImMiOjh9) en la [pestaña cat_ de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=841105696) que se descarga en data/original/spain/catalunya/powerbi.csv.
+
+Fuente de datos (2020.04.28):  Salut de Catalunya 100% 
+
+* para otros datos como hospitalizados o cuidados intensivos hay una mezcla de fuentes periodísticas para Girona, Lleida y Tarragona. Falta indicar fuente para un 13%.
+
+**Anteriormente**: los datos de casos y fallecidos para la provincia de Barcelona se calculaban en base al total de Cataluña (de Minsiterio de Sanidad- Datadista) y restando los datos de las otras tres provincias.
+
+### Comunidad Valenciana
+
+**Actualmente**: Se utilizan las notas de prensa publicadas por la Generalitat Valenciana: [ejemplo de nota de prensa de 8.04.2020](https://www.gva.es/va/inicio/area_de_prensa/not_detalle_area_prensa?id=853677). Los datos se vuelcan en la pestaña común ["provincias" de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=0) por provincia.
+
+Fuente de datos (2020.04.28): Generalitat Valenciana 87%, RTVE 13%
+
+### Extremadura
+
+**Actualmente**: Se utilizan las notas de prensa publicadas por la Junta de Extremdura: [ejemplo de nota de prensa de 8.04.2020](http://www.juntaex.es/comunicacion/noticia?idPub=30056#.Xo29JnJS-Cg). Los datos se vuelcan en la pestaña común ["provincias" de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=0) por provincia, previo cálculo, pues en las notas de prensa aparecen por áreas de Salud.
+
+Fuente de datos (2020.04.28): Junta de Extremadura 81%, Prensa 10%, Falta Fuente 9%
+
+### Galicia
+
+**Actualmente**: se recopila de prensa. Por completar.
+
+Fuente de datos (2020.04.28):  Prensa 38%, galiciancovid19.info 34%, RTVE 25%, Falta Fuente 3%
+
+### País Vasco- Euskadi
+
+**Actualmente**: se recopila de las notas de prensa publiadas en Irekia, la página de datos abiertos del Gobierno Vasco: [ejemplo de nota de prensa de 29.04.2020](https://www.irekia.euskadi.eus/es/news/61544-actualizacion-datos-covid-euskadig). Los datos se vuelcan en la pestaña común ["provincias" de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=0) por provincia,
+
 
 ## Cómo funciona
 
