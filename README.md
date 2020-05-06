@@ -68,7 +68,7 @@ Contacto: covid19@montera34.com
 
 Hay muchas personas que nos habéis ayudado y aportado pistas. Gracias a todas por colaborar. 
 
-Ahora mismo, estamos manteniendo los datos y amadrinando provincias y comunidades autónomas: [@ProsumidorSoc](https://twitter.com/ProsumidorSoc) [@numeroteca](https://twitter.com/numeroteca) [@arivero](https://twitter.com/arivero) [@ManoloYuri](https://twitter.com/ManoloYuri) [@congosto](https://twitter.com/congosto) [@skotperez](https://twitter.com/skotperez) [@leu2001](https://twitter.com/leu2001) [@allisdata](https://twitter.com/@allisdata) [@arivero](https://twitter.com/arivero) [@acorsin](https://twitter.com/acorsin) [@hhkaos](https://twitter.com/hhkaos) [@aitorcalero](https://twitter.com/aitorcalero) [@belengarcia_8](https://twitter.com/belengarcia_8) [@Tejerauskas](https://twitter.com/Tejerauskas) [@aniol](https://twitter.com/aniol) | [@zgzmiki89](https://twitter.com/zgzmiki89) | [@jf_caro](https://twitter.com/jf_caro) [@mota_santiago](https://twitter.com/mota_santiago).
+Ahora mismo, estamos manteniendo los datos y amadrinando provincias y comunidades autónomas: [@ProsumidorSoc](https://twitter.com/ProsumidorSoc) [@numeroteca](https://twitter.com/numeroteca) [@arivero](https://twitter.com/arivero) [@ManoloYuri](https://twitter.com/ManoloYuri) [@congosto](https://twitter.com/congosto) [@skotperez](https://twitter.com/skotperez) [@leu2001](https://twitter.com/leu2001) [@allisdata](https://twitter.com/@allisdata) [@arivero](https://twitter.com/arivero) [@acorsin](https://twitter.com/acorsin) [@hhkaos](https://twitter.com/hhkaos) [@aitorcalero](https://twitter.com/aitorcalero) [@belengarcia_8](https://twitter.com/belengarcia_8) [@Tejerauskas](https://twitter.com/Tejerauskas) [@aniol](https://twitter.com/aniol) [@zgzmiki89](https://twitter.com/zgzmiki89) [@jf_caro](https://twitter.com/jf_caro) [@mota_santiago](https://twitter.com/mota_santiago) [@nachotronic](https://twitter.com/nachotronic).
 
 Si se nos olvida alguien ¡avísanos!
 
@@ -150,7 +150,7 @@ Fuente de datos (2020.05.05):  Salut de Catalunya 100%
 
 * para otros datos como hospitalizados o cuidados intensivos hay una mezcla de fuentes periodísticas para Girona, Lleida y Tarragona. Falta indicar fuente para un 13%.
 
-**Anteriormente**: los datos de casos y fallecidos para la provincia de Barcelona se calculaban en base al total de Cataluña (de Minsiterio de Sanidad- Datadista) y restando los datos de las otras tres provincias.
+**Anteriormente**: los datos de casos y fallecidos para la provincia de Barcelona se calculaban en base al total de Cataluña (de Minsiterio de Sanidad- Datadista) y restando los datos de las otras tres provincias. Para Girona se usaba [este repositorio](https://github.com/nachotronic/covid19/blob/master/casos_girona.csv) mantenido por [@nachotronic](https://twitter.com/nachotronic). Para Lleida el gráfico publicado en [esta noticia de segre.com](https://www.segre.com/es/noticias/lleida/2020/03/24/lleida_suma_morts_positius_coronavirus_sol_dia_102336_1092.html). Para Tarragona múltiples fuentes periodísticas. Barcelona se calculaba restando al total de la comunidad autónoma los datos de las otras tres provincias catalanas.
 
 ### Comunidad Valenciana
 
