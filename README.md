@@ -23,7 +23,7 @@ Downloaded data from the working spreadsheet are processed with this [R script](
 * `ccaa` Comunidad autónoma (region)
 * `new_cases` Number of new COVID-19 cases
 * `activos` Active COVID-19 cases
-* `hospitalized` Hospitalized (cumulative)
+* `hospitalized` Hospitalized (cumulative). [Ver wiki](https://github.com/montera34/escovid19data/wiki#hospitalizados)
 * `intensive_care` UCI (intensive care patiens) (cumulative)
 * `deceased` Deaths (cumulative)
 * `cases_accumulated` Cases (cumulative)
