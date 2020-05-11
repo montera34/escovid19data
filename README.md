@@ -2,7 +2,7 @@
 
 ## ¿Puedes utilizar los datos? 
 
-[Pon link a este repositorio (https://github.com/montera34/escovid19data)](https://github.com/montera34/escovid19data) y llámalo Escovid19data. Liberamos los para que hagas con ellos lo que quieras. Si nos citas, mejor, para mantener la trazabilidad de los datos. Nos encantará saber que usas los datos, escríbemos a covid19@montera34.com o tuitea con #escovid19data.
+[Pon link a este repositorio (https://github.com/montera34/escovid19data)](https://github.com/montera34/escovid19data) y llámalo Escovid19data. Liberamos los datos para que hagas con ellos lo que quieras. Si nos citas, mejor, para mantener la trazabilidad de los datos. Nos encantará saber que usas los datos, escríbemos a covid19@montera34.com o tuitea con #escovid19data.
 
 ## Los datos / The data
 
@@ -72,7 +72,7 @@ Ahora mismo, estamos manteniendo los datos y amadrinando provincias y comunidade
 
 Si se nos olvida alguien ¡avísanos!
 
-Cada cual se encarga de una comunidad autńoma o provincia. [Ver sección "Organización" de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=179891808).
+Cada cual se encarga de una comunidad autónoma o provincia. [Ver sección "Organización" de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=179891808).
  
 ## Visualizaciones y uso de los datos
 
@@ -87,6 +87,8 @@ Mándanos tu análisis o visualización si usas estos datos (covid19@montera34.c
 Prensa
 
 * ¿Por qué Canarias resiste al coronavirus y Soria no?  https://www.eldiario.es/sociedad/Canarias-pocos-casos-coronavirus-Segovia_0_1017698330.html
+* Las provincias que mejor y peor llegan para pasar a la siguiente fase de la desescalada https://www.abc.es/sociedad/abci-coronavirus-provincias-mejor-y-peor-llegan-para-pasar-siguiente-fase-desescalada-202005051948_noticia.html
+* Residencias, UCI y aglomeración: los puntos débiles de cada provincia para enfrentar al virus en la nueva fase  https://elpais.com/sociedad/2020-05-10/residencias-uci-y-aglomeracion-los-puntos-debiles-de-cada-provincia-para-enfrentar-al-virus-en-la-nueva-fase.html 
 
 Artículos científicos
 
@@ -194,9 +196,6 @@ Fuente de datos (2020.04.28):  Osakidetza 61%, Gobierno de Euskadi 28%, RTVE 9%,
 Cada madrina, reponsable de conseguir los datos, de una comunidad autónoma o provincia sube los datos a una hoja de cálculo común.
 Los datos se descargan en este CSV: `data/original/covid19_spain_provincias.csv` para ser procesador con el [R script](https://code.montera34.com:4443/numeroteca/covid19/-/blob/master/analysis/process_spain_provinces_data.R) y se genera el CSV listo para usarse [/data/output/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/-/blob/master/data/output//covid19-provincias-spain_consolidated.csv).
 
-No todos los datos están disponibles en la hoja de cálculo compartida, como se indica en algunascomunidades se obtiene directamente de la fuente.
+No todos los datos están disponibles en la hoja de cálculo compartida, como se indica en algunas comunidades se obtiene directamente de la fuente.
 
 El proyecto tiene un grupo de Telegram con el que nos coordinamos. Escribe a covid19@montera34.com para apuntarte y saber más.
-
-
-
