@@ -17,11 +17,13 @@ Downloaded data from the working spreadsheet are processed with this [R script](
 
 ### Variables
 
+Original data:
+
 * `date` Day in yyyy-mm-dd format
 * `province` Province
 * `ine_code` INE code fro the province
 * `ccaa` Comunidad autónoma (region)
-* `new_cases` Number of new COVID-19 cases
+* `new_cases` Number of new COVID-19 cases as reported in oficial data
 * `activos` Active COVID-19 cases
 * `hospitalized` Hospitalized (cumulative). [Ver wiki](https://github.com/montera34/escovid19data/wiki#hospitalizados)
 * `intensive_care` UCI (intensive care patiens) (cumulative)
@@ -29,13 +31,20 @@ Downloaded data from the working spreadsheet are processed with this [R script](
 * `cases_accumulated` Cases (cumulative)
 * `recovered` Recovered (cumulative)
 * `poblacion` Inhabitants of the province
+
+Calculated data:
+
 * `cases_per_cienmil` Cumulative cases per 100,000 inhabitants
 * `intensive_care_per_100000` Cumulative cases per 100,000 inhabitants
 * `deceassed_per_100000` Cumulative deaths per 100,000 inhabitants
-* `daily_deaths` Daily deaths. Calculated as a difference of cumulative deaths
+* `daily_deaths` Daily deaths. Calculated as a difference of cumulative deaths.
 * `daily_deaths_inc` Calculated as the percentage from last day (cumulative)
-* `daily_deaths_avg3` Average daily deaths in the last 3 days (rolling average 2 days) 
+* `daily_deaths_avg3` Average daily deaths in the last 3 days (rolling average 3 days) 
 * `daily_deaths_avg6` Average daily deaths in the last 7 days (rolling average 7 days) 
+* `deaths_last_week` Deaths in the last 7 days.
+
+Data sources and comments:
+
 * `source_name` Name of source of information, separated by ;
 * `source` Source of information, separated by ;
 * `comments` Comments of the data
