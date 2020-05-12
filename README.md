@@ -34,10 +34,12 @@ Original data:
 
 Calculated data:
 
+* `daily_cases` Daily cases. Calculated as a difference of cumulative cases reported.
+* `daily_cases_avg7` Average daily cases in the last 7 days (rolling average 7 days) 
 * `cases_per_cienmil` Cumulative cases per 100,000 inhabitants
 * `intensive_care_per_100000` Cumulative cases per 100,000 inhabitants
 * `deceassed_per_100000` Cumulative deaths per 100,000 inhabitants
-* `daily_deaths` Daily deaths. Calculated as a difference of cumulative deaths.
+* `daily_deaths` Daily deaths. Calculated as a difference of cumulative deaths reported.
 * `daily_deaths_inc` Calculated as the percentage from last day (cumulative)
 * `daily_deaths_avg3` Average daily deaths in the last 3 days (rolling average 3 days) 
 * `daily_deaths_avg6` Average daily deaths in the last 7 days (rolling average 7 days) 
