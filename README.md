@@ -97,9 +97,10 @@ Mándanos tu análisis o visualización si usas estos datos (covid19@montera34.c
 
 Prensa
 
-* ¿Por qué Canarias resiste al coronavirus y Soria no?  https://www.eldiario.es/sociedad/Canarias-pocos-casos-coronavirus-Segovia_0_1017698330.html
-* Las provincias que mejor y peor llegan para pasar a la siguiente fase de la desescalada https://www.abc.es/sociedad/abci-coronavirus-provincias-mejor-y-peor-llegan-para-pasar-siguiente-fase-desescalada-202005051948_noticia.html
-* Residencias, UCI y aglomeración: los puntos débiles de cada provincia para enfrentar al virus en la nueva fase  https://elpais.com/sociedad/2020-05-10/residencias-uci-y-aglomeracion-los-puntos-debiles-de-cada-provincia-para-enfrentar-al-virus-en-la-nueva-fase.html 
+* eldiario: ¿Por qué Canarias resiste al coronavirus y Soria no?  https://www.eldiario.es/sociedad/Canarias-pocos-casos-coronavirus-Segovia_0_1017698330.html
+* ABC: Las provincias que mejor y peor llegan para pasar a la siguiente fase de la desescalada https://www.abc.es/sociedad/abci-coronavirus-provincias-mejor-y-peor-llegan-para-pasar-siguiente-fase-desescalada-202005051948_noticia.html
+* El País: Residencias, UCI y aglomeración: los puntos débiles de cada provincia para enfrentar al virus en la nueva fase  https://elpais.com/sociedad/2020-05-10/residencias-uci-y-aglomeracion-los-puntos-debiles-de-cada-provincia-para-enfrentar-al-virus-en-la-nueva-fase.html
+* El País: Lo que inquieta del estudio de prevalencia en España: ¿Un muerto por cada 100 infectados?  https://elpais.com/sociedad/2020-05-13/lo-que-inquieta-del-estudio-de-prevalencia-en-espana-un-muerto-por-cada-100-infectados.html 
 
 Artículos científicos
 
