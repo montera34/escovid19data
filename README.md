@@ -1,8 +1,12 @@
-# Escovid19data: Capturando datos por provincias en España
+# Escovid19data: Capturando datos de COVID-19 por provincias en España
+
+[![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/montera34/escovid19data/blob/master/LICENSE.md)
+[![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/montera34/escovid19data/commits/master)
 
 ## ¿Puedes utilizar los datos? 
 
 [Pon link a este repositorio (https://github.com/montera34/escovid19data)](https://github.com/montera34/escovid19data) y llámalo Escovid19data. Liberamos los datos para que hagas con ellos lo que quieras. Si nos citas, mejor, para mantener la trazabilidad de los datos. Nos encantará saber que usas los datos, escríbemos a covid19@montera34.com o tuitea con #escovid19data.
+Ver condiciones de la licencia con que compartimos los datos
 
 ## Los datos / The data
 
