@@ -99,19 +99,22 @@ Mándanos tu análisis o visualización si usas estos datos (covid19@montera34.c
 * [Mapas de afectados por coronavirus en España](https://mapa-de-afectados-por-coronavirus-plataformacovid.hub.arcgis.com/) iniciativa mantenida por voluntarios e impulsada por Esri España.
 * [Un dashboard de análisis](https://cultureofinsight.shinyapps.io/covid-19/) mantenido por [@harlesden88](https://twitter.com/harlesden88).
 
-Prensa
+### Prensa
 
 * eldiario: ¿Por qué Canarias resiste al coronavirus y Soria no?  https://www.eldiario.es/sociedad/Canarias-pocos-casos-coronavirus-Segovia_0_1017698330.html
 * ABC: Las provincias que mejor y peor llegan para pasar a la siguiente fase de la desescalada https://www.abc.es/sociedad/abci-coronavirus-provincias-mejor-y-peor-llegan-para-pasar-siguiente-fase-desescalada-202005051948_noticia.html
 * El País: Residencias, UCI y aglomeración: los puntos débiles de cada provincia para enfrentar al virus en la nueva fase  https://elpais.com/sociedad/2020-05-10/residencias-uci-y-aglomeracion-los-puntos-debiles-de-cada-provincia-para-enfrentar-al-virus-en-la-nueva-fase.html
 * El País: Lo que inquieta del estudio de prevalencia en España: ¿Un muerto por cada 100 infectados?  https://elpais.com/sociedad/2020-05-13/lo-que-inquieta-del-estudio-de-prevalencia-en-espana-un-muerto-por-cada-100-infectados.html 
 
-Artículos científicos
+### Artículos científicos
 
-* A spatio-temporal analysis for exploring the effect of temperature on COVID-19 early evolution in Spain" Álvaro Briz-Redón y ÁngelSerrano-Aroca https://www.sciencedirect.com/science/article/pii/S0048969720323287
-* "Regional correlations of COVID-19 in Spain" por Daniel Oto-Peralías https://osf.io/tjdgw/download
+* Briz-Redón, Á., & Serrano-Aroca, Á. (2020). A spatio-temporal analysis for exploring the effect of temperature on COVID-19 early evolution in Spain. Science of The Total Environment, 138811. https://www.sciencedirect.com/science/article/pii/S0048969720323287
+* "Effects of mobility and multi-seeding on the propagation of the COVID-19 in Spain" (pre-print) Mattia Mazzoli, David Mateo, Alberto Hernando, Sandro Meloni y Jose Javier Ramasco https://www.medrxiv.org/content/10.1101/2020.05.09.20096339v2
+* "Regional correlations of COVID-19 in Spain" (pre-print) por Daniel Oto-Peralías https://osf.io/tjdgw/download
 
 ## Fuentes de información
+
+Puedes ver el análisis sobre las fuentes de información en este informe https://lab.montera34.com/covid19-r/reports/informe-escovid19data.html
 
 Se han usado varias fuentes, la mayoría oficiales, algunas periodísicas, que se indican en cada una de los datos por día y provincia en la columna "source".
 Puedes leer más información sobre cada [una de las fuentes en este documento](https://docs.google.com/document/d/12wkE0w1kdBHdwkj6AhPc0VnSQHgP_zz5rcVTyqng5y8/edit#)
