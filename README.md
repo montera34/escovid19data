@@ -3,11 +3,13 @@
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/montera34/escovid19data/blob/master/LICENSE.md)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/montera34/escovid19data/commits/master)
 
-## ¿Puedes utilizar los datos? 
+## ¿Puedes utilizar los datos? ¿Cómo colaborar?
 
 [Pon link a este repositorio (https://github.com/montera34/escovid19data)](https://github.com/montera34/escovid19data) y llámalo Escovid19data. Liberamos los datos para que hagas con ellos lo que quieras. Si nos citas, mejor, para mantener la trazabilidad de los datos. Nos encantará saber que usas los datos, escríbemos a covid19@montera34.com o tuitea con #escovid19data.
 Ver condiciones de [la licencia con que compartimos los datos](https://github.com/montera34/escovid19data/blob/master/LICENSE.md).
-  
+
+Puedes ayudar colaborando actiamente en la recopilación de daos o detectando errores y notificándolos. Puedes ponernos un email, o mejor, [crear un incidencia](https://github.com/montera34/escovid19data/issues). 
+
 ## Los datos / The data
 
 Los datos se publican en este CSV: [/data/output/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/blob/master/data/output/covid19-provincias-spain_consolidated.csv)
@@ -101,10 +103,11 @@ Mándanos tu análisis o visualización si usas estos datos (covid19@montera34.c
 
 ### Prensa
 
-* eldiario: ¿Por qué Canarias resiste al coronavirus y Soria no?  https://www.eldiario.es/sociedad/Canarias-pocos-casos-coronavirus-Segovia_0_1017698330.html
-* ABC: Las provincias que mejor y peor llegan para pasar a la siguiente fase de la desescalada https://www.abc.es/sociedad/abci-coronavirus-provincias-mejor-y-peor-llegan-para-pasar-siguiente-fase-desescalada-202005051948_noticia.html
-* El País: Residencias, UCI y aglomeración: los puntos débiles de cada provincia para enfrentar al virus en la nueva fase  https://elpais.com/sociedad/2020-05-10/residencias-uci-y-aglomeracion-los-puntos-debiles-de-cada-provincia-para-enfrentar-al-virus-en-la-nueva-fase.html
-* El País: Lo que inquieta del estudio de prevalencia en España: ¿Un muerto por cada 100 infectados?  https://elpais.com/sociedad/2020-05-13/lo-que-inquieta-del-estudio-de-prevalencia-en-espana-un-muerto-por-cada-100-infectados.html 
+* eldiario: ¿Por qué Canarias resiste al coronavirus y Soria no?  (Raquel Ejerique, Raúl Sánchez) https://www.eldiario.es/sociedad/Canarias-pocos-casos-coronavirus-Segovia_0_1017698330.html
+* ABC: Las provincias que mejor y peor llegan para pasar a la siguiente fase de la desescalada (Luís Cano) https://www.abc.es/sociedad/abci-coronavirus-provincias-mejor-y-peor-llegan-para-pasar-siguiente-fase-desescalada-202005051948_noticia.html
+* El País: Residencias, UCI y aglomeración: los puntos débiles de cada provincia para enfrentar al virus en la nueva fase Borja Andrino, Daniele Grasso, Kiko Llaneras)  https://elpais.com/sociedad/2020-05-10/residencias-uci-y-aglomeracion-los-puntos-debiles-de-cada-provincia-para-enfrentar-al-virus-en-la-nueva-fase.html
+* El País: Lo que inquieta del estudio de prevalencia en España: ¿Un muerto por cada 100 infectados? (Borja Andrino, Daniele Grasso, Kiko Llaneras) https://elpais.com/sociedad/2020-05-13/lo-que-inquieta-del-estudio-de-prevalencia-en-espana-un-muerto-por-cada-100-infectados.html 
+* El País: El mapa del riesgo de rebrote en España: consulta la situación de tu provincia (Borja Andrino, Daniele Grasso, Kiko Llaneras, Luís Sevillano, Ignacio Povedano, Fernando Hernández) https://elpais.com/especiales/2020/coronavirus-covid-19/fases-desescalada/riesgo-de-rebrotes/
 
 ### Artículos científicos
 
@@ -112,16 +115,20 @@ Mándanos tu análisis o visualización si usas estos datos (covid19@montera34.c
 * "Effects of mobility and multi-seeding on the propagation of the COVID-19 in Spain" (pre-print) Mattia Mazzoli, David Mateo, Alberto Hernando, Sandro Meloni y Jose Javier Ramasco https://www.medrxiv.org/content/10.1101/2020.05.09.20096339v2
 * "Regional correlations of COVID-19 in Spain" (pre-print) por Daniel Oto-Peralías https://osf.io/tjdgw/download
 
-## Fuentes de información
+## Fuentes de información y estado de la base de datos
 
 Puedes ver el análisis sobre las fuentes de información en este informe https://lab.montera34.com/covid19-r/reports/informe-escovid19data.html
 
 Se han usado varias fuentes, la mayoría oficiales, algunas periodísicas, que se indican en cada una de los datos por día y provincia en la columna "source".
-Puedes leer más información sobre cada [una de las fuentes en este documento](https://docs.google.com/document/d/12wkE0w1kdBHdwkj6AhPc0VnSQHgP_zz5rcVTyqng5y8/edit#)
+Puedes leer más información sobre cada [una de las fuentes en este documento](https://docs.google.com/document/d/12wkE0w1kdBHdwkj6AhPc0VnSQHgP_zz5rcVTyqng5y8/edit#).
+
+También puedes encontrar (y contribuir) información actualizada en [la wiki  de este repositorio](https://github.com/montera34/escovid19data/wiki).
+
+A continuación puedes encotnrar información sobre las fuentes de cada comunidad autónoma.
 
 ### Comunidades uniprovinciales: Asturias, Baleares, Cantabria, Madrid, Murcia, Navara y La Rioja (Ceuta y Melilla)
 
-**Actualmente**: Se toma la serie histórica del Instituto de Salud Carlos III (https://covid19.isciii.es/resources/serie_historica_acumulados.csv).
+**Actualmente**: Se toma la serie histórica del Instituto de Salud Carlos III (https://covid19.isciii.es/resources/serie_historica_acumulados.csv). Se usan para algunas comunidades autónomas uniprovinciales los datos de fallecidos previos al 8 de marzo de 2020 [Datadista](https://github.com/datadista/datasets/tree/master/COVID%2019)
 
 **Pasado**: Se usaba al principio los datos de RTVE, luego se sustituyó por los datos de los PDF del Ministerio de Sanidad que recopila Datadista.
 
