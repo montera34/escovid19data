@@ -12,7 +12,18 @@ Puedes ayudar colaborando actiamente en la recopilación de daos o detectando er
 
 ## Los datos / The data
 
+**ES**
+
 Los datos se publican en este CSV: [/data/output/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/blob/master/data/output/covid19-provincias-spain_consolidated.csv)
+
+Incluye el código del INE pra las provincias y datos relativos a 100.000 habitantes.
+Cuando se indica 'NA' es que no hay datos disponibles.
+
+Los datos descarados de las hoja de cálculo son procesados con este [script de R](https://code.montera34.com:4443/numeroteca/covid19/-/blob/master/analysis/process_spain_provinces_data.R) en otro repositorio. 
+
+Los datos originales usados son almacenados en este directorio: [/data/original/spain](https://code.montera34.com/numeroteca/covid19/-/tree/master/data/original/spain). Puedes acceder a datos más desagregados que ls provinicas, por ejemplo a datos por [islas de Canarias](https://code.montera34.com/numeroteca/covid19/-/tree/master/data/original/spain/canarias) o por [área sanitaria en Galicia](https://code.montera34.com/numeroteca/covid19/-/tree/master/data/original/spain/galicia).
+
+**EN**
 
 Data are published in this CSV file: [/data/output/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/blob/master/data/output/covid19-provincias-spain_consolidated.csv)
 
