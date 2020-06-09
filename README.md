@@ -130,18 +130,22 @@ Mándanos tu análisis o visualización si usas estos datos (covid19@montera34.c
 
 ## Fuentes de información y estado de la base de datos
 
-Puedes ver el análisis sobre las fuentes de información en este informe https://lab.montera34.com/covid19-r/reports/informe-escovid19data.html
+Puedes ver el análisis sobre las fuentes de información y el estado de la base de datos [en este informe automatizado](https://lab.montera34.com/covid19-r/reports/informe-escovid19data.html).
 
 Se han usado varias fuentes, la mayoría oficiales, algunas periodísicas, que se indican en cada una de los datos por día y provincia en la columna "source".
 Puedes leer más información sobre cada [una de las fuentes en este documento](https://docs.google.com/document/d/12wkE0w1kdBHdwkj6AhPc0VnSQHgP_zz5rcVTyqng5y8/edit#).
 
-También puedes encontrar (y contribuir) información actualizada en [la wiki  de este repositorio](https://github.com/montera34/escovid19data/wiki).
+También puedes encontrar (y contribuir) información más actualizada en [la wiki  de este repositorio](https://github.com/montera34/escovid19data/wiki).
 
 A continuación puedes encotnrar información sobre las fuentes de cada comunidad autónoma.
 
 ### Comunidades uniprovinciales: Asturias, Baleares, Cantabria, Madrid, Murcia, Navara y La Rioja (Ceuta y Melilla)
 
-**Actualmente**: Se toma la serie histórica del Instituto de Salud Carlos III (https://covid19.isciii.es/resources/serie_historica_acumulados.csv). Se usan para algunas comunidades autónomas uniprovinciales los datos de fallecidos previos al 8 de marzo de 2020 [Datadista](https://github.com/datadista/datasets/tree/master/COVID%2019)
+**Actualmente**:
+
+* Desde el 21 de mayo, que el ISCIII ha dejado de publicar se usan los datos publicados por las comunidades autónomas que recopila Daniele Grasp [eneste repositorio](https://gitlab.com/elpais/datos/-/blob/master/20_Covid-19/covid-provincias/data_uniprovs.csv).
+* Se tomaba la serie histórica del Instituto de Salud Carlos III (https://covid19.isciii.es/resources/serie_historica_acumulados.csv) hasta que dejóde publicarse el 20 de mayo de 2020. 
+* Se usan para algunas comunidades autónomas los datos de fallecidos previos al 8 de marzo de 2020 [Datadista](https://github.com/datadista/datasets/tree/master/COVID%2019)
 
 **Pasado**: Se usaba al principio los datos de RTVE, luego se sustituyó por los datos de los PDF del Ministerio de Sanidad que recopila Datadista.
 
@@ -155,7 +159,9 @@ Fuente de datos (2020.04.28): Junta de Andalucía 100%.
 
 ### Aragón
 
-**Actualmente**: Se utilizan las notas de prensa publicadas en Aragonhoy.net (Gobierno de Aragón): [ejemplo de nota de prensa de 28.04.2020](http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1379/id.259392). Lo datos se vuelcan en la pestaña común ["provincias" de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=0). **Pasado**: Para los primeros días se usaron los datos que ofrecía RTVE en la [visualización hecha con Flourish](https://public.flourish.studio/visualisation/1451263/) y algunos periódicos.
+**Actualmente**: Se utilizan las notas de prensa publicadas en Aragonhoy.net (Gobierno de Aragón): [ejemplo de nota de prensa de 28.04.2020](http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1379/id.259392). Lo datos se vuelcan en la pestaña común ["provincias" de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=0). 
+
+**Pasado**: Para los primeros días se usaron los datos que ofrecía RTVE en la [visualización hecha con Flourish](https://public.flourish.studio/visualisation/1451263/) y algunos periódicos.
 
 Fuente de datos (2020.04.28): Gobierno de Aragón 66%, RTVE 21%, G. de Aragón y RTVE 8%, Prensa 5%.
 
@@ -173,7 +179,9 @@ Fuente de datos (2020.04.28): Gobierno de Castilla-La Mancha 73%, RTVE 27%.
 
 ### Castilla y León
 
-**Actualmente**: Se copia pegan datos de [la página de datos abiertos](https://analisis.datosabiertos.jcyl.es/pages/coronavirus/) de la Junta de Castilla y León en la pestaña común ["provincias" de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=0) por provincia.
+**Actualmente**: Se descargan automáticamente tres archivos diferentes ([1](https://analisis.datosabiertos.jcyl.es/explore/dataset/situacion-epidemiologica-coronavirus-en-castilla-y-leon/download/?format=csv&timezone=Europe/Madrid&lang=en&use_labels_for_header=true&csv_separator=%3B),[2](https://analisis.datosabiertos.jcyl.es/explore/dataset/situacion-de-hospitalizados-por-coronavirus-en-castilla-y-leon/download/?format=csv&timezone=Europe/Madrid&lang=en&use_labels_for_header=true&csv_separator=%3B) y [3](https://analisis.datosabiertos.jcyl.es/explore/dataset/pruebas-realizados-coronavirus/download/?format=csv&timezone=Europe/Madrid&lang=en&use_labels_for_header=true&csv_separator=%3B)) y se integran en la base de datos.
+
+**Pasado**: Se copia pegan datos de [la página de datos abiertos](https://analisis.datosabiertos.jcyl.es/pages/coronavirus/) de la Junta de Castilla y León en la pestaña común ["provincias" de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=0) por provincia.
 
 Fuente de datos (2020.04.28): Junta de Castilla y León: 87%, RTVE 13%.
 
@@ -186,7 +194,7 @@ Fuente de datos (2020.04.28): Junta de Castilla y León: 87%, RTVE 13%.
 Fuente de datos (2020.05.05):  Transparencia de Catalunya 100% 
 
 * para los **fallecidos** se ha volcado manualmente el contenido del [dashboard de Salut de la Generalitat](https://app.powerbi.com/view?r=eyJrIjoiZTkyNTcwNjgtNTQ4Yi00ZTg0LTk1OTctNzM3ZGEzNWE4OTIxIiwidCI6IjNiOTQyN2RjLWQzMGUtNDNiYy04YzA2LWZmNzI1MzY3NmZlYyIsImMiOjh9) en la [pestaña cat_ de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=841105696) que está disponible en [este CSV](https://code.montera34.com:4443/numeroteca/covid19/-/blob/master/data/original/spain/catalunya/powerbi.csv). Se actualiza cada dos o tres días.
-La pega es que los datos de fallebmimientos, al ser por región sanitaria no coinciden del todo con los límites geográficos de las provincia (ver siguiente tabla):
+La pega es que los datos de fallecimientos, al ser por región sanitaria no coinciden del todo con los límites geográficos de las provincia (ver siguiente tabla):
 
 | PUEBLO /ZONA           | COMARCA REAL      | PROVÍNCIA REAL | RS ASIGNADA       | PROVINCIA RS |
 |------------------------|-------------------|----------------|-------------------|--------------|
@@ -199,6 +207,8 @@ La pega es que los datos de fallebmimientos, al ser por región sanitaria no coi
 | Cunit                  | Baix Penedes      | Tarragona      | Barcelona Sud     | Barcelona    |
 | Gósol                  | Berguedà          | Lleida         | Catalunya Central | Barcelona    |
 | Solsonés               | Solsonés          | Lleida         | Catalunya Central | Barcelona    |
+
+Este sistema ha dejado de funcionar ya que el dashboard de Salut de la Generalitat ha dejado de diferenciar entre sospechosos y positivos y se ha pasado a recopilar de los PDF diarios.
 
 Fuente de datos (2020.05.05):  Salut de Catalunya 100% 
 
@@ -220,20 +230,20 @@ Fuente de datos (2020.04.28): Junta de Extremadura 81%, Prensa 10%, Falta Fuente
 
 ### Galicia
 
-**Actualmente**: se recopila de prensa. Por completar.
+**Actualmente**: los datos históricos provienen de la prensa. Los de Ourense provienen de fuentes oficiales que [recopila @lipido en un repositorio y los del resto de provincias](https://github.com/lipido/galicia-covid19) también desde el 2020.06.04.
 
-Fuente de datos (2020.04.28):  Prensa 38%, galiciancovid19.info 34%, RTVE 25%, Falta Fuente 3%
+Fuente de datos (2020.04.28): Prensa 38%, galiciancovid19.info 34%, RTVE 25%, Falta Fuente 3%
 
 ### País Vasco- Euskadi
 
-**Actualmente**: se recopila de las notas de prensa publiadas en Irekia, la página de datos abiertos del Gobierno Vasco: [ejemplo de nota de prensa de 29.04.2020](https://www.irekia.euskadi.eus/es/news/61544-actualizacion-datos-covid-euskadig). Los datos se vuelcan en la pestaña común ["provincias" de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=0) por provincia.
+**Actualmente**: se recopila de las notas de prensa publiadas en Irekia, la página de datos abiertos del Gobierno Vasco: [ejemplo de nota de prensa de 29.04.2020](https://www.irekia.euskadi.eus/es/news/61544-actualizacion-datos-covid-euskadig). Los datos se vuelcan en la pestaña común ["provincias" de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=0) por provincia. De forma automatizada se capturan y procesan los datos de hospitalización y UCI de [Open Data Euskadi](https://opendata.euskadi.eus/catalogo/-/evolucion-del-coronavirus-covid-19-en-euskadi/).
 
-Fuente de datos (2020.04.28):  Osakidetza 61%, Gobierno de Euskadi 28%, RTVE 9%, Irekia 2%
+Fuente de datos (2020.04.28): Osakidetza 61%, Gobierno de Euskadi 28%, RTVE 9%, Irekia 2%
 
 ## Cómo funciona el proceso de obtención y publicación de los datos
 
 Cada madrina, reponsable de conseguir los datos, de una comunidad autónoma o provincia sube los datos a una hoja de cálculo común.
-Los datos se descargan en este CSV: `data/original/covid19_spain_provincias.csv` para ser procesador con el [R script](https://code.montera34.com:4443/numeroteca/covid19/-/blob/master/analysis/process_spain_provinces_data.R) y se genera el CSV listo para usarse [/data/output/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/-/blob/master/data/output//covid19-provincias-spain_consolidated.csv).
+Los datos se descargan en este CSV: `data/original/covid19_spain_provincias.csv` para ser procesador con el [script de R](https://code.montera34.com:4443/numeroteca/covid19/-/blob/master/analysis/process_spain_provinces_data.R) y se genera el CSV listo para usarse [/data/output/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/-/blob/master/data/output/covid19-provincias-spain_consolidated.csv). También puedes descargar los datos en formato .xls
 
 No todos los datos están disponibles en la hoja de cálculo compartida, como se indica en algunas comunidades se obtiene directamente de la fuente.
 
