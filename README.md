@@ -226,7 +226,7 @@ Fuente de datos (2020.04.28): Junta de Extremadura 81%, Prensa 10%, Falta Fuente
 
 ### Galicia
 
-**Actualmente**: El Área Sanitaria de Ourense, Verín e O Barco de Valdeorras ofrece datos de todas las áreas de Galicia, que [recopila @lipido en un repositorio] (https://github.com/lipido/galicia-covid19) desde el 2020.06.04.
+**Actualmente**: El Área Sanitaria de Ourense, Verín e O Barco de Valdeorras ofrece datos de todas las áreas de Galicia, [que recopila @lipido en un repositorio] (https://github.com/lipido/galicia-covid19) desde el 2020.06.04.
 
 **Histórico**:
 * Provincia de Ourense: todos los datos históricos están recogidos en el mismo repositorio citado, https://github.com/lipido/galicia-covid19
