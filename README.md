@@ -36,37 +36,43 @@ Downloaded data from the working spreadsheet are processed with this [R script](
 
 Original data:
 
-* `date` Day in yyyy-mm-dd format
-* `province` Province
-* `ine_code` INE code fro the province
-* `ccaa` Comunidad autónoma (region)
-* `new_cases` Number of new COVID-19 cases as reported in oficial data
-* `activos` Active COVID-19 cases
-* `hospitalized` Hospitalized (cumulative). [Ver wiki](https://github.com/montera34/escovid19data/wiki#hospitalizados)
-* `intensive_care` UCI (intensive care patiens) (cumulative)
+* `date` Día en formato aaaa-mm-dd | Day in yyyy-mm-dd format
+* `province` Provincia | Province
+* `ine_code` Código de provinci del INE | INE code fro the province
+* `ccaa` Comunidad autónoma | Region 
+* `new_cases` Número de nuevos casos COVID-19 detectados | Number of new COVID-19 cases 
+* `PCR` Número de nuevos casos detectados COVID-19 por PCR | Number of new COVID-19 cases detected with PCR
+* `TestAc` Número de nuevos casos detectados COVID-19 por test de anticuerpos | Number of new COVID-19 cases detected with Ac
+* `activos` Casos de COVID-19 activos | Active COVID-19 cases
+* `hospitalized` Hospitalizados (acumulativvo y no acumulativo) | Hospitalized.  [Ver | View wiki](https://github.com/montera34/escovid19data/wiki#hospitalizados)
+* `intensive_care` Pacientes en UCI | UCI (intensive care patiens)
 * `deceased` Deaths (cumulative)
-* `cases_accumulated` Cases (cumulative)
-* `recovered` Recovered (cumulative)
-* `poblacion` Inhabitants of the province
+* `cases_accumulated` Casos COVID-19 detectados acumulado | Number of new COVID-19 cases (cumulative)
+* `cases_accumulated_PCR` Casos COVID-19 detectados por PCR acumulado | Number of new COVID-19 cases detected with PCR (cumulative)
+* `recovered` Recuperados | Recovered
+* `poblacion` Población de la provincia | Inhabitants of the province
 
-Calculated data:
+Datos calculados a partir de los datos de arriba | Calculated data:
 
-* `daily_cases` Daily cases. Calculated as a difference of cumulative cases reported.
-* `daily_cases_avg7` Average daily cases in the last 7 days (rolling average 7 days) 
-* `cases_per_cienmil` Cumulative cases per 100,000 inhabitants
-* `intensive_care_per_100000` Cumulative cases per 100,000 inhabitants
-* `deceassed_per_100000` Cumulative deaths per 100,000 inhabitants
-* `daily_deaths` Daily deaths. Calculated as a difference of cumulative deaths reported.
-* `daily_deaths_inc` Calculated as the percentage from last day (cumulative)
-* `daily_deaths_avg3` Average daily deaths in the last 3 days (rolling average 3 days) 
-* `daily_deaths_avg6` Average daily deaths in the last 7 days (rolling average 7 days) 
-* `deaths_last_week` Deaths in the last 7 days.
+* `cases_per_cienmil` Casos acumulados por 100.000 habitantes | Cumulative cases per 100,000 inhabitants
+* `intensive_care_per_100000` Casos UCI por 100.000 habitantes | Intensive care per 100,000 inhabitants
+* `hospitalized_per_100000` Hospitalizados por 100.000 habitantes | Intensive care per 100,000 inhabitants [Ver | View wiki](https://github.com/montera34/escovid19data/wiki#hospitalizados)
+* `deceassed_per_100000` Fallecidos acumulados por 1000.000 habitantes | Cumulative deaths per 100,000 inhabitants
+* `cases_14days` Casos detectados en los últimos 14 días | Detected cases in the last 14 days
+* `daily_cases` Caos diarios. Calculado como la diferencia de los casos acumulados | Daily cases. Calculated as a difference of cumulative cases reported.
+* `daily_cases_avg7` Media de casos detectados (ventana de 7 días) | Average daily cases in the last 7 days (rolling average 7 days)
+* `daily_cases_PCR_avg7` Media de casos PCR detectados (ventana de 7 días) | Average daily cases PCR in the last 7 days (rolling average 7 days) 
+* `daily_deaths` Fallecidos diarios | Daily deaths. Calculated as a difference of cumulative deaths reported.
+* `daily_deaths_inc` Porcentaje de nuevos falllecidos respecto de día anterior | Calculated as the percentage from last day
+* `daily_deaths_avg3` Media de fallecidos en los últimos 3 días | Average daily deaths in the last 3 days (rolling average 3 days) 
+* `daily_deaths_avg6` Media de fallecidos en los últimos 7 días | Average daily deaths in the last 7 days (rolling average 7 days) 
+* `deaths_last_week` Fallecidos en los últimos 7 días | Deaths in the last 7 days.
 
-Data sources and comments:
+Fuente de los datos y comentarios | Data sources and comments:
 
-* `source_name` Name of source of information, separated by ;
-* `source` Source of information, separated by ;
-* `comments` Comments of the data
+* `source_name` Nombre de la fuente separados por ; | Name of source of information, separated by ;
+* `source` URL de la fuente separado por ; | Source URL of information, separated by ;
+* `comments` COmentario sobre los datos | Comments of the data
 
 Structure of CSV:
 
