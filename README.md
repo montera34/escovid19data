@@ -74,16 +74,6 @@ Fuente de los datos y comentarios | Data sources and comments:
 * `source` URL de la fuente separado por ; | Source URL of information, separated by ;
 * `comments` COmentario sobre los datos | Comments of the data
 
-Structure of CSV:
-
-| "date"       | "province"          | "ine\_code" | "ccaa"                 | "new\_cases" | "activos" | "hospitalized" | "intensive\_care" | "deceased" | "cases\_accumulated" | "recovered" | "poblacion" | "cases\_per\_cienmil" | "intensive\_care\_per\_100000" | "deceassed\_per\_100000" | "daily\_deaths" | "daily\_deaths\_inc" | "daily\_deaths\_avg3" | "daily\_deaths\_avg6" | "source"                                                            | "comments" |
-|--------------|---------------------|-------------|------------------------|--------------|-----------|----------------|-------------------|------------|----------------------|-------------|-------------|-----------------------|---------------------------------|--------------------------|-----------------|----------------------|-----------------------|-----------------------|---------------------------------------------------------------------|------------|
-| 2020\-03\-27 | "Badajoz"           | 6           | "Extremadura"          | 61           | 352       | 91             | 18                | 10         | 390                  | 27          | 673559      | 57\.9                 | 2\.67                           | 1\.48                    | 2               | 25                   | 2\.3                  | 1\.5                  | "http://www\.juntaex\.es/comunicac\.\.\."                           | ""         |
-| 2020\-03\-27 | "Burgos"            | 9           | "Castilla y León"      | 74           | NA        | 243            | 49                | 39         | 604                  | 95          | 356958      | 169\.21               | 13\.73                          | 10\.93                   | 7               | 21\.9                | 5                     | 4\.2                  | "https://analisis\.datosabiertos\.jcyl\.es/pag\.\.\."               | ""         |
-| 2020\-03\-27 | "Valencia/València" | 46          | "Comunitat Valenciana" | 239          | NA        | 840            | 140               | 88         | 2027                 | NA          | 2565124     | 79\.02                | 5\.46                           | 3\.43                    | 16              | 22\.2                | 14                    | 12\.2                 | "http://www\.san\.gva\.es/comunica\.\.\.pdf\)"                      | ""         |
-| 2020\-03\-28 | "Almería"           | 4           | "Andalucía"            | NA           | 173       | 72             | NA                | 10         | 173                  | NA          | 716820      | 24\.13                | NA                              | 1\.4                     | 2               | 25                   | 1\.7                  | 1\.5                  | "https://www\.juntadeandalucia\.es/organismos/salu\.\.\.3791\.html" | ""         |
-
-                                                                                               | 
 ### Población por provincias (2019)
 
 Población por provincias del INE:  https://www.ine.es/jaxiT3/Datos.htm?t=2852#!tabs-tabla
