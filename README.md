@@ -226,9 +226,15 @@ Fuente de datos (2020.04.28): Junta de Extremadura 81%, Prensa 10%, Falta Fuente
 
 ### Galicia
 
-**Actualmente**: los datos históricos provienen de la prensa. Los de Ourense provienen de fuentes oficiales que [recopila @lipido en un repositorio y los del resto de provincias](https://github.com/lipido/galicia-covid19) también desde el 2020.06.04.
+**Actualmente**: El Área Sanitaria de Ourense, Verín e O Barco de Valdeorras ofrece datos de todas las áreas de Galicia, [que recopila @lipido en un repositorio] (https://github.com/lipido/galicia-covid19) desde el 2020.06.04.
 
-Fuente de datos (2020.04.28): Prensa 38%, galiciancovid19.info 34%, RTVE 25%, Falta Fuente 3%
+**Histórico**:
+* Provincia de Ourense: todos los datos históricos están recogidos en el mismo repositorio citado, https://github.com/lipido/galicia-covid19
+* Provincias de A Coruña, Lugo y Pontevedra, **hasta 2020.06.03**: los datos de casos activos por área sanitaria proceden de las notas de prensa publicadas directamente por el SERGAS (en muchos casos, recopilados por Galiciancovid19). Todos los demás datos provienen de partes y comunicaciones transmitidas por cada área del SERGAS a diferentes medios. Estos medios publican los datos en forma de noticias, que han sido recopiladas y analizadas manualmente.
+
+Fuente de datos:
+* Desde 2020.06.04: Área Sanitaria de Ourense, Verín e O Barco de Valdeorras
+* Hasta 2020.06.03: galiciancovid19.info (33,4%), galiciapress.es (12,0%), Área Sanitaria de Ourense, Verín e O Barco de Valdeorras (10,3%), lavozdegalicia.es (9,1%), SERGAS (7,8%), laopinioncoruna.es (4,8%), elprogreso.es (3,5%), farodevigo.es (2,9%), 20minutos.es (2,3%), vigoe.es (1,8%), diariodeferrol.com (1,3%), lavanguardia.com (1,2%), europapress.es (1,2%), cope.es (1,1%), elidealgallego.com (0,9%), diariodepontevedra.es (0,8%), metropolitano.gal (0,8%), galiciaartabradigital.com (0,7%), diariodearousa.com (0,7%), atlantico.net (0,7%), elcorreogallego.es (0,5%), laregion.es (0,4%), elespanol.com (0,4%), vigoalminuto.com (0,4%), cadenaser.com (0,2%), redaccionmedica.com (0,1%), gcdiario.com (0,1%), moncloa.com (0,1%), abc.es (0,1%), telemarinas.com (0,1%) 
 
 ### País Vasco- Euskadi
 
