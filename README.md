@@ -59,7 +59,7 @@ Datos calculados a partir de los datos de arriba | Calculated data:
 * `hospitalized_per_100000` Hospitalizados por 100.000 habitantes | Intensive care per 100,000 inhabitants [Ver | View wiki](https://github.com/montera34/escovid19data/wiki#hospitalizados)
 * `deceassed_per_100000` Fallecidos acumulados por 1000.000 habitantes | Cumulative deaths per 100,000 inhabitants
 * `cases_14days` Casos detectados en los últimos 14 días | Detected cases in the last 14 days
-* `daily_cases` Caos diarios. Calculado como la diferencia de los casos acumulados | Daily cases. Calculated as a difference of cumulative cases reported.
+* `daily_cases` Casos diarios. Calculado como la diferencia de los casos acumulados | Daily cases. Calculated as a difference of cumulative cases reported.
 * `daily_cases_avg7` Media de casos detectados (ventana de 7 días) | Average daily cases in the last 7 days (rolling average 7 days)
 * `daily_cases_PCR_avg7` Media de casos PCR detectados (ventana de 7 días) | Average daily cases PCR in the last 7 days (rolling average 7 days) 
 * `daily_deaths` Fallecidos diarios | Daily deaths. Calculated as a difference of cumulative deaths reported.
