@@ -34,7 +34,7 @@ Downloaded data from the working spreadsheet are processed with this [R script](
 
 ### Variables
 
-Original data:
+Datos originales | Original data:
 
 * `date` Día en formato aaaa-mm-dd | Day in yyyy-mm-dd format
 * `province` Provincia | Province
@@ -51,6 +51,14 @@ Original data:
 * `cases_accumulated_PCR` Casos COVID-19 detectados por PCR acumulado | Number of new COVID-19 cases detected with PCR (cumulative)
 * `recovered` Recuperados | Recovered
 * `poblacion` Población de la provincia | Inhabitants of the province
+
+Datos de ISCIII: la fecha de inicio de síntomas o, en su defecto, la fecha de diagnóstico menos 6 días (con prefijo `num_`) (fuente: https://cnecovid.isciii.es/covid19/resources/datos_provincias.csv),
+
+* `num_casos` el número de casos totales, confirmados o probables
+* `num_casos_prueba_pcr` el número de casos con prueba de laboratorio PCR o técnicas moleculares
+* `num_casos_prueba_test_ac` el número de casos con prueba de laboratorio de test rápido de anticuerpos
+* `num_casos_prueba_otras` el número de casos con otras pruebas de laboratorio, mayoritariamente por detección de antígeno o técnica Elisa
+* `num_casos_prueba_desconocida` el número de casos sin información sobre la prueba de laboratorio
 
 Datos calculados a partir de los datos de arriba | Calculated data:
 
