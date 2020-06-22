@@ -125,12 +125,14 @@ Mándanos tu análisis o visualización si usas estos datos (covid19@montera34.c
 * El País: Lo que inquieta del estudio de prevalencia en España: ¿Un muerto por cada 100 infectados? (Borja Andrino, Daniele Grasso, Kiko Llaneras) https://elpais.com/sociedad/2020-05-13/lo-que-inquieta-del-estudio-de-prevalencia-en-espana-un-muerto-por-cada-100-infectados.html 
 * El País: El mapa del riesgo de rebrote en España: consulta la situación de tu provincia (Borja Andrino, Daniele Grasso, Kiko Llaneras, Luís Sevillano, Ignacio Povedano, Fernando Hernández) https://elpais.com/especiales/2020/coronavirus-covid-19/fases-desescalada/riesgo-de-rebrotes/
 * El País: Asteriscos, incoherencias y opacidad: 15 problemas de Sanidad con la gestión de datos del coronavirus  (Borja Andrino, Daniele Grasso, Kiko Llaneras) https://elpais.com/sociedad/2020-05-26/asteriscos-incoherencias-y-opacidad-15-problemas-del-ministerio-con-la-gestion-de-datos-del-coronavirus.html
+* El País: EsCovid19data: los voluntarios que llevan tres meses poniendo orden en los datos de la pandemia (Montse Hidalgo Pérez) https://elpais.com/tecnologia/2020-06-08/escovid19data-los-voluntarios-que-llevan-tres-meses-poniendo-orden-en-los-datos-de-la-pandemia.html
 
 ### Artículos científicos
 
 * Briz-Redón, Á., & Serrano-Aroca, Á. (2020). A spatio-temporal analysis for exploring the effect of temperature on COVID-19 early evolution in Spain. Science of The Total Environment, 138811. https://www.sciencedirect.com/science/article/pii/S0048969720323287
-* "Effects of mobility and multi-seeding on the propagation of the COVID-19 in Spain" (pre-print) Mattia Mazzoli, David Mateo, Alberto Hernando, Sandro Meloni y Jose Javier Ramasco https://www.medrxiv.org/content/10.1101/2020.05.09.20096339v2
+* "Effects of mobility and multi-seeding on the propagation of the COVID-19 in Spain" (pre-print) Mattia Mazzoli, David Mateo, Alberto Hernando, Sandro Meloni y Jose Javier Ramasco. https://www.medrxiv.org/content/10.1101/2020.05.09.20096339v2
 * "Regional correlations of COVID-19 in Spain" (pre-print) por Daniel Oto-Peralías https://osf.io/tjdgw/download
+* Paez, A., Lopez, F. A., Menezes, T., Cavalcanti, R., & Pitta, M. G. D. R. A Spatio‐Temporal Analysis of the Environmental Correlates of COVID‐19 Incidence in Spain. Geographical Analysis. https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12241. Los datos finalmente usados, recopilando diferentes bases de datos [pueden verse en este repositorio](https://github.com/paezha/covid19-environmental-correlates).
 
 ## Fuentes de información y estado de la base de datos
 
