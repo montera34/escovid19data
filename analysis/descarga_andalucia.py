@@ -154,7 +154,7 @@ def main():
         df.loc[i] = [date_report, provincia,numbers[j],numbers[j+1]]
         i += 1
         j += 2
-    execept:
+    except:
       print ('file not match',fn)
   print('Escribiendo', csvfn)
   df.to_csv(csvfn, index=False)   
