@@ -7,10 +7,19 @@ basado en https://github.com/alfonsotwr/snippets/tree/master/covidia-cam
 """
 import os
 import re
+import time
 import os.path as pth
 import pandas as pd
 from glob import glob
 import requests
+
+def expand (url):
+   print (url)
+   session = requests.Session()  # so connections are recycled
+   resp = session.head(url, allow_redirects=True,timeout=30,verify=False)
+   print(resp.url)
+   return resp.url
+
 
 def descarga(url, fn, isbinary=False, isascii=False, 
              prevpage=None):
@@ -44,7 +53,7 @@ def descarga(url, fn, isbinary=False, isascii=False,
     return ret
 
 def main():
-  first_report='2ae8o'  #primer informe con datos por provincia
+  first_report='https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/235036.html'  #primer informe con datos por provincia
   url_web='http://www.juntadeandalucia.es/organismos/saludyfamilias/areas/salud-vida/paginas/Nuevo_Coronavirus.html'
   url_base_report= 'http://lajunta.es/'
   url_historico= url_base_report+'28rbf'
@@ -58,30 +67,40 @@ def main():
  
   fn='index_links.html'
   descarga(url_web, fn, isbinary=True) 
+  time.sleep(2)
   with open(fn, encoding='utf-8') as fp:
     web_page = fp.read()
   fp.close()
 
   #Descargamos informes más recientes
-  list_last_report=re.findall (r"http:\/\/lajunta.es\/([(0-9a-z]+)", web_page)   
+  list_last_report=re.findall (r"(http:\/\/lajunta.es\/[0-9a-z]+)", web_page)   
   #solo son significativos de 1 a 9 primeros valores
   for i in range (1,9):
-    url_report= url_base_report+list_last_report[i]
-    fn=list_last_report[i]+'.html'
+    url_report= expand (list_last_report[i])
+    time.sleep(1)
+    fn=pth.basename(url_report)
+    print (fn)
     descarga(url_report, fn, isbinary=True)
-    
+    time.sleep(1)
   #Descargamos histórico de informes  
   fn='historico_links.html'
   descarga(url_historico, fn, isbinary=True) 
+  time.sleep(1)
   with open(fn, encoding='utf-8') as fp:
      historico_index = fp.read()
   fp.close()
-  list_historico_report=re.findall (r"http:\/\/lajunta.es\/([(0-9a-z]+)",  historico_index)
-  for report in list_historico_report:
-    url_report= url_base_report+report
-    fn=report+'.html'
+  list_historico_report_sorten=re.findall (r"(http:\/\/lajunta.es\/[0-9a-z]+[.html]*)",  historico_index)
+  list_historico_report_expand=re.findall (r"(https://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/[\w]+\.html)",  historico_index)
+  for url_shorten in list_historico_report_sorten:
+    list_historico_report_expand.append(expand (url_shorten))
+    time.sleep(1)
+  for url_report in list_historico_report_expand:
+    fn=pth.basename(url_report)
     descarga(url_report, fn, isbinary=True)
-    if report == first_report:
+    time.sleep(1)
+    print (url_report)
+    if url_report == first_report:
+      print ('encontrado perimer informe')
       break
   
   #borramos index_links.html y historico_links.html
@@ -110,6 +129,35 @@ def main():
   print('Escribiendo', csvfn)
   df.to_csv(csvfn, index=False)   
 
+  #borramos index_links.html y historico_links.html
+  time.sleep(2)
+  os.remove('index_links.html')
+  os.remove('historico_links.html')
+  #Extraemos los datos de los informes 
+  i=0
+  for fn in sorted(glob('*.html')):
+    print ("obteniendo información de",fn)
+    with open(fn, encoding='utf-8') as fp:
+      text = fp.read()
+    try:
+      info_date=re.search(r'\d\d/\d\d/\d\d\d\d',text)
+      date_report=info_date.group(0)
+      info= re.search(r'Por provincias[\w\d\s\(\)\/<>,\.:\\]+',text)
+      info_ok = info.group(0).replace("ninguno", "0")
+      info_ok = info_ok.replace("ninguna hospitalización", "0 0")
+      info_ok = info_ok.replace("sin hospitalizaciones", "0 0")
+      numbers=re.findall (r"\d+", info_ok) 
+      provincias =['Almería', 'Cádiz','Córdoba','Granada', 'Huelva',
+                   'Jaén','Malaga','Sevilla' ]  
+      j=0
+      for provincia in provincias:
+        df.loc[i] = [date_report, provincia,numbers[j],numbers[j+1]]
+        i += 1
+        j += 2
+    execept:
+      print ('file not match',fn)
+  print('Escribiendo', csvfn)
+  df.to_csv(csvfn, index=False)   
 
   
  
