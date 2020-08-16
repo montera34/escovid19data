@@ -90,8 +90,6 @@ def main():
   i=0
   for fn in glob('*.html'):
     print ("obteniendo información de",fn)
-    url = 'http://www.juntadeandalucia.es/organismos/saludyfamilias/actualidad/noticias/detalle/241505.html'
-    descarga(url, fn, isbinary=True)
     with open(fn, encoding='utf-8') as fp:
       text = fp.read()
     info_date=re.search(r'\d\d/\d\d/\d\d\d\d',text)
