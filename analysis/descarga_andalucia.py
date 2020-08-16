@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Aug 14 18:19:33 2020
-
 @author: congosto
 basado en https://github.com/alfonsotwr/snippets/tree/master/covidia-cam
 """
@@ -104,32 +103,6 @@ def main():
       break
   
   #borramos index_links.html y historico_links.html
-  os.remove('index_links.html')
-  os.remove('historico_links.html')
-  #Extraemos los datos de los informes 
-  i=0
-  for fn in glob('*.html'):
-    print ("obteniendo información de",fn)
-    with open(fn, encoding='utf-8') as fp:
-      text = fp.read()
-    info_date=re.search(r'\d\d/\d\d/\d\d\d\d',text)
-    date_report=info_date.group(0)
-    info= re.search(r'Por provincias[\w\d\s\(\)\/<>,\.:\\]+',text)
-    info_ok = info.group(0).replace("ninguno", "0")
-    info_ok = info_ok.replace("ninguna hospitalización", "0 0")
-    info_ok = info_ok.replace("sin hospitalizaciones", "0 0")
-    numbers=re.findall (r"\d+", info_ok) 
-    provincias =['Almería', 'Cádiz','Córdoba','Granada', 'Huelva',
-                 'Jaén','Malaga','Sevilla' ]  
-    j=0
-    for provincia in provincias:
-      df.loc[i] = [date_report, provincia,numbers[j],numbers[j+1]]
-      i += 1
-      j += 2
-  print('Escribiendo', csvfn)
-  df.to_csv(csvfn, index=False)   
-
-  #borramos index_links.html y historico_links.html
   time.sleep(2)
   os.remove('index_links.html')
   os.remove('historico_links.html')
@@ -158,9 +131,3 @@ def main():
       print ('file not match',fn)
   print('Escribiendo', csvfn)
   df.to_csv(csvfn, index=False)   
-
-  
- 
-
-if __name__ == '__main__':
-    main()
