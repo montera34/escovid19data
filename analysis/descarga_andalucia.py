@@ -3,6 +3,7 @@
 Created on Fri Aug 14 18:19:33 2020
 
 @author: congosto
+basado en https://github.com/alfonsotwr/snippets/tree/master/covidia-cam
 """
 import os
 import re
