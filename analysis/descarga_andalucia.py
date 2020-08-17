@@ -130,6 +130,7 @@ def main():
     except:
       print ('file not match',fn)
   print('Escribiendo', csvfn)
+  df.to_csv(csvfn, index=False)   
   
    
 if __name__ == '__main__':
