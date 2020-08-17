@@ -5,7 +5,7 @@ Fecha report,provincia,Hospitalizados,UCI
 25/04/2020,Granada,202,38
 25/04/2020,Huelva,29,12
 25/04/2020,Jaén,84,20
-25/04/2020,Malaga,164,35
+25/04/2020,Málaga,164,35
 25/04/2020,Sevilla,168,41
 26/04/2020,Almería,34,12
 26/04/2020,Cádiz,108,24
@@ -13,7 +13,7 @@ Fecha report,provincia,Hospitalizados,UCI
 26/04/2020,Granada,191,38
 26/04/2020,Huelva,25,9
 26/04/2020,Jaén,80,19
-26/04/2020,Malaga,146,34
+26/04/2020,Málaga,146,34
 26/04/2020,Sevilla,155,38
 27/04/2020,Almería,33,10
 27/04/2020,Cádiz,110,23
@@ -21,7 +21,7 @@ Fecha report,provincia,Hospitalizados,UCI
 27/04/2020,Granada,196,36
 27/04/2020,Huelva,26,9
 27/04/2020,Jaén,86,20
-27/04/2020,Malaga,145,33
+27/04/2020,Málaga,145,33
 27/04/2020,Sevilla,159,38
 28/04/2020,Almería,32,10
 28/04/2020,Cádiz,113,23
@@ -29,7 +29,7 @@ Fecha report,provincia,Hospitalizados,UCI
 28/04/2020,Granada,192,34
 28/04/2020,Huelva,31,9
 28/04/2020,Jaén,79,20
-28/04/2020,Malaga,145,32
+28/04/2020,Málaga,145,32
 28/04/2020,Sevilla,159,37
 29/04/2020,Almería,34,9
 29/04/2020,Cádiz,105,20
@@ -37,7 +37,7 @@ Fecha report,provincia,Hospitalizados,UCI
 29/04/2020,Granada,174,34
 29/04/2020,Huelva,30,7
 29/04/2020,Jaén,74,20
-29/04/2020,Malaga,129,27
+29/04/2020,Málaga,129,27
 29/04/2020,Sevilla,148,38
 30/04/2020,Almería,33,8
 30/04/2020,Cádiz,108,20
@@ -45,7 +45,7 @@ Fecha report,provincia,Hospitalizados,UCI
 30/04/2020,Granada,158,31
 30/04/2020,Huelva,23,6
 30/04/2020,Jaén,68,20
-30/04/2020,Malaga,123,26
+30/04/2020,Málaga,123,26
 30/04/2020,Sevilla,137,37
 01/05/2020,Almería,28,6
 01/05/2020,Cádiz,106,20
@@ -53,7 +53,7 @@ Fecha report,provincia,Hospitalizados,UCI
 01/05/2020,Granada,149,28
 01/05/2020,Huelva,18,5
 01/05/2020,Jaén,77,19
-01/05/2020,Malaga,119,25
+01/05/2020,Málaga,119,25
 01/05/2020,Sevilla,130,37
 02/05/2020,Almería,26,5
 02/05/2020,Cádiz,105,18
@@ -61,7 +61,7 @@ Fecha report,provincia,Hospitalizados,UCI
 02/05/2020,Granada,124,30
 02/05/2020,Huelva,16,5
 02/05/2020,Jaén,69,16
-02/05/2020,Malaga,117,24
+02/05/2020,Málaga,117,24
 02/05/2020,Sevilla,112,36
 03/05/2020,Almería,27,4
 03/05/2020,Cádiz,98,20
@@ -69,7 +69,7 @@ Fecha report,provincia,Hospitalizados,UCI
 03/05/2020,Granada,123,28
 03/05/2020,Huelva,16,5
 03/05/2020,Jaén,72,17
-03/05/2020,Malaga,112,23
+03/05/2020,Málaga,112,23
 03/05/2020,Sevilla,106,31
 04/05/2020,Almería,25,4
 04/05/2020,Cádiz,88,18
@@ -77,7 +77,7 @@ Fecha report,provincia,Hospitalizados,UCI
 04/05/2020,Granada,125,28
 04/05/2020,Huelva,12,4
 04/05/2020,Jaén,76,16
-04/05/2020,Malaga,111,21
+04/05/2020,Málaga,111,21
 04/05/2020,Sevilla,102,31
 05/05/2020,Almería,25,4
 05/05/2020,Cádiz,85,18
@@ -85,7 +85,7 @@ Fecha report,provincia,Hospitalizados,UCI
 05/05/2020,Granada,125,28
 05/05/2020,Huelva,8,4
 05/05/2020,Jaén,75,16
-05/05/2020,Malaga,109,21
+05/05/2020,Málaga,109,21
 05/05/2020,Sevilla,101,31
 06/05/2020,Almería,24,3
 06/05/2020,Cádiz,92,18
@@ -93,7 +93,7 @@ Fecha report,provincia,Hospitalizados,UCI
 06/05/2020,Granada,119,24
 06/05/2020,Huelva,8,4
 06/05/2020,Jaén,76,15
-06/05/2020,Malaga,97,17
+06/05/2020,Málaga,97,17
 06/05/2020,Sevilla,93,26
 07/05/2020,Almería,24,1
 07/05/2020,Cádiz,83,15
@@ -101,7 +101,7 @@ Fecha report,provincia,Hospitalizados,UCI
 07/05/2020,Granada,115,22
 07/05/2020,Huelva,4,3
 07/05/2020,Jaén,77,14
-07/05/2020,Malaga,86,13
+07/05/2020,Málaga,86,13
 07/05/2020,Sevilla,81,26
 08/05/2020,Almería,25,3
 08/05/2020,Cádiz,76,15
@@ -109,7 +109,7 @@ Fecha report,provincia,Hospitalizados,UCI
 08/05/2020,Granada,103,22
 08/05/2020,Huelva,4,3
 08/05/2020,Jaén,67,14
-08/05/2020,Malaga,84,14
+08/05/2020,Málaga,84,14
 08/05/2020,Sevilla,80,24
 09/05/2020,Almería,19,2
 09/05/2020,Cádiz,68,14
@@ -117,7 +117,7 @@ Fecha report,provincia,Hospitalizados,UCI
 09/05/2020,Granada,100,20
 09/05/2020,Huelva,5,3
 09/05/2020,Jaén,61,13
-09/05/2020,Malaga,84,13
+09/05/2020,Málaga,84,13
 09/05/2020,Sevilla,71,24
 10/05/2020,Almería,20,2
 10/05/2020,Cádiz,58,14
@@ -125,7 +125,7 @@ Fecha report,provincia,Hospitalizados,UCI
 10/05/2020,Granada,82,18
 10/05/2020,Huelva,5,3
 10/05/2020,Jaén,52,12
-10/05/2020,Malaga,80,13
+10/05/2020,Málaga,80,13
 10/05/2020,Sevilla,62,22
 11/05/2020,Almería,21,2
 11/05/2020,Cádiz,60,13
@@ -133,7 +133,7 @@ Fecha report,provincia,Hospitalizados,UCI
 11/05/2020,Granada,88,18
 11/05/2020,Huelva,4,3
 11/05/2020,Jaén,55,13
-11/05/2020,Malaga,76,14
+11/05/2020,Málaga,76,14
 11/05/2020,Sevilla,70,22
 12/05/2020,Almería,22,3
 12/05/2020,Cádiz,57,13
@@ -141,7 +141,7 @@ Fecha report,provincia,Hospitalizados,UCI
 12/05/2020,Granada,87,18
 12/05/2020,Huelva,5,4
 12/05/2020,Jaén,53,12
-12/05/2020,Malaga,71,14
+12/05/2020,Málaga,71,14
 12/05/2020,Sevilla,66,22
 13/05/2020,Almería,20,3
 13/05/2020,Cádiz,48,12
@@ -149,7 +149,7 @@ Fecha report,provincia,Hospitalizados,UCI
 13/05/2020,Granada,77,17
 13/05/2020,Huelva,4,3
 13/05/2020,Jaén,46,10
-13/05/2020,Malaga,63,10
+13/05/2020,Málaga,63,10
 13/05/2020,Sevilla,64,22
 14/05/2020,Almería,21,3
 14/05/2020,Cádiz,50,12
@@ -157,7 +157,7 @@ Fecha report,provincia,Hospitalizados,UCI
 14/05/2020,Granada,69,17
 14/05/2020,Huelva,6,3
 14/05/2020,Jaén,43,9
-14/05/2020,Malaga,64,13
+14/05/2020,Málaga,64,13
 14/05/2020,Sevilla,62,22
 15/05/2020,Almería,19,2
 15/05/2020,Cádiz,37,9
@@ -165,7 +165,7 @@ Fecha report,provincia,Hospitalizados,UCI
 15/05/2020,Granada,62,15
 15/05/2020,Huelva,4,3
 15/05/2020,Jaén,40,9
-15/05/2020,Malaga,60,10
+15/05/2020,Málaga,60,10
 15/05/2020,Sevilla,63,16
 16/05/2020,Almería,17,2
 16/05/2020,Cádiz,30,9
@@ -173,7 +173,7 @@ Fecha report,provincia,Hospitalizados,UCI
 16/05/2020,Granada,58,12
 16/05/2020,Huelva,4,4
 16/05/2020,Jaén,39,8
-16/05/2020,Malaga,56,7
+16/05/2020,Málaga,56,7
 16/05/2020,Sevilla,52,15
 17/05/2020,Almería,18,2
 17/05/2020,Cádiz,29,9
@@ -181,7 +181,7 @@ Fecha report,provincia,Hospitalizados,UCI
 17/05/2020,Granada,56,10
 17/05/2020,Huelva,5,4
 17/05/2020,Jaén,35,8
-17/05/2020,Malaga,59,7
+17/05/2020,Málaga,59,7
 17/05/2020,Sevilla,42,13
 18/05/2020,Almería,17,2
 18/05/2020,Cádiz,27,9
@@ -189,7 +189,7 @@ Fecha report,provincia,Hospitalizados,UCI
 18/05/2020,Granada,52,10
 18/05/2020,Huelva,4,3
 18/05/2020,Jaén,38,8
-18/05/2020,Malaga,57,8
+18/05/2020,Málaga,57,8
 18/05/2020,Sevilla,41,13
 19/05/2020,Almería,18,3
 19/05/2020,Cádiz,24,9
@@ -197,7 +197,7 @@ Fecha report,provincia,Hospitalizados,UCI
 19/05/2020,Granada,51,10
 19/05/2020,Huelva,5,3
 19/05/2020,Jaén,42,9
-19/05/2020,Malaga,58,8
+19/05/2020,Málaga,58,8
 19/05/2020,Sevilla,39,13
 20/05/2020,Almería,14,1
 20/05/2020,Cádiz,20,8
@@ -205,7 +205,7 @@ Fecha report,provincia,Hospitalizados,UCI
 20/05/2020,Granada,42,8
 20/05/2020,Huelva,5,3
 20/05/2020,Jaén,36,9
-20/05/2020,Malaga,69,5
+20/05/2020,Málaga,69,5
 20/05/2020,Sevilla,34,9
 21/05/2020,Almería,13,1
 21/05/2020,Cádiz,23,8
@@ -213,7 +213,7 @@ Fecha report,provincia,Hospitalizados,UCI
 21/05/2020,Granada,42,7
 21/05/2020,Huelva,4,3
 21/05/2020,Jaén,33,9
-21/05/2020,Malaga,56,6
+21/05/2020,Málaga,56,6
 21/05/2020,Sevilla,31,8
 22/05/2020,Almería,13,2
 22/05/2020,Cádiz,24,7
@@ -221,7 +221,7 @@ Fecha report,provincia,Hospitalizados,UCI
 22/05/2020,Granada,37,6
 22/05/2020,Huelva,4,3
 22/05/2020,Jaén,33,10
-22/05/2020,Malaga,45,6
+22/05/2020,Málaga,45,6
 22/05/2020,Sevilla,31,8
 23/05/2020,Almería,12,2
 23/05/2020,Cádiz,25,7
@@ -229,7 +229,7 @@ Fecha report,provincia,Hospitalizados,UCI
 23/05/2020,Granada,35,7
 23/05/2020,Huelva,3,3
 23/05/2020,Jaén,28,9
-23/05/2020,Malaga,39,6
+23/05/2020,Málaga,39,6
 23/05/2020,Sevilla,29,8
 24/05/2020,Almería,15,2
 24/05/2020,Cádiz,27,7
@@ -237,7 +237,7 @@ Fecha report,provincia,Hospitalizados,UCI
 24/05/2020,Granada,33,7
 24/05/2020,Huelva,4,3
 24/05/2020,Jaén,26,9
-24/05/2020,Malaga,30,4
+24/05/2020,Málaga,30,4
 24/05/2020,Sevilla,22,7
 25/05/2020,Almería,15,3
 25/05/2020,Cádiz,22,7
@@ -245,7 +245,7 @@ Fecha report,provincia,Hospitalizados,UCI
 25/05/2020,Granada,37,7
 25/05/2020,Huelva,4,3
 25/05/2020,Jaén,25,8
-25/05/2020,Malaga,33,4
+25/05/2020,Málaga,33,4
 25/05/2020,Sevilla,21,7
 26/05/2020,Almería,15,2
 26/05/2020,Cádiz,19,7
@@ -253,7 +253,7 @@ Fecha report,provincia,Hospitalizados,UCI
 26/05/2020,Granada,37,7
 26/05/2020,Huelva,4,3
 26/05/2020,Jaén,27,9
-26/05/2020,Malaga,29,4
+26/05/2020,Málaga,29,4
 26/05/2020,Sevilla,20,7
 27/05/2020,Almería,13,2
 27/05/2020,Cádiz,22,6
@@ -261,7 +261,7 @@ Fecha report,provincia,Hospitalizados,UCI
 27/05/2020,Granada,37,7
 27/05/2020,Huelva,4,2
 27/05/2020,Jaén,27,8
-27/05/2020,Malaga,26,3
+27/05/2020,Málaga,26,3
 27/05/2020,Sevilla,21,7
 28/05/2020,Almería,11,1
 28/05/2020,Cádiz,23,6
@@ -269,7 +269,7 @@ Fecha report,provincia,Hospitalizados,UCI
 28/05/2020,Granada,30,7
 28/05/2020,Huelva,4,2
 28/05/2020,Jaén,17,7
-28/05/2020,Malaga,23,3
+28/05/2020,Málaga,23,3
 28/05/2020,Sevilla,18,6
 29/05/2020,Almería,11,0
 29/05/2020,Cádiz,21,6
@@ -277,7 +277,7 @@ Fecha report,provincia,Hospitalizados,UCI
 29/05/2020,Granada,27,7
 29/05/2020,Huelva,4,2
 29/05/2020,Jaén,11,4
-29/05/2020,Malaga,22,3
+29/05/2020,Málaga,22,3
 29/05/2020,Sevilla,18,6
 30/05/2020,Almería,11,0
 30/05/2020,Cádiz,23,6
@@ -285,7 +285,7 @@ Fecha report,provincia,Hospitalizados,UCI
 30/05/2020,Granada,27,7
 30/05/2020,Huelva,4,1
 30/05/2020,Jaén,7,2
-30/05/2020,Malaga,22,3
+30/05/2020,Málaga,22,3
 30/05/2020,Sevilla,18,6
 31/05/2020,Almería,10,0
 31/05/2020,Cádiz,10,6
@@ -293,7 +293,7 @@ Fecha report,provincia,Hospitalizados,UCI
 31/05/2020,Granada,22,7
 31/05/2020,Huelva,4,1
 31/05/2020,Jaén,7,3
-31/05/2020,Malaga,17,3
+31/05/2020,Málaga,17,3
 31/05/2020,Sevilla,14,6
 01/06/2020,Almería,11,0
 01/06/2020,Cádiz,9,6
@@ -301,7 +301,7 @@ Fecha report,provincia,Hospitalizados,UCI
 01/06/2020,Granada,21,7
 01/06/2020,Huelva,4,1
 01/06/2020,Jaén,6,2
-01/06/2020,Malaga,17,3
+01/06/2020,Málaga,17,3
 01/06/2020,Sevilla,14,7
 02/06/2020,Almería,11,0
 02/06/2020,Cádiz,9,6
@@ -309,7 +309,7 @@ Fecha report,provincia,Hospitalizados,UCI
 02/06/2020,Granada,22,7
 02/06/2020,Huelva,4,1
 02/06/2020,Jaén,5,2
-02/06/2020,Malaga,17,3
+02/06/2020,Málaga,17,3
 02/06/2020,Sevilla,13,6
 03/06/2020,Almería,10,0
 03/06/2020,Cádiz,8,5
@@ -317,7 +317,7 @@ Fecha report,provincia,Hospitalizados,UCI
 03/06/2020,Granada,23,7
 03/06/2020,Huelva,5,1
 03/06/2020,Jaén,2,1
-03/06/2020,Malaga,20,4
+03/06/2020,Málaga,20,4
 03/06/2020,Sevilla,13,6
 04/06/2020,Almería,12,0
 04/06/2020,Cádiz,7,5
@@ -325,7 +325,7 @@ Fecha report,provincia,Hospitalizados,UCI
 04/06/2020,Granada,20,7
 04/06/2020,Huelva,5,1
 04/06/2020,Jaén,3,1
-04/06/2020,Malaga,17,4
+04/06/2020,Málaga,17,4
 04/06/2020,Sevilla,15,5
 05/06/2020,Almería,12,0
 05/06/2020,Cádiz,8,5
@@ -333,7 +333,7 @@ Fecha report,provincia,Hospitalizados,UCI
 05/06/2020,Granada,17,6
 05/06/2020,Huelva,3,1
 05/06/2020,Jaén,2,1
-05/06/2020,Malaga,17,4
+05/06/2020,Málaga,17,4
 05/06/2020,Sevilla,13,5
 06/06/2020,Almería,9,0
 06/06/2020,Cádiz,8,5
@@ -341,7 +341,7 @@ Fecha report,provincia,Hospitalizados,UCI
 06/06/2020,Granada,17,6
 06/06/2020,Huelva,3,1
 06/06/2020,Jaén,2,1
-06/06/2020,Malaga,18,4
+06/06/2020,Málaga,18,4
 06/06/2020,Sevilla,12,5
 07/06/2020,Almería,8,0
 07/06/2020,Cádiz,8,5
@@ -349,7 +349,7 @@ Fecha report,provincia,Hospitalizados,UCI
 07/06/2020,Granada,16,6
 07/06/2020,Huelva,3,1
 07/06/2020,Jaén,2,1
-07/06/2020,Malaga,19,3
+07/06/2020,Málaga,19,3
 07/06/2020,Sevilla,10,4
 08/06/2020,Almería,8,0
 08/06/2020,Cádiz,7,5
@@ -357,7 +357,7 @@ Fecha report,provincia,Hospitalizados,UCI
 08/06/2020,Granada,15,6
 08/06/2020,Huelva,1,1
 08/06/2020,Jaén,2,1
-08/06/2020,Malaga,19,3
+08/06/2020,Málaga,19,3
 08/06/2020,Sevilla,9,3
 09/06/2020,Almería,8,0
 09/06/2020,Cádiz,7,5
@@ -365,7 +365,7 @@ Fecha report,provincia,Hospitalizados,UCI
 09/06/2020,Granada,16,6
 09/06/2020,Huelva,1,1
 09/06/2020,Jaén,1,1
-09/06/2020,Malaga,18,3
+09/06/2020,Málaga,18,3
 09/06/2020,Sevilla,9,3
 11/06/2020,Almería,7,0
 11/06/2020,Cádiz,7,4
@@ -373,7 +373,7 @@ Fecha report,provincia,Hospitalizados,UCI
 11/06/2020,Granada,14,6
 11/06/2020,Huelva,1,1
 11/06/2020,Jaén,1,1
-11/06/2020,Malaga,16,3
+11/06/2020,Málaga,16,3
 11/06/2020,Sevilla,9,3
 12/06/2020,Almería,8,0
 12/06/2020,Cádiz,8,5
@@ -381,7 +381,7 @@ Fecha report,provincia,Hospitalizados,UCI
 12/06/2020,Granada,10,4
 12/06/2020,Huelva,1,1
 12/06/2020,Jaén,1,1
-12/06/2020,Malaga,17,3
+12/06/2020,Málaga,17,3
 12/06/2020,Sevilla,9,3
 13/06/2020,Almería,6,0
 13/06/2020,Cádiz,7,4
@@ -389,7 +389,7 @@ Fecha report,provincia,Hospitalizados,UCI
 13/06/2020,Granada,10,4
 13/06/2020,Huelva,1,1
 13/06/2020,Jaén,1,1
-13/06/2020,Malaga,15,3
+13/06/2020,Málaga,15,3
 13/06/2020,Sevilla,9,3
 14/06/2020,Almería,4,0
 14/06/2020,Cádiz,7,4
@@ -397,7 +397,7 @@ Fecha report,provincia,Hospitalizados,UCI
 14/06/2020,Granada,10,3
 14/06/2020,Huelva,1,1
 14/06/2020,Jaén,1,1
-14/06/2020,Malaga,12,2
+14/06/2020,Málaga,12,2
 14/06/2020,Sevilla,7,2
 15/06/2020,Almería,4,0
 15/06/2020,Cádiz,7,4
@@ -405,7 +405,7 @@ Fecha report,provincia,Hospitalizados,UCI
 15/06/2020,Granada,10,3
 15/06/2020,Huelva,1,1
 15/06/2020,Jaén,1,1
-15/06/2020,Malaga,12,2
+15/06/2020,Málaga,12,2
 15/06/2020,Sevilla,7,2
 16/06/2020,Almería,4,0
 16/06/2020,Cádiz,7,4
@@ -413,7 +413,7 @@ Fecha report,provincia,Hospitalizados,UCI
 16/06/2020,Granada,10,3
 16/06/2020,Huelva,1,1
 16/06/2020,Jaén,1,1
-16/06/2020,Malaga,12,2
+16/06/2020,Málaga,12,2
 16/06/2020,Sevilla,7,2
 17/06/2020,Almería,4,0
 17/06/2020,Cádiz,7,4
@@ -421,7 +421,7 @@ Fecha report,provincia,Hospitalizados,UCI
 17/06/2020,Granada,10,3
 17/06/2020,Huelva,1,1
 17/06/2020,Jaén,1,1
-17/06/2020,Malaga,12,2
+17/06/2020,Málaga,12,2
 17/06/2020,Sevilla,8,2
 18/06/2020,Almería,4,0
 18/06/2020,Cádiz,9,4
@@ -429,7 +429,7 @@ Fecha report,provincia,Hospitalizados,UCI
 18/06/2020,Granada,10,3
 18/06/2020,Huelva,1,1
 18/06/2020,Jaén,1,1
-18/06/2020,Malaga,11,2
+18/06/2020,Málaga,11,2
 18/06/2020,Sevilla,8,2
 19/06/2020,Almería,4,0
 19/06/2020,Cádiz,8,3
@@ -437,7 +437,7 @@ Fecha report,provincia,Hospitalizados,UCI
 19/06/2020,Granada,9,3
 19/06/2020,Huelva,1,1
 19/06/2020,Jaén,1,1
-19/06/2020,Malaga,9,1
+19/06/2020,Málaga,9,1
 19/06/2020,Sevilla,6,1
 20/06/2020,Almería,3,0
 20/06/2020,Cádiz,10,3
@@ -445,7 +445,7 @@ Fecha report,provincia,Hospitalizados,UCI
 20/06/2020,Granada,8,3
 20/06/2020,Huelva,1,1
 20/06/2020,Jaén,1,1
-20/06/2020,Malaga,10,1
+20/06/2020,Málaga,10,1
 20/06/2020,Sevilla,6,1
 21/06/2020,Almería,4,0
 21/06/2020,Cádiz,9,2
@@ -453,7 +453,7 @@ Fecha report,provincia,Hospitalizados,UCI
 21/06/2020,Granada,8,3
 21/06/2020,Huelva,1,1
 21/06/2020,Jaén,1,1
-21/06/2020,Malaga,11,1
+21/06/2020,Málaga,11,1
 21/06/2020,Sevilla,6,1
 22/06/2020,Almería,4,0
 22/06/2020,Cádiz,7,1
@@ -461,7 +461,7 @@ Fecha report,provincia,Hospitalizados,UCI
 22/06/2020,Granada,9,3
 22/06/2020,Huelva,1,1
 22/06/2020,Jaén,1,1
-22/06/2020,Malaga,11,1
+22/06/2020,Málaga,11,1
 22/06/2020,Sevilla,6,1
 23/06/2020,Almería,4,0
 23/06/2020,Cádiz,7,1
@@ -469,7 +469,7 @@ Fecha report,provincia,Hospitalizados,UCI
 23/06/2020,Granada,11,3
 23/06/2020,Huelva,1,1
 23/06/2020,Jaén,1,1
-23/06/2020,Malaga,11,1
+23/06/2020,Málaga,11,1
 23/06/2020,Sevilla,5,1
 24/06/2020,Almería,3,0
 24/06/2020,Cádiz,7,1
@@ -477,7 +477,7 @@ Fecha report,provincia,Hospitalizados,UCI
 24/06/2020,Granada,11,5
 24/06/2020,Huelva,2,1
 24/06/2020,Jaén,1,1
-24/06/2020,Malaga,11,1
+24/06/2020,Málaga,11,1
 24/06/2020,Sevilla,6,1
 25/06/2020,Almería,2,0
 25/06/2020,Cádiz,7,1
@@ -485,7 +485,7 @@ Fecha report,provincia,Hospitalizados,UCI
 25/06/2020,Granada,9,4
 25/06/2020,Huelva,2,1
 25/06/2020,Jaén,1,1
-25/06/2020,Malaga,10,1
+25/06/2020,Málaga,10,1
 25/06/2020,Sevilla,5,1
 26/06/2020,Almería,2,0
 26/06/2020,Cádiz,7,1
@@ -493,7 +493,7 @@ Fecha report,provincia,Hospitalizados,UCI
 26/06/2020,Granada,10,5
 26/06/2020,Huelva,3,2
 26/06/2020,Jaén,1,1
-26/06/2020,Malaga,11,1
+26/06/2020,Málaga,11,1
 26/06/2020,Sevilla,5,1
 27/06/2020,Almería,2,0
 27/06/2020,Cádiz,7,1
@@ -501,7 +501,7 @@ Fecha report,provincia,Hospitalizados,UCI
 27/06/2020,Granada,10,5
 27/06/2020,Huelva,2,2
 27/06/2020,Jaén,1,1
-27/06/2020,Malaga,11,1
+27/06/2020,Málaga,11,1
 27/06/2020,Sevilla,5,1
 28/06/2020,Almería,2,0
 28/06/2020,Cádiz,7,1
@@ -509,7 +509,7 @@ Fecha report,provincia,Hospitalizados,UCI
 28/06/2020,Granada,12,5
 28/06/2020,Huelva,2,2
 28/06/2020,Jaén,0,0
-28/06/2020,Malaga,11,1
+28/06/2020,Málaga,11,1
 28/06/2020,Sevilla,4,1
 29/06/2020,Almería,2,0
 29/06/2020,Cádiz,7,1
@@ -517,7 +517,7 @@ Fecha report,provincia,Hospitalizados,UCI
 29/06/2020,Granada,13,5
 29/06/2020,Huelva,2,2
 29/06/2020,Jaén,0,0
-29/06/2020,Malaga,12,1
+29/06/2020,Málaga,12,1
 29/06/2020,Sevilla,4,1
 30/06/2020,Almería,2,0
 30/06/2020,Cádiz,8,1
@@ -525,7 +525,7 @@ Fecha report,provincia,Hospitalizados,UCI
 30/06/2020,Granada,12,4
 30/06/2020,Huelva,2,2
 30/06/2020,Jaén,0,0
-30/06/2020,Malaga,13,1
+30/06/2020,Málaga,13,1
 30/06/2020,Sevilla,4,2
 01/07/2020,Almería,3,1
 01/07/2020,Cádiz,8,1
@@ -533,7 +533,7 @@ Fecha report,provincia,Hospitalizados,UCI
 01/07/2020,Granada,12,4
 01/07/2020,Huelva,2,2
 01/07/2020,Jaén,1,0
-01/07/2020,Malaga,14,0
+01/07/2020,Málaga,14,0
 01/07/2020,Sevilla,4,2
 02/07/2020,Almería,4,1
 02/07/2020,Cádiz,8,1
@@ -541,7 +541,7 @@ Fecha report,provincia,Hospitalizados,UCI
 02/07/2020,Granada,13,4
 02/07/2020,Huelva,2,1
 02/07/2020,Jaén,0,0
-02/07/2020,Malaga,13,0
+02/07/2020,Málaga,13,0
 02/07/2020,Sevilla,4,2
 03/07/2020,Almería,4,1
 03/07/2020,Cádiz,7,1
@@ -549,7 +549,7 @@ Fecha report,provincia,Hospitalizados,UCI
 03/07/2020,Granada,11,4
 03/07/2020,Huelva,2,0
 03/07/2020,Jaén,0,0
-03/07/2020,Malaga,12,0
+03/07/2020,Málaga,12,0
 03/07/2020,Sevilla,4,2
 04/07/2020,Almería,4,1
 04/07/2020,Cádiz,6,1
@@ -557,7 +557,7 @@ Fecha report,provincia,Hospitalizados,UCI
 04/07/2020,Granada,10,4
 04/07/2020,Huelva,2,0
 04/07/2020,Jaén,0,0
-04/07/2020,Malaga,10,0
+04/07/2020,Málaga,10,0
 04/07/2020,Sevilla,4,2
 05/07/2020,Almería,6,1
 05/07/2020,Cádiz,5,1
@@ -565,7 +565,7 @@ Fecha report,provincia,Hospitalizados,UCI
 05/07/2020,Granada,10,4
 05/07/2020,Huelva,2,0
 05/07/2020,Jaén,0,0
-05/07/2020,Malaga,11,0
+05/07/2020,Málaga,11,0
 05/07/2020,Sevilla,4,2
 06/07/2020,Almería,8,2
 06/07/2020,Cádiz,5,1
@@ -573,7 +573,7 @@ Fecha report,provincia,Hospitalizados,UCI
 06/07/2020,Granada,10,4
 06/07/2020,Huelva,2,0
 06/07/2020,Jaén,0,0
-06/07/2020,Malaga,14,0
+06/07/2020,Málaga,14,0
 06/07/2020,Sevilla,4,2
 07/07/2020,Almería,8,2
 07/07/2020,Cádiz,5,1
@@ -581,7 +581,7 @@ Fecha report,provincia,Hospitalizados,UCI
 07/07/2020,Granada,13,3
 07/07/2020,Huelva,2,0
 07/07/2020,Jaén,0,0
-07/07/2020,Malaga,14,0
+07/07/2020,Málaga,14,0
 07/07/2020,Sevilla,4,2
 08/07/2020,Almería,8,2
 08/07/2020,Cádiz,6,1
@@ -589,7 +589,7 @@ Fecha report,provincia,Hospitalizados,UCI
 08/07/2020,Granada,13,3
 08/07/2020,Huelva,2,0
 08/07/2020,Jaén,0,0
-08/07/2020,Malaga,13,0
+08/07/2020,Málaga,13,0
 08/07/2020,Sevilla,3,1
 09/07/2020,Almería,8,2
 09/07/2020,Cádiz,6,1
@@ -597,7 +597,7 @@ Fecha report,provincia,Hospitalizados,UCI
 09/07/2020,Granada,12,2
 09/07/2020,Huelva,2,0
 09/07/2020,Jaén,0,0
-09/07/2020,Malaga,11,0
+09/07/2020,Málaga,11,0
 09/07/2020,Sevilla,3,1
 10/07/2020,Almería,8,2
 10/07/2020,Cádiz,6,1
@@ -605,7 +605,7 @@ Fecha report,provincia,Hospitalizados,UCI
 10/07/2020,Granada,11,2
 10/07/2020,Huelva,1,0
 10/07/2020,Jaén,0,0
-10/07/2020,Malaga,8,0
+10/07/2020,Málaga,8,0
 10/07/2020,Sevilla,4,1
 11/07/2020,Almería,8,2
 11/07/2020,Cádiz,6,1
@@ -613,7 +613,7 @@ Fecha report,provincia,Hospitalizados,UCI
 11/07/2020,Granada,12,2
 11/07/2020,Huelva,1,0
 11/07/2020,Jaén,0,0
-11/07/2020,Malaga,8,0
+11/07/2020,Málaga,8,0
 11/07/2020,Sevilla,3,1
 12/07/2020,Almería,5,2
 12/07/2020,Cádiz,6,1
@@ -621,7 +621,7 @@ Fecha report,provincia,Hospitalizados,UCI
 12/07/2020,Granada,12,2
 12/07/2020,Huelva,1,0
 12/07/2020,Jaén,0,0
-12/07/2020,Malaga,9,0
+12/07/2020,Málaga,9,0
 12/07/2020,Sevilla,3,1
 13/07/2020,Almería,8,3
 13/07/2020,Cádiz,6,1
@@ -629,7 +629,7 @@ Fecha report,provincia,Hospitalizados,UCI
 13/07/2020,Granada,14,2
 13/07/2020,Huelva,1,0
 13/07/2020,Jaén,0,0
-13/07/2020,Malaga,8,0
+13/07/2020,Málaga,8,0
 13/07/2020,Sevilla,3,1
 14/07/2020,Almería,8,3
 14/07/2020,Cádiz,6,1
@@ -637,7 +637,7 @@ Fecha report,provincia,Hospitalizados,UCI
 14/07/2020,Granada,13,2
 14/07/2020,Huelva,1,0
 14/07/2020,Jaén,0,0
-14/07/2020,Malaga,9,0
+14/07/2020,Málaga,9,0
 14/07/2020,Sevilla,3,1
 15/07/2020,Almería,8,3
 15/07/2020,Cádiz,6,1
@@ -645,7 +645,7 @@ Fecha report,provincia,Hospitalizados,UCI
 15/07/2020,Granada,13,1
 15/07/2020,Huelva,1,0
 15/07/2020,Jaén,0,0
-15/07/2020,Malaga,9,0
+15/07/2020,Málaga,9,0
 15/07/2020,Sevilla,3,1
 16/07/2020,Almería,6,3
 16/07/2020,Cádiz,5,1
@@ -653,7 +653,7 @@ Fecha report,provincia,Hospitalizados,UCI
 16/07/2020,Granada,10,2
 16/07/2020,Huelva,1,0
 16/07/2020,Jaén,1,0
-16/07/2020,Malaga,10,0
+16/07/2020,Málaga,10,0
 16/07/2020,Sevilla,2,1
 17/07/2020,Almería,6,3
 17/07/2020,Cádiz,5,0
@@ -661,7 +661,7 @@ Fecha report,provincia,Hospitalizados,UCI
 17/07/2020,Granada,10,2
 17/07/2020,Huelva,1,0
 17/07/2020,Jaén,1,0
-17/07/2020,Malaga,4,0
+17/07/2020,Málaga,4,0
 17/07/2020,Sevilla,2,1
 18/07/2020,Almería,4,2
 18/07/2020,Cádiz,6,0
@@ -669,7 +669,7 @@ Fecha report,provincia,Hospitalizados,UCI
 18/07/2020,Granada,10,2
 18/07/2020,Huelva,1,0
 18/07/2020,Jaén,2,0
-18/07/2020,Malaga,8,0
+18/07/2020,Málaga,8,0
 18/07/2020,Sevilla,2,1
 19/07/2020,Almería,7,2
 19/07/2020,Cádiz,4,0
@@ -677,7 +677,7 @@ Fecha report,provincia,Hospitalizados,UCI
 19/07/2020,Granada,9,1
 19/07/2020,Huelva,1,0
 19/07/2020,Jaén,2,0
-19/07/2020,Malaga,9,0
+19/07/2020,Málaga,9,0
 19/07/2020,Sevilla,2,1
 20/07/2020,Almería,10,2
 20/07/2020,Cádiz,3,0
@@ -685,7 +685,7 @@ Fecha report,provincia,Hospitalizados,UCI
 20/07/2020,Granada,12,1
 20/07/2020,Huelva,1,0
 20/07/2020,Jaén,2,0
-20/07/2020,Malaga,10,0
+20/07/2020,Málaga,10,0
 20/07/2020,Sevilla,3,1
 21/07/2020,Almería,9,1
 21/07/2020,Cádiz,3,0
@@ -693,7 +693,7 @@ Fecha report,provincia,Hospitalizados,UCI
 21/07/2020,Granada,12,1
 21/07/2020,Huelva,2,0
 21/07/2020,Jaén,2,0
-21/07/2020,Malaga,9,0
+21/07/2020,Málaga,9,0
 21/07/2020,Sevilla,4,1
 22/07/2020,Almería,11,2
 22/07/2020,Cádiz,4,0
@@ -701,7 +701,7 @@ Fecha report,provincia,Hospitalizados,UCI
 22/07/2020,Granada,13,0
 22/07/2020,Huelva,2,0
 22/07/2020,Jaén,2,0
-22/07/2020,Malaga,9,0
+22/07/2020,Málaga,9,0
 22/07/2020,Sevilla,4,1
 23/07/2020,Almería,12,2
 23/07/2020,Cádiz,3,0
@@ -709,7 +709,7 @@ Fecha report,provincia,Hospitalizados,UCI
 23/07/2020,Granada,12,0
 23/07/2020,Huelva,1,0
 23/07/2020,Jaén,2,0
-23/07/2020,Malaga,8,0
+23/07/2020,Málaga,8,0
 23/07/2020,Sevilla,4,1
 24/07/2020,Almería,12,2
 24/07/2020,Cádiz,4,0
@@ -717,7 +717,7 @@ Fecha report,provincia,Hospitalizados,UCI
 24/07/2020,Granada,11,0
 24/07/2020,Huelva,1,0
 24/07/2020,Jaén,2,0
-24/07/2020,Malaga,6,0
+24/07/2020,Málaga,6,0
 24/07/2020,Sevilla,3,1
 25/07/2020,Almería,14,2
 25/07/2020,Cádiz,4,0
@@ -725,7 +725,7 @@ Fecha report,provincia,Hospitalizados,UCI
 25/07/2020,Granada,9,0
 25/07/2020,Huelva,1,0
 25/07/2020,Jaén,2,0
-25/07/2020,Malaga,6,0
+25/07/2020,Málaga,6,0
 25/07/2020,Sevilla,3,1
 26/07/2020,Almería,16,2
 26/07/2020,Cádiz,4,0
@@ -733,7 +733,7 @@ Fecha report,provincia,Hospitalizados,UCI
 26/07/2020,Granada,9,0
 26/07/2020,Huelva,0,0
 26/07/2020,Jaén,1,0
-26/07/2020,Malaga,7,0
+26/07/2020,Málaga,7,0
 26/07/2020,Sevilla,3,1
 27/07/2020,Almería,17,2
 27/07/2020,Cádiz,4,0
@@ -741,7 +741,7 @@ Fecha report,provincia,Hospitalizados,UCI
 27/07/2020,Granada,10,0
 27/07/2020,Huelva,0,0
 27/07/2020,Jaén,1,0
-27/07/2020,Malaga,6,0
+27/07/2020,Málaga,6,0
 27/07/2020,Sevilla,3,1
 28/07/2020,Almería,20,3
 28/07/2020,Cádiz,5,0
@@ -749,7 +749,7 @@ Fecha report,provincia,Hospitalizados,UCI
 28/07/2020,Granada,11,0
 28/07/2020,Huelva,0,0
 28/07/2020,Jaén,1,0
-28/07/2020,Malaga,8,0
+28/07/2020,Málaga,8,0
 28/07/2020,Sevilla,3,2
 29/07/2020,Almería,18,3
 29/07/2020,Cádiz,4,0
@@ -757,7 +757,7 @@ Fecha report,provincia,Hospitalizados,UCI
 29/07/2020,Granada,9,0
 29/07/2020,Huelva,0,0
 29/07/2020,Jaén,1,0
-29/07/2020,Malaga,9,0
+29/07/2020,Málaga,9,0
 29/07/2020,Sevilla,3,2
 30/07/2020,Almería,17,4
 30/07/2020,Cádiz,4,0
@@ -765,7 +765,7 @@ Fecha report,provincia,Hospitalizados,UCI
 30/07/2020,Granada,8,0
 30/07/2020,Huelva,1,0
 30/07/2020,Jaén,2,1
-30/07/2020,Malaga,8,0
+30/07/2020,Málaga,8,0
 30/07/2020,Sevilla,3,2
 31/07/2020,Almería,19,4
 31/07/2020,Cádiz,4,0
@@ -773,7 +773,7 @@ Fecha report,provincia,Hospitalizados,UCI
 31/07/2020,Granada,11,0
 31/07/2020,Huelva,2,0
 31/07/2020,Jaén,2,1
-31/07/2020,Malaga,9,0
+31/07/2020,Málaga,9,0
 31/07/2020,Sevilla,3,1
 01/08/2020,Almería,20,4
 01/08/2020,Cádiz,3,0
@@ -781,7 +781,7 @@ Fecha report,provincia,Hospitalizados,UCI
 01/08/2020,Granada,12,0
 01/08/2020,Huelva,2,0
 01/08/2020,Jaén,2,1
-01/08/2020,Malaga,10,1
+01/08/2020,Málaga,10,1
 01/08/2020,Sevilla,3,1
 02/08/2020,Almería,22,4
 02/08/2020,Cádiz,3,0
@@ -789,7 +789,7 @@ Fecha report,provincia,Hospitalizados,UCI
 02/08/2020,Granada,10,0
 02/08/2020,Huelva,2,0
 02/08/2020,Jaén,0,0
-02/08/2020,Malaga,10,1
+02/08/2020,Málaga,10,1
 02/08/2020,Sevilla,3,1
 03/08/2020,Almería,28,4
 03/08/2020,Cádiz,6,1
@@ -797,7 +797,7 @@ Fecha report,provincia,Hospitalizados,UCI
 03/08/2020,Granada,12,1
 03/08/2020,Huelva,2,0
 03/08/2020,Jaén,0,0
-03/08/2020,Malaga,11,1
+03/08/2020,Málaga,11,1
 03/08/2020,Sevilla,3,1
 04/08/2020,Almería,32,5
 04/08/2020,Cádiz,7,1
@@ -805,7 +805,7 @@ Fecha report,provincia,Hospitalizados,UCI
 04/08/2020,Granada,12,1
 04/08/2020,Huelva,3,0
 04/08/2020,Jaén,0,0
-04/08/2020,Malaga,12,1
+04/08/2020,Málaga,12,1
 04/08/2020,Sevilla,5,1
 05/08/2020,Almería,36,8
 05/08/2020,Cádiz,8,2
@@ -813,7 +813,7 @@ Fecha report,provincia,Hospitalizados,UCI
 05/08/2020,Granada,13,1
 05/08/2020,Huelva,3,0
 05/08/2020,Jaén,1,0
-05/08/2020,Malaga,14,1
+05/08/2020,Málaga,14,1
 05/08/2020,Sevilla,5,1
 06/08/2020,Almería,40,10
 06/08/2020,Cádiz,10,2
@@ -821,7 +821,7 @@ Fecha report,provincia,Hospitalizados,UCI
 06/08/2020,Granada,11,1
 06/08/2020,Huelva,3,0
 06/08/2020,Jaén,4,0
-06/08/2020,Malaga,13,1
+06/08/2020,Málaga,13,1
 06/08/2020,Sevilla,6,1
 07/08/2020,Almería,42,10
 07/08/2020,Cádiz,10,2
@@ -829,7 +829,7 @@ Fecha report,provincia,Hospitalizados,UCI
 07/08/2020,Granada,12,1
 07/08/2020,Huelva,3,1
 07/08/2020,Jaén,3,0
-07/08/2020,Malaga,15,1
+07/08/2020,Málaga,15,1
 07/08/2020,Sevilla,5,1
 09/08/2020,Almería,48,10
 09/08/2020,Cádiz,10,2
@@ -837,7 +837,7 @@ Fecha report,provincia,Hospitalizados,UCI
 09/08/2020,Granada,8,1
 09/08/2020,Huelva,3,1
 09/08/2020,Jaén,5,0
-09/08/2020,Malaga,15,2
+09/08/2020,Málaga,15,2
 09/08/2020,Sevilla,7,0
 10/08/2020,Almería,48,11
 10/08/2020,Cádiz,11,4
@@ -845,7 +845,7 @@ Fecha report,provincia,Hospitalizados,UCI
 10/08/2020,Granada,8,1
 10/08/2020,Huelva,3,1
 10/08/2020,Jaén,4,0
-10/08/2020,Malaga,18,2
+10/08/2020,Málaga,18,2
 10/08/2020,Sevilla,8,0
 11/08/2020,Almería,51,12
 11/08/2020,Cádiz,11,4
@@ -853,7 +853,7 @@ Fecha report,provincia,Hospitalizados,UCI
 11/08/2020,Granada,10,1
 11/08/2020,Huelva,3,1
 11/08/2020,Jaén,4,0
-11/08/2020,Malaga,22,3
+11/08/2020,Málaga,22,3
 11/08/2020,Sevilla,9,1
 12/08/2020,Almería,45,12
 12/08/2020,Cádiz,10,2
@@ -861,7 +861,7 @@ Fecha report,provincia,Hospitalizados,UCI
 12/08/2020,Granada,9,1
 12/08/2020,Huelva,3,1
 12/08/2020,Jaén,5,0
-12/08/2020,Malaga,22,2
+12/08/2020,Málaga,22,2
 12/08/2020,Sevilla,7,1
 13/08/2020,Almería,49,14
 13/08/2020,Cádiz,13,4
@@ -869,7 +869,7 @@ Fecha report,provincia,Hospitalizados,UCI
 13/08/2020,Granada,11,1
 13/08/2020,Huelva,3,1
 13/08/2020,Jaén,8,0
-13/08/2020,Malaga,27,3
+13/08/2020,Málaga,27,3
 13/08/2020,Sevilla,9,1
 14/08/2020,Almería,55,14
 14/08/2020,Cádiz,13,5
@@ -877,7 +877,7 @@ Fecha report,provincia,Hospitalizados,UCI
 14/08/2020,Granada,12,2
 14/08/2020,Huelva,4,1
 14/08/2020,Jaén,9,0
-14/08/2020,Malaga,27,3
+14/08/2020,Málaga,27,3
 14/08/2020,Sevilla,11,2
 15/08/2020,Almería,54,14
 15/08/2020,Cádiz,18,5
@@ -885,7 +885,7 @@ Fecha report,provincia,Hospitalizados,UCI
 15/08/2020,Granada,14,2
 15/08/2020,Huelva,5,1
 15/08/2020,Jaén,10,0
-15/08/2020,Malaga,32,3
+15/08/2020,Málaga,32,3
 15/08/2020,Sevilla,13,2
 16/08/2020,Almería,57,15
 16/08/2020,Cádiz,19,6
@@ -893,5 +893,5 @@ Fecha report,provincia,Hospitalizados,UCI
 16/08/2020,Granada,17,2
 16/08/2020,Huelva,4,1
 16/08/2020,Jaén,10,0
-16/08/2020,Malaga,38,5
+16/08/2020,Málaga,38,5
 16/08/2020,Sevilla,14,3
