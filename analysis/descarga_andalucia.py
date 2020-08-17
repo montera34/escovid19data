@@ -121,7 +121,7 @@ def main():
       info_ok = info_ok.replace("sin hospitalizaciones", "0 0")
       numbers=re.findall (r"\d+", info_ok) 
       provincias =['Almería', 'Cádiz','Córdoba','Granada', 'Huelva',
-                   'Jaén','Malaga','Sevilla' ]  
+                   'Jaén','Málaga','Sevilla' ]  
       j=0
       for provincia in provincias:
         df.loc[i] = [date_report, provincia,numbers[j],numbers[j+1]]
@@ -131,3 +131,7 @@ def main():
       print ('file not match',fn)
   print('Escribiendo', csvfn)
   df.to_csv(csvfn, index=False)   
+  
+   
+if __name__ == '__main__':
+    main()
