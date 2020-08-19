@@ -147,13 +147,14 @@ A continuación puedes encotnrar información sobre las fuentes de cada comunida
 
 ### Comunidades uniprovinciales: Asturias, Baleares, Cantabria, Madrid, Murcia, Navara y La Rioja (Ceuta y Melilla)
 
-**Actualmente**:
+**Actualmente**: Ver información en la wiki sobre cada provincia. Si no está actualizada cada línea (una línea corresponde a los datos de una provincia en un determinado día) indica la fuente o fuentes del dato original.
 
-* Desde el 21 de mayo, que el ISCIII ha dejado de publicar se usan los datos publicados por las comunidades autónomas que recopila Daniele Grasp [eneste repositorio](https://gitlab.com/elpais/datos/-/blob/master/20_Covid-19/covid-provincias/data_uniprovs.csv).
+**Pasado**: 
+* Desde el 21 de mayo de 2020, que el ISCIII ha dejado de publicar, se usan los datos publicados por las comunidades autónomas que recopila Daniele Grasso [eneste repositorio](https://gitlab.com/elpais/datos/-/blob/master/20_Covid-19/covid-provincias/data_uniprovs.csv). Se dejó de usar esta fuente el 20 de julio de 2020.
 * Se tomaba la serie histórica del Instituto de Salud Carlos III (https://covid19.isciii.es/resources/serie_historica_acumulados.csv) hasta que dejóde publicarse el 20 de mayo de 2020. 
 * Se usan para algunas comunidades autónomas los datos de fallecidos previos al 8 de marzo de 2020 [Datadista](https://github.com/datadista/datasets/tree/master/COVID%2019)
 
-**Pasado**: Se usaba al principio los datos de RTVE, luego se sustituyó por los datos de los PDF del Ministerio de Sanidad que recopila Datadista.
+Se usaba al principio los datos de RTVE, luego se sustituyó por los datos de los PDF del Ministerio de Sanidad que recopila Datadista.
 
 ### Andalucía
 
@@ -199,6 +200,9 @@ Fuente de datos (2020.04.28): Junta de Castilla y León: 87%, RTVE 13%.
 
 Fuente de datos (2020.05.05):  Transparencia de Catalunya 100% 
 
+Por actualizar la fuente de fallecidos y hospitalizados.
+
+**Anteriormente**: 
 * para los **fallecidos** se ha volcado manualmente el contenido del [dashboard de Salut de la Generalitat](https://app.powerbi.com/view?r=eyJrIjoiZTkyNTcwNjgtNTQ4Yi00ZTg0LTk1OTctNzM3ZGEzNWE4OTIxIiwidCI6IjNiOTQyN2RjLWQzMGUtNDNiYy04YzA2LWZmNzI1MzY3NmZlYyIsImMiOjh9) en la [pestaña cat_ de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=841105696) que está disponible en [este CSV](https://code.montera34.com:4443/numeroteca/covid19/-/blob/master/data/original/spain/catalunya/powerbi.csv). Se actualiza cada dos o tres días.
 La pega es que los datos de fallecimientos, al ser por región sanitaria no coinciden del todo con los límites geográficos de las provincia (ver siguiente tabla):
 
@@ -220,7 +224,7 @@ Fuente de datos (2020.05.05):  Salut de Catalunya 100%
 
 * para otros datos como hospitalizados o cuidados intensivos hay una mezcla de fuentes periodísticas para Girona, Lleida y Tarragona. Falta indicar fuente para un 13%.
 
-**Anteriormente**: los datos de casos y fallecidos para la provincia de Barcelona se calculaban en base al total de Cataluña (de Minsiterio de Sanidad- Datadista) y restando los datos de las otras tres provincias. Para Girona se usaba [este repositorio](https://github.com/nachotronic/covid19/blob/master/casos_girona.csv) mantenido por [@nachotronic](https://twitter.com/nachotronic). Para Lleida el gráfico publicado en [esta noticia de segre.com](https://www.segre.com/es/noticias/lleida/2020/03/24/lleida_suma_morts_positius_coronavirus_sol_dia_102336_1092.html). Para Tarragona múltiples fuentes periodísticas. Barcelona se calculaba restando al total de la comunidad autónoma los datos de las otras tres provincias catalanas.
+Los datos de casos y fallecidos para la provincia de Barcelona se calculaban en base al total de Cataluña (de Minsiterio de Sanidad- Datadista) y restando los datos de las otras tres provincias. Para Girona se usaba [este repositorio](https://github.com/nachotronic/covid19/blob/master/casos_girona.csv) mantenido por [@nachotronic](https://twitter.com/nachotronic). Para Lleida el gráfico publicado en [esta noticia de segre.com](https://www.segre.com/es/noticias/lleida/2020/03/24/lleida_suma_morts_positius_coronavirus_sol_dia_102336_1092.html). Para Tarragona múltiples fuentes periodísticas. Barcelona se calculaba restando al total de la comunidad autónoma los datos de las otras tres provincias catalanas.
 
 ### Comunidad Valenciana
 
