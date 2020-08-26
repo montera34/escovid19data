@@ -1,0 +1,1366 @@
+{
+  "CallbackList": {
+    "_type": "glue.external.echo.list.CallbackList",
+    "values": [
+      "ScatterLayerState",
+      "ScatterLayerState_0"
+    ]
+  },
+  "CallbackList_0": {
+    "_type": "glue.external.echo.list.CallbackList",
+    "values": [
+      "ScatterLayerState_1",
+      "ScatterLayerState_2"
+    ]
+  },
+  "CallbackList_1": {
+    "_type": "glue.external.echo.list.CallbackList",
+    "values": [
+      "ScatterLayerState_3",
+      "ScatterLayerState_4"
+    ]
+  },
+  "CallbackList_2": {
+    "_type": "glue.external.echo.list.CallbackList",
+    "values": [
+      "ScatterLayerState_5",
+      "ScatterLayerState_6"
+    ]
+  },
+  "CategoricalComponent": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 2
+  },
+  "CategoricalComponent_0": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 3
+  },
+  "CategoricalComponent_1": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 5
+  },
+  "CategoricalComponent_10": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 30
+  },
+  "CategoricalComponent_11": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 31
+  },
+  "CategoricalComponent_12": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 39
+  },
+  "CategoricalComponent_13": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 40
+  },
+  "CategoricalComponent_14": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 41
+  },
+  "CategoricalComponent_2": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 6
+  },
+  "CategoricalComponent_3": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 7
+  },
+  "CategoricalComponent_4": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 8
+  },
+  "CategoricalComponent_5": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 9
+  },
+  "CategoricalComponent_6": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 26
+  },
+  "CategoricalComponent_7": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 27
+  },
+  "CategoricalComponent_8": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 28
+  },
+  "CategoricalComponent_9": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 29
+  },
+  "CategoricalROI": {
+    "_type": "glue.core.roi.CategoricalROI",
+    "categories": [
+      "2020-08-18",
+      "2020-08-19",
+      "2020-08-20",
+      "2020-08-21",
+      "2020-08-22",
+      "2020-08-23",
+      "2020-08-24",
+      "2020-08-25"
+    ]
+  },
+  "CategoricalROISubsetState": {
+    "_type": "glue.core.subset.CategoricalROISubsetState",
+    "att": "date",
+    "roi": "CategoricalROI"
+  },
+  "Component": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 4
+  },
+  "Component_0": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 10
+  },
+  "Component_1": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 11
+  },
+  "Component_10": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 20
+  },
+  "Component_11": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 21
+  },
+  "Component_12": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 22
+  },
+  "Component_13": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 23
+  },
+  "Component_14": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 24
+  },
+  "Component_15": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 25
+  },
+  "Component_16": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 32
+  },
+  "Component_17": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 33
+  },
+  "Component_18": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 34
+  },
+  "Component_19": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 35
+  },
+  "Component_2": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 12
+  },
+  "Component_20": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 36
+  },
+  "Component_21": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 37
+  },
+  "Component_22": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 38
+  },
+  "Component_3": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 13
+  },
+  "Component_4": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 14
+  },
+  "Component_5": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 15
+  },
+  "Component_6": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 16
+  },
+  "Component_7": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 17
+  },
+  "Component_8": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 18
+  },
+  "Component_9": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 19
+  },
+  "CoordinateComponent": {
+    "_type": "glue.core.component.CoordinateComponent",
+    "axis": 0,
+    "world": false
+  },
+  "CoordinateComponent_0": {
+    "_type": "glue.core.component.CoordinateComponent",
+    "axis": 0,
+    "world": true
+  },
+  "Coordinates": {
+    "_type": "glue.core.coordinates.Coordinates"
+  },
+  "DataCollection": {
+    "_protocol": 4,
+    "_type": "glue.core.data_collection.DataCollection",
+    "cids": [
+      "Pixel Axis 0 [x]",
+      "World 0",
+      "date",
+      "province",
+      "ine_code",
+      "ccaa",
+      "new_cases",
+      "PCR",
+      "TestAc",
+      "activos",
+      "hospitalized",
+      "intensive_care",
+      "deceased",
+      "cases_accumulated",
+      "cases_accumulated_PCR",
+      "recovered",
+      "num_casos",
+      "num_casos_prueba_pcr",
+      "num_casos_prueba_test_ac",
+      "num_casos_prueba_otras",
+      "num_casos_prueba_desconocida",
+      "poblacion",
+      "cases_per_cienmil",
+      "intensive_care_per_1000000",
+      "deceassed_per_100000",
+      "hospitalized_per_100000",
+      "cases_14days",
+      "cases_7days",
+      "cases_PCR_14days",
+      "cases_PCR_7days",
+      "daily_cases",
+      "daily_cases_avg7",
+      "daily_cases_PCR",
+      "daily_cases_PCR_avg7",
+      "daily_deaths",
+      "daily_deaths_inc",
+      "daily_deaths_avg3",
+      "daily_deaths_avg7",
+      "deaths_last_week",
+      "source_name",
+      "source",
+      "comments"
+    ],
+    "components": [
+      "CoordinateComponent",
+      "CoordinateComponent_0",
+      "CategoricalComponent",
+      "CategoricalComponent_0",
+      "Component",
+      "CategoricalComponent_1",
+      "CategoricalComponent_2",
+      "CategoricalComponent_3",
+      "CategoricalComponent_4",
+      "CategoricalComponent_5",
+      "Component_0",
+      "Component_1",
+      "Component_2",
+      "Component_3",
+      "Component_4",
+      "Component_5",
+      "Component_6",
+      "Component_7",
+      "Component_8",
+      "Component_9",
+      "Component_10",
+      "Component_11",
+      "Component_12",
+      "Component_13",
+      "Component_14",
+      "Component_15",
+      "CategoricalComponent_6",
+      "CategoricalComponent_7",
+      "CategoricalComponent_8",
+      "CategoricalComponent_9",
+      "CategoricalComponent_10",
+      "CategoricalComponent_11",
+      "Component_16",
+      "Component_17",
+      "Component_18",
+      "Component_19",
+      "Component_20",
+      "Component_21",
+      "Component_22",
+      "CategoricalComponent_12",
+      "CategoricalComponent_13",
+      "CategoricalComponent_14"
+    ],
+    "data": [
+      "covid19-provincias-spain_consolidated"
+    ],
+    "groups": [
+      "Subset 1"
+    ],
+    "links": [],
+    "subset_group_count": 1
+  },
+  "LinearSegmentedColormap": {
+    "_type": "matplotlib.colors.LinearSegmentedColormap",
+    "cmap": "gray"
+  },
+  "LoadLog": {
+    "_protocol": 1,
+    "_type": "glue.core.data_factories.helpers.LoadLog",
+    "factory": {
+      "_type": "types.FunctionType",
+      "function": "glue.core.data_factories.helpers.auto_data"
+    },
+    "kwargs": [
+      []
+    ],
+    "path": "../../data/output/covid19-provincias-spain_consolidated.csv"
+  },
+  "PCR": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "PCR"
+  },
+  "Pixel Axis 0 [x]": {
+    "_type": "glue.core.component_id.PixelComponentID",
+    "axis": 0,
+    "label": "Pixel Axis 0 [x]"
+  },
+  "ScatterLayerState": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.8,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#595959",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "covid19-provincias-spain_consolidated",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 3,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 1
+    }
+  },
+  "ScatterLayerState_0": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#e31a1c",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 1_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 2
+    }
+  },
+  "ScatterLayerState_1": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.8,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#595959",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "covid19-provincias-spain_consolidated",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 3,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 1
+    }
+  },
+  "ScatterLayerState_2": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#e31a1c",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 1_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 2
+    }
+  },
+  "ScatterLayerState_3": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.8,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#595959",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "covid19-provincias-spain_consolidated",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 3,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 1
+    }
+  },
+  "ScatterLayerState_4": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#e31a1c",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 1_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 2
+    }
+  },
+  "ScatterLayerState_5": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.8,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#595959",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "covid19-provincias-spain_consolidated",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 3,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 1
+    }
+  },
+  "ScatterLayerState_6": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#e31a1c",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 1_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 2
+    }
+  },
+  "ScatterViewer": {
+    "_protocol": 1,
+    "_type": "glue.viewers.scatter.qt.data_viewer.ScatterViewer",
+    "layers": [
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_0"
+      }
+    ],
+    "pos": [
+      -67,
+      0
+    ],
+    "session": "Session",
+    "size": [
+      1113,
+      341
+    ],
+    "state": {
+      "values": {
+        "aspect": "st__auto",
+        "dpi": 71.30820648960312,
+        "layers": "CallbackList",
+        "show_axes": true,
+        "x_att": "date",
+        "x_axislabel": "st__date",
+        "x_axislabel_size": 10,
+        "x_axislabel_weight": "st__normal",
+        "x_log": false,
+        "x_max": 215.82,
+        "x_min": -8.82,
+        "x_ticklabel_size": 8,
+        "y_att": "daily_deaths",
+        "y_axislabel": "st__daily_deaths",
+        "y_axislabel_size": 10,
+        "y_axislabel_weight": "st__normal",
+        "y_log": false,
+        "y_max": 392.96,
+        "y_min": -37.96,
+        "y_ticklabel_size": 8
+      }
+    }
+  },
+  "ScatterViewer_0": {
+    "_protocol": 1,
+    "_type": "glue.viewers.scatter.qt.data_viewer.ScatterViewer",
+    "layers": [
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_1"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_2"
+      }
+    ],
+    "pos": [
+      -67,
+      341
+    ],
+    "session": "Session",
+    "size": [
+      392,
+      407
+    ],
+    "state": {
+      "values": {
+        "aspect": "st__auto",
+        "dpi": 71.30820648960312,
+        "layers": "CallbackList_0",
+        "show_axes": true,
+        "x_att": "hospitalized",
+        "x_axislabel": "st__hospitalized",
+        "x_axislabel_size": 10,
+        "x_axislabel_weight": "st__normal",
+        "x_log": false,
+        "x_max": 15836.08,
+        "x_min": -609.08,
+        "x_ticklabel_size": 8,
+        "y_att": "daily_deaths",
+        "y_axislabel": "st__daily_deaths",
+        "y_axislabel_size": 10,
+        "y_axislabel_weight": "st__normal",
+        "y_log": false,
+        "y_max": 392.96,
+        "y_min": -37.96,
+        "y_ticklabel_size": 8
+      }
+    }
+  },
+  "ScatterViewer_1": {
+    "_protocol": 1,
+    "_type": "glue.viewers.scatter.qt.data_viewer.ScatterViewer",
+    "layers": [
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_3"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_4"
+      }
+    ],
+    "pos": [
+      748,
+      339
+    ],
+    "session": "Session",
+    "size": [
+      369,
+      406
+    ],
+    "state": {
+      "values": {
+        "aspect": "st__auto",
+        "dpi": 71.30820648960312,
+        "layers": "CallbackList_1",
+        "show_axes": true,
+        "x_att": "intensive_care",
+        "x_axislabel": "st__intensive_care",
+        "x_axislabel_size": 10,
+        "x_axislabel_weight": "st__normal",
+        "x_log": false,
+        "x_max": 1589.12,
+        "x_min": -61.120000000000005,
+        "x_ticklabel_size": 8,
+        "y_att": "daily_deaths",
+        "y_axislabel": "st__daily_deaths",
+        "y_axislabel_size": 10,
+        "y_axislabel_weight": "st__normal",
+        "y_log": false,
+        "y_max": 392.96,
+        "y_min": -37.96,
+        "y_ticklabel_size": 8
+      }
+    }
+  },
+  "ScatterViewer_2": {
+    "_protocol": 1,
+    "_type": "glue.viewers.scatter.qt.data_viewer.ScatterViewer",
+    "layers": [
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_5"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_6"
+      }
+    ],
+    "pos": [
+      323,
+      338
+    ],
+    "session": "Session",
+    "size": [
+      426,
+      408
+    ],
+    "state": {
+      "values": {
+        "aspect": "st__auto",
+        "dpi": 71.30820648960312,
+        "layers": "CallbackList_2",
+        "show_axes": true,
+        "x_att": "num_casos_prueba_pcr",
+        "x_axislabel": "st__num_casos_prueba_pcr",
+        "x_axislabel_size": 10,
+        "x_axislabel_weight": "st__normal",
+        "x_log": false,
+        "x_max": 3231.28,
+        "x_min": -124.28,
+        "x_ticklabel_size": 8,
+        "y_att": "daily_deaths",
+        "y_axislabel": "st__daily_deaths",
+        "y_axislabel_size": 10,
+        "y_axislabel_weight": "st__normal",
+        "y_log": false,
+        "y_max": 392.96,
+        "y_min": -37.96,
+        "y_ticklabel_size": 8
+      }
+    }
+  },
+  "Session": {
+    "_type": "glue.core.session.Session"
+  },
+  "Subset 1": {
+    "_type": "glue.core.subset_group.SubsetGroup",
+    "label": "Subset 1",
+    "state": "CategoricalROISubsetState",
+    "style": {
+      "_type": "glue.core.visual.VisualAttributes",
+      "alpha": 0.5,
+      "color": "#e31a1c",
+      "linestyle": "solid",
+      "linewidth": 2.5,
+      "marker": "o",
+      "markersize": 7
+    },
+    "subsets": [
+      "Subset 1_0"
+    ]
+  },
+  "Subset 1_0": {
+    "_type": "glue.core.subset_group.GroupedSubset",
+    "group": "Subset 1",
+    "style": {
+      "_type": "glue.core.visual.VisualAttributes",
+      "alpha": 0.5,
+      "color": "#e31a1c",
+      "linestyle": "solid",
+      "linewidth": 2.5,
+      "marker": "o",
+      "markersize": 7
+    }
+  },
+  "TestAc": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "TestAc"
+  },
+  "World 0": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "World 0"
+  },
+  "__main__": {
+    "_type": "glue.app.qt.application.GlueApplication",
+    "data": "DataCollection",
+    "plugins": [
+      "glue.viewers.scatter.qt",
+      "glue.viewers.table.qt",
+      "glue.plugins.dendro_viewer.qt",
+      "glue.io.formats.fits",
+      "glue.viewers.image.qt",
+      "glue.viewers.profile.qt",
+      "glue.plugins.tools.pv_slicer",
+      "glue.plugins.tools",
+      "glue_vispy_viewers.scatter",
+      "glue.viewers.histogram.qt",
+      "glue.plugins.wcs_autolinking",
+      "glue.core.data_exporters",
+      "glue.plugins.coordinate_helpers",
+      "glue.plugins.export_d3po",
+      "glue_vispy_viewers.volume"
+    ],
+    "session": "Session",
+    "tab_names": [
+      "Tab 1"
+    ],
+    "viewers": [
+      [
+        "ScatterViewer",
+        "ScatterViewer_0",
+        "ScatterViewer_1",
+        "ScatterViewer_2"
+      ]
+    ]
+  },
+  "activos": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "activos"
+  },
+  "cases_14days": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "cases_14days"
+  },
+  "cases_7days": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "cases_7days"
+  },
+  "cases_PCR_14days": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "cases_PCR_14days"
+  },
+  "cases_PCR_7days": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "cases_PCR_7days"
+  },
+  "cases_accumulated": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "cases_accumulated"
+  },
+  "cases_accumulated_PCR": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "cases_accumulated_PCR"
+  },
+  "cases_per_cienmil": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "cases_per_cienmil"
+  },
+  "ccaa": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "ccaa"
+  },
+  "comments": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "comments"
+  },
+  "covid19-provincias-spain_consolidated": {
+    "_key_joins": [],
+    "_protocol": 5,
+    "_type": "glue.core.data.Data",
+    "components": [
+      [
+        "Pixel Axis 0 [x]",
+        "CoordinateComponent"
+      ],
+      [
+        "World 0",
+        "CoordinateComponent_0"
+      ],
+      [
+        "date",
+        "CategoricalComponent"
+      ],
+      [
+        "province",
+        "CategoricalComponent_0"
+      ],
+      [
+        "ine_code",
+        "Component"
+      ],
+      [
+        "ccaa",
+        "CategoricalComponent_1"
+      ],
+      [
+        "new_cases",
+        "CategoricalComponent_2"
+      ],
+      [
+        "PCR",
+        "CategoricalComponent_3"
+      ],
+      [
+        "TestAc",
+        "CategoricalComponent_4"
+      ],
+      [
+        "activos",
+        "CategoricalComponent_5"
+      ],
+      [
+        "hospitalized",
+        "Component_0"
+      ],
+      [
+        "intensive_care",
+        "Component_1"
+      ],
+      [
+        "deceased",
+        "Component_2"
+      ],
+      [
+        "cases_accumulated",
+        "Component_3"
+      ],
+      [
+        "cases_accumulated_PCR",
+        "Component_4"
+      ],
+      [
+        "recovered",
+        "Component_5"
+      ],
+      [
+        "num_casos",
+        "Component_6"
+      ],
+      [
+        "num_casos_prueba_pcr",
+        "Component_7"
+      ],
+      [
+        "num_casos_prueba_test_ac",
+        "Component_8"
+      ],
+      [
+        "num_casos_prueba_otras",
+        "Component_9"
+      ],
+      [
+        "num_casos_prueba_desconocida",
+        "Component_10"
+      ],
+      [
+        "poblacion",
+        "Component_11"
+      ],
+      [
+        "cases_per_cienmil",
+        "Component_12"
+      ],
+      [
+        "intensive_care_per_1000000",
+        "Component_13"
+      ],
+      [
+        "deceassed_per_100000",
+        "Component_14"
+      ],
+      [
+        "hospitalized_per_100000",
+        "Component_15"
+      ],
+      [
+        "cases_14days",
+        "CategoricalComponent_6"
+      ],
+      [
+        "cases_7days",
+        "CategoricalComponent_7"
+      ],
+      [
+        "cases_PCR_14days",
+        "CategoricalComponent_8"
+      ],
+      [
+        "cases_PCR_7days",
+        "CategoricalComponent_9"
+      ],
+      [
+        "daily_cases",
+        "CategoricalComponent_10"
+      ],
+      [
+        "daily_cases_avg7",
+        "CategoricalComponent_11"
+      ],
+      [
+        "daily_cases_PCR",
+        "Component_16"
+      ],
+      [
+        "daily_cases_PCR_avg7",
+        "Component_17"
+      ],
+      [
+        "daily_deaths",
+        "Component_18"
+      ],
+      [
+        "daily_deaths_inc",
+        "Component_19"
+      ],
+      [
+        "daily_deaths_avg3",
+        "Component_20"
+      ],
+      [
+        "daily_deaths_avg7",
+        "Component_21"
+      ],
+      [
+        "deaths_last_week",
+        "Component_22"
+      ],
+      [
+        "source_name",
+        "CategoricalComponent_12"
+      ],
+      [
+        "source",
+        "CategoricalComponent_13"
+      ],
+      [
+        "comments",
+        "CategoricalComponent_14"
+      ]
+    ],
+    "coords": "Coordinates",
+    "label": "covid19-provincias-spain_consolidated",
+    "meta": {
+      "_type": "collections.OrderedDict",
+      "contents": {}
+    },
+    "primary_owner": [
+      "Pixel Axis 0 [x]",
+      "World 0",
+      "date",
+      "province",
+      "ine_code",
+      "ccaa",
+      "new_cases",
+      "PCR",
+      "TestAc",
+      "activos",
+      "hospitalized",
+      "intensive_care",
+      "deceased",
+      "cases_accumulated",
+      "cases_accumulated_PCR",
+      "recovered",
+      "num_casos",
+      "num_casos_prueba_pcr",
+      "num_casos_prueba_test_ac",
+      "num_casos_prueba_otras",
+      "num_casos_prueba_desconocida",
+      "poblacion",
+      "cases_per_cienmil",
+      "intensive_care_per_1000000",
+      "deceassed_per_100000",
+      "hospitalized_per_100000",
+      "cases_14days",
+      "cases_7days",
+      "cases_PCR_14days",
+      "cases_PCR_7days",
+      "daily_cases",
+      "daily_cases_avg7",
+      "daily_cases_PCR",
+      "daily_cases_PCR_avg7",
+      "daily_deaths",
+      "daily_deaths_inc",
+      "daily_deaths_avg3",
+      "daily_deaths_avg7",
+      "deaths_last_week",
+      "source_name",
+      "source",
+      "comments"
+    ],
+    "style": {
+      "_type": "glue.core.visual.VisualAttributes",
+      "alpha": 0.8,
+      "color": "#595959",
+      "linestyle": "solid",
+      "linewidth": 1,
+      "marker": "o",
+      "markersize": 3
+    },
+    "subsets": [
+      "Subset 1_0"
+    ],
+    "uuid": "cd572004-928e-488e-898f-4442d822c502"
+  },
+  "daily_cases": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "daily_cases"
+  },
+  "daily_cases_PCR": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "daily_cases_PCR"
+  },
+  "daily_cases_PCR_avg7": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "daily_cases_PCR_avg7"
+  },
+  "daily_cases_avg7": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "daily_cases_avg7"
+  },
+  "daily_deaths": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "daily_deaths"
+  },
+  "daily_deaths_avg3": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "daily_deaths_avg3"
+  },
+  "daily_deaths_avg7": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "daily_deaths_avg7"
+  },
+  "daily_deaths_inc": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "daily_deaths_inc"
+  },
+  "date": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "date"
+  },
+  "deaths_last_week": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "deaths_last_week"
+  },
+  "deceased": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "deceased"
+  },
+  "deceassed_per_100000": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "deceassed_per_100000"
+  },
+  "hospitalized": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "hospitalized"
+  },
+  "hospitalized_per_100000": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "hospitalized_per_100000"
+  },
+  "ine_code": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "ine_code"
+  },
+  "intensive_care": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "intensive_care"
+  },
+  "intensive_care_per_1000000": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "intensive_care_per_1000000"
+  },
+  "new_cases": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "new_cases"
+  },
+  "num_casos": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "num_casos"
+  },
+  "num_casos_prueba_desconocida": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "num_casos_prueba_desconocida"
+  },
+  "num_casos_prueba_otras": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "num_casos_prueba_otras"
+  },
+  "num_casos_prueba_pcr": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "num_casos_prueba_pcr"
+  },
+  "num_casos_prueba_test_ac": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "num_casos_prueba_test_ac"
+  },
+  "poblacion": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "poblacion"
+  },
+  "province": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "province"
+  },
+  "recovered": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "recovered"
+  },
+  "source": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "source"
+  },
+  "source_name": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "source_name"
+  }
+}
