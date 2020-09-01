@@ -100,7 +100,7 @@ Contacto: covid19@montera34.com
 
 Hay muchas personas que nos habéis ayudado y aportado pistas. Gracias a todas por colaborar. 
 
-Ahora mismo, estamos manteniendo los datos y amadrinando provincias y comunidades autónomas: [@ProsumidorSoc](https://twitter.com/ProsumidorSoc) [@numeroteca](https://twitter.com/numeroteca) [@arivero](https://twitter.com/arivero) [@ManoloYuri](https://twitter.com/ManoloYuri) [@congosto](https://twitter.com/congosto) [@skotperez](https://twitter.com/skotperez) [@allisdata](https://twitter.com/@allisdata) [@acorsin](https://twitter.com/acorsin) [@hhkaos](https://twitter.com/hhkaos) [@belengarcia_8](https://twitter.com/belengarcia_8) [@Tejerauskas](https://twitter.com/Tejerauskas) [@aniol](https://twitter.com/aniol) [@zgzmiki89](https://twitter.com/zgzmiki89) [@mota_santiago](https://twitter.com/mota_santiago) [@nachotronic](https://twitter.com/nachotronic) [@puzzle72](https://twitter.com/@puzzle72) [@montera34](https://twitter.com/@montera34) [@alfonsotwr](https://twitter.com/alfonsotwr) [@lipido](https://twitter.com/lipido) [@danielegrasso](twitter.com/danielegrasso).
+Ahora mismo, estamos manteniendo los datos y amadrinando provincias y comunidades autónomas: [@ProsumidorSoc](https://twitter.com/ProsumidorSoc) [@numeroteca](https://twitter.com/numeroteca) [@arivero](https://twitter.com/arivero) [@ManoloYuri](https://twitter.com/ManoloYuri) [@congosto](https://twitter.com/congosto) [@skotperez](https://twitter.com/skotperez) [@allisdata](https://twitter.com/@allisdata) [@acorsin](https://twitter.com/acorsin) [@hhkaos](https://twitter.com/hhkaos) [@belengarcia_8](https://twitter.com/belengarcia_8) [@Tejerauskas](https://twitter.com/Tejerauskas) [@aniol](https://twitter.com/aniol) [@zgzmiki89](https://twitter.com/zgzmiki89) [@mota_santiago](https://twitter.com/mota_santiago) [@nachotronic](https://twitter.com/nachotronic) [@puzzle72](https://twitter.com/@puzzle72) [@montera34](https://twitter.com/@montera34) [@alfonsotwr](https://twitter.com/alfonsotwr) [@lipido](https://twitter.com/lipido) [@danielegrasso](https://twitter.com/danielegrasso) [@picanumeros](https://twitter.com/picanumeros) [@walyt](https://twitter.com/walyt).
 
 Coordina el proyecto [@numeroteca](https://twitter.com/numeroteca)
 
@@ -113,8 +113,8 @@ Cada cual se encarga de una comunidad autónoma o provincia. [Ver sección "Orga
 Mándanos tu análisis o visualización si usas estos datos (covid19@montera34.com):
 
 Actualizado diariamente: 
-* [Gráficos por provincias](https://lab.montera34.com/covid19/#fallecimientosDiaProvincias) mantenido por [@montera34](https://twitter.com/montera34)).
-* [Visualización de evolución de múltiples variables en modo cartograma](https://iguacel.github.io/iguacel/#/exp/20) mantenido por [@infoiguacel](https://twitter.com/infoiguacel).
+* [Gráficos por provincias](https://lab.montera34.com/covid19/provincias.html) mantenido por [@numeroteca](https://twitter.com/numeroteca) en [@montera34](https://twitter.com/montera34)).
+* [Visualización de evolución de múltiples variables](https://iguacel.github.io/iguacel/#/exp/20) mantenido por [@infoiguacel](https://twitter.com/infoiguacel).
 * [Un dashboard de análisis](https://cultureofinsight.shinyapps.io/covid-19/) mantenido por [@harlesden88](https://twitter.com/harlesden88).
 
 No se actualizan:
