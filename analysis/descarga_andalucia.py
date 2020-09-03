@@ -106,7 +106,7 @@ def main():
   #borramos index_links.html y historico_links.html
   time.sleep(2)
   os.remove('index_links.html')
-#  os.remove('historico_links.html')
+  os.remove('historico_links.html')
   #Extraemos los datos de los informes 
   i=0
   for fn in sorted(glob('*.html')):
