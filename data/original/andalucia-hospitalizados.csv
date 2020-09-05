@@ -831,6 +831,14 @@ Fecha report,provincia,Hospitalizados,UCI
 06/08/2020,Jaén,3,0
 06/08/2020,Málaga,15,1
 06/08/2020,Sevilla,5,1
+07/08/2020,Almería,46,9
+07/08/2020,Cádiz,9,2
+07/08/2020,Córdoba,9,1
+07/08/2020,Granada,10,1
+07/08/2020,Huelva,3,1
+07/08/2020,Jaén,5,0
+07/08/2020,Málaga,16,2
+07/08/2020,Sevilla,7,0
 08/08/2020,Almería,48,10
 08/08/2020,Cádiz,10,2
 08/08/2020,Córdoba,10,1
@@ -1047,3 +1055,11 @@ Fecha report,provincia,Hospitalizados,UCI
 03/09/2020,Jaén,24,5
 03/09/2020,Málaga,168,23
 03/09/2020,Sevilla,85,9
+04/09/2020,Almería,98,18
+04/09/2020,Cádiz,88,17
+04/09/2020,Córdoba,81,10
+04/09/2020,Granada,64,11
+04/09/2020,Huelva,3,0
+04/09/2020,Jaén,27,5
+04/09/2020,Málaga,171,25
+04/09/2020,Sevilla,100,11
