@@ -52,7 +52,7 @@ Datos originales | Original data:
 * `recovered` Recuperados | Recovered
 * `poblacion` Población de la provincia | Inhabitants of the province
 
-Datos de ISCIII: la fecha de inicio de síntomas o, en su defecto, la fecha de diagnóstico menos 6 días (con prefijo `num_`) (fuente: https://cnecovid.isciii.es/covid19/resources/datos_provincias.csv),
+Datos de RENAVE-ISCIII: la fecha de inicio de síntomas o, en su defecto, la fecha de diagnóstico menos 6 días (con prefijo `num_`) (fuente: https://cnecovid.isciii.es/covid19/resources/datos_provincias.csv),
 
 * `num_casos` el número de casos totales, confirmados o probables
 * `num_casos_prueba_pcr` el número de casos con prueba de laboratorio PCR o técnicas moleculares
@@ -75,6 +75,8 @@ Datos calculados a partir de los datos de arriba | Calculated data:
 * `daily_deaths_avg3` Media de fallecidos en los últimos 3 días | Average daily deaths in the last 3 days (rolling average 3 days) 
 * `daily_deaths_avg6` Media de fallecidos en los últimos 7 días | Average daily deaths in the last 7 days (rolling average 7 days) 
 * `deaths_last_week` Fallecidos en los últimos 7 días | Deaths in the last 7 days.
+
+* `num_casos_prueba_pcr_avg7` Media de casos (ventana de 7 días) de casos con prueba de laboratorio PCR o técnicas moleculares de los datos de RENAVE-ISCIII 
 
 Fuente de los datos y comentarios | Data sources and comments:
 
