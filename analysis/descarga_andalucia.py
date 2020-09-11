@@ -73,9 +73,10 @@ def main():
   fp.close()
 
   #Descargamos informes más recientes
-  list_last_report=re.findall (r"(http:\/\/lajunta.es\/[0-9a-z]+)", web_page)   
-  #solo son significativos de 1 a 9 primeros valores
-  for i in range (1,9):
+  text_last_report= re.search (r'Últimos\sComunicados<\/h2>[\w\d\s\(\)\/<>,\.:\\<>=:;&?$\""-]+', web_page)
+  list_last_report=re.findall (r"(http[s]*:\/\/[\w.]+junta[0-9a-zA-Z\.\/]+)", text_last_report.group(0))   
+  #solo son significativos de 0 a 9 primeros valores
+  for i in range (0,9):
     url_report= expand (list_last_report[i])
     time.sleep(1)
     fn=pth.basename(url_report)
