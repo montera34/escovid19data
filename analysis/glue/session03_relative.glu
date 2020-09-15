@@ -1,0 +1,2867 @@
+{
+  "CallbackList": {
+    "_type": "glue.external.echo.list.CallbackList",
+    "values": [
+      "ScatterLayerState",
+      "ScatterLayerState_0",
+      "ScatterLayerState_1",
+      "ScatterLayerState_2",
+      "ScatterLayerState_3"
+    ]
+  },
+  "CallbackList_0": {
+    "_type": "glue.external.echo.list.CallbackList",
+    "values": [
+      "ScatterLayerState_4",
+      "ScatterLayerState_5",
+      "ScatterLayerState_6",
+      "ScatterLayerState_7",
+      "ScatterLayerState_8"
+    ]
+  },
+  "CallbackList_1": {
+    "_type": "glue.external.echo.list.CallbackList",
+    "values": [
+      "ScatterLayerState_9",
+      "ScatterLayerState_10",
+      "ScatterLayerState_11",
+      "ScatterLayerState_12",
+      "ScatterLayerState_13"
+    ]
+  },
+  "CallbackList_2": {
+    "_type": "glue.external.echo.list.CallbackList",
+    "values": [
+      "ScatterLayerState_14",
+      "ScatterLayerState_15",
+      "ScatterLayerState_16",
+      "ScatterLayerState_17",
+      "ScatterLayerState_18"
+    ]
+  },
+  "CallbackList_3": {
+    "_type": "glue.external.echo.list.CallbackList",
+    "values": [
+      "ScatterLayerState_19",
+      "ScatterLayerState_20",
+      "ScatterLayerState_21",
+      "ScatterLayerState_22",
+      "ScatterLayerState_23"
+    ]
+  },
+  "CallbackList_4": {
+    "_type": "glue.external.echo.list.CallbackList",
+    "values": [
+      "ScatterLayerState_24",
+      "ScatterLayerState_25",
+      "ScatterLayerState_26",
+      "ScatterLayerState_27",
+      "ScatterLayerState_28"
+    ]
+  },
+  "CallbackList_5": {
+    "_type": "glue.external.echo.list.CallbackList",
+    "values": [
+      "ScatterLayerState_29",
+      "ScatterLayerState_30",
+      "ScatterLayerState_31",
+      "ScatterLayerState_32",
+      "ScatterLayerState_33"
+    ]
+  },
+  "CategoricalComponent": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 2
+  },
+  "CategoricalComponent_0": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 3
+  },
+  "CategoricalComponent_1": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 5
+  },
+  "CategoricalComponent_10": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 30
+  },
+  "CategoricalComponent_11": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 31
+  },
+  "CategoricalComponent_12": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 40
+  },
+  "CategoricalComponent_13": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 41
+  },
+  "CategoricalComponent_2": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 6
+  },
+  "CategoricalComponent_3": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 7
+  },
+  "CategoricalComponent_4": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 8
+  },
+  "CategoricalComponent_5": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 9
+  },
+  "CategoricalComponent_6": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 13
+  },
+  "CategoricalComponent_7": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 22
+  },
+  "CategoricalComponent_8": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 26
+  },
+  "CategoricalComponent_9": {
+    "_type": "glue.core.component.CategoricalComponent",
+    "log": "LoadLog",
+    "log_item": 27
+  },
+  "CategoricalROI": {
+    "_type": "glue.core.roi.CategoricalROI",
+    "categories": [
+      "2020-03-31",
+      "2020-04-01",
+      "2020-04-02",
+      "2020-04-03",
+      "2020-04-04",
+      "2020-04-05",
+      "2020-04-06"
+    ]
+  },
+  "CategoricalROISubsetState": {
+    "_type": "glue.core.subset.CategoricalROISubsetState",
+    "att": "date",
+    "roi": "CategoricalROI"
+  },
+  "CategoricalROISubsetState_0": {
+    "_type": "glue.core.subset.CategoricalROISubsetState",
+    "att": "date",
+    "roi": "CategoricalROI_0"
+  },
+  "CategoricalROISubsetState_1": {
+    "_type": "glue.core.subset.CategoricalROISubsetState",
+    "att": "date",
+    "roi": "CategoricalROI_1"
+  },
+  "CategoricalROISubsetState_2": {
+    "_type": "glue.core.subset.CategoricalROISubsetState",
+    "att": "date",
+    "roi": "CategoricalROI_2"
+  },
+  "CategoricalROI_0": {
+    "_type": "glue.core.roi.CategoricalROI",
+    "categories": [
+      "2020-08-27",
+      "2020-08-28",
+      "2020-08-29",
+      "2020-08-30",
+      "2020-08-31",
+      "2020-09-01",
+      "2020-09-02",
+      "2020-09-03"
+    ]
+  },
+  "CategoricalROI_1": {
+    "_type": "glue.core.roi.CategoricalROI",
+    "categories": [
+      "2020-09-05",
+      "2020-09-06",
+      "2020-09-07",
+      "2020-09-08",
+      "2020-09-09",
+      "2020-09-10",
+      "2020-09-11",
+      "2020-09-12",
+      "2020-09-13",
+      "2020-09-14"
+    ]
+  },
+  "CategoricalROI_2": {
+    "_type": "glue.core.roi.CategoricalROI",
+    "categories": [
+      "2020-03-23",
+      "2020-03-24",
+      "2020-03-25",
+      "2020-03-26",
+      "2020-03-27",
+      "2020-03-28",
+      "2020-03-29"
+    ]
+  },
+  "Component": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 4
+  },
+  "Component_0": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 10
+  },
+  "Component_1": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 11
+  },
+  "Component_10": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 21
+  },
+  "Component_11": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 23
+  },
+  "Component_12": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 24
+  },
+  "Component_13": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 25
+  },
+  "Component_14": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 28
+  },
+  "Component_15": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 29
+  },
+  "Component_16": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 32
+  },
+  "Component_17": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 33
+  },
+  "Component_18": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 34
+  },
+  "Component_19": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 35
+  },
+  "Component_2": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 12
+  },
+  "Component_20": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 36
+  },
+  "Component_21": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 37
+  },
+  "Component_22": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 38
+  },
+  "Component_23": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 39
+  },
+  "Component_3": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 14
+  },
+  "Component_4": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 15
+  },
+  "Component_5": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 16
+  },
+  "Component_6": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 17
+  },
+  "Component_7": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 18
+  },
+  "Component_8": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 19
+  },
+  "Component_9": {
+    "_type": "glue.core.component.Component",
+    "log": "LoadLog",
+    "log_item": 20
+  },
+  "CoordinateComponent": {
+    "_type": "glue.core.component.CoordinateComponent",
+    "axis": 0,
+    "world": false
+  },
+  "CoordinateComponent_0": {
+    "_type": "glue.core.component.CoordinateComponent",
+    "axis": 0,
+    "world": true
+  },
+  "Coordinates": {
+    "_type": "glue.core.coordinates.Coordinates"
+  },
+  "DataCollection": {
+    "_protocol": 4,
+    "_type": "glue.core.data_collection.DataCollection",
+    "cids": [
+      "Pixel Axis 0 [x]",
+      "World 0",
+      "date",
+      "province",
+      "ine_code",
+      "ccaa",
+      "new_cases",
+      "PCR",
+      "TestAc",
+      "activos",
+      "hospitalized",
+      "intensive_care",
+      "deceased",
+      "cases_accumulated",
+      "cases_accumulated_PCR",
+      "recovered",
+      "num_casos",
+      "num_casos_prueba_pcr",
+      "num_casos_prueba_test_ac",
+      "num_casos_prueba_otras",
+      "num_casos_prueba_desconocida",
+      "poblacion",
+      "cases_per_cienmil",
+      "intensive_care_per_1000000",
+      "deceassed_per_100000",
+      "hospitalized_per_100000",
+      "cases_14days",
+      "cases_7days",
+      "cases_PCR_14days",
+      "cases_PCR_7days",
+      "daily_cases",
+      "daily_cases_avg7",
+      "daily_cases_PCR",
+      "daily_cases_PCR_avg7",
+      "daily_deaths",
+      "daily_deaths_inc",
+      "daily_deaths_avg3",
+      "daily_deaths_avg7",
+      "deaths_last_week",
+      "source_name",
+      "source",
+      "comments"
+    ],
+    "components": [
+      "CoordinateComponent",
+      "CoordinateComponent_0",
+      "CategoricalComponent",
+      "CategoricalComponent_0",
+      "Component",
+      "CategoricalComponent_1",
+      "CategoricalComponent_2",
+      "CategoricalComponent_3",
+      "CategoricalComponent_4",
+      "CategoricalComponent_5",
+      "Component_0",
+      "Component_1",
+      "Component_2",
+      "CategoricalComponent_6",
+      "Component_3",
+      "Component_4",
+      "Component_5",
+      "Component_6",
+      "Component_7",
+      "Component_8",
+      "Component_9",
+      "Component_10",
+      "CategoricalComponent_7",
+      "Component_11",
+      "Component_12",
+      "Component_13",
+      "CategoricalComponent_8",
+      "CategoricalComponent_9",
+      "Component_14",
+      "Component_15",
+      "CategoricalComponent_10",
+      "CategoricalComponent_11",
+      "Component_16",
+      "Component_17",
+      "Component_18",
+      "Component_19",
+      "Component_20",
+      "Component_21",
+      "Component_22",
+      "Component_23",
+      "CategoricalComponent_12",
+      "CategoricalComponent_13"
+    ],
+    "data": [
+      "covid19-provincias-spain_consolidated"
+    ],
+    "groups": [
+      "Subset 1",
+      "Subset 2",
+      "Subset 3",
+      "Subset 4"
+    ],
+    "links": [],
+    "subset_group_count": 4
+  },
+  "LinearSegmentedColormap": {
+    "_type": "matplotlib.colors.LinearSegmentedColormap",
+    "cmap": "gray"
+  },
+  "LoadLog": {
+    "_protocol": 1,
+    "_type": "glue.core.data_factories.helpers.LoadLog",
+    "factory": {
+      "_type": "types.FunctionType",
+      "function": "glue.core.data_factories.helpers.auto_data"
+    },
+    "kwargs": [
+      []
+    ],
+    "path": "../../data/output/covid19-provincias-spain_consolidated.csv"
+  },
+  "PCR": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "PCR"
+  },
+  "Pixel Axis 0 [x]": {
+    "_type": "glue.core.component_id.PixelComponentID",
+    "axis": 0,
+    "label": "Pixel Axis 0 [x]"
+  },
+  "ScatterLayerState": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.8,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#595959",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "covid19-provincias-spain_consolidated",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 3,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 2
+    }
+  },
+  "ScatterLayerState_0": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#e60000",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 1_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 3
+    }
+  },
+  "ScatterLayerState_1": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#0f00f6",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 2_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 4
+    }
+  },
+  "ScatterLayerState_10": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#e60000",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 1_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 3
+    }
+  },
+  "ScatterLayerState_11": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#0f00f6",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 2_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 4
+    }
+  },
+  "ScatterLayerState_12": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#1f78b4",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 3_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 5
+    }
+  },
+  "ScatterLayerState_13": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#f18900",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 4_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 6
+    }
+  },
+  "ScatterLayerState_14": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.8,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#595959",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "covid19-provincias-spain_consolidated",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 3,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 2
+    }
+  },
+  "ScatterLayerState_15": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#e60000",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 1_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 3
+    }
+  },
+  "ScatterLayerState_16": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#0f00f6",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 2_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 4
+    }
+  },
+  "ScatterLayerState_17": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#1f78b4",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 3_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 5
+    }
+  },
+  "ScatterLayerState_18": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#f18900",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 4_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 6
+    }
+  },
+  "ScatterLayerState_19": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.8,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#595959",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "covid19-provincias-spain_consolidated",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 3,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 1
+    }
+  },
+  "ScatterLayerState_2": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#1f78b4",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 3_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 5
+    }
+  },
+  "ScatterLayerState_20": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#e60000",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 1_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 2
+    }
+  },
+  "ScatterLayerState_21": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#0f00f6",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 2_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 3
+    }
+  },
+  "ScatterLayerState_22": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#1f78b4",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 3_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 4
+    }
+  },
+  "ScatterLayerState_23": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#f18900",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 4_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 5
+    }
+  },
+  "ScatterLayerState_24": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.8,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#595959",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "covid19-provincias-spain_consolidated",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 3,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 1
+    }
+  },
+  "ScatterLayerState_25": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#e60000",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 1_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 2
+    }
+  },
+  "ScatterLayerState_26": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#0f00f6",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 2_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 3
+    }
+  },
+  "ScatterLayerState_27": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#1f78b4",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 3_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 4
+    }
+  },
+  "ScatterLayerState_28": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#f18900",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 4_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 5
+    }
+  },
+  "ScatterLayerState_29": {
+    "_type": "glue_vispy_viewers.scatter.layer_state.ScatterLayerState",
+    "values": {
+      "alpha": 0.8,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_attribute": "date",
+      "cmap_limits_cache": "dict_4",
+      "cmap_vmax": 227.5,
+      "cmap_vmin": -0.5,
+      "color": "st__#595959",
+      "color_mode": "st__Fixed",
+      "layer": "covid19-provincias-spain_consolidated",
+      "size": 3,
+      "size_attribute": "date",
+      "size_limits_cache": "dict_5",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 227.5,
+      "size_vmin": -0.5,
+      "visible": true,
+      "zorder": 1
+    }
+  },
+  "ScatterLayerState_3": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#f18900",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 4_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 6
+    }
+  },
+  "ScatterLayerState_30": {
+    "_type": "glue_vispy_viewers.scatter.layer_state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_attribute": "date",
+      "cmap_limits_cache": "dict_4",
+      "cmap_vmax": 227.5,
+      "cmap_vmin": -0.5,
+      "color": "st__#e60000",
+      "color_mode": "st__Fixed",
+      "layer": "Subset 1_0",
+      "size": 7,
+      "size_attribute": "date",
+      "size_limits_cache": "dict_5",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 227.5,
+      "size_vmin": -0.5,
+      "visible": true,
+      "zorder": 2
+    }
+  },
+  "ScatterLayerState_31": {
+    "_type": "glue_vispy_viewers.scatter.layer_state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_attribute": "date",
+      "cmap_limits_cache": "dict_4",
+      "cmap_vmax": 227.5,
+      "cmap_vmin": -0.5,
+      "color": "st__#0f00f6",
+      "color_mode": "st__Fixed",
+      "layer": "Subset 2_0",
+      "size": 7,
+      "size_attribute": "date",
+      "size_limits_cache": "dict_5",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 227.5,
+      "size_vmin": -0.5,
+      "visible": true,
+      "zorder": 3
+    }
+  },
+  "ScatterLayerState_32": {
+    "_type": "glue_vispy_viewers.scatter.layer_state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_attribute": "date",
+      "cmap_limits_cache": "dict_4",
+      "cmap_vmax": 227.5,
+      "cmap_vmin": -0.5,
+      "color": "st__#1f78b4",
+      "color_mode": "st__Fixed",
+      "layer": "Subset 3_0",
+      "size": 7,
+      "size_attribute": "date",
+      "size_limits_cache": "dict_5",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 227.5,
+      "size_vmin": -0.5,
+      "visible": true,
+      "zorder": 4
+    }
+  },
+  "ScatterLayerState_33": {
+    "_type": "glue_vispy_viewers.scatter.layer_state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_attribute": "date",
+      "cmap_limits_cache": "dict_4",
+      "cmap_vmax": 227.5,
+      "cmap_vmin": -0.5,
+      "color": "st__#f18900",
+      "color_mode": "st__Fixed",
+      "layer": "Subset 4_0",
+      "size": 7,
+      "size_attribute": "date",
+      "size_limits_cache": "dict_5",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 227.5,
+      "size_vmin": -0.5,
+      "visible": true,
+      "zorder": 5
+    }
+  },
+  "ScatterLayerState_4": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.8,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#595959",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "covid19-provincias-spain_consolidated",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 3,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 2
+    }
+  },
+  "ScatterLayerState_5": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#e60000",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 1_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 3
+    }
+  },
+  "ScatterLayerState_6": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#0f00f6",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 2_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 4
+    }
+  },
+  "ScatterLayerState_7": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#1f78b4",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 3_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 5
+    }
+  },
+  "ScatterLayerState_8": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.5,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#f18900",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "Subset 4_0",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 7,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 6
+    }
+  },
+  "ScatterLayerState_9": {
+    "_type": "glue.viewers.scatter.state.ScatterLayerState",
+    "values": {
+      "alpha": 0.8,
+      "cmap": "LinearSegmentedColormap",
+      "cmap_att": "ine_code",
+      "cmap_mode": "st__Fixed",
+      "cmap_vmax": 52,
+      "cmap_vmin": 1,
+      "color": "st__#595959",
+      "density_contrast": 1.0,
+      "density_map": false,
+      "fill": true,
+      "layer": "covid19-provincias-spain_consolidated",
+      "line_visible": false,
+      "linestyle": "st__solid",
+      "linewidth": 1,
+      "markers_visible": true,
+      "points_mode": "st__auto",
+      "size": 3,
+      "size_att": "ine_code",
+      "size_mode": "st__Fixed",
+      "size_scaling": 1,
+      "size_vmax": 52,
+      "size_vmin": 1,
+      "stretch": "st__log",
+      "vector_arrowhead": false,
+      "vector_mode": "st__Cartesian",
+      "vector_origin": "st__middle",
+      "vector_scaling": 0.9770099572992254,
+      "vector_visible": false,
+      "visible": true,
+      "vx_att": "ine_code",
+      "vy_att": "ine_code",
+      "xerr_att": "ine_code",
+      "xerr_visible": false,
+      "yerr_att": "ine_code",
+      "yerr_visible": false,
+      "zorder": 2
+    }
+  },
+  "ScatterViewer": {
+    "_protocol": 1,
+    "_type": "glue.viewers.scatter.qt.data_viewer.ScatterViewer",
+    "layers": [
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_0"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_1"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_2"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_3"
+      }
+    ],
+    "pos": [
+      0,
+      0
+    ],
+    "session": "Session",
+    "size": [
+      1113,
+      341
+    ],
+    "state": {
+      "values": {
+        "aspect": "st__auto",
+        "dpi": 71.30820648960312,
+        "layers": "CallbackList",
+        "show_axes": true,
+        "x_att": "date",
+        "x_axislabel": "st__date",
+        "x_axislabel_size": 10,
+        "x_axislabel_weight": "st__normal",
+        "x_log": false,
+        "x_max": 240.0,
+        "x_min": -8.82,
+        "x_ticklabel_size": 8,
+        "y_att": "daily_deaths",
+        "y_axislabel": "st__daily_deaths",
+        "y_axislabel_size": 10,
+        "y_axislabel_weight": "st__normal",
+        "y_log": false,
+        "y_max": 392.96,
+        "y_min": -37.96,
+        "y_ticklabel_size": 8
+      }
+    }
+  },
+  "ScatterViewer_0": {
+    "_protocol": 1,
+    "_type": "glue.viewers.scatter.qt.data_viewer.ScatterViewer",
+    "layers": [
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_4"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_5"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_6"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_7"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_8"
+      }
+    ],
+    "pos": [
+      0,
+      341
+    ],
+    "session": "Session",
+    "size": [
+      392,
+      407
+    ],
+    "state": {
+      "values": {
+        "aspect": "st__auto",
+        "dpi": 71.30820648960312,
+        "layers": "CallbackList_0",
+        "show_axes": true,
+        "x_att": "hospitalized",
+        "x_axislabel": "st__hospitalized",
+        "x_axislabel_size": 10,
+        "x_axislabel_weight": "st__normal",
+        "x_log": false,
+        "x_max": 15836.1,
+        "x_min": -609.08,
+        "x_ticklabel_size": 8,
+        "y_att": "daily_deaths",
+        "y_axislabel": "st__daily_deaths",
+        "y_axislabel_size": 10,
+        "y_axislabel_weight": "st__normal",
+        "y_log": false,
+        "y_max": 392.96,
+        "y_min": -37.96,
+        "y_ticklabel_size": 8
+      }
+    }
+  },
+  "ScatterViewer_1": {
+    "_protocol": 1,
+    "_type": "glue.viewers.scatter.qt.data_viewer.ScatterViewer",
+    "layers": [
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_9"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_10"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_11"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_12"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_13"
+      }
+    ],
+    "pos": [
+      815,
+      339
+    ],
+    "session": "Session",
+    "size": [
+      369,
+      406
+    ],
+    "state": {
+      "values": {
+        "aspect": "st__auto",
+        "dpi": 71.30820648960312,
+        "layers": "CallbackList_1",
+        "show_axes": true,
+        "x_att": "intensive_care",
+        "x_axislabel": "st__intensive_care",
+        "x_axislabel_size": 10,
+        "x_axislabel_weight": "st__normal",
+        "x_log": false,
+        "x_max": 1589.12,
+        "x_min": -61.120000000000005,
+        "x_ticklabel_size": 8,
+        "y_att": "daily_deaths",
+        "y_axislabel": "st__daily_deaths",
+        "y_axislabel_size": 10,
+        "y_axislabel_weight": "st__normal",
+        "y_log": false,
+        "y_max": 392.96,
+        "y_min": -37.96,
+        "y_ticklabel_size": 8
+      }
+    }
+  },
+  "ScatterViewer_2": {
+    "_protocol": 1,
+    "_type": "glue.viewers.scatter.qt.data_viewer.ScatterViewer",
+    "layers": [
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_14"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_15"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_16"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_17"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_18"
+      }
+    ],
+    "pos": [
+      390,
+      338
+    ],
+    "session": "Session",
+    "size": [
+      426,
+      408
+    ],
+    "state": {
+      "values": {
+        "aspect": "st__auto",
+        "dpi": 71.30820648960312,
+        "layers": "CallbackList_2",
+        "show_axes": true,
+        "x_att": "num_casos_prueba_pcr",
+        "x_axislabel": "st__num_casos_prueba_pcr",
+        "x_axislabel_size": 10,
+        "x_axislabel_weight": "st__normal",
+        "x_log": false,
+        "x_max": 3231.28,
+        "x_min": -124.28,
+        "x_ticklabel_size": 8,
+        "y_att": "daily_deaths",
+        "y_axislabel": "st__daily_deaths",
+        "y_axislabel_size": 10,
+        "y_axislabel_weight": "st__normal",
+        "y_log": false,
+        "y_max": 392.96,
+        "y_min": -37.96,
+        "y_ticklabel_size": 8
+      }
+    }
+  },
+  "ScatterViewer_3": {
+    "_protocol": 1,
+    "_type": "glue.viewers.scatter.qt.data_viewer.ScatterViewer",
+    "layers": [
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_19"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_20"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_21"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_22"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_23"
+      }
+    ],
+    "pos": [
+      0,
+      746
+    ],
+    "session": "Session",
+    "size": [
+      1124,
+      438
+    ],
+    "state": {
+      "values": {
+        "aspect": "st__auto",
+        "dpi": 71.30820648960312,
+        "layers": "CallbackList_3",
+        "show_axes": true,
+        "x_att": "date",
+        "x_axislabel": "st__date",
+        "x_axislabel_size": 10,
+        "x_axislabel_weight": "st__normal",
+        "x_log": false,
+        "x_max": 236.62,
+        "x_min": -9.620000000000001,
+        "x_ticklabel_size": 8,
+        "y_att": "hospitalized",
+        "y_axislabel": "st__hospitalized",
+        "y_axislabel_size": 10,
+        "y_axislabel_weight": "st__normal",
+        "y_log": false,
+        "y_max": 15836.08,
+        "y_min": -609.08,
+        "y_ticklabel_size": 8
+      }
+    }
+  },
+  "ScatterViewer_4": {
+    "_protocol": 1,
+    "_type": "glue.viewers.scatter.qt.data_viewer.ScatterViewer",
+    "layers": [
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_24"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_25"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_26"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_27"
+      },
+      {
+        "_type": "glue.viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_28"
+      }
+    ],
+    "pos": [
+      0,
+      1184
+    ],
+    "session": "Session",
+    "size": [
+      1113,
+      397
+    ],
+    "state": {
+      "values": {
+        "aspect": "st__auto",
+        "dpi": 71.30820648960312,
+        "layers": "CallbackList_4",
+        "show_axes": true,
+        "x_att": "date",
+        "x_axislabel": "st__date",
+        "x_axislabel_size": 10,
+        "x_axislabel_weight": "st__normal",
+        "x_log": false,
+        "x_max": 236.62,
+        "x_min": -9.620000000000001,
+        "x_ticklabel_size": 8,
+        "y_att": "intensive_care",
+        "y_axislabel": "st__intensive_care",
+        "y_axislabel_size": 10,
+        "y_axislabel_weight": "st__normal",
+        "y_log": false,
+        "y_max": 1589.12,
+        "y_min": -61.120000000000005,
+        "y_ticklabel_size": 8
+      }
+    }
+  },
+  "Session": {
+    "_type": "glue.core.session.Session"
+  },
+  "Subset 1": {
+    "_type": "glue.core.subset_group.SubsetGroup",
+    "label": "Subset 1",
+    "state": "CategoricalROISubsetState",
+    "style": {
+      "_type": "glue.core.visual.VisualAttributes",
+      "alpha": 0.5,
+      "color": "#e60000",
+      "linestyle": "solid",
+      "linewidth": 2.5,
+      "marker": "o",
+      "markersize": 7
+    },
+    "subsets": [
+      "Subset 1_0"
+    ]
+  },
+  "Subset 1_0": {
+    "_type": "glue.core.subset_group.GroupedSubset",
+    "group": "Subset 1",
+    "style": {
+      "_type": "glue.core.visual.VisualAttributes",
+      "alpha": 0.5,
+      "color": "#e60000",
+      "linestyle": "solid",
+      "linewidth": 2.5,
+      "marker": "o",
+      "markersize": 7
+    }
+  },
+  "Subset 2": {
+    "_type": "glue.core.subset_group.SubsetGroup",
+    "label": "Subset 2",
+    "state": "CategoricalROISubsetState_0",
+    "style": {
+      "_type": "glue.core.visual.VisualAttributes",
+      "alpha": 0.5,
+      "color": "#0f00f6",
+      "linestyle": "solid",
+      "linewidth": 2.5,
+      "marker": "o",
+      "markersize": 7
+    },
+    "subsets": [
+      "Subset 2_0"
+    ]
+  },
+  "Subset 2_0": {
+    "_type": "glue.core.subset_group.GroupedSubset",
+    "group": "Subset 2",
+    "style": {
+      "_type": "glue.core.visual.VisualAttributes",
+      "alpha": 0.5,
+      "color": "#0f00f6",
+      "linestyle": "solid",
+      "linewidth": 2.5,
+      "marker": "o",
+      "markersize": 7
+    }
+  },
+  "Subset 3": {
+    "_type": "glue.core.subset_group.SubsetGroup",
+    "label": "Subset 3",
+    "state": "CategoricalROISubsetState_1",
+    "style": {
+      "_type": "glue.core.visual.VisualAttributes",
+      "alpha": 0.5,
+      "color": "#1f78b4",
+      "linestyle": "solid",
+      "linewidth": 2.5,
+      "marker": "o",
+      "markersize": 7
+    },
+    "subsets": [
+      "Subset 3_0"
+    ]
+  },
+  "Subset 3_0": {
+    "_type": "glue.core.subset_group.GroupedSubset",
+    "group": "Subset 3",
+    "style": {
+      "_type": "glue.core.visual.VisualAttributes",
+      "alpha": 0.5,
+      "color": "#1f78b4",
+      "linestyle": "solid",
+      "linewidth": 2.5,
+      "marker": "o",
+      "markersize": 7
+    }
+  },
+  "Subset 4": {
+    "_type": "glue.core.subset_group.SubsetGroup",
+    "label": "Subset 4",
+    "state": "CategoricalROISubsetState_2",
+    "style": {
+      "_type": "glue.core.visual.VisualAttributes",
+      "alpha": 0.5,
+      "color": "#f18900",
+      "linestyle": "solid",
+      "linewidth": 2.5,
+      "marker": "o",
+      "markersize": 7
+    },
+    "subsets": [
+      "Subset 4_0"
+    ]
+  },
+  "Subset 4_0": {
+    "_type": "glue.core.subset_group.GroupedSubset",
+    "group": "Subset 4",
+    "style": {
+      "_type": "glue.core.visual.VisualAttributes",
+      "alpha": 0.5,
+      "color": "#f18900",
+      "linestyle": "solid",
+      "linewidth": 2.5,
+      "marker": "o",
+      "markersize": 7
+    }
+  },
+  "TestAc": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "TestAc"
+  },
+  "VispyScatterViewer": {
+    "_protocol": 1,
+    "_type": "glue_vispy_viewers.scatter.scatter_viewer.VispyScatterViewer",
+    "layers": [
+      {
+        "_type": "glue_vispy_viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_29"
+      },
+      {
+        "_type": "glue_vispy_viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_30"
+      },
+      {
+        "_type": "glue_vispy_viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_31"
+      },
+      {
+        "_type": "glue_vispy_viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_32"
+      },
+      {
+        "_type": "glue_vispy_viewers.scatter.layer_artist.ScatterLayerArtist",
+        "state": "ScatterLayerState_33"
+      }
+    ],
+    "pos": [
+      0,
+      0
+    ],
+    "session": "Session",
+    "size": [
+      896,
+      810
+    ],
+    "state": {
+      "values": {
+        "clip_data": true,
+        "layers": "CallbackList_5",
+        "limits_cache": "dict",
+        "native_aspect": false,
+        "perspective_view": false,
+        "visible_axes": true,
+        "x_att": "ine_code",
+        "x_max": 52.906904712404796,
+        "x_min": 0.09309528759520447,
+        "x_stretch": 1.0,
+        "y_att": "hospitalized",
+        "y_max": 15497.8,
+        "y_min": -270.77329521152205,
+        "y_stretch": 1.0,
+        "z_att": "deceased",
+        "z_max": 12000.0,
+        "z_min": 0.0,
+        "z_stretch": 1.0
+      }
+    }
+  },
+  "World 0": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "World 0"
+  },
+  "__main__": {
+    "_type": "glue.app.qt.application.GlueApplication",
+    "data": "DataCollection",
+    "plugins": [
+      "glue.plugins.dendro_viewer.qt",
+      "glue.core.data_exporters",
+      "glue.viewers.profile.qt",
+      "glue.viewers.scatter.qt",
+      "glue.plugins.coordinate_helpers",
+      "glue.viewers.image.qt",
+      "glue.plugins.tools",
+      "glue.plugins.wcs_autolinking",
+      "glue_vispy_viewers.volume",
+      "glue.viewers.histogram.qt",
+      "glue_vispy_viewers.scatter",
+      "glue.plugins.export_d3po",
+      "glue.io.formats.fits",
+      "glue.plugins.tools.pv_slicer",
+      "glue.viewers.table.qt"
+    ],
+    "session": "Session",
+    "tab_names": [
+      "Tab 1",
+      "Tab 2"
+    ],
+    "viewers": [
+      [
+        "ScatterViewer",
+        "ScatterViewer_0",
+        "ScatterViewer_1",
+        "ScatterViewer_2",
+        "ScatterViewer_3",
+        "ScatterViewer_4"
+      ],
+      [
+        "VispyScatterViewer"
+      ]
+    ]
+  },
+  "activos": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "activos"
+  },
+  "cases_14days": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "cases_14days"
+  },
+  "cases_7days": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "cases_7days"
+  },
+  "cases_PCR_14days": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "cases_PCR_14days"
+  },
+  "cases_PCR_7days": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "cases_PCR_7days"
+  },
+  "cases_accumulated": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "cases_accumulated"
+  },
+  "cases_accumulated_PCR": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "cases_accumulated_PCR"
+  },
+  "cases_per_cienmil": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "cases_per_cienmil"
+  },
+  "ccaa": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "ccaa"
+  },
+  "comments": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "comments"
+  },
+  "covid19-provincias-spain_consolidated": {
+    "_key_joins": [],
+    "_protocol": 5,
+    "_type": "glue.core.data.Data",
+    "components": [
+      [
+        "Pixel Axis 0 [x]",
+        "CoordinateComponent"
+      ],
+      [
+        "World 0",
+        "CoordinateComponent_0"
+      ],
+      [
+        "date",
+        "CategoricalComponent"
+      ],
+      [
+        "province",
+        "CategoricalComponent_0"
+      ],
+      [
+        "ine_code",
+        "Component"
+      ],
+      [
+        "ccaa",
+        "CategoricalComponent_1"
+      ],
+      [
+        "new_cases",
+        "CategoricalComponent_2"
+      ],
+      [
+        "PCR",
+        "CategoricalComponent_3"
+      ],
+      [
+        "TestAc",
+        "CategoricalComponent_4"
+      ],
+      [
+        "activos",
+        "CategoricalComponent_5"
+      ],
+      [
+        "hospitalized",
+        "Component_0"
+      ],
+      [
+        "intensive_care",
+        "Component_1"
+      ],
+      [
+        "deceased",
+        "Component_2"
+      ],
+      [
+        "cases_accumulated",
+        "CategoricalComponent_6"
+      ],
+      [
+        "cases_accumulated_PCR",
+        "Component_3"
+      ],
+      [
+        "recovered",
+        "Component_4"
+      ],
+      [
+        "num_casos",
+        "Component_5"
+      ],
+      [
+        "num_casos_prueba_pcr",
+        "Component_6"
+      ],
+      [
+        "num_casos_prueba_test_ac",
+        "Component_7"
+      ],
+      [
+        "num_casos_prueba_otras",
+        "Component_8"
+      ],
+      [
+        "num_casos_prueba_desconocida",
+        "Component_9"
+      ],
+      [
+        "poblacion",
+        "Component_10"
+      ],
+      [
+        "cases_per_cienmil",
+        "CategoricalComponent_7"
+      ],
+      [
+        "intensive_care_per_1000000",
+        "Component_11"
+      ],
+      [
+        "deceassed_per_100000",
+        "Component_12"
+      ],
+      [
+        "hospitalized_per_100000",
+        "Component_13"
+      ],
+      [
+        "cases_14days",
+        "CategoricalComponent_8"
+      ],
+      [
+        "cases_7days",
+        "CategoricalComponent_9"
+      ],
+      [
+        "cases_PCR_14days",
+        "Component_14"
+      ],
+      [
+        "cases_PCR_7days",
+        "Component_15"
+      ],
+      [
+        "daily_cases",
+        "CategoricalComponent_10"
+      ],
+      [
+        "daily_cases_avg7",
+        "CategoricalComponent_11"
+      ],
+      [
+        "daily_cases_PCR",
+        "Component_16"
+      ],
+      [
+        "daily_cases_PCR_avg7",
+        "Component_17"
+      ],
+      [
+        "daily_deaths",
+        "Component_18"
+      ],
+      [
+        "daily_deaths_inc",
+        "Component_19"
+      ],
+      [
+        "daily_deaths_avg3",
+        "Component_20"
+      ],
+      [
+        "daily_deaths_avg7",
+        "Component_21"
+      ],
+      [
+        "deaths_last_week",
+        "Component_22"
+      ],
+      [
+        "source_name",
+        "Component_23"
+      ],
+      [
+        "source",
+        "CategoricalComponent_12"
+      ],
+      [
+        "comments",
+        "CategoricalComponent_13"
+      ]
+    ],
+    "coords": "Coordinates",
+    "label": "covid19-provincias-spain_consolidated",
+    "meta": {
+      "_type": "collections.OrderedDict",
+      "contents": {}
+    },
+    "primary_owner": [
+      "Pixel Axis 0 [x]",
+      "World 0",
+      "date",
+      "province",
+      "ine_code",
+      "ccaa",
+      "new_cases",
+      "PCR",
+      "TestAc",
+      "activos",
+      "hospitalized",
+      "intensive_care",
+      "deceased",
+      "cases_accumulated",
+      "cases_accumulated_PCR",
+      "recovered",
+      "num_casos",
+      "num_casos_prueba_pcr",
+      "num_casos_prueba_test_ac",
+      "num_casos_prueba_otras",
+      "num_casos_prueba_desconocida",
+      "poblacion",
+      "cases_per_cienmil",
+      "intensive_care_per_1000000",
+      "deceassed_per_100000",
+      "hospitalized_per_100000",
+      "cases_14days",
+      "cases_7days",
+      "cases_PCR_14days",
+      "cases_PCR_7days",
+      "daily_cases",
+      "daily_cases_avg7",
+      "daily_cases_PCR",
+      "daily_cases_PCR_avg7",
+      "daily_deaths",
+      "daily_deaths_inc",
+      "daily_deaths_avg3",
+      "daily_deaths_avg7",
+      "deaths_last_week",
+      "source_name",
+      "source",
+      "comments"
+    ],
+    "style": {
+      "_type": "glue.core.visual.VisualAttributes",
+      "alpha": 0.8,
+      "color": "#595959",
+      "linestyle": "solid",
+      "linewidth": 1,
+      "marker": "o",
+      "markersize": 3
+    },
+    "subsets": [
+      "Subset 1_0",
+      "Subset 2_0",
+      "Subset 3_0",
+      "Subset 4_0"
+    ],
+    "uuid": "cd572004-928e-488e-898f-4442d822c502"
+  },
+  "daily_cases": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "daily_cases"
+  },
+  "daily_cases_PCR": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "daily_cases_PCR"
+  },
+  "daily_cases_PCR_avg7": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "daily_cases_PCR_avg7"
+  },
+  "daily_cases_avg7": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "daily_cases_avg7"
+  },
+  "daily_deaths": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "daily_deaths"
+  },
+  "daily_deaths_avg3": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "daily_deaths_avg3"
+  },
+  "daily_deaths_avg7": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "daily_deaths_avg7"
+  },
+  "daily_deaths_inc": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "daily_deaths_inc"
+  },
+  "date": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "date"
+  },
+  "deaths_last_week": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "deaths_last_week"
+  },
+  "deceased": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "deceased"
+  },
+  "deceassed_per_100000": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "deceassed_per_100000"
+  },
+  "dict": {
+    "_type": "builtins.dict",
+    "contents": {
+      "deceased": "dict_3",
+      "hospitalized": "dict_1",
+      "ine_code": "dict_0",
+      "intensive_care": "dict_2"
+    }
+  },
+  "dict_0": {
+    "_type": "builtins.dict",
+    "contents": {
+      "st__lower": 0.09309528759520447,
+      "st__upper": 52.906904712404796
+    }
+  },
+  "dict_1": {
+    "_type": "builtins.dict",
+    "contents": {
+      "st__lower": -270.77329521152205,
+      "st__upper": 15497.8
+    }
+  },
+  "dict_2": {
+    "_type": "builtins.dict",
+    "contents": {
+      "st__lower": 0.0,
+      "st__upper": 1528.0
+    }
+  },
+  "dict_3": {
+    "_type": "builtins.dict",
+    "contents": {
+      "st__lower": 0.0,
+      "st__upper": 12000.0
+    }
+  },
+  "dict_4": {
+    "_type": "builtins.dict",
+    "contents": {
+      "date": "dict_6"
+    }
+  },
+  "dict_5": {
+    "_type": "builtins.dict",
+    "contents": {
+      "date": "dict_7"
+    }
+  },
+  "dict_6": {
+    "_type": "builtins.dict",
+    "contents": {
+      "st__lower": -0.5,
+      "st__upper": 227.5
+    }
+  },
+  "dict_7": {
+    "_type": "builtins.dict",
+    "contents": {
+      "st__lower": -0.5,
+      "st__upper": 227.5
+    }
+  },
+  "hospitalized": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "hospitalized"
+  },
+  "hospitalized_per_100000": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "hospitalized_per_100000"
+  },
+  "ine_code": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "ine_code"
+  },
+  "intensive_care": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "intensive_care"
+  },
+  "intensive_care_per_1000000": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "intensive_care_per_1000000"
+  },
+  "new_cases": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "new_cases"
+  },
+  "num_casos": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "num_casos"
+  },
+  "num_casos_prueba_desconocida": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "num_casos_prueba_desconocida"
+  },
+  "num_casos_prueba_otras": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "num_casos_prueba_otras"
+  },
+  "num_casos_prueba_pcr": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "num_casos_prueba_pcr"
+  },
+  "num_casos_prueba_test_ac": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "num_casos_prueba_test_ac"
+  },
+  "poblacion": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "poblacion"
+  },
+  "province": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "province"
+  },
+  "recovered": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "recovered"
+  },
+  "source": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "source"
+  },
+  "source_name": {
+    "_type": "glue.core.component_id.ComponentID",
+    "label": "source_name"
+  }
+}
