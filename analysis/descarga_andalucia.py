@@ -7,6 +7,7 @@ basado en https://github.com/alfonsotwr/snippets/tree/master/covidia-cam
 import os
 import re
 import time
+import datetime
 import os.path as pth
 import pandas as pd
 from glob import glob
@@ -15,7 +16,7 @@ import requests
 def expand (url):
    print (url)
    session = requests.Session()  # so connections are recycled
-   resp = session.head(url, allow_redirects=True,timeout=30,verify=False)
+   resp = session.head(url, allow_redirects=True,timeout=50,verify=False)
    print(resp.url)
    return resp.url
 
@@ -33,7 +34,7 @@ def descarga(url, fn, isbinary=False, isascii=False,
             if prevpage:
                 s.get(prevpage, headers=headers)
         
-            r = s.get(url, headers=headers,verify=False) #no verifico porque da error de verificación
+            r = s.get(url, headers=headers,verify=False,timeout=50) #no verifico porque da error de verificación
         if r.status_code == requests.codes.ok:
             if isbinary:
                 with open(fn, 'wb') as fp:
@@ -72,9 +73,10 @@ def main():
   fp.close()
 
   #Descargamos informes más recientes
-  list_last_report=re.findall (r"(http:\/\/lajunta.es\/[0-9a-z]+)", web_page)   
-  #solo son significativos de 1 a 9 primeros valores
-  for i in range (1,9):
+  text_last_report= re.search (r'Últimos\sComunicados<\/h2>[\w\d\s\(\)\/<>,\.:\\<>=:;&?$\""-]+', web_page)
+  list_last_report=re.findall (r"(http[s]*:\/\/[\w.]+junta[0-9a-zA-Z\.\/]+)", text_last_report.group(0))   
+  #solo son significativos de 0 a 9 primeros valores
+  for i in range (0,9):
     url_report= expand (list_last_report[i])
     time.sleep(1)
     fn=pth.basename(url_report)
@@ -99,8 +101,8 @@ def main():
     time.sleep(1)
     print (url_report)
     if url_report == first_report:
-      print ('encontrado perimer informe')
-      break
+     print ('encontrado perimer informe')
+     break
   
   #borramos index_links.html y historico_links.html
   time.sleep(2)
@@ -114,7 +116,10 @@ def main():
       text = fp.read()
     try:
       info_date=re.search(r'\d\d/\d\d/\d\d\d\d',text)
-      date_report=info_date.group(0)
+      date_report_str=info_date.group(0)
+      date_report=datetime.datetime.strptime(date_report_str, '%d/%m/%Y')
+      date_data = date_report - datetime.timedelta(days=1)
+      date_data_str=date_data.strftime('%d/%m/%Y')
       info= re.search(r'Por provincias[\w\d\s\(\)\/<>,\.:\\]+',text)
       info_ok = info.group(0).replace("ninguno", "0")
       info_ok = info_ok.replace("ninguna hospitalización", "0 0")
@@ -124,7 +129,7 @@ def main():
                    'Jaén','Málaga','Sevilla' ]  
       j=0
       for provincia in provincias:
-        df.loc[i] = [date_report, provincia,numbers[j],numbers[j+1]]
+        df.loc[i] = [date_data_str, provincia,numbers[j],numbers[j+1]]
         i += 1
         j += 2
     except:
