@@ -83,7 +83,7 @@ def main():
     print (fn)
     descarga(url_report, fn, isbinary=True)
     time.sleep(1)
-  #Descargamos histórico de informes  
+  Descargamos histórico de informes  
   fn='historico_links.html'
   descarga(url_historico, fn, isbinary=True) 
   time.sleep(1)
@@ -120,18 +120,19 @@ def main():
       date_report=datetime.datetime.strptime(date_report_str, '%d/%m/%Y')
       date_data = date_report - datetime.timedelta(days=1)
       date_data_str=date_data.strftime('%d/%m/%Y')
-      info= re.search(r'Por provincias[\w\d\s\(\)\/<>,\.:\\]+',text)
+      info= re.search(r'Por provincias:[\w\d\s\(\)\/<>,\.:\\]+',text)
       info_ok = info.group(0).replace("ninguno", "0")
       info_ok = info_ok.replace("ninguna hospitalización", "0 0")
       info_ok = info_ok.replace("sin hospitalizaciones", "0 0")
       numbers=re.findall (r"\d+", info_ok) 
       provincias =['Almería', 'Cádiz','Córdoba','Granada', 'Huelva',
                    'Jaén','Málaga','Sevilla' ]  
-      j=0
-      for provincia in provincias:
-        df.loc[i] = [date_data_str, provincia,numbers[j],numbers[j+1]]
-        i += 1
-        j += 2
+      if len (numbers) >= len(provincias)*2:
+        j=0
+        for provincia in provincias:
+          df.loc[i] = [date_data_str, provincia,numbers[j],numbers[j+1]]
+          i += 1
+          j += 2
     except:
       print ('file not match',fn)
   print('Escribiendo', csvfn)
