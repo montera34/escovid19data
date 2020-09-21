@@ -120,7 +120,7 @@ def main():
       date_report=datetime.datetime.strptime(date_report_str, '%d/%m/%Y')
       date_data = date_report - datetime.timedelta(days=1)
       date_data_str=date_data.strftime('%d/%m/%Y')
-      info= re.search(r'Por provincias:[\w\d\s\(\)\/<>,\.:\\]+',text)
+      info= re.search(r'Por provincias[\w\d\s\(\)\/<>,\.:\\]+',text)
       info_ok = info.group(0).replace("ninguno", "0")
       info_ok = info_ok.replace("ninguna hospitalización", "0 0")
       info_ok = info_ok.replace("sin hospitalizaciones", "0 0")
