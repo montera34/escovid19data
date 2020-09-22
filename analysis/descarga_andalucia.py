@@ -115,8 +115,8 @@ def main():
     with open(fn, encoding='utf-8') as fp:
       text = fp.read()
     try:
-      info_date=re.search(r'\d\d/\d\d/\d\d\d\d',text)
-      date_report_str=info_date.group(0)
+      info_date=re.search(r'Andalucía,\s(\d\d/\d\d/\d\d\d\d)',text)
+      date_report_str=info_date.group(1)
       date_report=datetime.datetime.strptime(date_report_str, '%d/%m/%Y')
       date_data = date_report - datetime.timedelta(days=1)
       date_data_str=date_data.strftime('%d/%m/%Y')
