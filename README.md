@@ -12,12 +12,12 @@ Puedes ayudar colaborando actiamente en la recopilación de daos o detectando er
 
 ## Los datos / The data
 
-Los datos por provincias se publican en este CSV: [/data/output/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/blob/master/data/output/covid19-provincias-spain_consolidated.csv).
+Los datos por provincias se publican en este CSV: [/data/output/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/blob/master/data/output/covid19-provincias-spain_consolidated.csv), también se publican en formato [.xls](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-ccaa-spain_consolidated.xlsx) y [.rds](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-ccaa-spain_consolidated.rds).
 
-Se han creado datos agregados por CCAA y para toda España en el directorio [```/data/output/```](https://github.com/montera34/escovid19data/tree/master/data/output):
+Se han creado datos agregados por CCAA y para toda España en el directorio [```/data/output/```](https://github.com/montera34/escovid19data/tree/master/data/output) en base a los datos provinciales. La fuente de los datos es la misma que la de las seies provinciales:
 
-* **covid19-ccaa-spain_consolidated.(rds, csv, xlsx)** para datos agregados por comunidades autónomas
-* **covid19-spain_consolidated.(rds, csv, xlsx)** para datos agregados para toda España
+* **covid19-ccaa-spain_consolidated.([rds](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-ccaa-spain_consolidated.rds), [csv](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-ccaa-spain_consolidated.csv), [xlsx](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-ccaa-spain_consolidated.xlsx))** para datos agregados por comunidades autónomas.
+* **covid19-spain_consolidated.([rds](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-provincias-spain_consolidated.rds), [csv](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-provincias-spain_consolidated.csv), [xlsx](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-provincias-spain_consolidated.xlsx))** para datos agregados para toda España.
 
 Incluye el código del INE para las provincias y datos relativos a 100.000 habitantes.
 Cuando se indica 'NA' es que no hay datos disponibles.
@@ -78,6 +78,8 @@ Datos calculados a partir de los datos de arriba | Calculated data:
 * `deaths_last_week` Fallecidos en los últimos 7 días | Deaths in the last 7 days.
 
 * `num_casos_prueba_pcr_avg7` Media de casos (ventana de 7 días) de casos con prueba de laboratorio PCR o técnicas moleculares de los datos de RENAVE-ISCIII 
+
+* `ia14` Incidencia ccumulada 14 días (casos en los últimos 14 días por cada 100.000 habitantes) | Cases in 14 days by 100,000 inhabitants
 
 Fuente de los datos y comentarios | Data sources and comments:
 
