@@ -5,7 +5,7 @@
 
 ## ¿Puedes utilizar los datos? ¿Cómo colaborar?
 
-Por supuesto puedes usar los datos recopilados, para eso están. [Pon link a este repositorio (https://github.com/montera34/escovid19data)](https://github.com/montera34/escovid19data) e indica que el proyecto es Escovid19data. Liberamos los datos para que hagas con ellos lo que quieras. Si nos citas, mejor, para mantener la trazabilidad de los datos. Nos encantará saber que usas los datos, escríbemos a covid19@montera34.com o tuitea con [#escovid19data](https://twitter.com/search?q=%23escovi19data&src=typed_query&f=live).
+Por supuesto puedes usar los datos recopilados, para eso están. [Pon link a este repositorio (https://github.com/montera34/escovid19data)](https://github.com/montera34/escovid19data) e indica que el proyecto es Escovid19data. Liberamos los datos para que hagas con ellos lo que quieras. Si nos citas, mejor, para mantener la trazabilidad de los datos. Nos encantará saber que usas los datos, escríbemos a covid19@montera34.com o tuitea con [#escovid19data](https://twitter.com/search?q=%23escovid19data&src=typed_query&f=live).
 Ver condiciones de [la licencia con que compartimos los datos](https://github.com/montera34/escovid19data/blob/master/LICENSE.md).
 
 Puedes ayudar colaborando activamente en la recopilación de datos o detectando errores y notificándolos. Anímate a participar. Puedes ponernos un email (covid19@montera34.com), o mejor, [crear un incidencia](https://github.com/montera34/escovid19data/issues). 
