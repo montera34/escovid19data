@@ -5,14 +5,14 @@
 
 ## ¿Puedes utilizar los datos? ¿Cómo colaborar?
 
-[Pon link a este repositorio (https://github.com/montera34/escovid19data)](https://github.com/montera34/escovid19data) y llámalo Escovid19data. Liberamos los datos para que hagas con ellos lo que quieras. Si nos citas, mejor, para mantener la trazabilidad de los datos. Nos encantará saber que usas los datos, escríbemos a covid19@montera34.com o tuitea con #escovid19data.
+Por supuesto puedes usar los datos recopilados, para eso están. [Pon link a este repositorio (https://github.com/montera34/escovid19data)](https://github.com/montera34/escovid19data) e indica que el proyecto es Escovid19data. Liberamos los datos para que hagas con ellos lo que quieras. Si nos citas, mejor, para mantener la trazabilidad de los datos. Nos encantará saber que usas los datos, escríbemos a covid19@montera34.com o tuitea con [#escovid19data](https://twitter.com/search?q=%23escovi19data&src=typed_query&f=live).
 Ver condiciones de [la licencia con que compartimos los datos](https://github.com/montera34/escovid19data/blob/master/LICENSE.md).
 
-Puedes ayudar colaborando actiamente en la recopilación de daos o detectando errores y notificándolos. Puedes ponernos un email, o mejor, [crear un incidencia](https://github.com/montera34/escovid19data/issues). 
+Puedes ayudar colaborando activamente en la recopilación de datos o detectando errores y notificándolos. Anímate a participar. Puedes ponernos un email (covid19@montera34.com), o mejor, [crear un incidencia](https://github.com/montera34/escovid19data/issues). 
 
 ## Los datos / The data
 
-Los datos por provincias se publican en este CSV: [/data/output/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/blob/master/data/output/covid19-provincias-spain_consolidated.csv), también se publican en formato [.xls](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-ccaa-spain_consolidated.xlsx) y [.rds](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-ccaa-spain_consolidated.rds).
+Los datos por provincias se publican en este CSV: [/data/output/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/blob/master/data/output/covid19-provincias-spain_consolidated.csv), también se publican en formato [.xls](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-provincias-spain_consolidated.xlsx) y [.rds](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-provincias-spain_consolidated.rds).
 
 Se han creado datos agregados por CCAA y para toda España en el directorio [```/data/output/```](https://github.com/montera34/escovid19data/tree/master/data/output) en base a los datos provinciales. La fuente de los datos es la misma que la de las seies provinciales:
 
