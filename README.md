@@ -14,7 +14,7 @@ Puedes ayudar colaborando activamente en la recopilación de datos o detectando 
 
 Los datos por provincias se publican en este CSV: [/data/output/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/blob/master/data/output/covid19-provincias-spain_consolidated.csv), también se publican en formato [.xls](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-provincias-spain_consolidated.xlsx) y [.rds](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-provincias-spain_consolidated.rds).
 
-Se han creado datos agregados por CCAA y para toda España en el directorio [```/data/output/```](https://github.com/montera34/escovid19data/tree/master/data/output) en base a los datos provinciales. La fuente de los datos es la misma que la de las seies provinciales:
+Se han creado datos agregados por comunidades autónomas y para toda España en el directorio [```/data/output/```](https://github.com/montera34/escovid19data/tree/master/data/output) en base a los datos provinciales. La fuente de los datos es la misma que la de las series provinciales pero no se indica en los propios archivos agregados por CCAA y para toda España:
 
 * **covid19-ccaa-spain_consolidated.([rds](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-ccaa-spain_consolidated.rds), [csv](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-ccaa-spain_consolidated.csv), [xlsx](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-ccaa-spain_consolidated.xlsx))** para datos agregados por comunidades autónomas.
 * **covid19-spain_consolidated.([rds](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-provincias-spain_consolidated.rds), [csv](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-provincias-spain_consolidated.csv), [xlsx](https://github.com/montera34/escovid19data/raw/master/data/output/covid19-provincias-spain_consolidated.xlsx))** para datos agregados para toda España.
@@ -74,7 +74,7 @@ Datos calculados a partir de los datos de arriba | Calculated data:
 * `daily_deaths` Fallecidos diarios | Daily deaths. Calculated as a difference of cumulative deaths reported.
 * `daily_deaths_inc` Porcentaje de nuevos falllecidos respecto de día anterior | Calculated as the percentage from last day
 * `daily_deaths_avg3` Media de fallecidos en los últimos 3 días | Average daily deaths in the last 3 days (rolling average 3 days) 
-* `daily_deaths_avg6` Media de fallecidos en los últimos 7 días | Average daily deaths in the last 7 days (rolling average 7 days) 
+* `daily_deaths_avg7` Media de fallecidos en los últimos 7 días | Average daily deaths in the last 7 days (rolling average 7 days) 
 * `deaths_last_week` Fallecidos en los últimos 7 días | Deaths in the last 7 days.
 
 * `num_casos_prueba_pcr_avg7` Media de casos (ventana de 7 días) de casos con prueba de laboratorio PCR o técnicas moleculares de los datos de RENAVE-ISCIII 
@@ -83,7 +83,7 @@ Datos calculados a partir de los datos de arriba | Calculated data:
 
 Fuente de los datos y comentarios | Data sources and comments:
 
-* `source_name` Nombre de la fuente separados por ; | Name of source of information, separated by ;
+* `source_name` Nombre de la fuente separados por ; . No se incluye la referencia a los datos de RENAVE-ISCIII al ser redundante. Como se indica más arriba, las variable que empiezan por "num_" tienen todas ellas esa fuente. | Name of source of information, separated by ;
 * `source` URL de la fuente separado por ; | Source URL of information, separated by ;
 * `comments` COmentario sobre los datos | Comments of the data
 
@@ -113,6 +113,8 @@ Si se nos olvida alguien ¡avísanos!
 Cada cual se encarga de amadrinar una comunidad autónoma. [Ver sección "Organización" de la hoja de cálculo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=179891808).
  
 ## Visualizaciones y uso de los datos
+
+Una lista más actualizada y completa puede encontrarse en la wiki del proyecto: https://github.com/montera34/escovid19data/wiki/Qui%C3%A9n-utiliza-los-datos-de-escovid19data
 
 Mándanos tu análisis o visualización si usas estos datos (covid19@montera34.com):
 
