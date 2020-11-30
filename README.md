@@ -100,7 +100,7 @@ De la hoja de cálculo del Ministerio de Sanidad: https://www.mscbs.gob.es/profe
 * `mnt_daily_deaths` Fallecidos diarios publicados
 * `mnt_deceased` Fallecidos acumulados calculados a partir de los datos diarios 
 
-Del archivo CSV  del Ministerio de Sanidad: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Fallecidos_COVID19.xlsx 
+Del archivo CSV  del Ministerio de Sanidad: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Datos_Casos_COVID19.csv 
 
 * `mnt_csv_daily_cases` Casos diarios | Daily cases
 * `mnt_csv_new_hosp` Nuevos hospitalizados diarios | New daily hospitalizations
