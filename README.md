@@ -68,10 +68,10 @@ Datos calculados a partir de los datos de arriba | Calculated data:
 * `hospitalized_per_100000` Hospitalizados por 100.000 habitantes | Intensive care per 100,000 inhabitants [Ver | View wiki](https://github.com/montera34/escovid19data/wiki#hospitalizados)
 * `deceassed_per_100000` Fallecidos acumulados por 1000.000 habitantes | Cumulative deaths per 100,000 inhabitants
 * `cases_14days` Casos detectados en los últimos 14 días | Detected cases in the last 14 days
-* `daily_cases` Casos diarios. Calculado como la diferencia de los casos acumulados | Daily cases. Calculated as a difference of cumulative cases reported.
+* `daily_cases` Casos diarios. Calculado como la diferencia de los casos acumulados . Calculated as a difference of cumulative cases reported.
 * `daily_cases_avg7` Media de casos detectados (ventana de 7 días) | Average daily cases in the last 7 days (rolling average 7 days)
 * `daily_cases_PCR_avg7` Media de casos PCR detectados (ventana de 7 días) | Average daily cases PCR in the last 7 days (rolling average 7 days) 
-* `daily_deaths` Fallecidos diarios | Daily deaths. Calculated as a difference of cumulative deaths reported.
+* `daily_deaths` Fallecidos diarios . Calculated as a difference of cumulative deaths reported.
 * `daily_deaths_inc` Porcentaje de nuevos falllecidos respecto de día anterior | Calculated as the percentage from last day
 * `daily_deaths_avg3` Media de fallecidos en los últimos 3 días | Average daily deaths in the last 3 days (rolling average 3 days) 
 * `daily_deaths_avg7` Media de fallecidos en los últimos 7 días | Average daily deaths in the last 7 days (rolling average 7 days) 
@@ -86,6 +86,27 @@ Fuente de los datos y comentarios | Data sources and comments:
 * `source_name` Nombre de la fuente separados por ; . No se incluye la referencia a los datos de RENAVE-ISCIII al ser redundante. Como se indica más arriba, las variable que empiezan por "num_" tienen todas ellas esa fuente. | Name of source of information, separated by ;
 * `source` URL de la fuente separado por ; | Source URL of information, separated by ;
 * `comments` COmentario sobre los datos | Comments of the data
+
+#### Variables extra en datos agregados por comunidades autónomas
+
+Existen ciertas bases de datos oficiales del Ministerio de Sanidad que no se publican desagregadas por provincias y se incluen en las columnas que empiezan por `mnt_`:
+
+Informes en PDF del Ministerio de Sanidad escrapeados por @mharias:
+
+* `mnt_pdf_deceased` Fallecidos acumulados.
+
+De la hoja de cálculo del Ministerio de Sanidad: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Fallecidos_COVID19.xlsx
+
+* `mnt_daily_deaths` Fallecidos diarios publicados
+* `mnt_deceased` Fallecidos acumulados calculados a partir de los datos diarios 
+
+Del archivo CSV  del Ministerio de Sanidad: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Fallecidos_COVID19.xlsx 
+
+* `mnt_csv_daily_cases` Casos diarios | Daily cases
+* `mnt_csv_new_hosp` Nuevos hospitalizados diarios | New daily hospitalizations
+* `mnt_csv_new_ic` Nuevos hospitalizados en UCI  | New daily in intensive care
+* `mnt_csv_daily_deaths` Fallecidos diarios | Daily deaths
+* `mnt_csv_deceased` Fallecidos acumulados calculados a partir de los datos diarios | Cumulative deaths (calculate)
 
 ### Población por provincias (2019)
 
