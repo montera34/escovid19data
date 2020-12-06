@@ -114,6 +114,7 @@ Población por provincias del INE:  https://www.ine.es/jaxiT3/Datos.htm?t=2852#!
 
 ## Estructura de archivos
 
+```
 ── analysis 						# para guardar los scripts de análisis y obtención de datos
 │   ├── canarias
 │   │   └── canarias_hospi_scrap.R			# obtiene datos de hospitalizados de Canarias
@@ -151,7 +152,7 @@ Población por provincias del INE:  https://www.ine.es/jaxiT3/Datos.htm?t=2852#!
 ├── escovid19data.Rproj				# borrable? (ya no se procesan los datos en este repositorio)
 ├── LICENSE.md
 └── README.md
-
+```
 
 ## Sobre la iniciativa
 
