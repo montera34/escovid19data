@@ -112,12 +112,50 @@ Del archivo CSV  del Ministerio de Sanidad: https://www.mscbs.gob.es/profesional
 
 Población por provincias del INE:  https://www.ine.es/jaxiT3/Datos.htm?t=2852#!tabs-tabla
 
+## Estructura de archivos
+
+── analysis 						# para guardar los scripts de análisis y obtención de datos
+│   ├── canarias
+│   │   └── canarias_hospi_scrap.R			# obtiene datos de hospitalizados de Canarias
+│   ├── descarga_andalucia.py				# obtiene y procesa datos de hospitalizados Andalucía
+│   ├── procesar_por_provincia.R			# procesado de datos de Escovid19da. Se ha mudado archivo a otro repositorio
+│   └── sanidad					# scripts para scrapear y obtener datos de los PDF del Ministerio de Sanidad
+│       ├── scrap_pdf_sanidad.ipynb
+│       ├── scrap_pdf_sanidad_situacion.ipynb
+│       └── test
+├── andalucia-hospitalizados.csv			# borrable?
+├── data						# para almacenar los datos
+│   ├── original					# datos originales 
+│   │   ├── andalucia-hospitalizados.csv
+│   │   ├── covid19_spain_provincias.csv
+│   │   ├── datos_sanidad.csv
+│   │   ├── datos_sanidad_matriz.csv
+│   │   ├── datos_sanidad_tabla.csv
+│   │   ├── madrid_zbs.csv
+│   │   ├── provincias-poblacion.csv
+│   │   └── shapes					# contornos para mapas
+│   │       └── recintos_provinciales_inspire_peninbal_etrs89.json
+│   └── output						# archivos de la base de datos para descarga
+│       ├── covid19-ccaa-spain_consolidated.csv
+│       ├── covid19-ccaa-spain_consolidated.rds
+│       ├── covid19-ccaa-spain_consolidated.xlsx
+│       ├── covid19-provincias-spain_consolidated.csv
+│       ├── covid19-provincias-spain_consolidated.rds
+│       ├── covid19-provincias-spain_consolidated.xlsx
+│       ├── covid19-spain_consolidated.csv
+│       ├── covid19-spain_consolidated.rds
+│       └── covid19-spain_consolidated.xlsx
+├── docs						# borrable?
+│   └── murcia
+│       └── 21.07.2020.pdf
+├── escovid19data.Rproj				# borrable? (ya no se procesan los datos en este repositorio)
+├── LICENSE.md
+└── README.md
+
+
 ## Sobre la iniciativa
 
-Este es un proyecto colaborativo para mejorar los datos sobre COVID-19 en España por provincias.
-
-* [Hoja de cálculo de trabajo](https://docs.google.com/spreadsheets/d/1qxbKnU39yn6yYcNkBqQ0mKnIXmKfPQ4lgpNglpJ9frE/edit#gid=0) en la que anotamos manualmente algunas de las sereis de datos. Ayúdanos a completarla. Pide acceso. Si detectas errores háznoslo saber.
-* Llamamiento inicial para colaborar iniciales para conseguir los datos de [@numeroteca](https://twitter.com/numeroteca/status/1239853592569425920) y [@ProsumidorSoc](https://twitter.com/ProsumidorSoc/status/1240569799056461826).
+Este es un proyecto colaborativo para recopilar datos sobre COVID-19 en España por provincias.
 
 Contacto: covid19@montera34.com
 
@@ -125,7 +163,7 @@ Contacto: covid19@montera34.com
 
 Hay muchas personas que nos habéis ayudado y aportado pistas. Gracias a todas por colaborar. 
 
-Ahora mismo, estamos manteniendo los datos y amadrinando provincias y comunidades autónomas: [@ProsumidorSoc](https://twitter.com/ProsumidorSoc) [@numeroteca](https://twitter.com/numeroteca) [@arivero](https://twitter.com/arivero) [@ManoloYuri](https://twitter.com/ManoloYuri) [@congosto](https://twitter.com/congosto) [@skotperez](https://twitter.com/skotperez) [@allisdata](https://twitter.com/@allisdata) [@acorsin](https://twitter.com/acorsin) [@hhkaos](https://twitter.com/hhkaos) [@belengarcia_8](https://twitter.com/belengarcia_8) [@Tejerauskas](https://twitter.com/Tejerauskas) [@aniol](https://twitter.com/aniol) [@zgzmiki89](https://twitter.com/zgzmiki89) [@mota_santiago](https://twitter.com/mota_santiago) [@nachotronic](https://twitter.com/nachotronic) [@puzzle72](https://twitter.com/@puzzle72) [@montera34](https://twitter.com/@montera34) [@alfonsotwr](https://twitter.com/alfonsotwr) [@lipido](https://twitter.com/lipido) [@danielegrasso](https://twitter.com/danielegrasso) [@picanumeros](https://twitter.com/picanumeros) [@walyt](https://twitter.com/walyt), [@JKniffki](https://twitter.com/JKniffki)
+Ahora mismo, estamos manteniendo los datos y amadrinando provincias y comunidades autónomas o han ayudado en alún momento: [@ProsumidorSoc](https://twitter.com/ProsumidorSoc) [@numeroteca](https://twitter.com/numeroteca) [@arivero](https://twitter.com/arivero) [@ManoloYuri](https://twitter.com/ManoloYuri) [@congosto](https://twitter.com/congosto) [@skotperez](https://twitter.com/skotperez) [@allisdata](https://twitter.com/@allisdata) [@acorsin](https://twitter.com/acorsin) [@hhkaos](https://twitter.com/hhkaos) [@belengarcia_8](https://twitter.com/belengarcia_8) [@Tejerauskas](https://twitter.com/Tejerauskas) [@aniol](https://twitter.com/aniol) [@zgzmiki89](https://twitter.com/zgzmiki89) [@mota_santiago](https://twitter.com/mota_santiago) [@nachotronic](https://twitter.com/nachotronic) [@puzzle72](https://twitter.com/@puzzle72) [@montera34](https://twitter.com/@montera34) [@alfonsotwr](https://twitter.com/alfonsotwr) [@lipido](https://twitter.com/lipido) [@danielegrasso](https://twitter.com/danielegrasso) [@picanumeros](https://twitter.com/picanumeros) [@walyt](https://twitter.com/walyt) [@JKniffki](https://twitter.com/JKniffki).
 
 Coordina el proyecto [@numeroteca](https://twitter.com/numeroteca)
 
@@ -140,7 +178,7 @@ Una lista más actualizada y completa puede encontrarse en la wiki del proyecto:
 Mándanos tu análisis o visualización si usas estos datos (covid19@montera34.com):
 
 Actualizado diariamente: 
-* [Gráficos por provincias](https://lab.montera34.com/covid19/provincias.html) mantenido por [@numeroteca](https://twitter.com/numeroteca) en [@montera34](https://twitter.com/montera34)). 
+* [Gráficos de Escovid19data](https://lab.montera34.com/covid19/) mantenido por [@numeroteca](https://twitter.com/numeroteca) en [@montera34](https://twitter.com/montera34)). 
 * [Tablas por provincias y CCAA](https://lab.montera34.com/covid19-r/reports/tablas-escovid19data.html) mantenido por [@numeroteca](https://twitter.com/numeroteca. Se generan automáticamente con RMarkdown.
 * [Visualización de evolución de múltiples variables](https://iguacel.github.io/iguacel/#/exp/20) mantenido por [@infoiguacel](https://twitter.com/infoiguacel).
 * [Un dashboard de análisis](https://cultureofinsight.shinyapps.io/covid-19/) mantenido por [@harlesden88](https://twitter.com/harlesden88).
@@ -151,25 +189,9 @@ No se actualizan:
 * [Mapas de afectados por coronavirus en España](https://mapa-de-afectados-por-coronavirus-plataformacovid.hub.arcgis.com/) iniciativa mantenida por voluntarios e impulsada por Esri España.
 
 
+### Prensa, Artículos científicos
 
-### Prensa
-
-* eldiario: ¿Por qué Canarias resiste al coronavirus y Soria no?  (Raquel Ejerique, Raúl Sánchez) https://www.eldiario.es/sociedad/Canarias-pocos-casos-coronavirus-Segovia_0_1017698330.html
-* ABC: Las provincias que mejor y peor llegan para pasar a la siguiente fase de la desescalada (Luís Cano) https://www.abc.es/sociedad/abci-coronavirus-provincias-mejor-y-peor-llegan-para-pasar-siguiente-fase-desescalada-202005051948_noticia.html
-* El País: Residencias, UCI y aglomeración: los puntos débiles de cada provincia para enfrentar al virus en la nueva fase (Borja Andrino, Daniele Grasso, Kiko Llaneras)  https://elpais.com/sociedad/2020-05-10/residencias-uci-y-aglomeracion-los-puntos-debiles-de-cada-provincia-para-enfrentar-al-virus-en-la-nueva-fase.html
-* El País: Lo que inquieta del estudio de prevalencia en España: ¿Un muerto por cada 100 infectados? (Borja Andrino, Daniele Grasso, Kiko Llaneras) https://elpais.com/sociedad/2020-05-13/lo-que-inquieta-del-estudio-de-prevalencia-en-espana-un-muerto-por-cada-100-infectados.html 
-* El País: El mapa del riesgo de rebrote en España: consulta la situación de tu provincia (Borja Andrino, Daniele Grasso, Kiko Llaneras, Luís Sevillano, Ignacio Povedano, Fernando Hernández) https://elpais.com/especiales/2020/coronavirus-covid-19/fases-desescalada/riesgo-de-rebrotes/
-* El País: Asteriscos, incoherencias y opacidad: 15 problemas de Sanidad con la gestión de datos del coronavirus  (Borja Andrino, Daniele Grasso, Kiko Llaneras) https://elpais.com/sociedad/2020-05-26/asteriscos-incoherencias-y-opacidad-15-problemas-del-ministerio-con-la-gestion-de-datos-del-coronavirus.html
-* El País: EsCovid19data: los voluntarios que llevan tres meses poniendo orden en los datos de la pandemia (Montse Hidalgo Pérez) https://elpais.com/tecnologia/2020-06-08/escovid19data-los-voluntarios-que-llevan-tres-meses-poniendo-orden-en-los-datos-de-la-pandemia.html
-* ¿Qué dicen los datos de agosto sobre la nueva expansión del coronavirus en España? (Kiko Llaneras, Artur Galocha) https://elpais.com/sociedad/2020-08-22/que-dicen-los-datos-de-agosto-sobre-la-nueva-expansion-del-coronavirus-en-espana.html 
-
-### Artículos científicos
-
-* Briz-Redón, Á., & Serrano-Aroca, Á. (2020). A spatio-temporal analysis for exploring the effect of temperature on COVID-19 early evolution in Spain. Science of The Total Environment, 138811. https://www.sciencedirect.com/science/article/pii/S0048969720323287
-* "Effects of mobility and multi-seeding on the propagation of the COVID-19 in Spain" (pre-print) Mattia Mazzoli, David Mateo, Alberto Hernando, Sandro Meloni y Jose Javier Ramasco. https://www.medrxiv.org/content/10.1101/2020.05.09.20096339v2
-* "Regional correlations of COVID-19 in Spain" (pre-print) por Daniel Oto-Peralías https://osf.io/tjdgw/download
-* Paez, A., Lopez, F. A., Menezes, T., Cavalcanti, R., & Pitta, M. G. D. R. A Spatio‐Temporal Analysis of the Environmental Correlates of COVID‐19 Incidence in Spain. Geographical Analysis. https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12241. Los datos finalmente usados, recopilando diferentes bases de datos [pueden verse en este repositorio](https://github.com/paezha/covid19-environmental-correlates).
-* Martorell-Marugán, J., Villatoro-García, J. A., García-Moreno, A., López-Domínguez, R., Requena, F., Merelo, J. J., ... & Carmona-Sáez, P. (2020). DatAC: A visual analytics platform to explore climate and air quality indicators associated with the COVID-19 pandemic in Spain. Science of The Total Environment, 141424. https://doi.org/10.1016/j.scitotenv.2020.141424 Se usan los datos de Escovid19data en la herramienta DatAC (https://covid19.genyo.es). En esta herramienta de visualización y análisis integramos los datos de COVID-19 con datos de factores ambientales como contaminantes y variables meteorológicas. El artículo describiendo la herramienta ha sido recientemente publicado en la revista Science of the Total Environment y puede consultarse aquí: https://doi.org/10.1016/j.scitotenv.2020.141424
+Puedes ver un listado actualizado en la [wiki de Escovid19data dedicada a documentar dónde se usan los datos](https://github.com/montera34/escovid19data/wiki/Qui%C3%A9n-utiliza-los-datos-de-escovid19data). Ayúdanos a completarla.
 
 ## Fuentes de información y estado de la base de datos
 
@@ -186,7 +208,7 @@ En la wiki  puedes encontrar información sobre las fuentes e historia de la rec
 
 Cada madrina, reponsable de conseguir los datos, de una comunidad autónoma o provincia sube los datos a una hoja de cálculo común o busca fuentes que podamos descargar y procesar automáticamente.
 
-Los datos de esa hoja de cálculo se descargaban en este CSV: `data/original/covid19_spain_provincias.csv` para ser procesadod con el [script de R](https://code.montera34.com:4443/numeroteca/covid19/-/blob/master/analysis/process_spain_provinces_data.R), pero ahora el script hace mucho más que eso. Descaga los datos de cada una de las pestañas y fuentes originales, procesa y une los datos y genera el CSV listo para usarse [/data/output/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/-/blob/master/data/output/covid19-provincias-spain_consolidated.csv). También puedes descargar los datos en formato .xlsx y .rds.
+Los datos de esa hoja de cálculo se descargaban en este CSV: `data/original/covid19_spain_provincias.csv` para ser procesados con el [script de R](https://code.montera34.com:4443/numeroteca/covid19/-/blob/master/analysis/process_spain_provinces_data.R), pero ahora el script hace mucho más que eso. Descarga los datos de cada una de las pestañas y fuentes originales, procesa y une los datos y genera el CSV listo para usarse [/data/output/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/-/blob/master/data/output/covid19-provincias-spain_consolidated.csv). También puedes descargar los datos en formato .xlsx y .rds.
 
 No todos los datos están disponibles en la hoja de cálculo compartida, como se indica en algunas comunidades se obtiene directamente de la fuente.
 
