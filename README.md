@@ -115,7 +115,7 @@ Población por provincias del INE:  https://www.ine.es/jaxiT3/Datos.htm?t=2852#!
 ## Estructura de archivos
 
 ```
-── analysis 						# para guardar los scripts de análisis y obtención de datos
+├── analysis 						# para guardar los scripts de análisis y obtención de datos
 │   ├── canarias
 │   │   └── canarias_hospi_scrap.R			# obtiene datos de hospitalizados de Canarias
 │   ├── descarga_andalucia.py				# obtiene y procesa datos de hospitalizados Andalucía
