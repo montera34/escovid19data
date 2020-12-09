@@ -128,8 +128,8 @@ Población por provincias del INE:  https://www.ine.es/jaxiT3/Datos.htm?t=2852#!
 ├── data						# para almacenar los datos
 │   ├── original					# datos originales 
 │   │   ├── andalucia-hospitalizados.csv
-│   │   ├── covid19_spain_provincias.csv
-│   │   ├── datos_sanidad.csv
+│   │   ├── covid19_spain_provincias.csv		# datos provenientes de la hoja de cálculo compartida original de Escovid19data. No se actualiza desde 2020-07-28
+│   │   ├── datos_sanidad.csv				# datos de PDF de Ministerio de Sanidad por CCAA
 │   │   ├── datos_sanidad_matriz.csv
 │   │   ├── datos_sanidad_tabla.csv
 │   │   ├── madrid_zbs.csv
@@ -146,9 +146,7 @@ Población por provincias del INE:  https://www.ine.es/jaxiT3/Datos.htm?t=2852#!
 │       ├── covid19-spain_consolidated.csv
 │       ├── covid19-spain_consolidated.rds
 │       └── covid19-spain_consolidated.xlsx
-├── docs						# borrable?
-│   └── murcia
-│       └── 21.07.2020.pdf
+├── docs						# para guardar documentos
 ├── escovid19data.Rproj				# borrable? (ya no se procesan los datos en este repositorio)
 ├── LICENSE.md
 └── README.md
