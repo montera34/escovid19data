@@ -70,34 +70,49 @@ datosCCAA <- xml_attr(result, "aria-label") %>%
   mutate(date = as.Date(date, format = "%B %d %Y"))
 
 
-
+write_csv(datosCCAA, "actualizacion_CCAA.csv")
 
 #library(magrittr)
 
-#----EXTRAER SERIE DATOS POR HOSPITAL, PROVINCIA E ISLA
+#----EXTRAER SERIE DATOS POR HOSPITAL, PROVINCIA E ISLA----
 
 
 # En este caso la dificultad es encontrar el link. Para ello hay que inspeccionar la pagina,
 # ir a Network en la consola, actualizar la pagina y buscar el link con la "query" que necesitamos.
 # Para identificarlo hay que mirar los campos de cada query. En este caso nos interesan 
 # OID, CCV19, FECHA y SERIE (también aparacen en el link)
-data <- jsonlite::read_json('https://services9.arcgis.com/CgZpnNiCwFObjaOT/arcgis/rest/services/CentrosSanitarios/FeatureServer/1/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=OID%2CCV19%2CFECHA%2CSERIE&orderByFields=FECHA%20asc&resultOffset=0&resultRecordCount=32000&resultType=standard&cacheHint=true') %>%
-  .$features
+# data <- jsonlite::read_json('https://services9.arcgis.com/CgZpnNiCwFObjaOT/arcgis/rest/services/CentrosSanitarios/FeatureServer/1/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=OID%2CCV19%2CFECHA%2CSERIE&orderByFields=FECHA%20asc&resultOffset=0&resultRecordCount=32000&resultType=standard&cacheHint=true') %>%
+#   .$features
 
 
-df <- data.frame(matrix(unlist(data), nrow=length(data), byrow=T))
+tmp <- tempfile()
+url <- "https://services9.arcgis.com/CgZpnNiCwFObjaOT/arcgis/rest/services/CentrosSanitarios/FeatureServer/1/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=OID%2CCV19%2CFECHA%2CSERIE&orderByFields=FECHA%20asc&resultOffset=0&resultRecordCount=32000&resultType=standard&cacheHint=true"
+download.file(url, destfile =tmp,quiet = FALSE, mode = "w")
+df <- jsonlite::fromJSON(tmp)
 
+# library(httr)
+# req <- GET(url)
+# stop_for_status(req)
+# json <- content(req, "text")
+# forbesList <- fromJSON(json) %>% 
+#  .$features
+
+
+
+#df <- data.frame(matrix(unlist(data), nrow=length(data), byrow=T))
+
+df <- df[["features"]][["attributes"]]
 
 dfTEST2 <- df %>% 
-  mutate(X3 = as.character(X3)) %>% 
-  mutate(numero = as.numeric(X3)) %>% 
+  mutate(FECHA = as.character(FECHA)) %>% 
+  mutate(numero = as.numeric(FECHA)) %>% 
   mutate(fecha = as.POSIXct(`numero`/1000, origin="1970-01-01")) %>% 
-  group_by(X4, fecha) %>% 
+  group_by(SERIE, fecha) %>% 
   # añadimos un ID para cada hospital, aunque aun no sabemos cual es cual
   mutate(ID = row_number()) %>% 
   ungroup() %>% 
-  select(-X1, -X3, -numero) %>% 
-  spread(X4, X2)
+  select(-OID, -FECHA, -numero) %>% 
+  spread(SERIE, CV19)
 
 # Como no hay un ID único para cada hospital, hay que deducir cual es cual en base a los datos
 # previamente recopilados y mirando los campos CCR CSR y HPT. Esto conviene revisarlo periodicamente
@@ -162,7 +177,7 @@ output_for_esco_hos <- dfTEST2 %>%
 
 
 
-#write.csv(output_for_esco_hos, "actualiza_hospi.csv", fileEncoding = "UTF-8")
+write.csv(output_for_esco_hos, "hospi_actualizacion_hospitales.csv", fileEncoding = "UTF-8")
 
 
 
@@ -191,7 +206,7 @@ output_for_esco_isla <- dfTEST2 %>%
   arrange(Fecha, match(Isla, c("Tenerife", "Gran Canaria", "Fuerteventura", "Lanzarote", "La Palma", "El Hierro", "La Gomera")))
 
 
-#write.csv(output_for_esco_isla, "actualiza_islas.csv", fileEncoding = "UTF-8")
+write.csv(output_for_esco_isla, "hospi_actualizacion_islas.csv", fileEncoding = "UTF-8")
 
 
 
@@ -204,7 +219,7 @@ output_for_esco_province <- dfTEST2 %>%
   mutate(HPT = as.numeric(HPT),
          CCR = as.numeric(CCR),
          CSR = as.numeric(CSR)) %>% 
-  group_by(fecha) %>% 
+  group_by(fecha, Provincia) %>% 
   summarise(CCR = sum(CCR),
             HPT = sum(HPT),
             CSR = sum(CSR)) %>% 
@@ -216,10 +231,10 @@ output_for_esco_province <- dfTEST2 %>%
          `UCI - Críticas con respirador` = CCR,
          `UCI - Críticas sin respirador` = CSR,
          Fecha = fecha) %>% 
-  select(Fecha, Hispitalizados,
+  select(Fecha, Provincia, Hispitalizados,
          `UCI - Críticas con respirador`, `UCI - Críticas sin respirador`)
 
-#write.csv(output_for_esco_province, "actualiza_provis.csv", fileEncoding = "UTF-8")
+write.csv(output_for_esco_province, "hospi_actualizacion_provincias.csv", fileEncoding = "UTF-8")
 
 
 
