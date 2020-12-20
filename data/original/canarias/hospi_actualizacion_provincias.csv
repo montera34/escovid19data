@@ -1,541 +1,541 @@
 "date","province","hospitalized","intensive_care"
-"23/03/2020","Las Palmas",55,22
-"23/03/2020","Santa Cruz de Tenerife",173,29
-"24/03/2020","Las Palmas",78,25
-"24/03/2020","Santa Cruz de Tenerife",179,38
-"25/03/2020","Las Palmas",91,30
-"25/03/2020","Santa Cruz de Tenerife",198,42
-"26/03/2020","Las Palmas",97,32
-"26/03/2020","Santa Cruz de Tenerife",218,45
-"27/03/2020","Las Palmas",102,52
-"27/03/2020","Santa Cruz de Tenerife",240,46
-"28/03/2020","Las Palmas",112,39
-"28/03/2020","Santa Cruz de Tenerife",251,51
-"29/03/2020","Las Palmas",114,40
-"29/03/2020","Santa Cruz de Tenerife",281,54
-"30/03/2020","Las Palmas",111,43
-"30/03/2020","Santa Cruz de Tenerife",273,56
-"31/03/2020","Las Palmas",101,45
-"31/03/2020","Santa Cruz de Tenerife",236,60
-"01/04/2020","Las Palmas",92,48
-"01/04/2020","Santa Cruz de Tenerife",249,59
-"02/04/2020","Las Palmas",79,49
-"02/04/2020","Santa Cruz de Tenerife",253,56
-"03/04/2020","Las Palmas",75,50
-"03/04/2020","Santa Cruz de Tenerife",263,50
-"04/04/2020","Las Palmas",73,50
-"04/04/2020","Santa Cruz de Tenerife",271,51
-"05/04/2020","Las Palmas",82,48
-"05/04/2020","Santa Cruz de Tenerife",286,50
-"06/04/2020","Las Palmas",75,47
-"06/04/2020","Santa Cruz de Tenerife",302,48
-"07/04/2020","Las Palmas",192,80
-"07/04/2020","Santa Cruz de Tenerife",181,22
-"08/04/2020","Las Palmas",58,51
-"08/04/2020","Santa Cruz de Tenerife",312,43
-"09/04/2020","Las Palmas",64,45
-"09/04/2020","Santa Cruz de Tenerife",312,47
-"10/04/2020","Las Palmas",61,42
-"10/04/2020","Santa Cruz de Tenerife",294,45
-"11/04/2020","Las Palmas",61,43
-"11/04/2020","Santa Cruz de Tenerife",275,47
-"12/04/2020","Las Palmas",63,42
-"12/04/2020","Santa Cruz de Tenerife",293,44
-"13/04/2020","Las Palmas",51,41
-"13/04/2020","Santa Cruz de Tenerife",289,47
-"14/04/2020","Las Palmas",51,37
-"14/04/2020","Santa Cruz de Tenerife",286,46
-"15/04/2020","Las Palmas",51,34
-"15/04/2020","Santa Cruz de Tenerife",265,43
-"16/04/2020","Las Palmas",50,31
-"16/04/2020","Santa Cruz de Tenerife",263,41
-"17/04/2020","Las Palmas",50,29
-"17/04/2020","Santa Cruz de Tenerife",220,40
-"18/04/2020","Las Palmas",48,30
-"18/04/2020","Santa Cruz de Tenerife",208,40
-"19/04/2020","Las Palmas",48,30
-"19/04/2020","Santa Cruz de Tenerife",187,43
-"20/04/2020","Las Palmas",41,29
-"20/04/2020","Santa Cruz de Tenerife",196,40
-"21/04/2020","Las Palmas",41,28
-"21/04/2020","Santa Cruz de Tenerife",191,39
-"22/04/2020","Las Palmas",36,25
-"22/04/2020","Santa Cruz de Tenerife",158,37
-"23/04/2020","Las Palmas",31,24
-"23/04/2020","Santa Cruz de Tenerife",149,36
-"24/04/2020","Las Palmas",27,22
-"24/04/2020","Santa Cruz de Tenerife",137,33
-"25/04/2020","Las Palmas",75,42
-"25/04/2020","Santa Cruz de Tenerife",84,13
-"26/04/2020","Las Palmas",23,21
-"26/04/2020","Santa Cruz de Tenerife",137,32
-"27/04/2020","Las Palmas",25,20
-"27/04/2020","Santa Cruz de Tenerife",126,26
-"28/04/2020","Las Palmas",23,18
-"28/04/2020","Santa Cruz de Tenerife",125,31
-"29/04/2020","Las Palmas",21,18
-"29/04/2020","Santa Cruz de Tenerife",121,28
-"30/04/2020","Las Palmas",18,17
-"30/04/2020","Santa Cruz de Tenerife",117,29
-"01/05/2020","Las Palmas",21,17
-"01/05/2020","Santa Cruz de Tenerife",103,26
-"02/05/2020","Las Palmas",21,16
-"02/05/2020","Santa Cruz de Tenerife",90,27
-"03/05/2020","Las Palmas",18,14
-"03/05/2020","Santa Cruz de Tenerife",97,26
-"04/05/2020","Las Palmas",21,10
-"04/05/2020","Santa Cruz de Tenerife",104,22
-"05/05/2020","Las Palmas",19,10
-"05/05/2020","Santa Cruz de Tenerife",110,15
-"06/05/2020","Las Palmas",18,10
-"06/05/2020","Santa Cruz de Tenerife",108,14
-"07/05/2020","Las Palmas",10,10
-"07/05/2020","Santa Cruz de Tenerife",105,10
-"08/05/2020","Las Palmas",12,10
-"08/05/2020","Santa Cruz de Tenerife",93,10
-"09/05/2020","Las Palmas",13,10
-"09/05/2020","Santa Cruz de Tenerife",90,11
-"10/05/2020","Las Palmas",13,11
-"10/05/2020","Santa Cruz de Tenerife",83,10
-"11/05/2020","Las Palmas",14,10
-"11/05/2020","Santa Cruz de Tenerife",75,8
-"12/05/2020","Las Palmas",11,10
-"12/05/2020","Santa Cruz de Tenerife",76,8
-"13/05/2020","Las Palmas",13,8
-"13/05/2020","Santa Cruz de Tenerife",69,8
-"14/05/2020","Las Palmas",10,6
-"14/05/2020","Santa Cruz de Tenerife",68,13
-"15/05/2020","Las Palmas",8,6
-"15/05/2020","Santa Cruz de Tenerife",63,10
-"16/05/2020","Las Palmas",8,6
-"16/05/2020","Santa Cruz de Tenerife",58,8
-"17/05/2020","Las Palmas",8,6
-"17/05/2020","Santa Cruz de Tenerife",60,9
-"18/05/2020","Las Palmas",8,6
-"18/05/2020","Santa Cruz de Tenerife",60,11
-"19/05/2020","Las Palmas",7,7
-"19/05/2020","Santa Cruz de Tenerife",51,11
-"20/05/2020","Las Palmas",7,7
-"20/05/2020","Santa Cruz de Tenerife",47,10
-"21/05/2020","Las Palmas",6,6
-"21/05/2020","Santa Cruz de Tenerife",49,8
-"22/05/2020","Las Palmas",7,6
-"22/05/2020","Santa Cruz de Tenerife",41,9
-"23/05/2020","Las Palmas",7,6
-"23/05/2020","Santa Cruz de Tenerife",45,9
-"24/05/2020","Las Palmas",8,6
-"24/05/2020","Santa Cruz de Tenerife",38,7
-"25/05/2020","Las Palmas",10,5
-"25/05/2020","Santa Cruz de Tenerife",44,7
-"26/05/2020","Las Palmas",10,3
-"26/05/2020","Santa Cruz de Tenerife",46,6
-"27/05/2020","Las Palmas",10,2
-"27/05/2020","Santa Cruz de Tenerife",43,5
-"28/05/2020","Las Palmas",13,2
-"28/05/2020","Santa Cruz de Tenerife",36,5
-"29/05/2020","Las Palmas",11,3
-"29/05/2020","Santa Cruz de Tenerife",33,4
-"30/05/2020","Las Palmas",11,3
-"30/05/2020","Santa Cruz de Tenerife",34,5
-"31/05/2020","Las Palmas",11,3
-"31/05/2020","Santa Cruz de Tenerife",38,4
-"01/06/2020","Las Palmas",9,4
-"01/06/2020","Santa Cruz de Tenerife",34,6
-"02/06/2020","Las Palmas",6,3
-"02/06/2020","Santa Cruz de Tenerife",32,4
-"03/06/2020","Las Palmas",10,2
-"03/06/2020","Santa Cruz de Tenerife",31,3
-"04/06/2020","Las Palmas",9,2
-"04/06/2020","Santa Cruz de Tenerife",29,2
-"05/06/2020","Las Palmas",4,2
-"05/06/2020","Santa Cruz de Tenerife",30,2
-"06/06/2020","Las Palmas",5,1
-"06/06/2020","Santa Cruz de Tenerife",28,2
-"07/06/2020","Las Palmas",5,1
-"07/06/2020","Santa Cruz de Tenerife",30,2
-"08/06/2020","Las Palmas",6,1
-"08/06/2020","Santa Cruz de Tenerife",26,2
-"09/06/2020","Las Palmas",7,1
-"09/06/2020","Santa Cruz de Tenerife",23,2
-"10/06/2020","Las Palmas",3,1
-"10/06/2020","Santa Cruz de Tenerife",23,2
-"11/06/2020","Las Palmas",3,1
-"11/06/2020","Santa Cruz de Tenerife",23,1
-"12/06/2020","Las Palmas",4,1
-"12/06/2020","Santa Cruz de Tenerife",22,2
-"13/06/2020","Las Palmas",4,1
-"13/06/2020","Santa Cruz de Tenerife",24,3
-"14/06/2020","Las Palmas",4,1
-"14/06/2020","Santa Cruz de Tenerife",17,1
-"15/06/2020","Las Palmas",8,1
-"15/06/2020","Santa Cruz de Tenerife",17,1
-"16/06/2020","Las Palmas",8,2
-"16/06/2020","Santa Cruz de Tenerife",23,1
-"17/06/2020","Las Palmas",4,2
-"17/06/2020","Santa Cruz de Tenerife",19,1
-"18/06/2020","Las Palmas",4,2
-"18/06/2020","Santa Cruz de Tenerife",18,1
-"19/06/2020","Las Palmas",5,2
-"19/06/2020","Santa Cruz de Tenerife",20,2
-"20/06/2020","Las Palmas",5,2
-"20/06/2020","Santa Cruz de Tenerife",20,2
-"21/06/2020","Las Palmas",4,2
-"21/06/2020","Santa Cruz de Tenerife",25,3
-"22/06/2020","Las Palmas",4,2
-"22/06/2020","Santa Cruz de Tenerife",17,2
-"23/06/2020","Las Palmas",4,2
-"23/06/2020","Santa Cruz de Tenerife",16,2
-"24/06/2020","Las Palmas",10,4
-"24/06/2020","Santa Cruz de Tenerife",14,2
-"25/06/2020","Las Palmas",3,2
-"25/06/2020","Santa Cruz de Tenerife",12,1
-"26/06/2020","Las Palmas",5,3
-"26/06/2020","Santa Cruz de Tenerife",11,1
-"27/06/2020","Las Palmas",2,3
-"27/06/2020","Santa Cruz de Tenerife",13,1
-"28/06/2020","Las Palmas",3,3
-"28/06/2020","Santa Cruz de Tenerife",12,1
-"29/06/2020","Las Palmas",1,3
-"29/06/2020","Santa Cruz de Tenerife",13,1
-"30/06/2020","Las Palmas",1,3
-"30/06/2020","Santa Cruz de Tenerife",10,1
-"01/07/2020","Las Palmas",1,2
-"01/07/2020","Santa Cruz de Tenerife",10,1
-"02/07/2020","Las Palmas",2,1
-"02/07/2020","Santa Cruz de Tenerife",7,1
-"03/07/2020","Las Palmas",0,1
-"03/07/2020","Santa Cruz de Tenerife",8,0
-"04/07/2020","Las Palmas",0,1
-"04/07/2020","Santa Cruz de Tenerife",12,1
-"05/07/2020","Las Palmas",1,1
-"05/07/2020","Santa Cruz de Tenerife",12,1
-"06/07/2020","Las Palmas",0,1
-"06/07/2020","Santa Cruz de Tenerife",16,1
-"07/07/2020","Las Palmas",1,1
-"07/07/2020","Santa Cruz de Tenerife",17,0
-"08/07/2020","Las Palmas",1,1
-"08/07/2020","Santa Cruz de Tenerife",11,0
-"09/07/2020","Las Palmas",1,1
-"09/07/2020","Santa Cruz de Tenerife",11,0
-"10/07/2020","Las Palmas",1,1
-"10/07/2020","Santa Cruz de Tenerife",8,0
-"11/07/2020","Las Palmas",1,1
-"11/07/2020","Santa Cruz de Tenerife",10,0
-"12/07/2020","Las Palmas",0,1
-"12/07/2020","Santa Cruz de Tenerife",13,0
-"13/07/2020","Las Palmas",1,0
-"13/07/2020","Santa Cruz de Tenerife",11,0
-"14/07/2020","Las Palmas",1,0
-"14/07/2020","Santa Cruz de Tenerife",14,1
-"15/07/2020","Las Palmas",1,0
-"15/07/2020","Santa Cruz de Tenerife",11,1
-"16/07/2020","Las Palmas",3,0
-"16/07/2020","Santa Cruz de Tenerife",17,1
-"17/07/2020","Las Palmas",2,0
-"17/07/2020","Santa Cruz de Tenerife",10,1
-"18/07/2020","Las Palmas",1,0
-"18/07/2020","Santa Cruz de Tenerife",11,1
-"19/07/2020","Las Palmas",3,0
-"19/07/2020","Santa Cruz de Tenerife",13,1
-"20/07/2020","Las Palmas",3,0
-"20/07/2020","Santa Cruz de Tenerife",13,2
-"21/07/2020","Las Palmas",2,1
-"21/07/2020","Santa Cruz de Tenerife",13,1
-"22/07/2020","Las Palmas",3,0
-"22/07/2020","Santa Cruz de Tenerife",11,1
-"23/07/2020","Las Palmas",5,0
-"23/07/2020","Santa Cruz de Tenerife",13,1
-"24/07/2020","Las Palmas",4,0
-"24/07/2020","Santa Cruz de Tenerife",16,1
-"25/07/2020","Las Palmas",4,0
-"25/07/2020","Santa Cruz de Tenerife",18,1
-"26/07/2020","Las Palmas",3,0
-"26/07/2020","Santa Cruz de Tenerife",23,1
-"27/07/2020","Las Palmas",3,0
-"27/07/2020","Santa Cruz de Tenerife",23,1
-"28/07/2020","Las Palmas",3,0
-"28/07/2020","Santa Cruz de Tenerife",23,1
-"29/07/2020","Las Palmas",4,1
-"29/07/2020","Santa Cruz de Tenerife",21,2
-"30/07/2020","Las Palmas",4,1
-"30/07/2020","Santa Cruz de Tenerife",20,1
-"31/07/2020","Las Palmas",3,1
-"31/07/2020","Santa Cruz de Tenerife",23,1
-"01/08/2020","Las Palmas",3,1
-"01/08/2020","Santa Cruz de Tenerife",21,1
-"02/08/2020","Las Palmas",5,1
-"02/08/2020","Santa Cruz de Tenerife",21,1
-"03/08/2020","Las Palmas",5,0
-"03/08/2020","Santa Cruz de Tenerife",23,1
-"04/08/2020","Las Palmas",3,1
-"04/08/2020","Santa Cruz de Tenerife",30,1
-"05/08/2020","Las Palmas",4,1
-"05/08/2020","Santa Cruz de Tenerife",28,1
-"06/08/2020","Las Palmas",6,0
-"06/08/2020","Santa Cruz de Tenerife",24,2
-"07/08/2020","Las Palmas",6,0
-"07/08/2020","Santa Cruz de Tenerife",29,2
-"08/08/2020","Las Palmas",9,0
-"08/08/2020","Santa Cruz de Tenerife",30,2
-"09/08/2020","Las Palmas",11,0
-"09/08/2020","Santa Cruz de Tenerife",35,1
-"10/08/2020","Las Palmas",14,0
-"10/08/2020","Santa Cruz de Tenerife",26,1
-"11/08/2020","Las Palmas",14,0
-"11/08/2020","Santa Cruz de Tenerife",30,2
-"12/08/2020","Las Palmas",22,1
-"12/08/2020","Santa Cruz de Tenerife",32,2
-"13/08/2020","Las Palmas",20,1
-"13/08/2020","Santa Cruz de Tenerife",35,2
-"14/08/2020","Las Palmas",24,3
-"14/08/2020","Santa Cruz de Tenerife",36,4
-"15/08/2020","Las Palmas",31,3
-"15/08/2020","Santa Cruz de Tenerife",32,4
-"16/08/2020","Las Palmas",33,4
-"16/08/2020","Santa Cruz de Tenerife",31,3
-"17/08/2020","Las Palmas",45,6
-"17/08/2020","Santa Cruz de Tenerife",34,3
-"18/08/2020","Las Palmas",53,8
-"18/08/2020","Santa Cruz de Tenerife",35,5
-"19/08/2020","Las Palmas",59,10
-"19/08/2020","Santa Cruz de Tenerife",33,3
-"20/08/2020","Las Palmas",64,9
-"20/08/2020","Santa Cruz de Tenerife",28,4
-"21/08/2020","Las Palmas",67,10
-"21/08/2020","Santa Cruz de Tenerife",31,4
-"22/08/2020","Las Palmas",78,14
-"22/08/2020","Santa Cruz de Tenerife",28,5
-"23/08/2020","Las Palmas",85,17
-"23/08/2020","Santa Cruz de Tenerife",33,5
-"24/08/2020","Las Palmas",96,17
-"24/08/2020","Santa Cruz de Tenerife",38,6
-"25/08/2020","Las Palmas",102,21
-"25/08/2020","Santa Cruz de Tenerife",29,6
-"26/08/2020","Las Palmas",106,23
-"26/08/2020","Santa Cruz de Tenerife",33,6
-"27/08/2020","Las Palmas",116,25
-"27/08/2020","Santa Cruz de Tenerife",38,6
-"28/08/2020","Las Palmas",121,27
-"28/08/2020","Santa Cruz de Tenerife",33,6
-"29/08/2020","Las Palmas",137,29
-"29/08/2020","Santa Cruz de Tenerife",33,6
-"30/08/2020","Las Palmas",147,27
-"30/08/2020","Santa Cruz de Tenerife",40,6
-"31/08/2020","Las Palmas",144,29
-"31/08/2020","Santa Cruz de Tenerife",36,9
-"01/09/2020","Las Palmas",129,33
-"01/09/2020","Santa Cruz de Tenerife",34,9
-"02/09/2020","Las Palmas",136,34
-"02/09/2020","Santa Cruz de Tenerife",32,11
-"03/09/2020","Las Palmas",143,38
-"03/09/2020","Santa Cruz de Tenerife",35,14
-"04/09/2020","Las Palmas",143,37
-"04/09/2020","Santa Cruz de Tenerife",39,15
-"05/09/2020","Las Palmas",155,37
-"05/09/2020","Santa Cruz de Tenerife",40,12
-"06/09/2020","Las Palmas",167,34
-"06/09/2020","Santa Cruz de Tenerife",39,13
-"07/09/2020","Las Palmas",158,40
-"07/09/2020","Santa Cruz de Tenerife",50,14
-"08/09/2020","Las Palmas",162,42
-"08/09/2020","Santa Cruz de Tenerife",45,16
-"09/09/2020","Las Palmas",161,44
-"09/09/2020","Santa Cruz de Tenerife",39,16
-"10/09/2020","Las Palmas",155,46
-"10/09/2020","Santa Cruz de Tenerife",37,13
-"11/09/2020","Las Palmas",152,47
-"11/09/2020","Santa Cruz de Tenerife",39,15
-"12/09/2020","Las Palmas",153,47
-"12/09/2020","Santa Cruz de Tenerife",46,13
-"13/09/2020","Las Palmas",163,44
-"13/09/2020","Santa Cruz de Tenerife",46,12
-"14/09/2020","Las Palmas",163,42
-"14/09/2020","Santa Cruz de Tenerife",45,12
-"15/09/2020","Las Palmas",157,42
-"15/09/2020","Santa Cruz de Tenerife",39,12
-"16/09/2020","Las Palmas",159,43
-"16/09/2020","Santa Cruz de Tenerife",36,14
-"17/09/2020","Las Palmas",148,44
-"17/09/2020","Santa Cruz de Tenerife",39,14
-"18/09/2020","Las Palmas",147,41
-"18/09/2020","Santa Cruz de Tenerife",37,15
-"19/09/2020","Las Palmas",151,40
-"19/09/2020","Santa Cruz de Tenerife",35,17
-"20/09/2020","Las Palmas",156,42
-"20/09/2020","Santa Cruz de Tenerife",48,18
-"21/09/2020","Las Palmas",154,40
-"21/09/2020","Santa Cruz de Tenerife",44,19
-"22/09/2020","Las Palmas",146,43
-"22/09/2020","Santa Cruz de Tenerife",44,18
-"23/09/2020","Las Palmas",140,43
-"23/09/2020","Santa Cruz de Tenerife",43,19
-"24/09/2020","Las Palmas",142,42
-"24/09/2020","Santa Cruz de Tenerife",56,19
-"25/09/2020","Las Palmas",143,43
-"25/09/2020","Santa Cruz de Tenerife",58,21
-"26/09/2020","Las Palmas",140,42
-"26/09/2020","Santa Cruz de Tenerife",49,24
-"27/09/2020","Las Palmas",141,42
-"27/09/2020","Santa Cruz de Tenerife",51,25
-"28/09/2020","Las Palmas",135,43
-"28/09/2020","Santa Cruz de Tenerife",55,24
-"29/09/2020","Las Palmas",131,42
-"29/09/2020","Santa Cruz de Tenerife",73,21
-"30/09/2020","Las Palmas",123,43
-"30/09/2020","Santa Cruz de Tenerife",64,20
-"01/10/2020","Las Palmas",120,40
-"01/10/2020","Santa Cruz de Tenerife",77,16
-"02/10/2020","Las Palmas",117,39
-"02/10/2020","Santa Cruz de Tenerife",63,15
-"03/10/2020","Las Palmas",124,37
-"03/10/2020","Santa Cruz de Tenerife",81,18
-"04/10/2020","Las Palmas",141,36
-"04/10/2020","Santa Cruz de Tenerife",87,20
-"05/10/2020","Las Palmas",139,37
-"05/10/2020","Santa Cruz de Tenerife",90,23
-"06/10/2020","Las Palmas",118,40
-"06/10/2020","Santa Cruz de Tenerife",90,25
-"07/10/2020","Las Palmas",111,41
-"07/10/2020","Santa Cruz de Tenerife",92,24
-"08/10/2020","Las Palmas",114,40
-"08/10/2020","Santa Cruz de Tenerife",86,27
-"09/10/2020","Las Palmas",105,40
-"09/10/2020","Santa Cruz de Tenerife",83,26
-"10/10/2020","Las Palmas",104,40
-"10/10/2020","Santa Cruz de Tenerife",88,27
-"11/10/2020","Las Palmas",115,37
-"11/10/2020","Santa Cruz de Tenerife",97,28
-"12/10/2020","Las Palmas",117,34
-"12/10/2020","Santa Cruz de Tenerife",102,25
-"13/10/2020","Las Palmas",114,36
-"13/10/2020","Santa Cruz de Tenerife",105,25
-"14/10/2020","Las Palmas",115,34
-"14/10/2020","Santa Cruz de Tenerife",119,27
-"15/10/2020","Las Palmas",108,29
-"15/10/2020","Santa Cruz de Tenerife",119,27
-"16/10/2020","Las Palmas",106,26
-"16/10/2020","Santa Cruz de Tenerife",97,28
-"17/10/2020","Las Palmas",106,26
-"17/10/2020","Santa Cruz de Tenerife",96,29
-"18/10/2020","Las Palmas",106,25
-"18/10/2020","Santa Cruz de Tenerife",99,31
-"19/10/2020","Las Palmas",103,25
-"19/10/2020","Santa Cruz de Tenerife",106,30
-"20/10/2020","Las Palmas",102,22
-"20/10/2020","Santa Cruz de Tenerife",104,30
-"21/10/2020","Las Palmas",99,21
-"21/10/2020","Santa Cruz de Tenerife",111,28
-"22/10/2020","Las Palmas",92,20
-"22/10/2020","Santa Cruz de Tenerife",121,27
-"23/10/2020","Las Palmas",90,18
-"23/10/2020","Santa Cruz de Tenerife",134,30
-"24/10/2020","Las Palmas",89,18
-"24/10/2020","Santa Cruz de Tenerife",137,30
-"25/10/2020","Las Palmas",91,18
-"25/10/2020","Santa Cruz de Tenerife",125,30
-"26/10/2020","Las Palmas",79,19
-"26/10/2020","Santa Cruz de Tenerife",121,29
-"27/10/2020","Las Palmas",69,19
-"27/10/2020","Santa Cruz de Tenerife",118,29
-"28/10/2020","Las Palmas",63,18
-"28/10/2020","Santa Cruz de Tenerife",122,27
-"29/10/2020","Las Palmas",57,19
-"29/10/2020","Santa Cruz de Tenerife",112,28
-"30/10/2020","Las Palmas",58,17
-"30/10/2020","Santa Cruz de Tenerife",103,27
-"31/10/2020","Las Palmas",55,17
-"31/10/2020","Santa Cruz de Tenerife",111,26
-"01/11/2020","Las Palmas",57,19
-"01/11/2020","Santa Cruz de Tenerife",112,25
-"02/11/2020","Las Palmas",54,18
-"02/11/2020","Santa Cruz de Tenerife",120,26
-"03/11/2020","Las Palmas",55,16
-"03/11/2020","Santa Cruz de Tenerife",129,27
-"04/11/2020","Las Palmas",51,19
-"04/11/2020","Santa Cruz de Tenerife",119,29
-"05/11/2020","Las Palmas",51,22
-"05/11/2020","Santa Cruz de Tenerife",109,28
-"06/11/2020","Las Palmas",42,21
-"06/11/2020","Santa Cruz de Tenerife",120,29
-"07/11/2020","Las Palmas",53,20
-"07/11/2020","Santa Cruz de Tenerife",128,29
-"08/11/2020","Las Palmas",53,18
-"08/11/2020","Santa Cruz de Tenerife",137,28
-"09/11/2020","Las Palmas",53,17
-"09/11/2020","Santa Cruz de Tenerife",130,30
-"10/11/2020","Las Palmas",60,17
-"10/11/2020","Santa Cruz de Tenerife",132,31
-"11/11/2020","Las Palmas",60,17
-"11/11/2020","Santa Cruz de Tenerife",136,30
-"12/11/2020","Las Palmas",59,21
-"12/11/2020","Santa Cruz de Tenerife",139,31
-"13/11/2020","Las Palmas",54,22
-"13/11/2020","Santa Cruz de Tenerife",131,31
-"14/11/2020","Las Palmas",48,21
-"14/11/2020","Santa Cruz de Tenerife",133,33
-"15/11/2020","Las Palmas",53,21
-"15/11/2020","Santa Cruz de Tenerife",140,29
-"16/11/2020","Las Palmas",52,20
-"16/11/2020","Santa Cruz de Tenerife",145,29
-"17/11/2020","Las Palmas",50,21
-"17/11/2020","Santa Cruz de Tenerife",141,30
-"18/11/2020","Las Palmas",51,18
-"18/11/2020","Santa Cruz de Tenerife",133,28
-"19/11/2020","Las Palmas",51,17
-"19/11/2020","Santa Cruz de Tenerife",122,29
-"20/11/2020","Las Palmas",47,16
-"20/11/2020","Santa Cruz de Tenerife",115,28
-"21/11/2020","Las Palmas",50,16
-"21/11/2020","Santa Cruz de Tenerife",125,27
-"22/11/2020","Las Palmas",51,16
-"22/11/2020","Santa Cruz de Tenerife",128,25
-"23/11/2020","Las Palmas",58,16
-"23/11/2020","Santa Cruz de Tenerife",129,24
-"24/11/2020","Las Palmas",61,17
-"24/11/2020","Santa Cruz de Tenerife",136,23
-"25/11/2020","Las Palmas",58,17
-"25/11/2020","Santa Cruz de Tenerife",119,24
-"26/11/2020","Las Palmas",58,19
-"26/11/2020","Santa Cruz de Tenerife",119,25
-"27/11/2020","Las Palmas",53,19
-"27/11/2020","Santa Cruz de Tenerife",102,23
-"28/11/2020","Las Palmas",56,19
-"28/11/2020","Santa Cruz de Tenerife",110,24
-"29/11/2020","Las Palmas",57,19
-"29/11/2020","Santa Cruz de Tenerife",121,24
-"30/11/2020","Las Palmas",54,18
-"30/11/2020","Santa Cruz de Tenerife",119,24
-"01/12/2020","Las Palmas",47,18
-"01/12/2020","Santa Cruz de Tenerife",128,26
-"02/12/2020","Las Palmas",50,17
-"02/12/2020","Santa Cruz de Tenerife",116,26
-"03/12/2020","Las Palmas",55,18
-"03/12/2020","Santa Cruz de Tenerife",121,29
-"04/12/2020","Las Palmas",52,17
-"04/12/2020","Santa Cruz de Tenerife",133,28
-"05/12/2020","Las Palmas",53,18
-"05/12/2020","Santa Cruz de Tenerife",136,28
-"06/12/2020","Las Palmas",58,18
-"06/12/2020","Santa Cruz de Tenerife",143,29
-"07/12/2020","Las Palmas",62,15
-"07/12/2020","Santa Cruz de Tenerife",142,28
-"08/12/2020","Las Palmas",65,16
-"08/12/2020","Santa Cruz de Tenerife",155,29
-"09/12/2020","Las Palmas",57,15
-"09/12/2020","Santa Cruz de Tenerife",169,29
-"10/12/2020","Las Palmas",53,16
-"10/12/2020","Santa Cruz de Tenerife",165,30
-"11/12/2020","Las Palmas",47,16
-"11/12/2020","Santa Cruz de Tenerife",180,30
-"12/12/2020","Las Palmas",48,16
-"12/12/2020","Santa Cruz de Tenerife",200,32
-"13/12/2020","Las Palmas",44,18
-"13/12/2020","Santa Cruz de Tenerife",202,32
-"14/12/2020","Las Palmas",51,18
-"14/12/2020","Santa Cruz de Tenerife",210,32
-"15/12/2020","Las Palmas",45,17
-"15/12/2020","Santa Cruz de Tenerife",219,29
-"16/12/2020","Las Palmas",49,16
-"16/12/2020","Santa Cruz de Tenerife",209,29
-"17/12/2020","Las Palmas",55,14
-"17/12/2020","Santa Cruz de Tenerife",202,27
+2020-03-23,"Las Palmas",55,22
+2020-03-23,"Santa Cruz de Tenerife",173,29
+2020-03-24,"Las Palmas",78,25
+2020-03-24,"Santa Cruz de Tenerife",179,38
+2020-03-25,"Las Palmas",91,30
+2020-03-25,"Santa Cruz de Tenerife",198,42
+2020-03-26,"Las Palmas",97,32
+2020-03-26,"Santa Cruz de Tenerife",218,45
+2020-03-27,"Las Palmas",102,52
+2020-03-27,"Santa Cruz de Tenerife",240,46
+2020-03-28,"Las Palmas",112,39
+2020-03-28,"Santa Cruz de Tenerife",251,51
+2020-03-29,"Las Palmas",114,40
+2020-03-29,"Santa Cruz de Tenerife",281,54
+2020-03-30,"Las Palmas",111,43
+2020-03-30,"Santa Cruz de Tenerife",273,56
+2020-03-31,"Las Palmas",101,45
+2020-03-31,"Santa Cruz de Tenerife",236,60
+2020-04-01,"Las Palmas",92,48
+2020-04-01,"Santa Cruz de Tenerife",249,59
+2020-04-02,"Las Palmas",79,49
+2020-04-02,"Santa Cruz de Tenerife",253,56
+2020-04-03,"Las Palmas",75,50
+2020-04-03,"Santa Cruz de Tenerife",263,50
+2020-04-04,"Las Palmas",73,50
+2020-04-04,"Santa Cruz de Tenerife",271,51
+2020-04-05,"Las Palmas",82,48
+2020-04-05,"Santa Cruz de Tenerife",286,50
+2020-04-06,"Las Palmas",75,47
+2020-04-06,"Santa Cruz de Tenerife",302,48
+2020-04-07,"Las Palmas",192,80
+2020-04-07,"Santa Cruz de Tenerife",181,22
+2020-04-08,"Las Palmas",58,51
+2020-04-08,"Santa Cruz de Tenerife",312,43
+2020-04-09,"Las Palmas",64,45
+2020-04-09,"Santa Cruz de Tenerife",312,47
+2020-04-10,"Las Palmas",61,42
+2020-04-10,"Santa Cruz de Tenerife",294,45
+2020-04-11,"Las Palmas",61,43
+2020-04-11,"Santa Cruz de Tenerife",275,47
+2020-04-12,"Las Palmas",63,42
+2020-04-12,"Santa Cruz de Tenerife",293,44
+2020-04-13,"Las Palmas",51,41
+2020-04-13,"Santa Cruz de Tenerife",289,47
+2020-04-14,"Las Palmas",51,37
+2020-04-14,"Santa Cruz de Tenerife",286,46
+2020-04-15,"Las Palmas",51,34
+2020-04-15,"Santa Cruz de Tenerife",265,43
+2020-04-16,"Las Palmas",50,31
+2020-04-16,"Santa Cruz de Tenerife",263,41
+2020-04-17,"Las Palmas",50,29
+2020-04-17,"Santa Cruz de Tenerife",220,40
+2020-04-18,"Las Palmas",48,30
+2020-04-18,"Santa Cruz de Tenerife",208,40
+2020-04-19,"Las Palmas",48,30
+2020-04-19,"Santa Cruz de Tenerife",187,43
+2020-04-20,"Las Palmas",41,29
+2020-04-20,"Santa Cruz de Tenerife",196,40
+2020-04-21,"Las Palmas",41,28
+2020-04-21,"Santa Cruz de Tenerife",191,39
+2020-04-22,"Las Palmas",36,25
+2020-04-22,"Santa Cruz de Tenerife",158,37
+2020-04-23,"Las Palmas",31,24
+2020-04-23,"Santa Cruz de Tenerife",149,36
+2020-04-24,"Las Palmas",27,22
+2020-04-24,"Santa Cruz de Tenerife",137,33
+2020-04-25,"Las Palmas",75,42
+2020-04-25,"Santa Cruz de Tenerife",84,13
+2020-04-26,"Las Palmas",23,21
+2020-04-26,"Santa Cruz de Tenerife",137,32
+2020-04-27,"Las Palmas",25,20
+2020-04-27,"Santa Cruz de Tenerife",126,26
+2020-04-28,"Las Palmas",23,18
+2020-04-28,"Santa Cruz de Tenerife",125,31
+2020-04-29,"Las Palmas",21,18
+2020-04-29,"Santa Cruz de Tenerife",121,28
+2020-04-30,"Las Palmas",18,17
+2020-04-30,"Santa Cruz de Tenerife",117,29
+2020-05-01,"Las Palmas",21,17
+2020-05-01,"Santa Cruz de Tenerife",103,26
+2020-05-02,"Las Palmas",21,16
+2020-05-02,"Santa Cruz de Tenerife",90,27
+2020-05-03,"Las Palmas",18,14
+2020-05-03,"Santa Cruz de Tenerife",97,26
+2020-05-04,"Las Palmas",21,10
+2020-05-04,"Santa Cruz de Tenerife",104,22
+2020-05-05,"Las Palmas",19,10
+2020-05-05,"Santa Cruz de Tenerife",110,15
+2020-05-06,"Las Palmas",18,10
+2020-05-06,"Santa Cruz de Tenerife",108,14
+2020-05-07,"Las Palmas",10,10
+2020-05-07,"Santa Cruz de Tenerife",105,10
+2020-05-08,"Las Palmas",12,10
+2020-05-08,"Santa Cruz de Tenerife",93,10
+2020-05-09,"Las Palmas",13,10
+2020-05-09,"Santa Cruz de Tenerife",90,11
+2020-05-10,"Las Palmas",13,11
+2020-05-10,"Santa Cruz de Tenerife",83,10
+2020-05-11,"Las Palmas",14,10
+2020-05-11,"Santa Cruz de Tenerife",75,8
+2020-05-12,"Las Palmas",11,10
+2020-05-12,"Santa Cruz de Tenerife",76,8
+2020-05-13,"Las Palmas",13,8
+2020-05-13,"Santa Cruz de Tenerife",69,8
+2020-05-14,"Las Palmas",10,6
+2020-05-14,"Santa Cruz de Tenerife",68,13
+2020-05-15,"Las Palmas",8,6
+2020-05-15,"Santa Cruz de Tenerife",63,10
+2020-05-16,"Las Palmas",8,6
+2020-05-16,"Santa Cruz de Tenerife",58,8
+2020-05-17,"Las Palmas",8,6
+2020-05-17,"Santa Cruz de Tenerife",60,9
+2020-05-18,"Las Palmas",8,6
+2020-05-18,"Santa Cruz de Tenerife",60,11
+2020-05-19,"Las Palmas",7,7
+2020-05-19,"Santa Cruz de Tenerife",51,11
+2020-05-20,"Las Palmas",7,7
+2020-05-20,"Santa Cruz de Tenerife",47,10
+2020-05-21,"Las Palmas",6,6
+2020-05-21,"Santa Cruz de Tenerife",49,8
+2020-05-22,"Las Palmas",7,6
+2020-05-22,"Santa Cruz de Tenerife",41,9
+2020-05-23,"Las Palmas",7,6
+2020-05-23,"Santa Cruz de Tenerife",45,9
+2020-05-24,"Las Palmas",8,6
+2020-05-24,"Santa Cruz de Tenerife",38,7
+2020-05-25,"Las Palmas",10,5
+2020-05-25,"Santa Cruz de Tenerife",44,7
+2020-05-26,"Las Palmas",10,3
+2020-05-26,"Santa Cruz de Tenerife",46,6
+2020-05-27,"Las Palmas",10,2
+2020-05-27,"Santa Cruz de Tenerife",43,5
+2020-05-28,"Las Palmas",13,2
+2020-05-28,"Santa Cruz de Tenerife",36,5
+2020-05-29,"Las Palmas",11,3
+2020-05-29,"Santa Cruz de Tenerife",33,4
+2020-05-30,"Las Palmas",11,3
+2020-05-30,"Santa Cruz de Tenerife",34,5
+2020-05-31,"Las Palmas",11,3
+2020-05-31,"Santa Cruz de Tenerife",38,4
+2020-06-01,"Las Palmas",9,4
+2020-06-01,"Santa Cruz de Tenerife",34,6
+2020-06-02,"Las Palmas",6,3
+2020-06-02,"Santa Cruz de Tenerife",32,4
+2020-06-03,"Las Palmas",10,2
+2020-06-03,"Santa Cruz de Tenerife",31,3
+2020-06-04,"Las Palmas",9,2
+2020-06-04,"Santa Cruz de Tenerife",29,2
+2020-06-05,"Las Palmas",4,2
+2020-06-05,"Santa Cruz de Tenerife",30,2
+2020-06-06,"Las Palmas",5,1
+2020-06-06,"Santa Cruz de Tenerife",28,2
+2020-06-07,"Las Palmas",5,1
+2020-06-07,"Santa Cruz de Tenerife",30,2
+2020-06-08,"Las Palmas",6,1
+2020-06-08,"Santa Cruz de Tenerife",26,2
+2020-06-09,"Las Palmas",7,1
+2020-06-09,"Santa Cruz de Tenerife",23,2
+2020-06-10,"Las Palmas",3,1
+2020-06-10,"Santa Cruz de Tenerife",23,2
+2020-06-11,"Las Palmas",3,1
+2020-06-11,"Santa Cruz de Tenerife",23,1
+2020-06-12,"Las Palmas",4,1
+2020-06-12,"Santa Cruz de Tenerife",22,2
+2020-06-13,"Las Palmas",4,1
+2020-06-13,"Santa Cruz de Tenerife",24,3
+2020-06-14,"Las Palmas",4,1
+2020-06-14,"Santa Cruz de Tenerife",17,1
+2020-06-15,"Las Palmas",8,1
+2020-06-15,"Santa Cruz de Tenerife",17,1
+2020-06-16,"Las Palmas",8,2
+2020-06-16,"Santa Cruz de Tenerife",23,1
+2020-06-17,"Las Palmas",4,2
+2020-06-17,"Santa Cruz de Tenerife",19,1
+2020-06-18,"Las Palmas",4,2
+2020-06-18,"Santa Cruz de Tenerife",18,1
+2020-06-19,"Las Palmas",5,2
+2020-06-19,"Santa Cruz de Tenerife",20,2
+2020-06-20,"Las Palmas",5,2
+2020-06-20,"Santa Cruz de Tenerife",20,2
+2020-06-21,"Las Palmas",4,2
+2020-06-21,"Santa Cruz de Tenerife",25,3
+2020-06-22,"Las Palmas",4,2
+2020-06-22,"Santa Cruz de Tenerife",17,2
+2020-06-23,"Las Palmas",4,2
+2020-06-23,"Santa Cruz de Tenerife",16,2
+2020-06-24,"Las Palmas",10,4
+2020-06-24,"Santa Cruz de Tenerife",14,2
+2020-06-25,"Las Palmas",3,2
+2020-06-25,"Santa Cruz de Tenerife",12,1
+2020-06-26,"Las Palmas",5,3
+2020-06-26,"Santa Cruz de Tenerife",11,1
+2020-06-27,"Las Palmas",2,3
+2020-06-27,"Santa Cruz de Tenerife",13,1
+2020-06-28,"Las Palmas",3,3
+2020-06-28,"Santa Cruz de Tenerife",12,1
+2020-06-29,"Las Palmas",1,3
+2020-06-29,"Santa Cruz de Tenerife",13,1
+2020-06-30,"Las Palmas",1,3
+2020-06-30,"Santa Cruz de Tenerife",10,1
+2020-07-01,"Las Palmas",1,2
+2020-07-01,"Santa Cruz de Tenerife",10,1
+2020-07-02,"Las Palmas",2,1
+2020-07-02,"Santa Cruz de Tenerife",7,1
+2020-07-03,"Las Palmas",0,1
+2020-07-03,"Santa Cruz de Tenerife",8,0
+2020-07-04,"Las Palmas",0,1
+2020-07-04,"Santa Cruz de Tenerife",12,1
+2020-07-05,"Las Palmas",1,1
+2020-07-05,"Santa Cruz de Tenerife",12,1
+2020-07-06,"Las Palmas",0,1
+2020-07-06,"Santa Cruz de Tenerife",16,1
+2020-07-07,"Las Palmas",1,1
+2020-07-07,"Santa Cruz de Tenerife",17,0
+2020-07-08,"Las Palmas",1,1
+2020-07-08,"Santa Cruz de Tenerife",11,0
+2020-07-09,"Las Palmas",1,1
+2020-07-09,"Santa Cruz de Tenerife",11,0
+2020-07-10,"Las Palmas",1,1
+2020-07-10,"Santa Cruz de Tenerife",8,0
+2020-07-11,"Las Palmas",1,1
+2020-07-11,"Santa Cruz de Tenerife",10,0
+2020-07-12,"Las Palmas",0,1
+2020-07-12,"Santa Cruz de Tenerife",13,0
+2020-07-13,"Las Palmas",1,0
+2020-07-13,"Santa Cruz de Tenerife",11,0
+2020-07-14,"Las Palmas",1,0
+2020-07-14,"Santa Cruz de Tenerife",14,1
+2020-07-15,"Las Palmas",1,0
+2020-07-15,"Santa Cruz de Tenerife",11,1
+2020-07-16,"Las Palmas",3,0
+2020-07-16,"Santa Cruz de Tenerife",17,1
+2020-07-17,"Las Palmas",2,0
+2020-07-17,"Santa Cruz de Tenerife",10,1
+2020-07-18,"Las Palmas",1,0
+2020-07-18,"Santa Cruz de Tenerife",11,1
+2020-07-19,"Las Palmas",3,0
+2020-07-19,"Santa Cruz de Tenerife",13,1
+2020-07-20,"Las Palmas",3,0
+2020-07-20,"Santa Cruz de Tenerife",13,2
+2020-07-21,"Las Palmas",2,1
+2020-07-21,"Santa Cruz de Tenerife",13,1
+2020-07-22,"Las Palmas",3,0
+2020-07-22,"Santa Cruz de Tenerife",11,1
+2020-07-23,"Las Palmas",5,0
+2020-07-23,"Santa Cruz de Tenerife",13,1
+2020-07-24,"Las Palmas",4,0
+2020-07-24,"Santa Cruz de Tenerife",16,1
+2020-07-25,"Las Palmas",4,0
+2020-07-25,"Santa Cruz de Tenerife",18,1
+2020-07-26,"Las Palmas",3,0
+2020-07-26,"Santa Cruz de Tenerife",23,1
+2020-07-27,"Las Palmas",3,0
+2020-07-27,"Santa Cruz de Tenerife",23,1
+2020-07-28,"Las Palmas",3,0
+2020-07-28,"Santa Cruz de Tenerife",23,1
+2020-07-29,"Las Palmas",4,1
+2020-07-29,"Santa Cruz de Tenerife",21,2
+2020-07-30,"Las Palmas",4,1
+2020-07-30,"Santa Cruz de Tenerife",20,1
+2020-07-31,"Las Palmas",3,1
+2020-07-31,"Santa Cruz de Tenerife",23,1
+2020-08-01,"Las Palmas",3,1
+2020-08-01,"Santa Cruz de Tenerife",21,1
+2020-08-02,"Las Palmas",5,1
+2020-08-02,"Santa Cruz de Tenerife",21,1
+2020-08-03,"Las Palmas",5,0
+2020-08-03,"Santa Cruz de Tenerife",23,1
+2020-08-04,"Las Palmas",3,1
+2020-08-04,"Santa Cruz de Tenerife",30,1
+2020-08-05,"Las Palmas",4,1
+2020-08-05,"Santa Cruz de Tenerife",28,1
+2020-08-06,"Las Palmas",6,0
+2020-08-06,"Santa Cruz de Tenerife",24,2
+2020-08-07,"Las Palmas",6,0
+2020-08-07,"Santa Cruz de Tenerife",29,2
+2020-08-08,"Las Palmas",9,0
+2020-08-08,"Santa Cruz de Tenerife",30,2
+2020-08-09,"Las Palmas",11,0
+2020-08-09,"Santa Cruz de Tenerife",35,1
+2020-08-10,"Las Palmas",14,0
+2020-08-10,"Santa Cruz de Tenerife",26,1
+2020-08-11,"Las Palmas",14,0
+2020-08-11,"Santa Cruz de Tenerife",30,2
+2020-08-12,"Las Palmas",22,1
+2020-08-12,"Santa Cruz de Tenerife",32,2
+2020-08-13,"Las Palmas",20,1
+2020-08-13,"Santa Cruz de Tenerife",35,2
+2020-08-14,"Las Palmas",24,3
+2020-08-14,"Santa Cruz de Tenerife",36,4
+2020-08-15,"Las Palmas",31,3
+2020-08-15,"Santa Cruz de Tenerife",32,4
+2020-08-16,"Las Palmas",33,4
+2020-08-16,"Santa Cruz de Tenerife",31,3
+2020-08-17,"Las Palmas",45,6
+2020-08-17,"Santa Cruz de Tenerife",34,3
+2020-08-18,"Las Palmas",53,8
+2020-08-18,"Santa Cruz de Tenerife",35,5
+2020-08-19,"Las Palmas",59,10
+2020-08-19,"Santa Cruz de Tenerife",33,3
+2020-08-20,"Las Palmas",64,9
+2020-08-20,"Santa Cruz de Tenerife",28,4
+2020-08-21,"Las Palmas",67,10
+2020-08-21,"Santa Cruz de Tenerife",31,4
+2020-08-22,"Las Palmas",78,14
+2020-08-22,"Santa Cruz de Tenerife",28,5
+2020-08-23,"Las Palmas",85,17
+2020-08-23,"Santa Cruz de Tenerife",33,5
+2020-08-24,"Las Palmas",96,17
+2020-08-24,"Santa Cruz de Tenerife",38,6
+2020-08-25,"Las Palmas",102,21
+2020-08-25,"Santa Cruz de Tenerife",29,6
+2020-08-26,"Las Palmas",106,23
+2020-08-26,"Santa Cruz de Tenerife",33,6
+2020-08-27,"Las Palmas",116,25
+2020-08-27,"Santa Cruz de Tenerife",38,6
+2020-08-28,"Las Palmas",121,27
+2020-08-28,"Santa Cruz de Tenerife",33,6
+2020-08-29,"Las Palmas",137,29
+2020-08-29,"Santa Cruz de Tenerife",33,6
+2020-08-30,"Las Palmas",147,27
+2020-08-30,"Santa Cruz de Tenerife",40,6
+2020-08-31,"Las Palmas",144,29
+2020-08-31,"Santa Cruz de Tenerife",36,9
+2020-09-01,"Las Palmas",129,33
+2020-09-01,"Santa Cruz de Tenerife",34,9
+2020-09-02,"Las Palmas",136,34
+2020-09-02,"Santa Cruz de Tenerife",32,11
+2020-09-03,"Las Palmas",143,38
+2020-09-03,"Santa Cruz de Tenerife",35,14
+2020-09-04,"Las Palmas",143,37
+2020-09-04,"Santa Cruz de Tenerife",39,15
+2020-09-05,"Las Palmas",155,37
+2020-09-05,"Santa Cruz de Tenerife",40,12
+2020-09-06,"Las Palmas",167,34
+2020-09-06,"Santa Cruz de Tenerife",39,13
+2020-09-07,"Las Palmas",158,40
+2020-09-07,"Santa Cruz de Tenerife",50,14
+2020-09-08,"Las Palmas",162,42
+2020-09-08,"Santa Cruz de Tenerife",45,16
+2020-09-09,"Las Palmas",161,44
+2020-09-09,"Santa Cruz de Tenerife",39,16
+2020-09-10,"Las Palmas",155,46
+2020-09-10,"Santa Cruz de Tenerife",37,13
+2020-09-11,"Las Palmas",152,47
+2020-09-11,"Santa Cruz de Tenerife",39,15
+2020-09-12,"Las Palmas",153,47
+2020-09-12,"Santa Cruz de Tenerife",46,13
+2020-09-13,"Las Palmas",163,44
+2020-09-13,"Santa Cruz de Tenerife",46,12
+2020-09-14,"Las Palmas",163,42
+2020-09-14,"Santa Cruz de Tenerife",45,12
+2020-09-15,"Las Palmas",157,42
+2020-09-15,"Santa Cruz de Tenerife",39,12
+2020-09-16,"Las Palmas",159,43
+2020-09-16,"Santa Cruz de Tenerife",36,14
+2020-09-17,"Las Palmas",148,44
+2020-09-17,"Santa Cruz de Tenerife",39,14
+2020-09-18,"Las Palmas",147,41
+2020-09-18,"Santa Cruz de Tenerife",37,15
+2020-09-19,"Las Palmas",151,40
+2020-09-19,"Santa Cruz de Tenerife",35,17
+2020-09-20,"Las Palmas",156,42
+2020-09-20,"Santa Cruz de Tenerife",48,18
+2020-09-21,"Las Palmas",154,40
+2020-09-21,"Santa Cruz de Tenerife",44,19
+2020-09-22,"Las Palmas",146,43
+2020-09-22,"Santa Cruz de Tenerife",44,18
+2020-09-23,"Las Palmas",140,43
+2020-09-23,"Santa Cruz de Tenerife",43,19
+2020-09-24,"Las Palmas",142,42
+2020-09-24,"Santa Cruz de Tenerife",56,19
+2020-09-25,"Las Palmas",143,43
+2020-09-25,"Santa Cruz de Tenerife",58,21
+2020-09-26,"Las Palmas",140,42
+2020-09-26,"Santa Cruz de Tenerife",49,24
+2020-09-27,"Las Palmas",141,42
+2020-09-27,"Santa Cruz de Tenerife",51,25
+2020-09-28,"Las Palmas",135,43
+2020-09-28,"Santa Cruz de Tenerife",55,24
+2020-09-29,"Las Palmas",131,42
+2020-09-29,"Santa Cruz de Tenerife",73,21
+2020-09-30,"Las Palmas",123,43
+2020-09-30,"Santa Cruz de Tenerife",64,20
+2020-10-01,"Las Palmas",120,40
+2020-10-01,"Santa Cruz de Tenerife",77,16
+2020-10-02,"Las Palmas",117,39
+2020-10-02,"Santa Cruz de Tenerife",63,15
+2020-10-03,"Las Palmas",124,37
+2020-10-03,"Santa Cruz de Tenerife",81,18
+2020-10-04,"Las Palmas",141,36
+2020-10-04,"Santa Cruz de Tenerife",87,20
+2020-10-05,"Las Palmas",139,37
+2020-10-05,"Santa Cruz de Tenerife",90,23
+2020-10-06,"Las Palmas",118,40
+2020-10-06,"Santa Cruz de Tenerife",90,25
+2020-10-07,"Las Palmas",111,41
+2020-10-07,"Santa Cruz de Tenerife",92,24
+2020-10-08,"Las Palmas",114,40
+2020-10-08,"Santa Cruz de Tenerife",86,27
+2020-10-09,"Las Palmas",105,40
+2020-10-09,"Santa Cruz de Tenerife",83,26
+2020-10-10,"Las Palmas",104,40
+2020-10-10,"Santa Cruz de Tenerife",88,27
+2020-10-11,"Las Palmas",115,37
+2020-10-11,"Santa Cruz de Tenerife",97,28
+2020-10-12,"Las Palmas",117,34
+2020-10-12,"Santa Cruz de Tenerife",102,25
+2020-10-13,"Las Palmas",114,36
+2020-10-13,"Santa Cruz de Tenerife",105,25
+2020-10-14,"Las Palmas",115,34
+2020-10-14,"Santa Cruz de Tenerife",119,27
+2020-10-15,"Las Palmas",108,29
+2020-10-15,"Santa Cruz de Tenerife",119,27
+2020-10-16,"Las Palmas",106,26
+2020-10-16,"Santa Cruz de Tenerife",97,28
+2020-10-17,"Las Palmas",106,26
+2020-10-17,"Santa Cruz de Tenerife",96,29
+2020-10-18,"Las Palmas",106,25
+2020-10-18,"Santa Cruz de Tenerife",99,31
+2020-10-19,"Las Palmas",103,25
+2020-10-19,"Santa Cruz de Tenerife",106,30
+2020-10-20,"Las Palmas",102,22
+2020-10-20,"Santa Cruz de Tenerife",104,30
+2020-10-21,"Las Palmas",99,21
+2020-10-21,"Santa Cruz de Tenerife",111,28
+2020-10-22,"Las Palmas",92,20
+2020-10-22,"Santa Cruz de Tenerife",121,27
+2020-10-23,"Las Palmas",90,18
+2020-10-23,"Santa Cruz de Tenerife",134,30
+2020-10-24,"Las Palmas",89,18
+2020-10-24,"Santa Cruz de Tenerife",137,30
+2020-10-25,"Las Palmas",91,18
+2020-10-25,"Santa Cruz de Tenerife",125,30
+2020-10-26,"Las Palmas",79,19
+2020-10-26,"Santa Cruz de Tenerife",121,29
+2020-10-27,"Las Palmas",69,19
+2020-10-27,"Santa Cruz de Tenerife",118,29
+2020-10-28,"Las Palmas",63,18
+2020-10-28,"Santa Cruz de Tenerife",122,27
+2020-10-29,"Las Palmas",57,19
+2020-10-29,"Santa Cruz de Tenerife",112,28
+2020-10-30,"Las Palmas",58,17
+2020-10-30,"Santa Cruz de Tenerife",103,27
+2020-10-31,"Las Palmas",55,17
+2020-10-31,"Santa Cruz de Tenerife",111,26
+2020-11-01,"Las Palmas",57,19
+2020-11-01,"Santa Cruz de Tenerife",112,25
+2020-11-02,"Las Palmas",54,18
+2020-11-02,"Santa Cruz de Tenerife",120,26
+2020-11-03,"Las Palmas",55,16
+2020-11-03,"Santa Cruz de Tenerife",129,27
+2020-11-04,"Las Palmas",51,19
+2020-11-04,"Santa Cruz de Tenerife",119,29
+2020-11-05,"Las Palmas",51,22
+2020-11-05,"Santa Cruz de Tenerife",109,28
+2020-11-06,"Las Palmas",42,21
+2020-11-06,"Santa Cruz de Tenerife",120,29
+2020-11-07,"Las Palmas",53,20
+2020-11-07,"Santa Cruz de Tenerife",128,29
+2020-11-08,"Las Palmas",53,18
+2020-11-08,"Santa Cruz de Tenerife",137,28
+2020-11-09,"Las Palmas",53,17
+2020-11-09,"Santa Cruz de Tenerife",130,30
+2020-11-10,"Las Palmas",60,17
+2020-11-10,"Santa Cruz de Tenerife",132,31
+2020-11-11,"Las Palmas",60,17
+2020-11-11,"Santa Cruz de Tenerife",136,30
+2020-11-12,"Las Palmas",59,21
+2020-11-12,"Santa Cruz de Tenerife",139,31
+2020-11-13,"Las Palmas",54,22
+2020-11-13,"Santa Cruz de Tenerife",131,31
+2020-11-14,"Las Palmas",48,21
+2020-11-14,"Santa Cruz de Tenerife",133,33
+2020-11-15,"Las Palmas",53,21
+2020-11-15,"Santa Cruz de Tenerife",140,29
+2020-11-16,"Las Palmas",52,20
+2020-11-16,"Santa Cruz de Tenerife",145,29
+2020-11-17,"Las Palmas",50,21
+2020-11-17,"Santa Cruz de Tenerife",141,30
+2020-11-18,"Las Palmas",51,18
+2020-11-18,"Santa Cruz de Tenerife",133,28
+2020-11-19,"Las Palmas",51,17
+2020-11-19,"Santa Cruz de Tenerife",122,29
+2020-11-20,"Las Palmas",47,16
+2020-11-20,"Santa Cruz de Tenerife",115,28
+2020-11-21,"Las Palmas",50,16
+2020-11-21,"Santa Cruz de Tenerife",125,27
+2020-11-22,"Las Palmas",51,16
+2020-11-22,"Santa Cruz de Tenerife",128,25
+2020-11-23,"Las Palmas",58,16
+2020-11-23,"Santa Cruz de Tenerife",129,24
+2020-11-24,"Las Palmas",61,17
+2020-11-24,"Santa Cruz de Tenerife",136,23
+2020-11-25,"Las Palmas",58,17
+2020-11-25,"Santa Cruz de Tenerife",119,24
+2020-11-26,"Las Palmas",58,19
+2020-11-26,"Santa Cruz de Tenerife",119,25
+2020-11-27,"Las Palmas",53,19
+2020-11-27,"Santa Cruz de Tenerife",102,23
+2020-11-28,"Las Palmas",56,19
+2020-11-28,"Santa Cruz de Tenerife",110,24
+2020-11-29,"Las Palmas",57,19
+2020-11-29,"Santa Cruz de Tenerife",121,24
+2020-11-30,"Las Palmas",54,18
+2020-11-30,"Santa Cruz de Tenerife",119,24
+2020-12-01,"Las Palmas",47,18
+2020-12-01,"Santa Cruz de Tenerife",128,26
+2020-12-02,"Las Palmas",50,17
+2020-12-02,"Santa Cruz de Tenerife",116,26
+2020-12-03,"Las Palmas",55,18
+2020-12-03,"Santa Cruz de Tenerife",121,29
+2020-12-04,"Las Palmas",52,17
+2020-12-04,"Santa Cruz de Tenerife",133,28
+2020-12-05,"Las Palmas",53,18
+2020-12-05,"Santa Cruz de Tenerife",136,28
+2020-12-06,"Las Palmas",58,18
+2020-12-06,"Santa Cruz de Tenerife",143,29
+2020-12-07,"Las Palmas",62,15
+2020-12-07,"Santa Cruz de Tenerife",142,28
+2020-12-08,"Las Palmas",65,16
+2020-12-08,"Santa Cruz de Tenerife",155,29
+2020-12-09,"Las Palmas",57,15
+2020-12-09,"Santa Cruz de Tenerife",169,29
+2020-12-10,"Las Palmas",53,16
+2020-12-10,"Santa Cruz de Tenerife",165,30
+2020-12-11,"Las Palmas",47,16
+2020-12-11,"Santa Cruz de Tenerife",180,30
+2020-12-12,"Las Palmas",48,16
+2020-12-12,"Santa Cruz de Tenerife",200,32
+2020-12-13,"Las Palmas",44,18
+2020-12-13,"Santa Cruz de Tenerife",202,32
+2020-12-14,"Las Palmas",51,18
+2020-12-14,"Santa Cruz de Tenerife",210,32
+2020-12-15,"Las Palmas",45,17
+2020-12-15,"Santa Cruz de Tenerife",219,29
+2020-12-16,"Las Palmas",49,16
+2020-12-16,"Santa Cruz de Tenerife",209,29
+2020-12-17,"Las Palmas",55,14
+2020-12-17,"Santa Cruz de Tenerife",202,27
