@@ -1,4 +1,4 @@
-date,cases_acumulated,recovered,deceased,Isla,hospitalized,intensive_care
+date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-04-01,3,0,0,El Hierro,1,0
 2020-04-02,3,0,0,El Hierro,1,0
 2020-04-03,3,1,0,El Hierro,2,0

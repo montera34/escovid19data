@@ -1,4 +1,4 @@
-date,province,cases_acumulated,deceased,recovered,hospitalized,intensive_care
+date,province,cases_accumulated,deceased,recovered,hospitalized,intensive_care
 2020-01-31,Las Palmas,0,0,0,NA,NA
 2020-01-31,Santa Cruz de Tenerife,1,0,0,NA,NA
 2020-02-25,Las Palmas,0,0,0,NA,NA
