@@ -393,6 +393,9 @@ data_full_final_islas <- casos_islas %>%
   select(-`UCI - Críticas sin respirador`, -`UCI - Críticas con respirador`) %>% 
   rename(cases_acumulated = `Casos `, deceased = `Fallecidos `,
          recovered = `Cerrado por alta médica `, hospitalized = Hispitalizados) %>% 
+  mutate(cases_acumulated = gsub(",","",cases_acumulated),
+         deceased = gsub(",","",deceased),
+         recovered = gsub(",","",recovered)) %>% 
   mutate(cases_acumulated = as.numeric(cases_acumulated),
          deceased = as.numeric(deceased),
          recovered = as.numeric(recovered))
@@ -400,6 +403,7 @@ data_full_final_islas <- casos_islas %>%
 
 data_full_final_provinces <- data_full_final_islas %>% 
   left_join(labels_isla_province) %>% 
+  unique() %>% 
   group_by(date, province) %>% 
   summarise(cases_acumulated = sum(cases_acumulated),
             deceased = sum(deceased),
