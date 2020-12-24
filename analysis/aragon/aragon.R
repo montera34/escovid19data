@@ -313,16 +313,29 @@ gc()
 
 #Build dataframe----
 
-datos_aragon_dia <- tibble(province = c("Zaragoza", "Huesca", "Teruel"),
+datos_aragon_dia <- tibble(
              date = c(fechas, fechas, fechas),
+             province = c("Zaragoza", "Huesca", "Teruel"),
+             ine_code = c(50, 22, 44),
+             ccaa = c("Aragón", "Aragón", "Aragón"),
              cases_accumulated = c(total_cases_zaragoza, total_cases_huesca, total_cases_teruel),
              deceased = c(total_muertes_zaragoza, total_muertes_huesca, total_muertes_teruel),
              hospitalized = c(hospi_casostab_zaragoza, hospi_casostab_huesca, hospi_casostab_teruel),
-             intensive_care = c(uci_casostab_zaragoza, uci_casostab_huesca, uci_casostab_teruel)) %>% 
-  mutate_at(vars(3:6), list(as.numeric)) %>% 
+             intensive_care = c(uci_casostab_zaragoza, uci_casostab_huesca, uci_casostab_teruel),
+             recovered = c(total_recuperados_zaragoza, total_recuperados_huesca, total_recuperados_teruel),
+             poblacion = c(964693,220461,134137),
+             new_cases = NA,
+             PCR = NA,
+             TestAc = NA,
+             activos = NA,
+             cases_accumulated_PCR = NA,
+             source_name = "Gobierno de Aragón;aragon.es",
+             source = "https://datacovid.salud.aragon.es/covid/") %>% 
+  mutate_at(vars(6:10), list(as.numeric)) %>% 
   mutate(date = as.Date(date))
 
-fecha_for_filter <- datos_aragon %>% 
+
+fecha_for_filter <- datos_aragon_dia %>% 
   select(date) %>% 
   unique() %>% 
   pull()
@@ -331,7 +344,15 @@ aragon_old <- read_csv("https://raw.githubusercontent.com/montera34/escovid19dat
   filter(date != fecha_for_filter)
 
 datos_aragon <- aragon_old %>% 
-  rbind(datos_aragon_dia)
+  rbind(datos_aragon_dia) %>% 
+  group_by(province) %>% 
+  arrange(date) %>% 
+  mutate(cases_accumulated = as.numeric(cases_accumulated),
+         new_cases = as.numeric(new_cases)) %>% 
+  mutate(new_cases = if_else(is.na(new_cases), cases_accumulated - lag(cases_accumulated), new_cases),
+         activos = if_else(is.na(activos), (cases_accumulated - deceased) - recovered, activos)) %>% 
+  ungroup() %>% 
+  mutate(date = as.Date(date))
 
 
 write_csv(datos_aragon, "actualizacion_datos_aragon.csv")
