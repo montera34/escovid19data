@@ -45,7 +45,9 @@ Datos originales | Original data:
 * `PCR` Número de nuevos casos detectados COVID-19 por PCR | Number of new COVID-19 cases detected with PCR
 * `TestAc` Número de nuevos casos detectados COVID-19 por test de anticuerpos | Number of new COVID-19 cases detected with Ac
 * `activos` Casos de COVID-19 activos | Active COVID-19 cases
-* `hospitalized` Hospitalizados (acumulativvo y no acumulativo) | Hospitalized.  [Ver | View wiki](https://github.com/montera34/escovid19data/wiki#hospitalizados)
+* `hospitalized` Hospitalizados prevalentes | Hospitalized.  [Ver | View wiki](https://github.com/montera34/escovid19data/wiki#hospitalizados)
+* `hospitalized_new` Ingresos nuevos ese día
+* `hospitalized_accumulated` Hospitalizados acumulados
 * `intensive_care` Pacientes en UCI | UCI (intensive care patiens)
 * `deceased` Deaths (cumulative)
 * `cases_accumulated` Casos COVID-19 detectados acumulado | Number of new COVID-19 cases (cumulative)
@@ -53,13 +55,16 @@ Datos originales | Original data:
 * `recovered` Recuperados | Recovered
 * `poblacion` Población de la provincia | Inhabitants of the province
 
-Datos de RENAVE-ISCIII: la fecha de inicio de síntomas o, en su defecto, la fecha de diagnóstico menos 6 días (con prefijo `num_`) (fuente: https://cnecovid.isciii.es/covid19/resources/datos_provincias.csv),
+Datos de RENAVE-ISCIII: la fecha de inicio de síntomas o, en su defecto, la fecha de diagnóstico menos 6 días (con prefijo `num_`) (fuente: https://cnecovid.isciii.es/covid19/resources/datos_provincias.csv, que desde el 2020-12-30 pasa a usarse https://cnecovid.isciii.es/covid19/resources/casos_diagnostico_provincia.csv), variables explicadas en https://cnecovid.isciii.es/covid19/resources/metadata_ccaadecl_prov_edad_sexo.pdf
 
 * `num_casos` el número de casos totales, confirmados o probables
 * `num_casos_prueba_pcr` el número de casos con prueba de laboratorio PCR o técnicas moleculares
 * `num_casos_prueba_test_ac` el número de casos con prueba de laboratorio de test rápido de anticuerpos
 * `num_casos_prueba_otras` el número de casos con otras pruebas de laboratorio, mayoritariamente por detección de antígeno o técnica Elisa
+* `num_casos_prueba_ag` Número de casos con prueba de laboratorio de test de detección de antígeno
+* `num_casos_prueba_elisa` Número de casos con prueba de laboratorio deserología de alta resolución (ELISA/ECLIA/CLIA)
 * `num_casos_prueba_desconocida` el número de casos sin información sobre la prueba de laboratorio
+
 
 Datos calculados a partir de los datos de arriba | Calculated data:
 
