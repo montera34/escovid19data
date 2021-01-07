@@ -120,7 +120,7 @@ De los PDF y XLSX de vacunación del Ministerio de Sanidad:
 * `vac_perc_entregadas` % de administradas sobre entregadas
 * `vac_date_data`  Última fecha de actualización de datos 
 * `vac_date_last`  Fecha de la última vacuna registrada 
-* `vac_date_published` Fecha de publicación del PDF
+* `vac_date_published` Fecha de publicación del informe
 
 ### Población por provincias (2019)
 
