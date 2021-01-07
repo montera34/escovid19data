@@ -105,13 +105,22 @@ De la hoja de cálculo del Ministerio de Sanidad: https://www.mscbs.gob.es/profe
 * `mnt_daily_deaths` Fallecidos diarios publicados
 * `mnt_deceased` Fallecidos acumulados calculados a partir de los datos diarios 
 
-Del archivo CSV  del Ministerio de Sanidad: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Datos_Casos_COVID19.csv 
+Del archivo CSV del Ministerio de Sanidad: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Datos_Casos_COVID19.csv 
 
 * `mnt_csv_daily_cases` Casos diarios | Daily cases
 * `mnt_csv_new_hosp` Nuevos hospitalizados diarios | New daily hospitalizations
 * `mnt_csv_new_ic` Nuevos hospitalizados en UCI  | New daily in intensive care
 * `mnt_csv_daily_deaths` Fallecidos diarios | Daily deaths
 * `mnt_csv_deceased` Fallecidos acumulados calculados a partir de los datos diarios | Cumulative deaths (calculate)
+
+De los PDF y XLSX de vacunación del Ministerio de Sanidad:
+
+* `vac_dosis_entregadas` Dosis.entregadas
+* `vac_dosis_administradas` Dosis.administradas
+* `vac_perc_entregadas` % de administradas sobre entregadas
+* `vac_date_data`  Última fecha de actualización de datos 
+* `vac_date_last`  Fecha de la última vacuna registrada 
+* `vac_date_published` Fecha de publicación del PDF
 
 ### Población por provincias (2019)
 
