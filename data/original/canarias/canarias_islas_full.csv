@@ -314,113 +314,113 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-09-28,48,48,0,El Hierro,0,0
 2020-09-29,48,48,0,El Hierro,0,0
 2020-09-30,49,48,0,El Hierro,0,0
-2020-04-01,33,11,0,Fuerteventura,4,2
-2020-04-02,34,12,0,Fuerteventura,4,2
-2020-04-03,35,15,0,Fuerteventura,7,2
-2020-04-04,35,15,0,Fuerteventura,4,2
-2020-04-05,36,17,0,Fuerteventura,4,2
-2020-04-06,37,18,0,Fuerteventura,3,2
-2020-04-07,37,18,0,Fuerteventura,4,2
-2020-04-08,38,20,0,Fuerteventura,3,2
-2020-04-09,38,20,0,Fuerteventura,3,2
-2020-04-10,39,20,0,Fuerteventura,3,2
-2020-04-11,39,23,0,Fuerteventura,3,2
-2020-04-12,39,23,0,Fuerteventura,5,2
-2020-04-13,39,24,0,Fuerteventura,3,2
-2020-04-14,39,28,0,Fuerteventura,2,1
-2020-04-15,39,30,0,Fuerteventura,3,1
-2020-04-16,39,30,0,Fuerteventura,3,1
-2020-04-17,42,32,0,Fuerteventura,3,1
-2020-04-18,42,32,0,Fuerteventura,3,1
-2020-04-19,43,34,0,Fuerteventura,2,1
-2020-04-20,43,34,0,Fuerteventura,2,1
-2020-04-21,43,34,0,Fuerteventura,4,1
-2020-04-22,44,34,0,Fuerteventura,3,2
-2020-04-23,44,35,0,Fuerteventura,3,2
-2020-04-24,44,35,0,Fuerteventura,4,2
-2020-04-25,44,36,0,Fuerteventura,4,2
-2020-04-26,44,36,0,Fuerteventura,2,2
-2020-04-27,44,37,0,Fuerteventura,5,2
-2020-04-28,44,40,0,Fuerteventura,4,2
-2020-04-29,44,40,0,Fuerteventura,2,2
-2020-04-30,44,40,0,Fuerteventura,3,2
-2020-08-01,147,143,0,Fuerteventura,0,0
-2020-08-02,147,143,0,Fuerteventura,0,0
+2020-04-01,33,11,0,Fuerteventura,27,9
+2020-04-02,34,12,0,Fuerteventura,20,9
+2020-04-03,35,15,0,Fuerteventura,20,9
+2020-04-04,35,15,0,Fuerteventura,19,9
+2020-04-05,36,17,0,Fuerteventura,21,9
+2020-04-06,37,18,0,Fuerteventura,20,9
+2020-04-07,37,18,0,Fuerteventura,21,9
+2020-04-08,38,20,0,Fuerteventura,18,9
+2020-04-09,38,20,0,Fuerteventura,23,9
+2020-04-10,39,20,0,Fuerteventura,21,9
+2020-04-11,39,23,0,Fuerteventura,21,9
+2020-04-12,39,23,0,Fuerteventura,20,9
+2020-04-13,39,24,0,Fuerteventura,18,7
+2020-04-14,39,28,0,Fuerteventura,17,7
+2020-04-15,39,30,0,Fuerteventura,18,7
+2020-04-16,39,30,0,Fuerteventura,16,7
+2020-04-17,42,32,0,Fuerteventura,17,7
+2020-04-18,42,32,0,Fuerteventura,16,7
+2020-04-19,43,34,0,Fuerteventura,16,7
+2020-04-20,43,34,0,Fuerteventura,15,7
+2020-04-21,43,34,0,Fuerteventura,15,7
+2020-04-22,44,34,0,Fuerteventura,15,5
+2020-04-23,44,35,0,Fuerteventura,9,5
+2020-04-24,44,35,0,Fuerteventura,7,4
+2020-04-25,44,36,0,Fuerteventura,7,4
+2020-04-26,44,36,0,Fuerteventura,7,4
+2020-04-27,44,37,0,Fuerteventura,8,4
+2020-04-28,44,40,0,Fuerteventura,6,4
+2020-04-29,44,40,0,Fuerteventura,5,4
+2020-04-30,44,40,0,Fuerteventura,5,4
+2020-08-01,147,143,0,Fuerteventura,1,1
+2020-08-02,147,143,0,Fuerteventura,1,1
 2020-08-03,152,143,0,Fuerteventura,0,0
 2020-08-04,153,144,0,Fuerteventura,0,0
 2020-08-05,154,144,0,Fuerteventura,0,0
 2020-08-06,154,144,0,Fuerteventura,0,0
-2020-08-07,155,144,0,Fuerteventura,1,0
-2020-08-08,155,145,0,Fuerteventura,1,0
-2020-08-09,155,145,0,Fuerteventura,1,0
-2020-08-10,157,145,0,Fuerteventura,1,0
+2020-08-07,155,144,0,Fuerteventura,0,0
+2020-08-08,155,145,0,Fuerteventura,0,0
+2020-08-09,155,145,0,Fuerteventura,0,0
+2020-08-10,157,145,0,Fuerteventura,2,0
 2020-08-11,160,145,0,Fuerteventura,0,0
 2020-08-12,163,146,0,Fuerteventura,0,0
 2020-08-13,163,147,0,Fuerteventura,0,0
 2020-08-14,164,147,0,Fuerteventura,0,0
 2020-08-15,164,147,0,Fuerteventura,1,0
 2020-08-16,164,147,0,Fuerteventura,1,0
-2020-08-17,166,148,0,Fuerteventura,1,0
-2020-08-18,172,149,0,Fuerteventura,1,0
-2020-08-19,181,149,0,Fuerteventura,0,0
-2020-08-20,184,151,0,Fuerteventura,0,0
-2020-08-21,189,151,0,Fuerteventura,0,0
-2020-08-22,202,153,0,Fuerteventura,1,0
-2020-08-23,202,154,0,Fuerteventura,1,0
-2020-08-24,203,154,0,Fuerteventura,1,0
-2020-08-25,209,160,0,Fuerteventura,1,0
-2020-08-26,224,162,0,Fuerteventura,0,0
-2020-08-27,230,165,0,Fuerteventura,2,0
-2020-08-28,236,173,0,Fuerteventura,2,1
-2020-08-29,264,176,0,Fuerteventura,2,1
-2020-08-30,282,178,0,Fuerteventura,2,1
-2020-08-31,290,186,0,Fuerteventura,3,0
-2020-12-01,912,850,4,Fuerteventura,1,0
-2020-12-02,923,850,4,Fuerteventura,1,0
-2020-12-03,925,858,4,Fuerteventura,1,0
-2020-12-04,931,866,4,Fuerteventura,1,0
-2020-12-05,931,868,4,Fuerteventura,0,0
-2020-12-06,934,873,4,Fuerteventura,0,0
-2020-12-07,935,880,4,Fuerteventura,1,0
-2020-12-08,935,880,4,Fuerteventura,2,0
-2020-12-09,939,888,4,Fuerteventura,2,0
-2020-12-10,941,888,4,Fuerteventura,1,0
+2020-08-17,166,148,0,Fuerteventura,4,1
+2020-08-18,172,149,0,Fuerteventura,4,1
+2020-08-19,181,149,0,Fuerteventura,5,1
+2020-08-20,184,151,0,Fuerteventura,7,1
+2020-08-21,189,151,0,Fuerteventura,7,1
+2020-08-22,202,153,0,Fuerteventura,8,1
+2020-08-23,202,154,0,Fuerteventura,9,1
+2020-08-24,203,154,0,Fuerteventura,11,1
+2020-08-25,209,160,0,Fuerteventura,11,1
+2020-08-26,224,162,0,Fuerteventura,13,1
+2020-08-27,230,165,0,Fuerteventura,10,1
+2020-08-28,236,173,0,Fuerteventura,10,1
+2020-08-29,264,176,0,Fuerteventura,12,1
+2020-08-30,282,178,0,Fuerteventura,13,1
+2020-08-31,290,186,0,Fuerteventura,14,1
+2020-12-01,912,850,4,Fuerteventura,3,0
+2020-12-02,923,850,4,Fuerteventura,3,0
+2020-12-03,925,858,4,Fuerteventura,10,0
+2020-12-04,931,866,4,Fuerteventura,7,0
+2020-12-05,931,868,4,Fuerteventura,8,0
+2020-12-06,934,873,4,Fuerteventura,8,0
+2020-12-07,935,880,4,Fuerteventura,7,0
+2020-12-08,935,880,4,Fuerteventura,8,0
+2020-12-09,939,888,4,Fuerteventura,4,0
+2020-12-10,941,888,4,Fuerteventura,4,0
 2019-12-11,0,0,0,Fuerteventura,NA,NA
-2020-12-11,941,892,4,Fuerteventura,1,0
+2020-12-11,941,892,4,Fuerteventura,4,0
 2020-12-12,942,898,4,Fuerteventura,1,0
 2020-12-13,944,902,4,Fuerteventura,1,0
-2020-12-14,945,906,4,Fuerteventura,2,0
-2020-12-15,950,909,4,Fuerteventura,1,0
+2020-12-14,945,906,4,Fuerteventura,1,0
+2020-12-15,950,909,4,Fuerteventura,0,0
 2020-12-16,952,915,4,Fuerteventura,0,0
-2020-12-17,957,920,4,Fuerteventura,0,0
-2020-12-18,960,921,4,Fuerteventura,2,0
-2020-12-19,968,923,4,Fuerteventura,1,0
+2020-12-17,957,920,4,Fuerteventura,2,0
+2020-12-18,960,921,4,Fuerteventura,0,0
+2020-12-19,968,923,4,Fuerteventura,0,0
 2020-12-20,968,923,4,Fuerteventura,1,0
 2020-12-21,969,923,4,Fuerteventura,1,0
-2020-12-22,978,923,4,Fuerteventura,2,0
-2020-12-23,981,925,4,Fuerteventura,2,0
-2020-12-24,985,927,4,Fuerteventura,2,1
+2020-12-22,978,923,4,Fuerteventura,1,0
+2020-12-23,981,925,4,Fuerteventura,1,0
+2020-12-24,985,927,4,Fuerteventura,1,0
 2020-12-25,987,931,4,Fuerteventura,1,0
 2020-12-26,989,931,4,Fuerteventura,1,0
-2020-12-27,990,933,4,Fuerteventura,1,0
+2020-12-27,990,933,4,Fuerteventura,2,0
 2020-12-28,990,940,4,Fuerteventura,2,0
-2020-12-29,999,942,4,Fuerteventura,2,1
-2020-12-30,1004,946,4,Fuerteventura,2,1
+2020-12-29,999,942,4,Fuerteventura,2,0
+2020-12-30,1004,946,4,Fuerteventura,2,0
 2020-12-31,1014,953,4,Fuerteventura,2,1
 2020-02-25,0,0,0,Fuerteventura,NA,NA
 2020-02-27,0,0,0,Fuerteventura,NA,NA
 2020-02-28,0,0,0,Fuerteventura,NA,NA
 2020-02-29,0,0,0,Fuerteventura,NA,NA
 2021-01-01,1015,958,4,Fuerteventura,2,1
-2021-01-02,1019,959,4,Fuerteventura,2,0
-2021-01-03,1030,962,4,Fuerteventura,2,0
-2021-01-04,1031,965,4,Fuerteventura,3,0
-2021-01-05,1057,965,4,Fuerteventura,2,0
-2021-01-06,1072,965,4,Fuerteventura,2,0
-2021-01-07,1086,968,4,Fuerteventura,4,0
+2021-01-02,1019,959,4,Fuerteventura,2,1
+2021-01-03,1030,962,4,Fuerteventura,3,1
+2021-01-04,1031,965,4,Fuerteventura,2,1
+2021-01-05,1057,965,4,Fuerteventura,4,2
+2021-01-06,1072,965,4,Fuerteventura,3,2
+2021-01-07,1086,968,4,Fuerteventura,5,2
 2020-01-31,0,0,0,Fuerteventura,NA,NA
 2020-07-01,86,58,0,Fuerteventura,0,0
-2020-07-02,87,61,0,Fuerteventura,1,0
+2020-07-02,87,61,0,Fuerteventura,0,0
 2020-07-03,89,61,0,Fuerteventura,0,0
 2020-07-04,89,61,0,Fuerteventura,0,0
 2020-07-06,89,61,0,Fuerteventura,0,0
@@ -432,12 +432,12 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-07-13,91,69,0,Fuerteventura,0,0
 2020-07-14,91,86,0,Fuerteventura,0,0
 2020-07-15,95,86,0,Fuerteventura,0,0
-2020-07-16,96,86,0,Fuerteventura,1,0
+2020-07-16,96,86,0,Fuerteventura,0,0
 2020-07-17,97,87,0,Fuerteventura,0,0
 2020-07-18,97,88,0,Fuerteventura,0,0
-2020-07-19,143,88,0,Fuerteventura,0,0
-2020-07-20,143,90,0,Fuerteventura,0,0
-2020-07-21,143,90,0,Fuerteventura,1,1
+2020-07-19,143,88,0,Fuerteventura,1,0
+2020-07-20,143,90,0,Fuerteventura,1,0
+2020-07-21,143,90,0,Fuerteventura,0,0
 2020-07-22,143,90,0,Fuerteventura,0,0
 2020-07-23,143,98,0,Fuerteventura,0,0
 2020-07-24,143,112,0,Fuerteventura,0,0
@@ -445,37 +445,37 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-07-26,144,116,0,Fuerteventura,0,0
 2020-07-27,144,117,0,Fuerteventura,0,0
 2020-07-28,144,118,0,Fuerteventura,0,0
-2020-07-29,145,135,0,Fuerteventura,0,0
-2020-07-30,146,136,0,Fuerteventura,0,0
-2020-07-31,146,143,0,Fuerteventura,0,0
-2020-06-01,45,45,0,Fuerteventura,0,0
-2020-06-02,45,45,0,Fuerteventura,0,0
-2020-06-03,45,45,0,Fuerteventura,0,0
-2020-06-04,46,45,0,Fuerteventura,0,0
-2020-06-05,46,45,0,Fuerteventura,0,0
-2020-06-06,46,45,0,Fuerteventura,0,0
-2020-06-07,46,45,0,Fuerteventura,0,0
-2020-06-08,46,45,0,Fuerteventura,0,0
-2020-06-09,46,45,0,Fuerteventura,1,0
-2020-06-10,46,45,0,Fuerteventura,0,0
-2020-06-11,46,45,0,Fuerteventura,0,0
-2020-06-12,46,45,0,Fuerteventura,1,0
-2020-06-13,46,45,0,Fuerteventura,1,0
-2020-06-14,46,45,0,Fuerteventura,1,0
-2020-06-15,46,46,0,Fuerteventura,0,0
-2020-06-16,46,46,0,Fuerteventura,1,0
-2020-06-17,60,46,0,Fuerteventura,0,0
+2020-07-29,145,135,0,Fuerteventura,1,1
+2020-07-30,146,136,0,Fuerteventura,1,1
+2020-07-31,146,143,0,Fuerteventura,1,1
+2020-06-01,45,45,0,Fuerteventura,2,0
+2020-06-02,45,45,0,Fuerteventura,2,0
+2020-06-03,45,45,0,Fuerteventura,2,0
+2020-06-04,46,45,0,Fuerteventura,2,0
+2020-06-05,46,45,0,Fuerteventura,2,0
+2020-06-06,46,45,0,Fuerteventura,2,0
+2020-06-07,46,45,0,Fuerteventura,2,0
+2020-06-08,46,45,0,Fuerteventura,2,0
+2020-06-09,46,45,0,Fuerteventura,2,0
+2020-06-10,46,45,0,Fuerteventura,2,0
+2020-06-11,46,45,0,Fuerteventura,2,0
+2020-06-12,46,45,0,Fuerteventura,2,0
+2020-06-13,46,45,0,Fuerteventura,2,0
+2020-06-14,46,45,0,Fuerteventura,2,0
+2020-06-15,46,46,0,Fuerteventura,2,0
+2020-06-16,46,46,0,Fuerteventura,2,0
+2020-06-17,60,46,0,Fuerteventura,2,0
 2020-06-18,60,46,0,Fuerteventura,1,0
 2020-06-19,60,46,0,Fuerteventura,1,0
-2020-06-20,71,46,0,Fuerteventura,0,0
-2020-06-21,71,46,0,Fuerteventura,0,0
-2020-06-22,71,46,0,Fuerteventura,0,0
-2020-06-23,77,46,0,Fuerteventura,1,0
+2020-06-20,71,46,0,Fuerteventura,1,0
+2020-06-21,71,46,0,Fuerteventura,1,0
+2020-06-22,71,46,0,Fuerteventura,1,0
+2020-06-23,77,46,0,Fuerteventura,0,0
 2020-06-24,79,47,0,Fuerteventura,0,0
 2020-06-25,79,47,0,Fuerteventura,0,0
 2020-06-26,79,47,0,Fuerteventura,0,0
 2020-06-27,79,47,0,Fuerteventura,0,0
-2020-06-28,79,47,0,Fuerteventura,2,0
+2020-06-28,79,47,0,Fuerteventura,0,0
 2020-06-29,79,47,0,Fuerteventura,0,0
 2020-06-30,83,51,0,Fuerteventura,0,0
 2020-03-03,0,0,0,Fuerteventura,NA,NA
@@ -498,178 +498,178 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-03-20,14,1,0,Fuerteventura,NA,NA
 2020-03-21,18,1,0,Fuerteventura,NA,NA
 2020-03-22,19,1,0,Fuerteventura,NA,NA
-2020-03-23,19,1,0,Fuerteventura,0,0
-2020-03-24,24,1,0,Fuerteventura,1,0
-2020-03-25,27,1,0,Fuerteventura,1,0
-2020-03-26,28,1,0,Fuerteventura,2,0
-2020-03-27,30,1,0,Fuerteventura,3,1
-2020-03-28,31,5,0,Fuerteventura,3,1
-2020-03-29,32,6,0,Fuerteventura,2,2
-2020-03-30,33,9,0,Fuerteventura,2,2
-2020-03-31,33,10,0,Fuerteventura,3,1
-2020-05-01,44,40,0,Fuerteventura,3,2
-2020-05-02,44,41,0,Fuerteventura,3,2
-2020-05-03,44,41,0,Fuerteventura,2,2
-2020-05-04,44,41,0,Fuerteventura,3,1
-2020-05-05,44,42,0,Fuerteventura,1,1
-2020-05-06,44,42,0,Fuerteventura,1,1
-2020-05-07,44,42,0,Fuerteventura,1,1
-2020-05-08,44,42,0,Fuerteventura,1,1
-2020-05-09,44,42,0,Fuerteventura,2,1
-2020-05-10,44,42,0,Fuerteventura,1,1
-2020-05-11,44,42,0,Fuerteventura,3,1
-2020-05-12,44,42,0,Fuerteventura,1,1
-2020-05-13,45,42,0,Fuerteventura,1,1
-2020-05-14,45,42,0,Fuerteventura,1,1
-2020-05-15,45,42,0,Fuerteventura,1,1
-2020-05-16,45,42,0,Fuerteventura,1,1
-2020-05-17,45,42,0,Fuerteventura,1,1
-2020-05-18,45,42,0,Fuerteventura,2,1
-2020-05-19,45,42,0,Fuerteventura,1,1
-2020-05-20,45,42,0,Fuerteventura,2,1
-2020-05-21,45,42,0,Fuerteventura,1,1
-2020-05-22,45,43,0,Fuerteventura,1,1
-2020-05-23,45,43,0,Fuerteventura,1,1
+2020-03-23,19,1,0,Fuerteventura,9,2
+2020-03-24,24,1,0,Fuerteventura,16,3
+2020-03-25,27,1,0,Fuerteventura,16,4
+2020-03-26,28,1,0,Fuerteventura,17,4
+2020-03-27,30,1,0,Fuerteventura,30,10
+2020-03-28,31,5,0,Fuerteventura,25,4
+2020-03-29,32,6,0,Fuerteventura,26,6
+2020-03-30,33,9,0,Fuerteventura,27,8
+2020-03-31,33,10,0,Fuerteventura,24,8
+2020-05-01,44,40,0,Fuerteventura,6,4
+2020-05-02,44,41,0,Fuerteventura,8,4
+2020-05-03,44,41,0,Fuerteventura,5,3
+2020-05-04,44,41,0,Fuerteventura,5,2
+2020-05-05,44,42,0,Fuerteventura,5,2
+2020-05-06,44,42,0,Fuerteventura,6,2
+2020-05-07,44,42,0,Fuerteventura,5,2
+2020-05-08,44,42,0,Fuerteventura,5,2
+2020-05-09,44,42,0,Fuerteventura,5,2
+2020-05-10,44,42,0,Fuerteventura,5,2
+2020-05-11,44,42,0,Fuerteventura,5,2
+2020-05-12,44,42,0,Fuerteventura,5,2
+2020-05-13,45,42,0,Fuerteventura,4,2
+2020-05-14,45,42,0,Fuerteventura,3,2
+2020-05-15,45,42,0,Fuerteventura,3,2
+2020-05-16,45,42,0,Fuerteventura,3,2
+2020-05-17,45,42,0,Fuerteventura,3,2
+2020-05-18,45,42,0,Fuerteventura,3,2
+2020-05-19,45,42,0,Fuerteventura,3,2
+2020-05-20,45,42,0,Fuerteventura,3,2
+2020-05-21,45,42,0,Fuerteventura,2,1
+2020-05-22,45,43,0,Fuerteventura,2,1
+2020-05-23,45,43,0,Fuerteventura,2,1
 2020-05-24,45,43,0,Fuerteventura,2,1
-2020-05-25,45,44,0,Fuerteventura,3,0
-2020-05-26,45,44,0,Fuerteventura,1,0
-2020-05-27,45,45,0,Fuerteventura,0,0
-2020-05-28,45,45,0,Fuerteventura,0,0
-2020-05-29,45,45,0,Fuerteventura,0,0
+2020-05-25,45,44,0,Fuerteventura,2,1
+2020-05-26,45,44,0,Fuerteventura,2,1
+2020-05-27,45,45,0,Fuerteventura,2,0
+2020-05-28,45,45,0,Fuerteventura,2,0
+2020-05-29,45,45,0,Fuerteventura,2,0
 2020-05-30,45,45,0,Fuerteventura,2,0
-2020-05-31,45,45,0,Fuerteventura,0,0
-2020-11-01,772,725,3,Fuerteventura,3,0
-2020-11-02,774,726,3,Fuerteventura,1,0
-2020-11-03,783,729,3,Fuerteventura,3,0
-2020-11-04,791,729,3,Fuerteventura,2,0
-2020-11-05,797,731,3,Fuerteventura,2,0
-2020-11-06,803,735,3,Fuerteventura,2,0
-2020-11-07,808,743,3,Fuerteventura,2,0
-2020-11-08,808,746,3,Fuerteventura,3,0
+2020-05-31,45,45,0,Fuerteventura,2,0
+2020-11-01,772,725,3,Fuerteventura,1,1
+2020-11-02,774,726,3,Fuerteventura,1,1
+2020-11-03,783,729,3,Fuerteventura,0,0
+2020-11-04,791,729,3,Fuerteventura,0,0
+2020-11-05,797,731,3,Fuerteventura,0,0
+2020-11-06,803,735,3,Fuerteventura,0,0
+2020-11-07,808,743,3,Fuerteventura,1,0
+2020-11-08,808,746,3,Fuerteventura,1,0
 2020-11-09,812,754,3,Fuerteventura,1,0
-2020-11-10,821,757,3,Fuerteventura,2,0
-2020-11-11,830,763,3,Fuerteventura,4,0
-2020-11-12,835,766,3,Fuerteventura,4,1
-2020-11-13,845,776,3,Fuerteventura,4,1
-2020-11-14,850,782,3,Fuerteventura,4,1
-2020-11-15,852,786,4,Fuerteventura,5,1
-2020-11-16,853,788,4,Fuerteventura,4,1
-2020-11-17,858,791,4,Fuerteventura,3,1
-2020-11-18,860,791,4,Fuerteventura,3,1
-2020-11-19,861,796,4,Fuerteventura,3,0
-2020-11-20,866,805,4,Fuerteventura,3,0
-2020-11-21,871,808,4,Fuerteventura,3,0
-2020-11-22,873,810,4,Fuerteventura,2,0
+2020-11-10,821,757,3,Fuerteventura,1,0
+2020-11-11,830,763,3,Fuerteventura,0,0
+2020-11-12,835,766,3,Fuerteventura,0,0
+2020-11-13,845,776,3,Fuerteventura,0,0
+2020-11-14,850,782,3,Fuerteventura,0,0
+2020-11-15,852,786,4,Fuerteventura,2,0
+2020-11-16,853,788,4,Fuerteventura,2,0
+2020-11-17,858,791,4,Fuerteventura,2,0
+2020-11-18,860,791,4,Fuerteventura,2,0
+2020-11-19,861,796,4,Fuerteventura,2,0
+2020-11-20,866,805,4,Fuerteventura,2,0
+2020-11-21,871,808,4,Fuerteventura,4,0
+2020-11-22,873,810,4,Fuerteventura,4,0
 2020-11-23,875,823,4,Fuerteventura,4,0
-2020-11-24,884,825,4,Fuerteventura,3,1
-2020-11-25,893,827,4,Fuerteventura,3,1
-2020-11-26,897,835,4,Fuerteventura,3,1
-2020-11-27,898,836,4,Fuerteventura,3,1
-2020-11-28,900,840,4,Fuerteventura,5,1
-2020-11-29,900,841,4,Fuerteventura,3,1
-2020-11-30,904,844,4,Fuerteventura,2,0
-2020-10-01,661,509,2,Fuerteventura,6,3
-2020-10-02,669,516,2,Fuerteventura,8,3
-2020-10-03,676,525,2,Fuerteventura,8,3
-2020-10-04,679,529,2,Fuerteventura,10,2
-2020-10-05,682,551,2,Fuerteventura,10,2
+2020-11-24,884,825,4,Fuerteventura,7,0
+2020-11-25,893,827,4,Fuerteventura,5,0
+2020-11-26,897,835,4,Fuerteventura,4,0
+2020-11-27,898,836,4,Fuerteventura,3,0
+2020-11-28,900,840,4,Fuerteventura,3,0
+2020-11-29,900,841,4,Fuerteventura,3,0
+2020-11-30,904,844,4,Fuerteventura,4,0
+2020-10-01,661,509,2,Fuerteventura,7,2
+2020-10-02,669,516,2,Fuerteventura,8,2
+2020-10-03,676,525,2,Fuerteventura,8,2
+2020-10-04,679,529,2,Fuerteventura,6,2
+2020-10-05,682,551,2,Fuerteventura,5,2
 2020-10-06,688,565,2,Fuerteventura,5,2
 2020-10-07,690,581,2,Fuerteventura,6,2
 2020-10-08,697,602,2,Fuerteventura,7,2
-2020-10-09,699,610,2,Fuerteventura,4,2
-2020-10-10,706,623,2,Fuerteventura,3,2
-2020-10-11,706,637,2,Fuerteventura,5,2
-2020-10-12,706,645,2,Fuerteventura,4,2
-2020-10-13,707,648,2,Fuerteventura,3,3
-2020-10-14,712,665,2,Fuerteventura,5,3
-2020-10-15,717,671,2,Fuerteventura,3,3
-2020-10-16,721,678,2,Fuerteventura,3,3
-2020-10-17,721,679,2,Fuerteventura,4,3
-2020-10-18,724,681,2,Fuerteventura,3,3
-2020-10-19,724,687,2,Fuerteventura,3,2
-2020-10-20,734,688,3,Fuerteventura,4,1
-2020-10-21,734,694,3,Fuerteventura,3,1
+2020-10-09,699,610,2,Fuerteventura,8,2
+2020-10-10,706,623,2,Fuerteventura,6,3
+2020-10-11,706,637,2,Fuerteventura,7,3
+2020-10-12,706,645,2,Fuerteventura,6,2
+2020-10-13,707,648,2,Fuerteventura,8,2
+2020-10-14,712,665,2,Fuerteventura,9,3
+2020-10-15,717,671,2,Fuerteventura,7,2
+2020-10-16,721,678,2,Fuerteventura,7,2
+2020-10-17,721,679,2,Fuerteventura,7,2
+2020-10-18,724,681,2,Fuerteventura,7,2
+2020-10-19,724,687,2,Fuerteventura,7,2
+2020-10-20,734,688,3,Fuerteventura,4,2
+2020-10-21,734,694,3,Fuerteventura,4,2
 2020-10-22,736,694,3,Fuerteventura,4,1
 2020-10-23,740,695,3,Fuerteventura,3,1
-2020-10-24,741,702,3,Fuerteventura,4,1
+2020-10-24,741,702,3,Fuerteventura,3,1
 2020-10-25,741,702,3,Fuerteventura,3,1
-2020-10-26,742,708,3,Fuerteventura,3,1
-2020-10-27,745,713,3,Fuerteventura,3,1
-2020-10-28,752,714,3,Fuerteventura,2,0
-2020-10-29,763,714,3,Fuerteventura,3,0
-2020-10-30,767,722,3,Fuerteventura,3,0
-2020-10-31,772,722,3,Fuerteventura,2,0
-2020-09-01,307,194,0,Fuerteventura,3,0
-2020-09-02,329,194,0,Fuerteventura,3,1
-2020-09-03,338,198,0,Fuerteventura,2,0
-2020-09-04,353,219,0,Fuerteventura,3,0
-2020-09-05,369,228,0,Fuerteventura,6,1
-2020-09-06,375,228,0,Fuerteventura,7,2
-2020-09-07,380,240,0,Fuerteventura,8,2
-2020-09-08,392,247,0,Fuerteventura,11,2
-2020-09-09,403,274,0,Fuerteventura,10,3
-2020-09-10,421,284,1,Fuerteventura,11,3
+2020-10-26,742,708,3,Fuerteventura,1,1
+2020-10-27,745,713,3,Fuerteventura,1,1
+2020-10-28,752,714,3,Fuerteventura,1,1
+2020-10-29,763,714,3,Fuerteventura,1,1
+2020-10-30,767,722,3,Fuerteventura,1,1
+2020-10-31,772,722,3,Fuerteventura,1,1
+2020-09-01,307,194,0,Fuerteventura,10,1
+2020-09-02,329,194,0,Fuerteventura,13,1
+2020-09-03,338,198,0,Fuerteventura,14,1
+2020-09-04,353,219,0,Fuerteventura,14,1
+2020-09-05,369,228,0,Fuerteventura,17,1
+2020-09-06,375,228,0,Fuerteventura,17,1
+2020-09-07,380,240,0,Fuerteventura,17,0
+2020-09-08,392,247,0,Fuerteventura,15,0
+2020-09-09,403,274,0,Fuerteventura,14,0
+2020-09-10,421,284,1,Fuerteventura,12,1
 2020-09-11,426,308,1,Fuerteventura,11,2
-2020-09-12,464,308,1,Fuerteventura,12,3
-2020-09-13,468,309,1,Fuerteventura,11,2
-2020-09-14,474,331,2,Fuerteventura,12,2
-2020-09-15,480,347,2,Fuerteventura,8,3
-2020-09-16,488,361,2,Fuerteventura,10,2
-2020-09-17,499,373,2,Fuerteventura,9,2
-2020-09-18,507,379,2,Fuerteventura,9,2
-2020-09-19,510,390,2,Fuerteventura,9,2
-2020-09-20,520,413,2,Fuerteventura,10,2
-2020-09-21,526,431,2,Fuerteventura,8,2
-2020-09-22,534,439,2,Fuerteventura,9,1
-2020-09-23,544,440,2,Fuerteventura,8,1
-2020-09-24,567,450,2,Fuerteventura,6,1
-2020-09-25,577,462,2,Fuerteventura,10,2
-2020-09-26,587,464,2,Fuerteventura,9,2
+2020-09-12,464,308,1,Fuerteventura,12,2
+2020-09-13,468,309,1,Fuerteventura,14,2
+2020-09-14,474,331,2,Fuerteventura,14,2
+2020-09-15,480,347,2,Fuerteventura,14,2
+2020-09-16,488,361,2,Fuerteventura,15,2
+2020-09-17,499,373,2,Fuerteventura,12,2
+2020-09-18,507,379,2,Fuerteventura,10,1
+2020-09-19,510,390,2,Fuerteventura,10,1
+2020-09-20,520,413,2,Fuerteventura,12,1
+2020-09-21,526,431,2,Fuerteventura,11,1
+2020-09-22,534,439,2,Fuerteventura,11,3
+2020-09-23,544,440,2,Fuerteventura,9,3
+2020-09-24,567,450,2,Fuerteventura,9,3
+2020-09-25,577,462,2,Fuerteventura,10,3
+2020-09-26,587,464,2,Fuerteventura,9,3
 2020-09-27,604,470,2,Fuerteventura,9,2
-2020-09-28,609,480,2,Fuerteventura,8,2
-2020-09-29,624,485,2,Fuerteventura,8,2
-2020-09-30,639,488,2,Fuerteventura,7,3
+2020-09-28,609,480,2,Fuerteventura,7,2
+2020-09-29,624,485,2,Fuerteventura,7,2
+2020-09-30,639,488,2,Fuerteventura,6,2
 2020-04-01,408,66,19,Gran Canaria,109,37
 2020-04-02,438,77,21,Gran Canaria,104,38
 2020-04-03,447,90,23,Gran Canaria,98,39
-2020-04-04,459,97,24,Gran Canaria,100,39
+2020-04-04,459,97,24,Gran Canaria,102,39
 2020-04-05,470,111,25,Gran Canaria,105,37
 2020-04-06,478,129,26,Gran Canaria,99,36
 2020-04-07,482,138,26,Gran Canaria,98,38
-2020-04-08,499,155,27,Gran Canaria,88,40
-2020-04-09,505,165,27,Gran Canaria,83,34
-2020-04-10,506,182,27,Gran Canaria,79,31
+2020-04-08,499,155,27,Gran Canaria,91,40
+2020-04-09,505,165,27,Gran Canaria,84,34
+2020-04-10,506,182,27,Gran Canaria,80,31
 2020-04-11,514,182,27,Gran Canaria,80,32
-2020-04-12,515,188,27,Gran Canaria,80,31
-2020-04-13,517,202,27,Gran Canaria,71,32
+2020-04-12,515,188,27,Gran Canaria,81,31
+2020-04-13,517,202,27,Gran Canaria,73,32
 2020-04-14,520,214,27,Gran Canaria,69,29
 2020-04-15,524,225,31,Gran Canaria,64,26
-2020-04-16,528,247,31,Gran Canaria,62,23
-2020-04-17,529,267,31,Gran Canaria,59,21
-2020-04-18,533,274,31,Gran Canaria,59,22
-2020-04-19,534,278,32,Gran Canaria,60,22
-2020-04-20,537,295,32,Gran Canaria,53,21
-2020-04-21,542,307,33,Gran Canaria,50,20
-2020-04-22,549,334,33,Gran Canaria,43,18
-2020-04-23,553,346,33,Gran Canaria,43,17
+2020-04-16,528,247,31,Gran Canaria,63,23
+2020-04-17,529,267,31,Gran Canaria,60,21
+2020-04-18,533,274,31,Gran Canaria,61,22
+2020-04-19,534,278,32,Gran Canaria,62,22
+2020-04-20,537,295,32,Gran Canaria,57,21
+2020-04-21,542,307,33,Gran Canaria,53,20
+2020-04-22,549,334,33,Gran Canaria,44,18
+2020-04-23,553,346,33,Gran Canaria,44,17
 2020-04-24,555,361,34,Gran Canaria,38,16
 2020-04-25,556,370,34,Gran Canaria,36,15
 2020-04-26,557,371,34,Gran Canaria,35,15
 2020-04-27,561,378,34,Gran Canaria,32,14
-2020-04-28,561,384,34,Gran Canaria,31,12
+2020-04-28,561,384,34,Gran Canaria,32,12
 2020-04-29,563,396,34,Gran Canaria,32,12
-2020-04-30,565,409,35,Gran Canaria,27,11
+2020-04-30,565,409,35,Gran Canaria,28,11
 2020-08-01,690,610,39,Gran Canaria,3,0
 2020-08-02,708,610,39,Gran Canaria,5,0
 2020-08-03,716,610,39,Gran Canaria,5,0
 2020-08-04,729,611,39,Gran Canaria,4,1
-2020-08-05,749,612,39,Gran Canaria,5,1
-2020-08-06,800,613,39,Gran Canaria,6,0
-2020-08-07,824,614,39,Gran Canaria,5,0
-2020-08-08,849,617,39,Gran Canaria,8,0
-2020-08-09,883,617,39,Gran Canaria,10,0
-2020-08-10,944,629,39,Gran Canaria,11,0
-2020-08-11,996,645,39,Gran Canaria,14,0
+2020-08-05,749,612,39,Gran Canaria,6,1
+2020-08-06,800,613,39,Gran Canaria,7,0
+2020-08-07,824,614,39,Gran Canaria,6,0
+2020-08-08,849,617,39,Gran Canaria,9,0
+2020-08-09,883,617,39,Gran Canaria,11,0
+2020-08-10,944,629,39,Gran Canaria,12,0
+2020-08-11,996,645,39,Gran Canaria,15,0
 2020-08-12,1070,649,39,Gran Canaria,23,1
 2020-08-13,1145,660,39,Gran Canaria,21,1
 2020-08-14,1239,682,40,Gran Canaria,27,3
@@ -682,57 +682,57 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-08-21,2083,992,43,Gran Canaria,70,9
 2020-08-22,2227,1080,43,Gran Canaria,83,13
 2020-08-23,2307,1153,43,Gran Canaria,92,16
-2020-08-24,2472,1263,43,Gran Canaria,101,16
-2020-08-25,2689,1359,44,Gran Canaria,111,20
+2020-08-24,2472,1263,43,Gran Canaria,103,16
+2020-08-25,2689,1359,44,Gran Canaria,112,20
 2020-08-26,2949,1441,46,Gran Canaria,116,22
 2020-08-27,3136,1540,46,Gran Canaria,129,24
 2020-08-28,3301,1682,47,Gran Canaria,136,25
 2020-08-29,3513,1762,48,Gran Canaria,152,27
-2020-08-30,3711,1870,48,Gran Canaria,159,25
-2020-08-31,3881,2015,48,Gran Canaria,156,28
-2020-12-01,9473,8979,129,Gran Canaria,61,18
-2020-12-02,9516,9000,129,Gran Canaria,63,17
-2020-12-03,9545,9018,129,Gran Canaria,62,18
-2020-12-04,9569,9045,129,Gran Canaria,61,17
-2020-12-05,9595,9062,129,Gran Canaria,63,18
-2020-12-06,9604,9074,129,Gran Canaria,67,17
-2020-12-07,9629,9098,130,Gran Canaria,69,15
-2020-12-08,9648,9114,130,Gran Canaria,71,16
-2020-12-09,9676,9137,130,Gran Canaria,66,15
-2020-12-10,9710,9156,131,Gran Canaria,64,16
+2020-08-30,3711,1870,48,Gran Canaria,161,25
+2020-08-31,3881,2015,48,Gran Canaria,158,28
+2020-12-01,9473,8979,129,Gran Canaria,64,18
+2020-12-02,9516,9000,129,Gran Canaria,67,17
+2020-12-03,9545,9018,129,Gran Canaria,66,18
+2020-12-04,9569,9045,129,Gran Canaria,75,17
+2020-12-05,9595,9062,129,Gran Canaria,76,18
+2020-12-06,9604,9074,129,Gran Canaria,79,17
+2020-12-07,9629,9098,130,Gran Canaria,80,15
+2020-12-08,9648,9114,130,Gran Canaria,83,16
+2020-12-09,9676,9137,130,Gran Canaria,78,15
+2020-12-10,9710,9156,131,Gran Canaria,77,16
 2019-12-11,0,1,0,Gran Canaria,NA,NA
-2020-12-11,9749,9163,131,Gran Canaria,58,16
-2020-12-12,9782,9167,131,Gran Canaria,62,16
-2020-12-13,9815,9173,132,Gran Canaria,60,18
-2020-12-14,9840,9186,132,Gran Canaria,66,18
-2020-12-15,9896,9192,133,Gran Canaria,61,17
-2020-12-16,9931,9203,134,Gran Canaria,65,16
-2020-12-17,9980,9212,135,Gran Canaria,67,14
-2020-12-18,10021,9220,135,Gran Canaria,64,14
-2020-12-19,10056,9230,136,Gran Canaria,67,14
-2020-12-20,10084,9238,136,Gran Canaria,69,14
-2020-12-21,10112,9249,137,Gran Canaria,64,15
-2020-12-22,10170,9255,137,Gran Canaria,65,11
-2020-12-23,10225,9267,137,Gran Canaria,72,12
-2020-12-24,10275,9279,137,Gran Canaria,70,13
-2020-12-25,10317,9294,137,Gran Canaria,74,13
-2020-12-26,10356,9307,138,Gran Canaria,79,15
-2020-12-27,10390,9316,138,Gran Canaria,85,14
-2020-12-28,10447,9326,138,Gran Canaria,80,13
-2020-12-29,10528,9334,139,Gran Canaria,72,14
-2020-12-30,10595,9342,139,Gran Canaria,70,15
-2020-12-31,10693,9369,139,Gran Canaria,76,17
+2020-12-11,9749,9163,131,Gran Canaria,71,16
+2020-12-12,9782,9167,131,Gran Canaria,74,16
+2020-12-13,9815,9173,132,Gran Canaria,72,18
+2020-12-14,9840,9186,132,Gran Canaria,78,18
+2020-12-15,9896,9192,133,Gran Canaria,74,17
+2020-12-16,9931,9203,134,Gran Canaria,78,16
+2020-12-17,9980,9212,135,Gran Canaria,81,14
+2020-12-18,10021,9220,135,Gran Canaria,77,14
+2020-12-19,10056,9230,136,Gran Canaria,78,14
+2020-12-20,10084,9238,136,Gran Canaria,80,14
+2020-12-21,10112,9249,137,Gran Canaria,74,15
+2020-12-22,10170,9255,137,Gran Canaria,74,11
+2020-12-23,10225,9267,137,Gran Canaria,78,12
+2020-12-24,10275,9279,137,Gran Canaria,74,13
+2020-12-25,10317,9294,137,Gran Canaria,79,13
+2020-12-26,10356,9307,138,Gran Canaria,83,15
+2020-12-27,10390,9316,138,Gran Canaria,91,14
+2020-12-28,10447,9326,138,Gran Canaria,87,13
+2020-12-29,10528,9334,139,Gran Canaria,78,14
+2020-12-30,10595,9342,139,Gran Canaria,75,15
+2020-12-31,10693,9369,139,Gran Canaria,82,17
 2020-02-25,0,1,0,Gran Canaria,NA,NA
 2020-02-27,0,1,0,Gran Canaria,NA,NA
 2020-02-28,0,1,0,Gran Canaria,NA,NA
 2020-02-29,0,1,0,Gran Canaria,NA,NA
-2021-01-01,10755,9381,139,Gran Canaria,73,16
-2021-01-02,10816,9392,139,Gran Canaria,77,17
-2021-01-03,10899,9397,139,Gran Canaria,79,17
-2021-01-04,10969,9412,139,Gran Canaria,82,17
-2021-01-05,11056,9428,140,Gran Canaria,85,16
-2021-01-06,11129,9428,141,Gran Canaria,88,16
-2021-01-07,11176,9441,141,Gran Canaria,97,16
+2021-01-01,10755,9381,139,Gran Canaria,79,16
+2021-01-02,10816,9392,139,Gran Canaria,83,17
+2021-01-03,10899,9397,139,Gran Canaria,83,17
+2021-01-04,10969,9412,139,Gran Canaria,85,17
+2021-01-05,11056,9428,140,Gran Canaria,86,16
+2021-01-06,11129,9428,141,Gran Canaria,90,16
+2021-01-07,11176,9441,141,Gran Canaria,98,16
 2020-01-31,0,1,0,Gran Canaria,NA,NA
 2020-07-01,630,587,39,Gran Canaria,3,2
 2020-07-02,630,587,39,Gran Canaria,2,1
@@ -744,13 +744,13 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-07-10,635,590,39,Gran Canaria,2,1
 2020-07-11,635,590,39,Gran Canaria,2,1
 2020-07-12,635,590,39,Gran Canaria,1,1
-2020-07-13,638,590,39,Gran Canaria,1,0
+2020-07-13,638,590,39,Gran Canaria,2,0
 2020-07-14,639,590,39,Gran Canaria,1,0
 2020-07-15,643,593,39,Gran Canaria,1,0
 2020-07-16,644,593,39,Gran Canaria,2,0
 2020-07-17,650,593,39,Gran Canaria,2,0
-2020-07-18,653,594,39,Gran Canaria,1,0
-2020-07-19,653,594,39,Gran Canaria,2,0
+2020-07-18,653,594,39,Gran Canaria,2,0
+2020-07-19,653,594,39,Gran Canaria,3,0
 2020-07-20,654,594,39,Gran Canaria,2,0
 2020-07-21,662,596,39,Gran Canaria,2,0
 2020-07-22,664,596,39,Gran Canaria,3,0
@@ -765,7 +765,7 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-07-31,676,610,39,Gran Canaria,3,0
 2020-06-01,611,542,38,Gran Canaria,11,4
 2020-06-02,612,545,38,Gran Canaria,7,3
-2020-06-03,616,549,38,Gran Canaria,10,2
+2020-06-03,616,549,38,Gran Canaria,11,2
 2020-06-04,616,551,38,Gran Canaria,9,2
 2020-06-05,616,553,38,Gran Canaria,4,2
 2020-06-06,616,553,38,Gran Canaria,4,1
@@ -781,9 +781,9 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-06-16,622,568,39,Gran Canaria,7,2
 2020-06-17,622,572,39,Gran Canaria,4,2
 2020-06-18,625,572,39,Gran Canaria,4,2
-2020-06-19,625,572,39,Gran Canaria,5,2
-2020-06-20,626,572,39,Gran Canaria,6,2
-2020-06-21,626,572,39,Gran Canaria,5,2
+2020-06-19,625,572,39,Gran Canaria,6,3
+2020-06-20,626,572,39,Gran Canaria,7,3
+2020-06-21,626,572,39,Gran Canaria,6,3
 2020-06-22,626,574,39,Gran Canaria,5,2
 2020-06-23,626,577,39,Gran Canaria,5,2
 2020-06-24,626,577,39,Gran Canaria,5,2
@@ -815,23 +815,23 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-03-22,170,4,8,Gran Canaria,NA,NA
 2020-03-23,188,9,8,Gran Canaria,68,20
 2020-03-24,223,12,8,Gran Canaria,86,22
-2020-03-25,253,16,8,Gran Canaria,104,26
-2020-03-26,285,22,9,Gran Canaria,110,28
-2020-03-27,297,28,11,Gran Canaria,121,41
-2020-03-28,320,32,11,Gran Canaria,123,34
-2020-03-29,346,40,13,Gran Canaria,126,32
-2020-03-30,371,45,15,Gran Canaria,125,33
-2020-03-31,386,53,17,Gran Canaria,119,36
-2020-05-01,567,420,35,Gran Canaria,29,11
-2020-05-02,570,421,36,Gran Canaria,26,10
-2020-05-03,570,426,36,Gran Canaria,25,9
+2020-03-25,253,16,8,Gran Canaria,105,27
+2020-03-26,285,22,9,Gran Canaria,111,28
+2020-03-27,297,28,11,Gran Canaria,122,41
+2020-03-28,320,32,11,Gran Canaria,125,35
+2020-03-29,346,40,13,Gran Canaria,128,33
+2020-03-30,371,45,15,Gran Canaria,126,34
+2020-03-31,386,53,17,Gran Canaria,120,37
+2020-05-01,567,420,35,Gran Canaria,30,11
+2020-05-02,570,421,36,Gran Canaria,27,10
+2020-05-03,570,426,36,Gran Canaria,26,9
 2020-05-04,570,429,36,Gran Canaria,23,7
 2020-05-05,572,432,36,Gran Canaria,23,7
 2020-05-06,574,437,36,Gran Canaria,21,7
 2020-05-07,576,446,36,Gran Canaria,14,7
 2020-05-08,578,451,36,Gran Canaria,16,7
 2020-05-09,578,454,36,Gran Canaria,16,7
-2020-05-10,580,460,36,Gran Canaria,18,8
+2020-05-10,580,460,36,Gran Canaria,19,8
 2020-05-11,581,463,37,Gran Canaria,16,7
 2020-05-12,583,467,37,Gran Canaria,15,7
 2020-05-13,585,478,37,Gran Canaria,16,5
@@ -839,66 +839,66 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-05-15,590,494,37,Gran Canaria,10,3
 2020-05-16,591,496,37,Gran Canaria,10,3
 2020-05-17,591,500,38,Gran Canaria,10,3
-2020-05-18,592,502,38,Gran Canaria,9,3
-2020-05-19,594,513,38,Gran Canaria,10,4
-2020-05-20,596,517,38,Gran Canaria,9,4
-2020-05-21,596,519,38,Gran Canaria,9,4
-2020-05-22,598,525,38,Gran Canaria,10,4
-2020-05-23,598,530,38,Gran Canaria,10,4
-2020-05-24,599,530,38,Gran Canaria,10,4
-2020-05-25,603,532,38,Gran Canaria,10,4
-2020-05-26,604,534,38,Gran Canaria,10,2
-2020-05-27,604,537,38,Gran Canaria,10,2
-2020-05-28,607,539,38,Gran Canaria,13,2
-2020-05-29,609,541,38,Gran Canaria,12,3
-2020-05-30,610,542,38,Gran Canaria,10,3
-2020-05-31,610,542,38,Gran Canaria,12,3
-2020-11-01,8700,8265,119,Gran Canaria,72,18
-2020-11-02,8719,8303,119,Gran Canaria,70,17
-2020-11-03,8748,8335,120,Gran Canaria,68,16
-2020-11-04,8780,8356,120,Gran Canaria,68,19
-2020-11-05,8820,8386,120,Gran Canaria,71,22
-2020-11-06,8846,8417,121,Gran Canaria,61,21
-2020-11-07,8893,8434,122,Gran Canaria,65,20
-2020-11-08,8921,8453,122,Gran Canaria,67,18
-2020-11-09,8939,8488,122,Gran Canaria,68,17
-2020-11-10,8959,8519,122,Gran Canaria,74,17
-2020-11-11,9003,8538,122,Gran Canaria,73,17
-2020-11-12,9033,8571,122,Gran Canaria,76,20
-2020-11-13,9058,8597,123,Gran Canaria,72,21
-2020-11-14,9070,8617,123,Gran Canaria,65,20
-2020-11-15,9090,8648,124,Gran Canaria,67,20
-2020-11-16,9100,8672,124,Gran Canaria,66,19
-2020-11-17,9129,8699,125,Gran Canaria,66,20
+2020-05-18,592,502,38,Gran Canaria,10,4
+2020-05-19,594,513,38,Gran Canaria,12,4
+2020-05-20,596,517,38,Gran Canaria,10,4
+2020-05-21,596,519,38,Gran Canaria,11,4
+2020-05-22,598,525,38,Gran Canaria,13,4
+2020-05-23,598,530,38,Gran Canaria,12,4
+2020-05-24,599,530,38,Gran Canaria,12,4
+2020-05-25,603,532,38,Gran Canaria,11,4
+2020-05-26,604,534,38,Gran Canaria,12,2
+2020-05-27,604,537,38,Gran Canaria,11,2
+2020-05-28,607,539,38,Gran Canaria,14,2
+2020-05-29,609,541,38,Gran Canaria,13,3
+2020-05-30,610,542,38,Gran Canaria,11,3
+2020-05-31,610,542,38,Gran Canaria,13,3
+2020-11-01,8700,8265,119,Gran Canaria,73,18
+2020-11-02,8719,8303,119,Gran Canaria,71,17
+2020-11-03,8748,8335,120,Gran Canaria,69,16
+2020-11-04,8780,8356,120,Gran Canaria,69,19
+2020-11-05,8820,8386,120,Gran Canaria,72,22
+2020-11-06,8846,8417,121,Gran Canaria,66,21
+2020-11-07,8893,8434,122,Gran Canaria,71,20
+2020-11-08,8921,8453,122,Gran Canaria,73,18
+2020-11-09,8939,8488,122,Gran Canaria,74,17
+2020-11-10,8959,8519,122,Gran Canaria,77,17
+2020-11-11,9003,8538,122,Gran Canaria,77,17
+2020-11-12,9033,8571,122,Gran Canaria,80,20
+2020-11-13,9058,8597,123,Gran Canaria,75,21
+2020-11-14,9070,8617,123,Gran Canaria,68,20
+2020-11-15,9090,8648,124,Gran Canaria,71,20
+2020-11-16,9100,8672,124,Gran Canaria,68,19
+2020-11-17,9129,8699,125,Gran Canaria,67,20
 2020-11-18,9151,8730,126,Gran Canaria,64,17
-2020-11-19,9174,8747,126,Gran Canaria,63,17
+2020-11-19,9174,8747,126,Gran Canaria,64,17
 2020-11-20,9199,8777,126,Gran Canaria,58,16
-2020-11-21,9218,8801,127,Gran Canaria,59,16
-2020-11-22,9238,8819,127,Gran Canaria,61,16
+2020-11-21,9218,8801,127,Gran Canaria,60,16
+2020-11-22,9238,8819,127,Gran Canaria,62,16
 2020-11-23,9267,8836,127,Gran Canaria,66,16
 2020-11-24,9289,8847,127,Gran Canaria,68,16
-2020-11-25,9316,8868,128,Gran Canaria,67,16
-2020-11-26,9337,8882,128,Gran Canaria,70,18
-2020-11-27,9368,8899,128,Gran Canaria,66,18
-2020-11-28,9392,8914,129,Gran Canaria,67,18
-2020-11-29,9411,8924,129,Gran Canaria,70,18
-2020-11-30,9428,8960,129,Gran Canaria,66,18
-2020-10-01,7604,6524,99,Gran Canaria,147,35
+2020-11-25,9316,8868,128,Gran Canaria,66,16
+2020-11-26,9337,8882,128,Gran Canaria,69,18
+2020-11-27,9368,8899,128,Gran Canaria,65,18
+2020-11-28,9392,8914,129,Gran Canaria,66,18
+2020-11-29,9411,8924,129,Gran Canaria,71,18
+2020-11-30,9428,8960,129,Gran Canaria,69,18
+2020-10-01,7604,6524,99,Gran Canaria,146,35
 2020-10-02,7664,6642,100,Gran Canaria,140,34
-2020-10-03,7745,6685,100,Gran Canaria,145,32
+2020-10-03,7745,6685,100,Gran Canaria,144,32
 2020-10-04,7780,6745,100,Gran Canaria,161,32
 2020-10-05,7816,6884,102,Gran Canaria,161,33
-2020-10-06,7862,6956,103,Gran Canaria,148,36
+2020-10-06,7862,6956,103,Gran Canaria,149,36
 2020-10-07,7908,7076,105,Gran Canaria,140,37
 2020-10-08,7952,7149,105,Gran Canaria,140,36
-2020-10-09,7999,7231,107,Gran Canaria,133,36
-2020-10-10,8041,7277,107,Gran Canaria,135,35
-2020-10-11,8081,7311,108,Gran Canaria,140,32
-2020-10-12,8098,7359,108,Gran Canaria,141,30
+2020-10-09,7999,7231,107,Gran Canaria,135,36
+2020-10-10,8041,7277,107,Gran Canaria,137,35
+2020-10-11,8081,7311,108,Gran Canaria,142,32
+2020-10-12,8098,7359,108,Gran Canaria,142,30
 2020-10-13,8122,7453,108,Gran Canaria,139,31
-2020-10-14,8152,7498,108,Gran Canaria,135,28
+2020-10-14,8152,7498,108,Gran Canaria,136,28
 2020-10-15,8186,7549,109,Gran Canaria,127,24
-2020-10-16,8219,7601,110,Gran Canaria,122,21
+2020-10-16,8219,7601,110,Gran Canaria,123,21
 2020-10-17,8258,7641,111,Gran Canaria,121,21
 2020-10-18,8292,7671,111,Gran Canaria,121,20
 2020-10-19,8358,7726,111,Gran Canaria,118,21
@@ -908,42 +908,42 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-10-23,8487,7902,114,Gran Canaria,102,16
 2020-10-24,8518,7931,114,Gran Canaria,100,16
 2020-10-25,8534,7953,114,Gran Canaria,103,16
-2020-10-26,8554,7989,114,Gran Canaria,94,17
-2020-10-27,8579,8020,116,Gran Canaria,84,17
-2020-10-28,8595,8067,116,Gran Canaria,78,17
+2020-10-26,8554,7989,114,Gran Canaria,95,17
+2020-10-27,8579,8020,116,Gran Canaria,87,17
+2020-10-28,8595,8067,116,Gran Canaria,80,17
 2020-10-29,8630,8134,116,Gran Canaria,72,18
 2020-10-30,8654,8211,116,Gran Canaria,71,16
 2020-10-31,8681,8238,118,Gran Canaria,69,16
-2020-09-01,4063,2152,50,Gran Canaria,149,32
+2020-09-01,4063,2152,50,Gran Canaria,150,32
 2020-09-02,4266,2264,53,Gran Canaria,154,32
-2020-09-03,4535,2443,53,Gran Canaria,165,37
-2020-09-04,4825,2613,53,Gran Canaria,163,36
+2020-09-03,4535,2443,53,Gran Canaria,164,37
+2020-09-04,4825,2613,53,Gran Canaria,162,36
 2020-09-05,5016,2708,56,Gran Canaria,169,35
 2020-09-06,5123,2809,57,Gran Canaria,177,31
-2020-09-07,5271,3027,58,Gran Canaria,173,38
-2020-09-08,5415,3139,61,Gran Canaria,178,40
+2020-09-07,5271,3027,58,Gran Canaria,174,38
+2020-09-08,5415,3139,61,Gran Canaria,180,40
 2020-09-09,5575,3328,63,Gran Canaria,181,41
 2020-09-10,5740,3535,63,Gran Canaria,178,42
-2020-09-11,5895,3747,67,Gran Canaria,177,43
-2020-09-12,6053,3869,67,Gran Canaria,176,42
-2020-09-13,6183,3972,68,Gran Canaria,182,40
-2020-09-14,6251,4229,73,Gran Canaria,179,38
-2020-09-15,6374,4415,74,Gran Canaria,177,37
-2020-09-16,6452,4600,74,Gran Canaria,177,39
-2020-09-17,6545,4769,76,Gran Canaria,171,40
-2020-09-18,6656,4987,78,Gran Canaria,169,38
-2020-09-19,6747,5138,81,Gran Canaria,172,37
-2020-09-20,6795,5260,82,Gran Canaria,176,39
-2020-09-21,6915,5485,84,Gran Canaria,175,37
-2020-09-22,6983,5650,86,Gran Canaria,169,39
-2020-09-23,7049,5777,86,Gran Canaria,166,39
-2020-09-24,7194,5882,91,Gran Canaria,169,38
-2020-09-25,7237,6000,94,Gran Canaria,166,38
-2020-09-26,7336,6052,95,Gran Canaria,164,37
-2020-09-27,7408,6091,97,Gran Canaria,165,38
-2020-09-28,7441,6254,97,Gran Canaria,163,39
-2020-09-29,7502,6326,97,Gran Canaria,158,38
-2020-09-30,7560,6424,97,Gran Canaria,153,38
+2020-09-11,5895,3747,67,Gran Canaria,175,43
+2020-09-12,6053,3869,67,Gran Canaria,175,42
+2020-09-13,6183,3972,68,Gran Canaria,179,40
+2020-09-14,6251,4229,73,Gran Canaria,175,38
+2020-09-15,6374,4415,74,Gran Canaria,173,37
+2020-09-16,6452,4600,74,Gran Canaria,173,39
+2020-09-17,6545,4769,76,Gran Canaria,170,40
+2020-09-18,6656,4987,78,Gran Canaria,166,38
+2020-09-19,6747,5138,81,Gran Canaria,168,37
+2020-09-20,6795,5260,82,Gran Canaria,174,39
+2020-09-21,6915,5485,84,Gran Canaria,173,37
+2020-09-22,6983,5650,86,Gran Canaria,166,39
+2020-09-23,7049,5777,86,Gran Canaria,164,39
+2020-09-24,7194,5882,91,Gran Canaria,167,38
+2020-09-25,7237,6000,94,Gran Canaria,164,38
+2020-09-26,7336,6052,95,Gran Canaria,161,37
+2020-09-27,7408,6091,97,Gran Canaria,162,38
+2020-09-28,7441,6254,97,Gran Canaria,160,39
+2020-09-29,7502,6326,97,Gran Canaria,157,38
+2020-09-30,7560,6424,97,Gran Canaria,152,38
 2020-04-01,7,3,0,La Gomera,2,0
 2020-04-02,7,3,0,La Gomera,3,0
 2020-04-03,7,4,0,La Gomera,1,0
@@ -1259,118 +1259,118 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-09-28,54,24,0,La Gomera,0,0
 2020-09-29,64,26,0,La Gomera,0,0
 2020-09-30,73,26,0,La Gomera,1,0
-2020-04-01,66,5,3,Lanzarote,27,9
-2020-04-02,67,7,3,Lanzarote,20,9
-2020-04-03,68,8,3,Lanzarote,20,9
-2020-04-04,69,8,3,Lanzarote,19,9
-2020-04-05,69,9,3,Lanzarote,21,9
-2020-04-06,69,9,3,Lanzarote,20,9
-2020-04-07,70,11,3,Lanzarote,21,9
-2020-04-08,70,19,3,Lanzarote,18,9
-2020-04-09,73,20,3,Lanzarote,23,9
-2020-04-10,73,20,3,Lanzarote,21,9
-2020-04-11,75,20,3,Lanzarote,21,9
-2020-04-12,75,21,3,Lanzarote,20,9
-2020-04-13,75,22,3,Lanzarote,18,7
-2020-04-14,75,22,3,Lanzarote,17,7
-2020-04-15,75,23,3,Lanzarote,18,7
-2020-04-16,75,26,3,Lanzarote,16,7
-2020-04-17,75,29,3,Lanzarote,17,7
-2020-04-18,75,30,3,Lanzarote,16,7
-2020-04-19,75,30,3,Lanzarote,16,7
-2020-04-20,76,32,3,Lanzarote,15,7
-2020-04-21,76,36,3,Lanzarote,15,7
-2020-04-22,76,37,4,Lanzarote,15,5
-2020-04-23,76,39,4,Lanzarote,9,5
-2020-04-24,78,41,5,Lanzarote,7,4
-2020-04-25,78,42,5,Lanzarote,7,4
-2020-04-26,78,42,5,Lanzarote,7,4
-2020-04-27,79,42,5,Lanzarote,8,4
-2020-04-28,79,45,5,Lanzarote,6,4
-2020-04-29,79,49,5,Lanzarote,5,4
-2020-04-30,79,54,5,Lanzarote,5,4
-2020-08-01,102,85,6,Lanzarote,1,1
-2020-08-02,102,85,6,Lanzarote,1,1
+2020-04-01,66,5,3,Lanzarote,7,0
+2020-04-02,67,7,3,Lanzarote,5,1
+2020-04-03,68,8,3,Lanzarote,5,0
+2020-04-04,69,8,3,Lanzarote,6,0
+2020-04-05,69,9,3,Lanzarote,6,0
+2020-04-06,69,9,3,Lanzarote,6,0
+2020-04-07,70,11,3,Lanzarote,2,0
+2020-04-08,70,19,3,Lanzarote,10,0
+2020-04-09,73,20,3,Lanzarote,13,0
+2020-04-10,73,20,3,Lanzarote,1,0
+2020-04-11,75,20,3,Lanzarote,1,0
+2020-04-12,75,21,3,Lanzarote,3,0
+2020-04-13,75,22,3,Lanzarote,3,0
+2020-04-14,75,22,3,Lanzarote,6,1
+2020-04-15,75,23,3,Lanzarote,7,0
+2020-04-16,75,26,3,Lanzarote,8,0
+2020-04-17,75,29,3,Lanzarote,1,0
+2020-04-18,75,30,3,Lanzarote,8,0
+2020-04-19,75,30,3,Lanzarote,12,0
+2020-04-20,76,32,3,Lanzarote,14,0
+2020-04-21,76,36,3,Lanzarote,11,0
+2020-04-22,76,37,4,Lanzarote,18,0
+2020-04-23,76,39,4,Lanzarote,14,0
+2020-04-24,78,41,5,Lanzarote,16,0
+2020-04-25,78,42,5,Lanzarote,17,0
+2020-04-26,78,42,5,Lanzarote,21,0
+2020-04-27,79,42,5,Lanzarote,17,0
+2020-04-28,79,45,5,Lanzarote,14,0
+2020-04-29,79,49,5,Lanzarote,19,0
+2020-04-30,79,54,5,Lanzarote,22,0
+2020-08-01,102,85,6,Lanzarote,0,0
+2020-08-02,102,85,6,Lanzarote,0,0
 2020-08-03,102,85,6,Lanzarote,0,0
 2020-08-04,103,85,6,Lanzarote,0,0
 2020-08-05,105,86,6,Lanzarote,0,0
 2020-08-06,105,87,6,Lanzarote,0,0
 2020-08-07,116,87,6,Lanzarote,0,0
 2020-08-08,118,87,6,Lanzarote,0,0
-2020-08-09,125,87,6,Lanzarote,0,0
-2020-08-10,129,87,6,Lanzarote,2,0
+2020-08-09,125,87,6,Lanzarote,5,0
+2020-08-10,129,87,6,Lanzarote,1,0
 2020-08-11,133,90,6,Lanzarote,0,0
 2020-08-12,137,90,6,Lanzarote,0,0
-2020-08-13,155,90,6,Lanzarote,0,0
-2020-08-14,169,92,6,Lanzarote,0,0
+2020-08-13,155,90,6,Lanzarote,2,0
+2020-08-14,169,92,6,Lanzarote,1,0
 2020-08-15,190,93,6,Lanzarote,1,0
-2020-08-16,196,93,6,Lanzarote,1,0
-2020-08-17,205,93,6,Lanzarote,4,1
-2020-08-18,214,93,6,Lanzarote,4,1
-2020-08-19,226,96,6,Lanzarote,5,1
-2020-08-20,241,98,6,Lanzarote,7,1
-2020-08-21,282,100,6,Lanzarote,7,1
-2020-08-22,308,102,6,Lanzarote,8,1
-2020-08-23,322,102,6,Lanzarote,9,1
-2020-08-24,338,131,6,Lanzarote,11,1
-2020-08-25,369,132,6,Lanzarote,11,1
-2020-08-26,397,136,6,Lanzarote,13,1
-2020-08-27,469,141,7,Lanzarote,10,1
-2020-08-28,505,174,7,Lanzarote,10,1
-2020-08-29,547,174,7,Lanzarote,12,1
-2020-08-30,567,174,7,Lanzarote,13,1
-2020-08-31,589,184,7,Lanzarote,14,1
+2020-08-16,196,93,6,Lanzarote,5,1
+2020-08-17,205,93,6,Lanzarote,3,0
+2020-08-18,214,93,6,Lanzarote,2,0
+2020-08-19,226,96,6,Lanzarote,2,0
+2020-08-20,241,98,6,Lanzarote,2,0
+2020-08-21,282,100,6,Lanzarote,1,0
+2020-08-22,308,102,6,Lanzarote,2,0
+2020-08-23,322,102,6,Lanzarote,1,0
+2020-08-24,338,131,6,Lanzarote,2,0
+2020-08-25,369,132,6,Lanzarote,0,0
+2020-08-26,397,136,6,Lanzarote,1,0
+2020-08-27,469,141,7,Lanzarote,0,0
+2020-08-28,505,174,7,Lanzarote,0,0
+2020-08-29,547,174,7,Lanzarote,1,0
+2020-08-30,567,174,7,Lanzarote,3,0
+2020-08-31,589,184,7,Lanzarote,2,0
 2020-12-01,1408,1349,9,Lanzarote,3,0
 2020-12-02,1421,1349,9,Lanzarote,3,0
-2020-12-03,1430,1351,9,Lanzarote,10,0
-2020-12-04,1434,1355,9,Lanzarote,7,0
-2020-12-05,1444,1358,9,Lanzarote,8,0
-2020-12-06,1445,1362,9,Lanzarote,8,0
-2020-12-07,1455,1368,9,Lanzarote,7,0
-2020-12-08,1456,1373,9,Lanzarote,8,0
-2020-12-09,1459,1378,9,Lanzarote,4,0
-2020-12-10,1463,1380,9,Lanzarote,4,0
+2020-12-03,1430,1351,9,Lanzarote,4,0
+2020-12-04,1434,1355,9,Lanzarote,4,0
+2020-12-05,1444,1358,9,Lanzarote,4,0
+2020-12-06,1445,1362,9,Lanzarote,5,0
+2020-12-07,1455,1368,9,Lanzarote,5,0
+2020-12-08,1456,1373,9,Lanzarote,9,0
+2020-12-09,1459,1378,9,Lanzarote,13,0
+2020-12-10,1463,1380,9,Lanzarote,17,0
 2019-12-11,0,0,0,Lanzarote,NA,NA
-2020-12-11,1468,1386,9,Lanzarote,4,0
-2020-12-12,1473,1402,9,Lanzarote,1,0
-2020-12-13,1474,1408,9,Lanzarote,1,0
-2020-12-14,1476,1413,9,Lanzarote,1,0
-2020-12-15,1477,1418,9,Lanzarote,0,0
-2020-12-16,1479,1427,9,Lanzarote,0,0
-2020-12-17,1480,1431,9,Lanzarote,2,0
-2020-12-18,1483,1431,9,Lanzarote,0,0
-2020-12-19,1486,1434,9,Lanzarote,0,0
-2020-12-20,1494,1437,9,Lanzarote,1,0
-2020-12-21,1499,1445,9,Lanzarote,1,0
-2020-12-22,1509,1449,9,Lanzarote,1,0
-2020-12-23,1515,1450,9,Lanzarote,1,0
-2020-12-24,1526,1451,9,Lanzarote,1,0
-2020-12-25,1535,1453,9,Lanzarote,1,0
-2020-12-26,1539,1454,9,Lanzarote,1,0
-2020-12-27,1546,1455,9,Lanzarote,2,0
-2020-12-28,1557,1456,9,Lanzarote,2,0
-2020-12-29,1574,1462,9,Lanzarote,2,0
-2020-12-30,1584,1470,9,Lanzarote,2,0
-2020-12-31,1599,1474,9,Lanzarote,2,1
+2020-12-11,1468,1386,9,Lanzarote,19,0
+2020-12-12,1473,1402,9,Lanzarote,20,0
+2020-12-13,1474,1408,9,Lanzarote,20,0
+2020-12-14,1476,1413,9,Lanzarote,26,0
+2020-12-15,1477,1418,9,Lanzarote,22,0
+2020-12-16,1479,1427,9,Lanzarote,24,0
+2020-12-17,1480,1431,9,Lanzarote,23,0
+2020-12-18,1483,1431,9,Lanzarote,26,0
+2020-12-19,1486,1434,9,Lanzarote,27,0
+2020-12-20,1494,1437,9,Lanzarote,25,0
+2020-12-21,1499,1445,9,Lanzarote,30,0
+2020-12-22,1509,1449,9,Lanzarote,33,0
+2020-12-23,1515,1450,9,Lanzarote,34,0
+2020-12-24,1526,1451,9,Lanzarote,35,0
+2020-12-25,1535,1453,9,Lanzarote,38,0
+2020-12-26,1539,1454,9,Lanzarote,38,0
+2020-12-27,1546,1455,9,Lanzarote,38,0
+2020-12-28,1557,1456,9,Lanzarote,37,0
+2020-12-29,1574,1462,9,Lanzarote,40,0
+2020-12-30,1584,1470,9,Lanzarote,37,0
+2020-12-31,1599,1474,9,Lanzarote,36,0
 2020-02-25,0,0,0,Lanzarote,NA,NA
 2020-02-27,0,0,0,Lanzarote,NA,NA
 2020-02-28,0,0,0,Lanzarote,NA,NA
 2020-02-29,0,0,0,Lanzarote,NA,NA
-2021-01-01,1613,1479,9,Lanzarote,2,1
-2021-01-02,1645,1490,9,Lanzarote,2,1
-2021-01-03,1665,1496,9,Lanzarote,3,1
-2021-01-04,1686,1499,9,Lanzarote,2,1
-2021-01-05,1705,1501,9,Lanzarote,4,2
-2021-01-06,1754,1505,9,Lanzarote,3,2
-2021-01-07,1798,1521,9,Lanzarote,5,2
+2021-01-01,1613,1479,9,Lanzarote,37,0
+2021-01-02,1645,1490,9,Lanzarote,35,0
+2021-01-03,1665,1496,9,Lanzarote,34,0
+2021-01-04,1686,1499,9,Lanzarote,32,0
+2021-01-05,1705,1501,9,Lanzarote,32,0
+2021-01-06,1754,1505,9,Lanzarote,30,0
+2021-01-07,1798,1521,9,Lanzarote,30,0
 2020-01-31,0,0,0,Lanzarote,NA,NA
-2020-07-01,82,76,6,Lanzarote,0,0
+2020-07-01,82,76,6,Lanzarote,1,0
 2020-07-02,82,76,6,Lanzarote,0,0
 2020-07-03,82,76,6,Lanzarote,0,0
-2020-07-04,82,76,6,Lanzarote,0,0
-2020-07-06,82,76,6,Lanzarote,0,0
-2020-07-08,87,76,6,Lanzarote,0,0
-2020-07-09,87,76,6,Lanzarote,0,0
+2020-07-04,82,76,6,Lanzarote,1,0
+2020-07-06,82,76,6,Lanzarote,2,0
+2020-07-08,87,76,6,Lanzarote,2,0
+2020-07-09,87,76,6,Lanzarote,1,0
 2020-07-10,88,76,6,Lanzarote,0,0
 2020-07-11,88,76,6,Lanzarote,0,0
 2020-07-12,88,76,6,Lanzarote,0,0
@@ -1378,9 +1378,9 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-07-14,88,76,6,Lanzarote,0,0
 2020-07-15,88,76,6,Lanzarote,0,0
 2020-07-16,88,76,6,Lanzarote,0,0
-2020-07-17,89,76,6,Lanzarote,0,0
+2020-07-17,89,76,6,Lanzarote,1,0
 2020-07-18,93,76,6,Lanzarote,0,0
-2020-07-19,93,76,6,Lanzarote,1,0
+2020-07-19,93,76,6,Lanzarote,2,0
 2020-07-20,93,76,6,Lanzarote,1,0
 2020-07-21,93,76,6,Lanzarote,0,0
 2020-07-22,93,76,6,Lanzarote,0,0
@@ -1390,38 +1390,38 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-07-26,93,76,6,Lanzarote,0,0
 2020-07-27,95,77,6,Lanzarote,0,0
 2020-07-28,95,79,6,Lanzarote,0,0
-2020-07-29,96,79,6,Lanzarote,1,1
-2020-07-30,99,85,6,Lanzarote,1,1
-2020-07-31,99,85,6,Lanzarote,1,1
-2020-06-01,80,71,6,Lanzarote,2,0
-2020-06-02,80,71,6,Lanzarote,2,0
-2020-06-03,80,71,6,Lanzarote,2,0
+2020-07-29,96,79,6,Lanzarote,0,0
+2020-07-30,99,85,6,Lanzarote,0,0
+2020-07-31,99,85,6,Lanzarote,0,0
+2020-06-01,80,71,6,Lanzarote,1,0
+2020-06-02,80,71,6,Lanzarote,3,0
+2020-06-03,80,71,6,Lanzarote,3,0
 2020-06-04,80,71,6,Lanzarote,2,0
 2020-06-05,80,71,6,Lanzarote,2,0
 2020-06-06,81,71,6,Lanzarote,2,0
-2020-06-07,81,71,6,Lanzarote,2,0
-2020-06-08,81,71,6,Lanzarote,2,0
+2020-06-07,81,71,6,Lanzarote,1,0
+2020-06-08,81,71,6,Lanzarote,1,0
 2020-06-09,81,71,6,Lanzarote,2,0
-2020-06-10,81,71,6,Lanzarote,2,0
+2020-06-10,81,71,6,Lanzarote,3,0
 2020-06-11,81,71,6,Lanzarote,2,0
-2020-06-12,82,71,6,Lanzarote,2,0
-2020-06-13,82,71,6,Lanzarote,2,0
-2020-06-14,82,71,6,Lanzarote,2,0
-2020-06-15,82,71,6,Lanzarote,2,0
-2020-06-16,82,71,6,Lanzarote,2,0
-2020-06-17,82,71,6,Lanzarote,2,0
-2020-06-18,82,72,6,Lanzarote,1,0
-2020-06-19,82,74,6,Lanzarote,1,0
-2020-06-20,82,74,6,Lanzarote,1,0
-2020-06-21,82,74,6,Lanzarote,1,0
+2020-06-12,82,71,6,Lanzarote,2,1
+2020-06-13,82,71,6,Lanzarote,2,1
+2020-06-14,82,71,6,Lanzarote,1,0
+2020-06-15,82,71,6,Lanzarote,1,0
+2020-06-16,82,71,6,Lanzarote,1,0
+2020-06-17,82,71,6,Lanzarote,0,0
+2020-06-18,82,72,6,Lanzarote,0,0
+2020-06-19,82,74,6,Lanzarote,2,0
+2020-06-20,82,74,6,Lanzarote,2,0
+2020-06-21,82,74,6,Lanzarote,4,0
 2020-06-22,82,74,6,Lanzarote,1,0
-2020-06-23,82,74,6,Lanzarote,0,0
-2020-06-24,82,74,6,Lanzarote,9,2
+2020-06-23,82,74,6,Lanzarote,1,0
+2020-06-24,82,74,6,Lanzarote,11,2
 2020-06-25,82,75,6,Lanzarote,0,0
 2020-06-26,82,75,6,Lanzarote,0,0
-2020-06-27,82,76,6,Lanzarote,0,0
-2020-06-28,82,76,6,Lanzarote,0,0
-2020-06-29,82,76,6,Lanzarote,0,0
+2020-06-27,82,76,6,Lanzarote,1,0
+2020-06-28,82,76,6,Lanzarote,2,0
+2020-06-29,82,76,6,Lanzarote,1,0
 2020-06-30,82,76,6,Lanzarote,0,0
 2020-03-03,0,0,0,Lanzarote,NA,NA
 2020-03-04,0,0,0,Lanzarote,NA,NA
@@ -1443,137 +1443,137 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-03-20,10,0,0,Lanzarote,NA,NA
 2020-03-21,12,0,0,Lanzarote,NA,NA
 2020-03-22,17,0,0,Lanzarote,NA,NA
-2020-03-23,21,0,0,Lanzarote,9,2
-2020-03-24,33,0,1,Lanzarote,16,3
-2020-03-25,35,2,1,Lanzarote,16,4
-2020-03-26,38,2,2,Lanzarote,17,4
-2020-03-27,45,3,3,Lanzarote,30,10
-2020-03-28,47,3,3,Lanzarote,25,4
-2020-03-29,52,3,3,Lanzarote,26,6
-2020-03-30,58,4,3,Lanzarote,27,8
-2020-03-31,64,4,3,Lanzarote,24,8
-2020-05-01,79,55,5,Lanzarote,6,4
-2020-05-02,79,55,5,Lanzarote,8,4
-2020-05-03,79,55,5,Lanzarote,5,3
-2020-05-04,79,55,5,Lanzarote,5,2
-2020-05-05,79,56,5,Lanzarote,5,2
-2020-05-06,79,60,5,Lanzarote,6,2
-2020-05-07,79,61,5,Lanzarote,5,2
-2020-05-08,80,65,6,Lanzarote,5,2
-2020-05-09,80,65,6,Lanzarote,5,2
-2020-05-10,80,65,6,Lanzarote,5,2
-2020-05-11,80,65,6,Lanzarote,5,2
-2020-05-12,80,65,6,Lanzarote,5,2
-2020-05-13,80,68,6,Lanzarote,4,2
-2020-05-14,80,69,6,Lanzarote,3,2
-2020-05-15,80,69,6,Lanzarote,3,2
-2020-05-16,80,69,6,Lanzarote,3,2
-2020-05-17,80,69,6,Lanzarote,3,2
-2020-05-18,80,69,6,Lanzarote,3,2
-2020-05-19,80,69,6,Lanzarote,3,2
-2020-05-20,80,69,6,Lanzarote,3,2
-2020-05-21,80,70,6,Lanzarote,2,1
-2020-05-22,80,70,6,Lanzarote,2,1
-2020-05-23,80,70,6,Lanzarote,2,1
-2020-05-24,80,70,6,Lanzarote,2,1
-2020-05-25,80,71,6,Lanzarote,2,1
-2020-05-26,80,71,6,Lanzarote,2,1
+2020-03-23,21,0,0,Lanzarote,1,0
+2020-03-24,33,0,1,Lanzarote,1,0
+2020-03-25,35,2,1,Lanzarote,1,0
+2020-03-26,38,2,2,Lanzarote,3,0
+2020-03-27,45,3,3,Lanzarote,3,0
+2020-03-28,47,3,3,Lanzarote,2,0
+2020-03-29,52,3,3,Lanzarote,4,0
+2020-03-30,58,4,3,Lanzarote,6,0
+2020-03-31,64,4,3,Lanzarote,6,0
+2020-05-01,79,55,5,Lanzarote,22,0
+2020-05-02,79,55,5,Lanzarote,16,0
+2020-05-03,79,55,5,Lanzarote,17,0
+2020-05-04,79,55,5,Lanzarote,20,0
+2020-05-05,79,56,5,Lanzarote,20,0
+2020-05-06,79,60,5,Lanzarote,22,0
+2020-05-07,79,61,5,Lanzarote,17,0
+2020-05-08,80,65,6,Lanzarote,13,0
+2020-05-09,80,65,6,Lanzarote,11,0
+2020-05-10,80,65,6,Lanzarote,8,0
+2020-05-11,80,65,6,Lanzarote,6,0
+2020-05-12,80,65,6,Lanzarote,7,0
+2020-05-13,80,68,6,Lanzarote,8,0
+2020-05-14,80,69,6,Lanzarote,8,1
+2020-05-15,80,69,6,Lanzarote,7,1
+2020-05-16,80,69,6,Lanzarote,5,0
+2020-05-17,80,69,6,Lanzarote,5,0
+2020-05-18,80,69,6,Lanzarote,6,0
+2020-05-19,80,69,6,Lanzarote,5,0
+2020-05-20,80,69,6,Lanzarote,5,0
+2020-05-21,80,70,6,Lanzarote,5,0
+2020-05-22,80,70,6,Lanzarote,3,0
+2020-05-23,80,70,6,Lanzarote,3,0
+2020-05-24,80,70,6,Lanzarote,3,0
+2020-05-25,80,71,6,Lanzarote,3,0
+2020-05-26,80,71,6,Lanzarote,4,0
 2020-05-27,80,71,6,Lanzarote,2,0
-2020-05-28,80,71,6,Lanzarote,2,0
-2020-05-29,80,71,6,Lanzarote,2,0
+2020-05-28,80,71,6,Lanzarote,3,0
+2020-05-29,80,71,6,Lanzarote,3,0
 2020-05-30,80,71,6,Lanzarote,2,0
 2020-05-31,80,71,6,Lanzarote,2,0
-2020-11-01,1274,1187,9,Lanzarote,1,1
-2020-11-02,1278,1197,9,Lanzarote,1,1
-2020-11-03,1283,1206,9,Lanzarote,0,0
-2020-11-04,1285,1209,9,Lanzarote,0,0
-2020-11-05,1300,1211,9,Lanzarote,0,0
-2020-11-06,1302,1221,9,Lanzarote,0,0
-2020-11-07,1309,1228,9,Lanzarote,6,0
-2020-11-08,1311,1230,9,Lanzarote,1,0
-2020-11-09,1311,1234,9,Lanzarote,1,0
-2020-11-10,1321,1246,9,Lanzarote,1,0
-2020-11-11,1324,1249,9,Lanzarote,0,0
-2020-11-12,1329,1258,9,Lanzarote,0,0
-2020-11-13,1338,1267,9,Lanzarote,0,0
-2020-11-14,1341,1280,9,Lanzarote,0,0
-2020-11-15,1341,1282,9,Lanzarote,2,0
-2020-11-16,1346,1287,9,Lanzarote,2,0
+2020-11-01,1274,1187,9,Lanzarote,3,0
+2020-11-02,1278,1197,9,Lanzarote,4,0
+2020-11-03,1283,1206,9,Lanzarote,4,0
+2020-11-04,1285,1209,9,Lanzarote,4,0
+2020-11-05,1300,1211,9,Lanzarote,4,0
+2020-11-06,1302,1221,9,Lanzarote,5,0
+2020-11-07,1309,1228,9,Lanzarote,9,0
+2020-11-08,1311,1230,9,Lanzarote,7,0
+2020-11-09,1311,1234,9,Lanzarote,3,0
+2020-11-10,1321,1246,9,Lanzarote,4,0
+2020-11-11,1324,1249,9,Lanzarote,5,0
+2020-11-12,1329,1258,9,Lanzarote,4,0
+2020-11-13,1338,1267,9,Lanzarote,6,0
+2020-11-14,1341,1280,9,Lanzarote,5,0
+2020-11-15,1341,1282,9,Lanzarote,3,0
+2020-11-16,1346,1287,9,Lanzarote,3,0
 2020-11-17,1351,1290,9,Lanzarote,2,0
 2020-11-18,1357,1294,9,Lanzarote,2,0
-2020-11-19,1362,1299,9,Lanzarote,2,0
-2020-11-20,1368,1302,9,Lanzarote,2,0
-2020-11-21,1375,1306,9,Lanzarote,4,0
-2020-11-22,1377,1313,9,Lanzarote,4,0
-2020-11-23,1380,1317,9,Lanzarote,4,0
-2020-11-24,1382,1320,9,Lanzarote,7,0
-2020-11-25,1385,1321,9,Lanzarote,5,0
-2020-11-26,1393,1324,9,Lanzarote,4,0
-2020-11-27,1399,1330,9,Lanzarote,3,0
+2020-11-19,1362,1299,9,Lanzarote,1,0
+2020-11-20,1368,1302,9,Lanzarote,1,0
+2020-11-21,1375,1306,9,Lanzarote,1,0
+2020-11-22,1377,1313,9,Lanzarote,1,0
+2020-11-23,1380,1317,9,Lanzarote,3,0
+2020-11-24,1382,1320,9,Lanzarote,2,0
+2020-11-25,1385,1321,9,Lanzarote,2,0
+2020-11-26,1393,1324,9,Lanzarote,2,0
+2020-11-27,1399,1330,9,Lanzarote,1,0
 2020-11-28,1405,1332,9,Lanzarote,3,0
 2020-11-29,1407,1335,9,Lanzarote,3,0
-2020-11-30,1408,1346,9,Lanzarote,4,0
-2020-10-01,1110,971,9,Lanzarote,7,2
-2020-10-02,1110,977,9,Lanzarote,8,2
-2020-10-03,1114,989,9,Lanzarote,8,2
-2020-10-04,1117,999,9,Lanzarote,6,2
-2020-10-05,1122,1021,9,Lanzarote,5,2
-2020-10-06,1128,1033,9,Lanzarote,5,2
-2020-10-07,1131,1043,9,Lanzarote,6,2
-2020-10-08,1138,1052,9,Lanzarote,7,2
-2020-10-09,1145,1062,9,Lanzarote,8,2
-2020-10-10,1154,1067,9,Lanzarote,6,3
-2020-10-11,1163,1074,9,Lanzarote,7,3
-2020-10-12,1166,1079,9,Lanzarote,6,2
-2020-10-13,1167,1092,9,Lanzarote,8,2
-2020-10-14,1167,1096,9,Lanzarote,9,3
-2020-10-15,1174,1101,9,Lanzarote,7,2
-2020-10-16,1179,1107,9,Lanzarote,7,2
-2020-10-17,1186,1112,9,Lanzarote,7,2
-2020-10-18,1187,1118,9,Lanzarote,7,2
-2020-10-19,1192,1122,9,Lanzarote,7,2
-2020-10-20,1211,1130,9,Lanzarote,4,2
-2020-10-21,1216,1131,9,Lanzarote,4,2
-2020-10-22,1223,1135,9,Lanzarote,4,1
-2020-10-23,1228,1140,9,Lanzarote,3,1
-2020-10-24,1233,1140,9,Lanzarote,3,1
-2020-10-25,1234,1146,9,Lanzarote,3,1
-2020-10-26,1236,1153,9,Lanzarote,1,1
-2020-10-27,1241,1162,9,Lanzarote,1,1
-2020-10-28,1252,1166,9,Lanzarote,1,1
-2020-10-29,1264,1169,9,Lanzarote,1,1
-2020-10-30,1268,1173,9,Lanzarote,1,1
-2020-10-31,1269,1179,9,Lanzarote,1,1
-2020-09-01,626,186,7,Lanzarote,10,1
-2020-09-02,672,199,7,Lanzarote,13,1
-2020-09-03,727,237,7,Lanzarote,14,1
-2020-09-04,760,239,7,Lanzarote,14,1
-2020-09-05,783,274,7,Lanzarote,17,1
-2020-09-06,812,283,7,Lanzarote,17,1
-2020-09-07,819,297,7,Lanzarote,17,0
-2020-09-08,860,306,7,Lanzarote,15,0
-2020-09-09,906,328,7,Lanzarote,14,0
-2020-09-10,927,401,7,Lanzarote,12,1
-2020-09-11,941,439,7,Lanzarote,11,2
-2020-09-12,951,471,7,Lanzarote,12,2
-2020-09-13,962,510,8,Lanzarote,14,2
-2020-09-14,978,568,8,Lanzarote,14,2
-2020-09-15,982,610,8,Lanzarote,14,2
-2020-09-16,989,635,8,Lanzarote,15,2
-2020-09-17,1000,667,8,Lanzarote,12,2
-2020-09-18,1004,719,8,Lanzarote,10,1
-2020-09-19,1022,750,9,Lanzarote,10,1
-2020-09-20,1031,777,9,Lanzarote,12,1
-2020-09-21,1031,795,9,Lanzarote,11,1
-2020-09-22,1040,833,9,Lanzarote,11,3
-2020-09-23,1047,870,9,Lanzarote,9,3
-2020-09-24,1068,894,9,Lanzarote,9,3
-2020-09-25,1081,902,9,Lanzarote,10,3
-2020-09-26,1085,919,9,Lanzarote,9,3
-2020-09-27,1088,927,9,Lanzarote,9,2
-2020-09-28,1091,935,9,Lanzarote,7,2
-2020-09-29,1096,945,9,Lanzarote,7,2
-2020-09-30,1105,958,9,Lanzarote,6,2
+2020-11-30,1408,1346,9,Lanzarote,3,0
+2020-10-01,1110,971,9,Lanzarote,2,0
+2020-10-02,1110,977,9,Lanzarote,1,0
+2020-10-03,1114,989,9,Lanzarote,2,0
+2020-10-04,1117,999,9,Lanzarote,3,0
+2020-10-05,1122,1021,9,Lanzarote,2,0
+2020-10-06,1128,1033,9,Lanzarote,2,0
+2020-10-07,1131,1043,9,Lanzarote,1,0
+2020-10-08,1138,1052,9,Lanzarote,3,0
+2020-10-09,1145,1062,9,Lanzarote,2,0
+2020-10-10,1154,1067,9,Lanzarote,3,0
+2020-10-11,1163,1074,9,Lanzarote,9,0
+2020-10-12,1166,1079,9,Lanzarote,3,0
+2020-10-13,1167,1092,9,Lanzarote,3,0
+2020-10-14,1167,1096,9,Lanzarote,4,0
+2020-10-15,1174,1101,9,Lanzarote,20,0
+2020-10-16,1179,1107,9,Lanzarote,5,0
+2020-10-17,1186,1112,9,Lanzarote,3,0
+2020-10-18,1187,1118,9,Lanzarote,4,0
+2020-10-19,1192,1122,9,Lanzarote,4,0
+2020-10-20,1211,1130,9,Lanzarote,3,0
+2020-10-21,1216,1131,9,Lanzarote,3,0
+2020-10-22,1223,1135,9,Lanzarote,4,0
+2020-10-23,1228,1140,9,Lanzarote,4,0
+2020-10-24,1233,1140,9,Lanzarote,4,0
+2020-10-25,1234,1146,9,Lanzarote,3,0
+2020-10-26,1236,1153,9,Lanzarote,6,0
+2020-10-27,1241,1162,9,Lanzarote,6,0
+2020-10-28,1252,1166,9,Lanzarote,3,0
+2020-10-29,1264,1169,9,Lanzarote,3,0
+2020-10-30,1268,1173,9,Lanzarote,3,0
+2020-10-31,1269,1179,9,Lanzarote,3,0
+2020-09-01,626,186,7,Lanzarote,3,0
+2020-09-02,672,199,7,Lanzarote,1,0
+2020-09-03,727,237,7,Lanzarote,1,0
+2020-09-04,760,239,7,Lanzarote,1,0
+2020-09-05,783,274,7,Lanzarote,1,0
+2020-09-06,812,283,7,Lanzarote,1,0
+2020-09-07,819,297,7,Lanzarote,6,0
+2020-09-08,860,306,7,Lanzarote,5,0
+2020-09-09,906,328,7,Lanzarote,2,0
+2020-09-10,927,401,7,Lanzarote,3,0
+2020-09-11,941,439,7,Lanzarote,4,0
+2020-09-12,951,471,7,Lanzarote,3,0
+2020-09-13,962,510,8,Lanzarote,2,0
+2020-09-14,978,568,8,Lanzarote,2,0
+2020-09-15,982,610,8,Lanzarote,1,0
+2020-09-16,989,635,8,Lanzarote,1,0
+2020-09-17,1000,667,8,Lanzarote,1,0
+2020-09-18,1004,719,8,Lanzarote,1,0
+2020-09-19,1022,750,9,Lanzarote,1,0
+2020-09-20,1031,777,9,Lanzarote,1,0
+2020-09-21,1031,795,9,Lanzarote,2,0
+2020-09-22,1040,833,9,Lanzarote,1,0
+2020-09-23,1047,870,9,Lanzarote,1,0
+2020-09-24,1068,894,9,Lanzarote,1,0
+2020-09-25,1081,902,9,Lanzarote,3,0
+2020-09-26,1085,919,9,Lanzarote,2,0
+2020-09-27,1088,927,9,Lanzarote,2,0
+2020-09-28,1091,935,9,Lanzarote,2,0
+2020-09-29,1096,945,9,Lanzarote,2,0
+2020-09-30,1105,958,9,Lanzarote,3,0
 2020-04-01,73,2,2,La Palma,14,5
 2020-04-02,73,2,3,La Palma,14,4
 2020-04-03,74,2,4,La Palma,9,5
@@ -1889,113 +1889,113 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-09-28,179,168,6,La Palma,0,0
 2020-09-29,179,168,6,La Palma,0,0
 2020-09-30,183,168,6,La Palma,0,0
-2020-04-01,970,93,52,Tenerife,291,54
-2020-04-02,1001,103,56,Tenerife,291,52
-2020-04-03,1028,138,58,Tenerife,301,45
-2020-04-04,1051,163,60,Tenerife,311,47
-2020-04-05,1086,183,61,Tenerife,327,46
-2020-04-06,1114,215,63,Tenerife,331,45
-2020-04-07,1173,239,63,Tenerife,339,50
-2020-04-08,1183,276,66,Tenerife,341,40
-2020-04-09,1198,301,67,Tenerife,345,44
-2020-04-10,1226,324,67,Tenerife,327,43
-2020-04-11,1255,346,69,Tenerife,308,44
-2020-04-12,1258,354,69,Tenerife,325,42
-2020-04-13,1274,388,72,Tenerife,323,44
-2020-04-14,1281,425,73,Tenerife,321,44
-2020-04-15,1299,474,75,Tenerife,299,41
-2020-04-16,1314,511,78,Tenerife,296,39
-2020-04-17,1330,558,80,Tenerife,249,39
-2020-04-18,1339,573,81,Tenerife,241,39
-2020-04-19,1346,582,81,Tenerife,225,43
-2020-04-20,1356,626,82,Tenerife,229,40
-2020-04-21,1365,661,84,Tenerife,226,39
-2020-04-22,1378,690,86,Tenerife,193,37
-2020-04-23,1385,720,89,Tenerife,181,36
-2020-04-24,1395,757,91,Tenerife,164,33
-2020-04-25,1405,763,91,Tenerife,162,33
-2020-04-26,1410,766,92,Tenerife,165,32
-2020-04-27,1416,804,93,Tenerife,146,26
-2020-04-28,1422,830,94,Tenerife,149,31
-2020-04-29,1422,849,95,Tenerife,145,28
-2020-04-30,1429,882,95,Tenerife,142,29
+2020-04-01,970,93,52,Tenerife,295,56
+2020-04-02,1001,103,56,Tenerife,295,54
+2020-04-03,1028,138,58,Tenerife,308,47
+2020-04-04,1051,163,60,Tenerife,313,49
+2020-04-05,1086,183,61,Tenerife,331,48
+2020-04-06,1114,215,63,Tenerife,334,47
+2020-04-07,1173,239,63,Tenerife,343,52
+2020-04-08,1183,276,66,Tenerife,341,42
+2020-04-09,1198,301,67,Tenerife,347,46
+2020-04-10,1226,324,67,Tenerife,329,45
+2020-04-11,1255,346,69,Tenerife,311,46
+2020-04-12,1258,354,69,Tenerife,329,44
+2020-04-13,1274,388,72,Tenerife,324,46
+2020-04-14,1281,425,73,Tenerife,323,45
+2020-04-15,1299,474,75,Tenerife,302,42
+2020-04-16,1314,511,78,Tenerife,298,40
+2020-04-17,1330,558,80,Tenerife,251,40
+2020-04-18,1339,573,81,Tenerife,242,40
+2020-04-19,1346,582,81,Tenerife,225,44
+2020-04-20,1356,626,82,Tenerife,227,41
+2020-04-21,1365,661,84,Tenerife,227,40
+2020-04-22,1378,690,86,Tenerife,195,39
+2020-04-23,1385,720,89,Tenerife,183,38
+2020-04-24,1395,757,91,Tenerife,168,35
+2020-04-25,1405,763,91,Tenerife,166,35
+2020-04-26,1410,766,92,Tenerife,167,34
+2020-04-27,1416,804,93,Tenerife,151,28
+2020-04-28,1422,830,94,Tenerife,152,33
+2020-04-29,1422,849,95,Tenerife,147,30
+2020-04-30,1429,882,95,Tenerife,144,31
 2020-08-01,1612,1427,111,Tenerife,22,1
 2020-08-02,1618,1427,111,Tenerife,22,1
 2020-08-03,1620,1428,111,Tenerife,24,1
 2020-08-04,1622,1431,111,Tenerife,30,1
-2020-08-05,1629,1442,111,Tenerife,29,1
-2020-08-06,1636,1446,111,Tenerife,26,2
+2020-08-05,1629,1442,111,Tenerife,28,1
+2020-08-06,1636,1446,111,Tenerife,25,2
 2020-08-07,1653,1452,112,Tenerife,31,2
 2020-08-08,1672,1454,113,Tenerife,32,2
 2020-08-09,1679,1456,113,Tenerife,36,1
 2020-08-10,1700,1465,113,Tenerife,27,1
-2020-08-11,1706,1476,113,Tenerife,32,2
+2020-08-11,1706,1476,113,Tenerife,31,2
 2020-08-12,1730,1484,113,Tenerife,34,2
 2020-08-13,1746,1493,113,Tenerife,37,2
 2020-08-14,1779,1501,113,Tenerife,40,4
-2020-08-15,1814,1503,113,Tenerife,36,4
-2020-08-16,1838,1506,113,Tenerife,34,3
-2020-08-17,1857,1520,113,Tenerife,37,3
-2020-08-18,1886,1525,113,Tenerife,40,5
+2020-08-15,1814,1503,113,Tenerife,37,4
+2020-08-16,1838,1506,113,Tenerife,35,3
+2020-08-17,1857,1520,113,Tenerife,38,3
+2020-08-18,1886,1525,113,Tenerife,41,5
 2020-08-19,1908,1532,113,Tenerife,36,3
 2020-08-20,1938,1544,113,Tenerife,32,4
 2020-08-21,1986,1565,113,Tenerife,35,4
-2020-08-22,2035,1569,113,Tenerife,31,5
-2020-08-23,2055,1572,114,Tenerife,36,5
-2020-08-24,2095,1596,114,Tenerife,42,6
+2020-08-22,2035,1569,113,Tenerife,32,5
+2020-08-23,2055,1572,114,Tenerife,37,5
+2020-08-24,2095,1596,114,Tenerife,41,6
 2020-08-25,2151,1614,114,Tenerife,33,6
 2020-08-26,2190,1632,114,Tenerife,36,6
-2020-08-27,2233,1666,114,Tenerife,41,6
-2020-08-28,2297,1692,114,Tenerife,36,6
-2020-08-29,2346,1697,114,Tenerife,36,6
-2020-08-30,2390,1710,114,Tenerife,43,6
-2020-08-31,2423,1765,114,Tenerife,40,9
-2020-12-01,9168,7614,194,Tenerife,153,26
-2020-12-02,9315,7678,194,Tenerife,141,26
-2020-12-03,9428,7757,194,Tenerife,149,29
-2020-12-04,9618,7855,196,Tenerife,159,28
-2020-12-05,9767,7904,197,Tenerife,162,28
-2020-12-06,9846,7949,198,Tenerife,171,30
-2020-12-07,9985,8006,200,Tenerife,169,28
-2020-12-08,10071,8035,201,Tenerife,183,29
-2020-12-09,10231,8133,201,Tenerife,197,29
-2020-12-10,10426,8190,204,Tenerife,193,30
+2020-08-27,2233,1666,114,Tenerife,43,6
+2020-08-28,2297,1692,114,Tenerife,38,7
+2020-08-29,2346,1697,114,Tenerife,38,7
+2020-08-30,2390,1710,114,Tenerife,43,7
+2020-08-31,2423,1765,114,Tenerife,41,9
+2020-12-01,9168,7614,194,Tenerife,150,26
+2020-12-02,9315,7678,194,Tenerife,137,26
+2020-12-03,9428,7757,194,Tenerife,145,29
+2020-12-04,9618,7855,196,Tenerife,146,28
+2020-12-05,9767,7904,197,Tenerife,149,28
+2020-12-06,9846,7949,198,Tenerife,158,30
+2020-12-07,9985,8006,200,Tenerife,158,28
+2020-12-08,10071,8035,201,Tenerife,173,29
+2020-12-09,10231,8133,201,Tenerife,186,29
+2020-12-10,10426,8190,204,Tenerife,181,30
 2019-12-11,0,0,0,Tenerife,NA,NA
-2020-12-11,10567,8249,207,Tenerife,209,30
-2020-12-12,10836,8270,208,Tenerife,231,32
-2020-12-13,10922,8280,210,Tenerife,233,32
-2020-12-14,11012,8327,211,Tenerife,242,32
-2020-12-15,11259,8345,215,Tenerife,247,29
-2020-12-16,11441,8370,218,Tenerife,237,29
-2020-12-17,11662,8387,221,Tenerife,229,27
-2020-12-18,11821,8407,226,Tenerife,212,30
-2020-12-19,12023,8411,228,Tenerife,218,33
-2020-12-20,12105,8416,234,Tenerife,225,34
-2020-12-21,12212,8444,237,Tenerife,227,30
-2020-12-22,12355,8461,241,Tenerife,217,32
-2020-12-23,12490,8492,243,Tenerife,208,33
-2020-12-24,12623,8496,246,Tenerife,201,28
-2020-12-25,12732,8505,248,Tenerife,213,29
-2020-12-26,12809,8510,249,Tenerife,220,33
-2020-12-27,12891,8519,251,Tenerife,230,32
-2020-12-28,13067,8553,256,Tenerife,234,34
-2020-12-29,13225,8586,258,Tenerife,219,36
-2020-12-30,13362,8616,263,Tenerife,203,37
-2020-12-31,13540,8618,268,Tenerife,191,36
+2020-12-11,10567,8249,207,Tenerife,197,30
+2020-12-12,10836,8270,208,Tenerife,220,32
+2020-12-13,10922,8280,210,Tenerife,222,32
+2020-12-14,11012,8327,211,Tenerife,232,32
+2020-12-15,11259,8345,215,Tenerife,235,29
+2020-12-16,11441,8370,218,Tenerife,224,29
+2020-12-17,11662,8387,221,Tenerife,215,27
+2020-12-18,11821,8407,226,Tenerife,201,30
+2020-12-19,12023,8411,228,Tenerife,207,33
+2020-12-20,12105,8416,234,Tenerife,214,34
+2020-12-21,12212,8444,237,Tenerife,217,30
+2020-12-22,12355,8461,241,Tenerife,210,32
+2020-12-23,12490,8492,243,Tenerife,204,33
+2020-12-24,12623,8496,246,Tenerife,197,29
+2020-12-25,12732,8505,248,Tenerife,209,29
+2020-12-26,12809,8510,249,Tenerife,216,33
+2020-12-27,12891,8519,251,Tenerife,224,32
+2020-12-28,13067,8553,256,Tenerife,229,34
+2020-12-29,13225,8586,258,Tenerife,215,37
+2020-12-30,13362,8616,263,Tenerife,200,38
+2020-12-31,13540,8618,268,Tenerife,187,37
 2020-02-25,1,0,0,Tenerife,NA,NA
 2020-02-27,3,0,0,Tenerife,NA,NA
 2020-02-28,4,0,0,Tenerife,NA,NA
 2020-02-29,5,0,0,Tenerife,NA,NA
-2021-01-01,13607,8628,270,Tenerife,194,34
-2021-01-02,13690,8630,274,Tenerife,199,34
-2021-01-03,13739,8630,276,Tenerife,199,34
-2021-01-04,13854,8648,279,Tenerife,192,34
-2021-01-05,13950,8654,279,Tenerife,185,33
-2021-01-06,14054,8654,280,Tenerife,190,33
+2021-01-01,13607,8628,270,Tenerife,190,35
+2021-01-02,13690,8630,274,Tenerife,195,34
+2021-01-03,13739,8630,276,Tenerife,195,34
+2021-01-04,13854,8648,279,Tenerife,189,34
+2021-01-05,13950,8654,279,Tenerife,183,33
+2021-01-06,14054,8654,280,Tenerife,188,33
 2021-01-07,14136,8665,282,Tenerife,187,34
 2020-01-31,0,0,0,Tenerife,NA,NA
 2020-07-01,1525,1409,111,Tenerife,11,1
-2020-07-02,1525,1410,111,Tenerife,8,1
+2020-07-02,1525,1410,111,Tenerife,9,1
 2020-07-03,1525,1412,111,Tenerife,8,0
 2020-07-04,1526,1412,111,Tenerife,13,1
 2020-07-06,1526,1412,111,Tenerife,15,1
@@ -2004,15 +2004,15 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-07-10,1527,1412,111,Tenerife,8,0
 2020-07-11,1528,1412,111,Tenerife,10,0
 2020-07-12,1529,1412,111,Tenerife,13,0
-2020-07-13,1530,1412,111,Tenerife,11,0
+2020-07-13,1530,1412,111,Tenerife,10,0
 2020-07-14,1534,1412,111,Tenerife,15,1
 2020-07-15,1539,1412,111,Tenerife,12,1
-2020-07-16,1540,1412,111,Tenerife,18,1
+2020-07-16,1540,1412,111,Tenerife,19,1
 2020-07-17,1541,1414,111,Tenerife,11,1
-2020-07-18,1546,1414,111,Tenerife,12,1
-2020-07-19,1547,1414,111,Tenerife,14,1
+2020-07-18,1546,1414,111,Tenerife,11,1
+2020-07-19,1547,1414,111,Tenerife,13,1
 2020-07-20,1548,1414,111,Tenerife,15,2
-2020-07-21,1551,1414,111,Tenerife,14,1
+2020-07-21,1551,1414,111,Tenerife,15,2
 2020-07-22,1554,1414,111,Tenerife,12,1
 2020-07-23,1561,1414,111,Tenerife,14,1
 2020-07-24,1570,1415,111,Tenerife,17,1
@@ -2025,32 +2025,32 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-07-31,1605,1427,111,Tenerife,24,1
 2020-06-01,1514,1326,110,Tenerife,37,6
 2020-06-02,1517,1334,111,Tenerife,33,4
-2020-06-03,1518,1343,111,Tenerife,34,3
+2020-06-03,1518,1343,111,Tenerife,33,3
 2020-06-04,1518,1349,111,Tenerife,30,2
 2020-06-05,1518,1354,111,Tenerife,32,2
 2020-06-06,1520,1355,111,Tenerife,28,2
 2020-06-07,1520,1357,111,Tenerife,32,2
 2020-06-08,1520,1363,111,Tenerife,27,2
-2020-06-09,1520,1366,111,Tenerife,25,2
+2020-06-09,1520,1366,111,Tenerife,26,2
 2020-06-10,1520,1369,111,Tenerife,25,2
 2020-06-11,1520,1381,111,Tenerife,24,1
-2020-06-12,1522,1383,111,Tenerife,23,2
-2020-06-13,1523,1385,111,Tenerife,26,3
-2020-06-14,1523,1388,111,Tenerife,18,1
+2020-06-12,1522,1383,111,Tenerife,24,2
+2020-06-13,1523,1385,111,Tenerife,27,3
+2020-06-14,1523,1388,111,Tenerife,19,1
 2020-06-15,1523,1389,111,Tenerife,17,1
-2020-06-16,1523,1391,111,Tenerife,22,1
+2020-06-16,1523,1391,111,Tenerife,23,1
 2020-06-17,1523,1394,111,Tenerife,18,1
-2020-06-18,1524,1397,111,Tenerife,17,1
-2020-06-19,1525,1398,111,Tenerife,20,2
-2020-06-20,1525,1400,111,Tenerife,20,2
-2020-06-21,1525,1401,111,Tenerife,26,3
+2020-06-18,1524,1397,111,Tenerife,18,1
+2020-06-19,1525,1398,111,Tenerife,20,1
+2020-06-20,1525,1400,111,Tenerife,19,1
+2020-06-21,1525,1401,111,Tenerife,25,2
 2020-06-22,1525,1403,111,Tenerife,17,2
-2020-06-23,1525,1405,111,Tenerife,18,2
+2020-06-23,1525,1405,111,Tenerife,19,2
 2020-06-24,1525,1405,111,Tenerife,16,2
 2020-06-25,1525,1406,111,Tenerife,12,1
 2020-06-26,1525,1408,111,Tenerife,12,1
 2020-06-27,1525,1409,111,Tenerife,14,1
-2020-06-28,1525,1409,111,Tenerife,13,1
+2020-06-28,1525,1409,111,Tenerife,15,1
 2020-06-29,1525,1409,111,Tenerife,14,1
 2020-06-30,1525,1409,111,Tenerife,11,1
 2020-03-03,6,0,0,Tenerife,NA,NA
@@ -2074,133 +2074,133 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care
 2020-03-21,322,10,6,Tenerife,NA,NA
 2020-03-22,366,12,6,Tenerife,NA,NA
 2020-03-23,430,13,10,Tenerife,187,25
-2020-03-24,520,14,14,Tenerife,200,34
-2020-03-25,578,16,20,Tenerife,224,38
-2020-03-26,671,20,27,Tenerife,247,41
-2020-03-27,727,33,33,Tenerife,274,41
-2020-03-28,784,39,37,Tenerife,287,47
-2020-03-29,836,42,40,Tenerife,317,50
-2020-03-30,883,63,42,Tenerife,308,51
-2020-03-31,933,80,47,Tenerife,280,55
-2020-05-01,1435,890,97,Tenerife,126,26
-2020-05-02,1437,905,97,Tenerife,115,27
-2020-05-03,1442,910,98,Tenerife,121,26
-2020-05-04,1442,955,98,Tenerife,124,22
-2020-05-05,1442,978,99,Tenerife,120,15
-2020-05-06,1444,1015,103,Tenerife,117,14
-2020-05-07,1451,1031,103,Tenerife,108,10
-2020-05-08,1455,1064,103,Tenerife,97,10
-2020-05-09,1458,1073,103,Tenerife,97,11
-2020-05-10,1461,1075,103,Tenerife,90,10
-2020-05-11,1462,1095,103,Tenerife,79,8
-2020-05-12,1462,1112,103,Tenerife,82,8
-2020-05-13,1466,1133,103,Tenerife,77,8
-2020-05-14,1469,1151,103,Tenerife,81,13
-2020-05-15,1471,1166,103,Tenerife,71,10
-2020-05-16,1475,1173,105,Tenerife,64,8
-2020-05-17,1475,1175,106,Tenerife,69,9
-2020-05-18,1476,1201,107,Tenerife,71,11
-2020-05-19,1485,1215,107,Tenerife,62,11
-2020-05-20,1488,1232,107,Tenerife,56,9
-2020-05-21,1494,1246,107,Tenerife,56,8
-2020-05-22,1495,1266,107,Tenerife,49,9
-2020-05-23,1496,1269,107,Tenerife,51,9
-2020-05-24,1497,1270,107,Tenerife,45,7
-2020-05-25,1499,1278,108,Tenerife,51,7
-2020-05-26,1500,1293,109,Tenerife,51,6
-2020-05-27,1501,1297,110,Tenerife,47,5
-2020-05-28,1504,1305,110,Tenerife,40,5
-2020-05-29,1511,1312,110,Tenerife,36,4
-2020-05-30,1512,1318,110,Tenerife,38,5
-2020-05-31,1512,1319,110,Tenerife,39,4
-2020-11-01,6502,5314,151,Tenerife,137,25
+2020-03-24,520,14,14,Tenerife,201,34
+2020-03-25,578,16,20,Tenerife,224,37
+2020-03-26,671,20,27,Tenerife,248,41
+2020-03-27,727,33,33,Tenerife,276,42
+2020-03-28,784,39,37,Tenerife,288,47
+2020-03-29,836,42,40,Tenerife,317,51
+2020-03-30,883,63,42,Tenerife,309,52
+2020-03-31,933,80,47,Tenerife,282,55
+2020-05-01,1435,890,97,Tenerife,128,28
+2020-05-02,1437,905,97,Tenerife,117,29
+2020-05-03,1442,910,98,Tenerife,122,28
+2020-05-04,1442,955,98,Tenerife,127,23
+2020-05-05,1442,978,99,Tenerife,121,16
+2020-05-06,1444,1015,103,Tenerife,118,15
+2020-05-07,1451,1031,103,Tenerife,109,11
+2020-05-08,1455,1064,103,Tenerife,98,11
+2020-05-09,1458,1073,103,Tenerife,99,12
+2020-05-10,1461,1075,103,Tenerife,90,11
+2020-05-11,1462,1095,103,Tenerife,82,9
+2020-05-12,1462,1112,103,Tenerife,83,9
+2020-05-13,1466,1133,103,Tenerife,78,9
+2020-05-14,1469,1151,103,Tenerife,82,14
+2020-05-15,1471,1166,103,Tenerife,72,11
+2020-05-16,1475,1173,105,Tenerife,65,9
+2020-05-17,1475,1175,106,Tenerife,70,10
+2020-05-18,1476,1201,107,Tenerife,72,11
+2020-05-19,1485,1215,107,Tenerife,61,12
+2020-05-20,1488,1232,107,Tenerife,57,10
+2020-05-21,1494,1246,107,Tenerife,55,9
+2020-05-22,1495,1266,107,Tenerife,47,10
+2020-05-23,1496,1269,107,Tenerife,50,10
+2020-05-24,1497,1270,107,Tenerife,45,8
+2020-05-25,1499,1278,108,Tenerife,53,7
+2020-05-26,1500,1293,109,Tenerife,50,6
+2020-05-27,1501,1297,110,Tenerife,46,5
+2020-05-28,1504,1305,110,Tenerife,39,5
+2020-05-29,1511,1312,110,Tenerife,35,4
+2020-05-30,1512,1318,110,Tenerife,39,5
+2020-05-31,1512,1319,110,Tenerife,38,4
+2020-11-01,6502,5314,151,Tenerife,139,25
 2020-11-02,6535,5419,153,Tenerife,146,26
-2020-11-03,6626,5482,154,Tenerife,156,27
+2020-11-03,6626,5482,154,Tenerife,157,27
 2020-11-04,6742,5547,154,Tenerife,148,29
 2020-11-05,6856,5627,155,Tenerife,136,28
-2020-11-06,7001,5724,156,Tenerife,149,29
-2020-11-07,7129,5768,158,Tenerife,157,29
-2020-11-08,7196,5819,160,Tenerife,165,28
-2020-11-09,7244,5950,162,Tenerife,160,30
-2020-11-10,7326,6037,164,Tenerife,163,31
-2020-11-11,7399,6153,166,Tenerife,166,30
-2020-11-12,7476,6268,167,Tenerife,170,31
-2020-11-13,7610,6409,167,Tenerife,162,31
-2020-11-14,7693,6490,168,Tenerife,165,33
-2020-11-15,7738,6547,169,Tenerife,168,29
-2020-11-16,7795,6652,170,Tenerife,173,29
-2020-11-17,7919,6738,171,Tenerife,170,30
-2020-11-18,8007,6797,171,Tenerife,159,28
-2020-11-19,8096,6878,172,Tenerife,149,29
-2020-11-20,8194,6942,174,Tenerife,141,28
-2020-11-21,8279,6988,176,Tenerife,150,27
+2020-11-06,7001,5724,156,Tenerife,146,29
+2020-11-07,7129,5768,158,Tenerife,153,29
+2020-11-08,7196,5819,160,Tenerife,162,28
+2020-11-09,7244,5950,162,Tenerife,154,30
+2020-11-10,7326,6037,164,Tenerife,161,31
+2020-11-11,7399,6153,166,Tenerife,165,30
+2020-11-12,7476,6268,167,Tenerife,169,32
+2020-11-13,7610,6409,167,Tenerife,162,32
+2020-11-14,7693,6490,168,Tenerife,165,34
+2020-11-15,7738,6547,169,Tenerife,168,30
+2020-11-16,7795,6652,170,Tenerife,174,30
+2020-11-17,7919,6738,171,Tenerife,171,31
+2020-11-18,8007,6797,171,Tenerife,160,29
+2020-11-19,8096,6878,172,Tenerife,150,29
+2020-11-20,8194,6942,174,Tenerife,143,28
+2020-11-21,8279,6988,176,Tenerife,151,27
 2020-11-22,8330,7027,179,Tenerife,152,25
-2020-11-23,8418,7090,184,Tenerife,152,24
-2020-11-24,8528,7152,184,Tenerife,157,23
-2020-11-25,8621,7197,185,Tenerife,142,24
-2020-11-26,8700,7274,188,Tenerife,143,25
-2020-11-27,8785,7370,191,Tenerife,123,23
-2020-11-28,8890,7424,193,Tenerife,132,24
-2020-11-29,8952,7463,193,Tenerife,143,24
-2020-11-30,9035,7562,193,Tenerife,141,24
-2020-10-01,4223,3234,127,Tenerife,92,16
-2020-10-02,4272,3295,127,Tenerife,77,15
-2020-10-03,4342,3342,127,Tenerife,98,18
-2020-10-04,4405,3365,127,Tenerife,106,20
-2020-10-05,4439,3439,127,Tenerife,111,23
-2020-10-06,4500,3504,127,Tenerife,113,25
-2020-10-07,4568,3557,127,Tenerife,114,24
-2020-10-08,4688,3608,127,Tenerife,111,27
-2020-10-09,4771,3672,127,Tenerife,108,26
-2020-10-10,4847,3737,129,Tenerife,114,27
-2020-10-11,4933,3771,130,Tenerife,124,28
-2020-10-12,4962,3808,130,Tenerife,124,25
-2020-10-13,5003,3954,132,Tenerife,127,25
-2020-10-14,5076,4022,132,Tenerife,141,27
-2020-10-15,5183,4100,132,Tenerife,142,27
-2020-10-16,5268,4186,137,Tenerife,122,28
-2020-10-17,5349,4249,137,Tenerife,123,29
-2020-10-18,5422,4296,137,Tenerife,128,31
-2020-10-19,5477,4426,139,Tenerife,134,30
-2020-10-20,5540,4487,141,Tenerife,133,30
-2020-10-21,5659,4553,141,Tenerife,138,28
-2020-10-22,5773,4609,143,Tenerife,146,27
-2020-10-23,5821,4692,143,Tenerife,162,30
-2020-10-24,5905,4756,145,Tenerife,165,30
-2020-10-25,5931,4815,145,Tenerife,153,30
-2020-10-26,5995,4937,147,Tenerife,148,29
-2020-10-27,6062,4989,148,Tenerife,145,29
+2020-11-23,8418,7090,184,Tenerife,155,24
+2020-11-24,8528,7152,184,Tenerife,159,24
+2020-11-25,8621,7197,185,Tenerife,145,25
+2020-11-26,8700,7274,188,Tenerife,146,26
+2020-11-27,8785,7370,191,Tenerife,126,24
+2020-11-28,8890,7424,193,Tenerife,137,25
+2020-11-29,8952,7463,193,Tenerife,144,25
+2020-11-30,9035,7562,193,Tenerife,139,24
+2020-10-01,4223,3234,127,Tenerife,97,19
+2020-10-02,4272,3295,127,Tenerife,84,18
+2020-10-03,4342,3342,127,Tenerife,106,21
+2020-10-04,4405,3365,127,Tenerife,115,22
+2020-10-05,4439,3439,127,Tenerife,120,25
+2020-10-06,4500,3504,127,Tenerife,117,27
+2020-10-07,4568,3557,127,Tenerife,119,26
+2020-10-08,4688,3608,127,Tenerife,117,29
+2020-10-09,4771,3672,127,Tenerife,110,28
+2020-10-10,4847,3737,129,Tenerife,115,29
+2020-10-11,4933,3771,130,Tenerife,127,30
+2020-10-12,4962,3808,130,Tenerife,126,27
+2020-10-13,5003,3954,132,Tenerife,129,28
+2020-10-14,5076,4022,132,Tenerife,144,30
+2020-10-15,5183,4100,132,Tenerife,145,30
+2020-10-16,5268,4186,137,Tenerife,124,31
+2020-10-17,5349,4249,137,Tenerife,127,32
+2020-10-18,5422,4296,137,Tenerife,131,34
+2020-10-19,5477,4426,139,Tenerife,137,32
+2020-10-20,5540,4487,141,Tenerife,137,31
+2020-10-21,5659,4553,141,Tenerife,141,29
+2020-10-22,5773,4609,143,Tenerife,150,28
+2020-10-23,5821,4692,143,Tenerife,165,31
+2020-10-24,5905,4756,145,Tenerife,169,31
+2020-10-25,5931,4815,145,Tenerife,156,31
+2020-10-26,5995,4937,147,Tenerife,150,30
+2020-10-27,6062,4989,148,Tenerife,145,30
 2020-10-28,6171,5060,148,Tenerife,147,27
-2020-10-29,6220,5132,149,Tenerife,138,28
-2020-10-30,6302,5232,149,Tenerife,129,27
-2020-10-31,6404,5273,150,Tenerife,136,26
-2020-09-01,2448,1805,114,Tenerife,41,9
-2020-09-02,2510,1834,114,Tenerife,41,11
-2020-09-03,2556,1883,115,Tenerife,47,14
-2020-09-04,2599,1935,116,Tenerife,52,15
-2020-09-05,2655,1956,117,Tenerife,50,12
-2020-09-06,2694,1966,118,Tenerife,50,13
-2020-09-07,2716,1984,119,Tenerife,62,14
-2020-09-08,2741,2066,119,Tenerife,58,16
-2020-09-09,2788,2113,120,Tenerife,52,16
-2020-09-10,2839,2184,122,Tenerife,47,13
-2020-09-11,2924,2234,122,Tenerife,51,15
-2020-09-12,2981,2264,122,Tenerife,56,13
-2020-09-13,3043,2282,122,Tenerife,55,12
-2020-09-14,3067,2342,122,Tenerife,54,12
-2020-09-15,3114,2388,123,Tenerife,48,12
-2020-09-16,3173,2454,124,Tenerife,48,14
-2020-09-17,3236,2498,124,Tenerife,51,14
-2020-09-18,3315,2548,124,Tenerife,52,15
-2020-09-19,3399,2571,124,Tenerife,52,17
-2020-09-20,3451,2603,124,Tenerife,66,18
-2020-09-21,3494,2676,124,Tenerife,63,19
-2020-09-22,3567,2728,124,Tenerife,62,18
-2020-09-23,3633,2775,124,Tenerife,62,19
-2020-09-24,3696,2829,125,Tenerife,75,19
-2020-09-25,3782,2915,127,Tenerife,79,21
-2020-09-26,3844,2958,127,Tenerife,73,24
-2020-09-27,3903,2991,127,Tenerife,76,25
-2020-09-28,3943,3068,127,Tenerife,79,24
-2020-09-29,4013,3123,127,Tenerife,94,21
-2020-09-30,4096,3184,127,Tenerife,83,20
+2020-10-29,6220,5132,149,Tenerife,141,28
+2020-10-30,6302,5232,149,Tenerife,132,27
+2020-10-31,6404,5273,150,Tenerife,138,26
+2020-09-01,2448,1805,114,Tenerife,43,9
+2020-09-02,2510,1834,114,Tenerife,44,12
+2020-09-03,2556,1883,115,Tenerife,48,14
+2020-09-04,2599,1935,116,Tenerife,54,15
+2020-09-05,2655,1956,117,Tenerife,55,13
+2020-09-06,2694,1966,118,Tenerife,56,15
+2020-09-07,2716,1984,119,Tenerife,67,16
+2020-09-08,2741,2066,119,Tenerife,66,18
+2020-09-09,2788,2113,120,Tenerife,62,19
+2020-09-10,2839,2184,122,Tenerife,57,16
+2020-09-11,2924,2234,122,Tenerife,62,17
+2020-09-12,2981,2264,122,Tenerife,67,16
+2020-09-13,3043,2282,122,Tenerife,65,14
+2020-09-14,3067,2342,122,Tenerife,66,14
+2020-09-15,3114,2388,123,Tenerife,56,15
+2020-09-16,3173,2454,124,Tenerife,58,16
+2020-09-17,3236,2498,124,Tenerife,59,16
+2020-09-18,3315,2548,124,Tenerife,60,17
+2020-09-19,3399,2571,124,Tenerife,61,19
+2020-09-20,3451,2603,124,Tenerife,75,20
+2020-09-21,3494,2676,124,Tenerife,70,21
+2020-09-22,3567,2728,124,Tenerife,71,19
+2020-09-23,3633,2775,124,Tenerife,69,20
+2020-09-24,3696,2829,125,Tenerife,80,20
+2020-09-25,3782,2915,127,Tenerife,88,23
+2020-09-26,3844,2958,127,Tenerife,82,26
+2020-09-27,3903,2991,127,Tenerife,85,27
+2020-09-28,3943,3068,127,Tenerife,87,26
+2020-09-29,4013,3123,127,Tenerife,102,23
+2020-09-30,4096,3184,127,Tenerife,90,23
