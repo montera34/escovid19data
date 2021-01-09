@@ -1,0 +1,908 @@
+date,province,ccaa,new_cases,PCR,TestAc,activos,hospitalized,intensive_care,deceased,cases_accumulated,cases_accumulated_PCR,recovered,source_name,source,ine_code,poblacion
+2020-03-09,Zaragoza,Aragón,NA,NA,NA,28,14,NA,2,30,NA,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.257068,50,964693
+2020-03-10,Teruel,Aragón,NA,NA,NA,NA,3,NA,0,3,NA,NA,Lacomarca.net,https://www.lacomarca.net/tres-casos-coronavirus-residencia-ancianos-provincia-teruel/,44,134137
+2020-03-10,Zaragoza,Aragón,6,NA,NA,33,16,NA,3,36,NA,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.257233,50,964693
+2020-03-11,Huesca,Aragón,NA,NA,NA,NA,NA,NA,0,0,NA,NA,Heraldo.es,https://www.heraldo.es/noticias/aragon/huesca/2020/03/12/el-concejal-de-vox-en-huesca-primer-caso-de-coronavirus-conocido-en-la-provincia-1363617.html,22,220461
+2020-03-11,Teruel,Aragón,0,NA,NA,3,3,NA,0,3,NA,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.257332,44,134137
+2020-03-11,Zaragoza,Aragón,10,NA,NA,40,18,NA,6,46,NA,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.257332,50,964693
+2020-03-12,Huesca,Aragón,1,NA,NA,NA,NA,NA,0,1,NA,NA,Heraldo.es,https://www.heraldo.es/noticias/aragon/huesca/2020/03/12/el-concejal-de-vox-en-huesca-primer-caso-de-coronavirus-conocido-en-la-provincia-1363617.html,22,220461
+2020-03-12,Teruel,Aragón,1,NA,NA,NA,NA,NA,0,4,NA,NA,diariodeteruel.es,https://www.diariodeteruel.es/noticia.asp?notid=1022484,44,134137
+2020-03-12,Zaragoza,Aragón,14,NA,NA,54,NA,NA,6,60,NA,NA,RTVE,Mapa de RTVE,50,964693
+2020-03-13,Huesca,Aragón,0,NA,NA,NA,NA,NA,0,1,NA,NA,RTVE,Mapa de RTVE,22,220461
+2020-03-13,Teruel,Aragón,0,NA,NA,NA,NA,NA,0,4,NA,NA,RTVE,Mapa de RTVE,44,134137
+2020-03-13,Zaragoza,Aragón,15,NA,NA,68,NA,NA,7,75,NA,NA,RTVE,Mapa de RTVE,50,964693
+2020-03-14,Huesca,Aragón,0,NA,NA,NA,NA,NA,0,1,NA,NA,RTVE,Mapa de RTVE,22,220461
+2020-03-14,Teruel,Aragón,0,NA,NA,NA,NA,NA,0,4,NA,NA,RTVE,Mapa de RTVE,44,134137
+2020-03-14,Zaragoza,Aragón,41,NA,NA,109,NA,NA,7,116,NA,NA,RTVE,Mapa de RTVE y http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.257447,50,964693
+2020-03-15,Huesca,Aragón,2,NA,NA,NA,NA,NA,0,3,NA,NA,diariodelaltoaragon.es,https://www.diariodelaltoaragon.es/NoticiasDetalle.aspx?Id=1199912,22,220461
+2020-03-15,Teruel,Aragón,11,NA,NA,NA,NA,NA,0,15,NA,NA,RTVE,Mapa de RTVE,44,134137
+2020-03-15,Zaragoza,Aragón,14,NA,NA,123,NA,NA,7,130,NA,NA,RTVE,Mapa de RTVE y http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.257489,50,964693
+2020-03-16,Huesca,Aragón,11,NA,NA,NA,NA,NA,0,14,NA,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.257548,22,220461
+2020-03-16,Teruel,Aragón,0,NA,NA,NA,NA,NA,0,15,NA,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.257549,44,134137
+2020-03-16,Zaragoza,Aragón,15,NA,NA,134,NA,NA,11,145,NA,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.257547,50,964693
+2020-03-17,Huesca,Aragón,3,NA,NA,NA,NA,NA,0,17,NA,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.257601,22,220461
+2020-03-17,Teruel,Aragón,9,NA,NA,NA,NA,NA,1,24,NA,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.257601 y https://www.diariodeteruel.es/noticia.asp?notid=1022624,44,134137
+2020-03-17,Zaragoza,Aragón,18,NA,NA,152,NA,NA,11,163,NA,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.257601,50,964693
+2020-03-18,Huesca,Aragón,2,NA,NA,NA,NA,NA,0,19,NA,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.257646,22,220461
+2020-03-18,Teruel,Aragón,0,NA,NA,NA,NA,NA,1,24,NA,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.257646,44,134137
+2020-03-18,Zaragoza,Aragón,17,NA,NA,168,NA,NA,12,180,NA,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.257646,50,964693
+2020-03-19,Huesca,Aragón,5,NA,NA,24,NA,NA,0,24,NA,NA,RTVE,Flourish de RTVE: https://public.flourish.studio/visualisation/1451263,22,220461
+2020-03-19,Teruel,Aragón,3,NA,NA,26,NA,NA,1,27,NA,NA,RTVE,Flourish de RTVE: https://public.flourish.studio/visualisation/1451263,44,134137
+2020-03-19,Zaragoza,Aragón,44,NA,NA,210,NA,NA,14,224,NA,NA,RTVE,Flourish de RTVE: https://public.flourish.studio/visualisation/1451263,50,964693
+2020-03-20,Huesca,Aragón,10,NA,NA,34,NA,NA,0,34,NA,0,RTVE,Flourish de RTVE: https://public.flourish.studio/visualisation/1451263,22,220461
+2020-03-20,Teruel,Aragón,13,NA,NA,38,NA,NA,2,40,NA,0,RTVE,Flourish de RTVE: https://public.flourish.studio/visualisation/1451263,44,134137
+2020-03-20,Zaragoza,Aragón,54,NA,NA,264,NA,NA,14,278,NA,0,RTVE,Flourish de RTVE: https://public.flourish.studio/visualisation/1451263,50,964693
+2020-03-21,Huesca,Aragón,3,NA,NA,37,NA,NA,0,37,NA,0,RTVE,Flourish de RTVE: https://public.flourish.studio/visualisation/1451263,22,220461
+2020-03-21,Teruel,Aragón,7,NA,NA,45,NA,NA,2,47,NA,0,RTVE,Flourish de RTVE: https://public.flourish.studio/visualisation/1451263,44,134137
+2020-03-21,Zaragoza,Aragón,51,NA,NA,315,NA,NA,14,329,NA,0,RTVE,Flourish de RTVE: https://public.flourish.studio/visualisation/1451263,50,964693
+2020-03-22,Huesca,Aragón,0,NA,NA,37,19,1,1,37,NA,0,RTVE;diariodelaltoaragon.es,Flourish de RTVE: https://public.flourish.studio/visualisation/1451263 Actualización: 19h. y https://www.diariodelaltoaragon.es/NoticiasDetalle.aspx?Id=1200734,22,220461
+2020-03-22,Teruel,Aragón,0,NA,NA,45,NA,NA,2,47,NA,0,RTVE,Flourish de RTVE: https://public.flourish.studio/visualisation/1451263 Actualización: 19h.,44,134137
+2020-03-22,Zaragoza,Aragón,0,NA,NA,315,NA,NA,14,329,NA,0,RTVE,Flourish de RTVE: https://public.flourish.studio/visualisation/1451263 Actualización: 19h.,50,964693
+2020-03-23,Huesca,Aragón,0,NA,NA,37,NA,NA,1,37,NA,0,RTVE,Flourish de RTVE: https://public.flourish.studio/visualisation/1451263 Actualización: 21h.,22,220461
+2020-03-23,Teruel,Aragón,0,NA,NA,45,NA,NA,2,47,NA,0,RTVE,Flourish de RTVE: https://public.flourish.studio/visualisation/1451263 Actualización: 21h.,44,134137
+2020-03-23,Zaragoza,Aragón,0,NA,NA,315,NA,NA,14,329,NA,0,RTVE,Flourish de RTVE: https://public.flourish.studio/visualisation/1451263 Actualización: 21h.,50,964693
+2020-03-25,Huesca,Aragón,58,NA,NA,89,56,5,4,95,NA,2,Gobierno de Aragón,Aragon Hoy de Gobierno de Aragon http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1379/id.257948,22,220461
+2020-03-25,Teruel,Aragón,43,NA,NA,83,45,8,5,90,NA,2,Gobierno de Aragón,Aragon Hoy de Gobierno de Aragon http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1379/id.257949,44,134137
+2020-03-25,Zaragoza,Aragón,393,NA,NA,666,358,62,31,722,NA,25,Gobierno de Aragón,Aragon Hoy de Gobierno de Aragon http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1379/id.257947,50,964693
+2020-03-26,Huesca,Aragón,24,NA,NA,109,55,8,4,119,NA,6,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1379/id.258001,22,220461
+2020-03-26,Teruel,Aragón,25,NA,NA,104,65,9,5,115,NA,6,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1379/id.258002,44,134137
+2020-03-26,Zaragoza,Aragón,160,NA,NA,801,442,76,39,882,NA,42,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1379/id.258000,50,964693
+2020-03-27,Huesca,Aragón,31,NA,NA,136,71,11,4,150,NA,10,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258060,22,220461
+2020-03-27,Teruel,Aragón,28,NA,NA,129,79,13,5,143,NA,9,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258061,44,134137
+2020-03-27,Zaragoza,Aragón,163,NA,NA,928,543,90,49,1045,NA,68,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258059,50,964693
+2020-03-28,Huesca,Aragón,24,NA,NA,151,92,11,9,174,NA,14,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258115,22,220461
+2020-03-28,Teruel,Aragón,36,NA,NA,159,101,15,10,179,NA,10,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258115,44,134137
+2020-03-28,Zaragoza,Aragón,194,NA,NA,1071,642,98,72,1239,NA,96,Gobierno de Aragón,http://aragonhoy.aragon.es/index.php/mod.noticias/mem.detalle/area.1050/id.258115,50,964693
+2020-03-29,Huesca,Aragón,27,NA,NA,176,103,13,11,201,NA,14,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.258137,22,220461
+2020-03-29,Teruel,Aragón,29,NA,NA,186,112,19,12,208,NA,10,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258137,44,134137
+2020-03-29,Zaragoza,Aragón,210,NA,NA,1269,720,121,79,1449,NA,101,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.258137,50,964693
+2020-03-30,Huesca,Aragón,14,NA,NA,185,120,13,11,215,NA,19,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.258161,22,220461
+2020-03-30,Teruel,Aragón,14,NA,NA,196,131,20,12,222,NA,14,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.258161,44,134137
+2020-03-30,Zaragoza,Aragón,192,NA,NA,1419,843,123,81,1641,NA,141,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.258161,50,964693
+2020-03-31,Huesca,Aragón,29,NA,NA,207,129,13,14,244,NA,23,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.258203,22,220461
+2020-03-31,Teruel,Aragón,14,NA,NA,205,141,22,15,236,NA,16,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.258203,44,134137
+2020-03-31,Zaragoza,Aragón,151,NA,NA,1520,906,130,107,1792,NA,165,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.258203,50,964693
+2020-04-01,Huesca,Aragón,73,NA,NA,273,136,14,16,317,NA,28,RTVE,https://public.flourish.studio/visualisation/1451263/,22,220461
+2020-04-01,Teruel,Aragón,36,NA,NA,230,148,22,21,272,NA,21,RTVE,https://public.flourish.studio/visualisation/1451263/,44,134137
+2020-04-01,Zaragoza,Aragón,110,NA,NA,1564,950,132,130,1902,NA,208,RTVE,https://public.flourish.studio/visualisation/1451263/,50,964693
+2020-04-02,Huesca,Aragón,32,NA,NA,296,146,20,18,349,NA,35,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258306,22,220461
+2020-04-02,Teruel,Aragón,11,NA,NA,232,166,21,25,283,NA,26,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258306,44,134137
+2020-04-02,Zaragoza,Aragón,166,NA,NA,1654,1008,137,155,2068,NA,259,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258306,50,964693
+2020-04-03,Huesca,Aragón,19,NA,NA,301,175,21,24,368,NA,43,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1036/id.258374,22,220461
+2020-04-03,Teruel,Aragón,36,NA,NA,256,167,21,25,319,NA,38,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1036/id.258374,44,134137
+2020-04-03,Zaragoza,Aragón,144,NA,NA,1742,1089,138,173,2212,NA,297,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1036/id.258374,50,964693
+2020-04-04,Huesca,Aragón,25,NA,NA,319,175,22,30,393,NA,44,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.258405,22,220461
+2020-04-04,Teruel,Aragón,24,NA,NA,251,170,22,27,343,NA,65,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.258405,44,134137
+2020-04-04,Zaragoza,Aragón,130,NA,NA,1819,1160,146,192,2342,NA,331,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.258405,50,964693
+2020-04-05,Huesca,Aragón,3,NA,NA,310,176,26,33,396,NA,53,Gobierno de Aragón;RTVE,https://app.flourish.studio/visualisation/1451263/ (5-abr 22:00) y http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258447,22,220461
+2020-04-05,Teruel,Aragón,28,NA,NA,251,180,27,29,371,NA,91,Gobierno de Aragón;RTVE,https://app.flourish.studio/visualisation/1451263/ (5-abr 22:00) y http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258447,44,134137
+2020-04-05,Zaragoza,Aragón,67,NA,NA,1816,1217,178,206,2409,NA,387,Gobierno de Aragón;RTVE,https://app.flourish.studio/visualisation/1451263/ (5-abr 22:00) y http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258447,50,964693
+2020-04-06,Huesca,Aragón,21,NA,NA,323,184,26,37,417,NA,57,Gobierno de Aragón;RTVE,https://app.flourish.studio/visualisation/1451263/ (6-abr 23:00) y http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.258484,22,220461
+2020-04-06,Teruel,Aragón,9,NA,NA,258,185,27,29,380,NA,93,Gobierno de Aragón;RTVE,https://app.flourish.studio/visualisation/1451263/ (6-abr 23:00) y http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.258484,44,134137
+2020-04-06,Zaragoza,Aragón,111,NA,NA,1895,1258,183,217,2520,NA,408,Gobierno de Aragón;RTVE,https://app.flourish.studio/visualisation/1451263/ (6-abr 23:00) y http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.258484,50,964693
+2020-04-07,Huesca,Aragón,2,NA,NA,315,185,27,42,419,NA,62,Gobierno de Aragón;RTVE,Flourish de RTVE (act. 23:30): https://app.flourish.studio/visualisation/1845449/;http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258578,22,220461
+2020-04-07,Teruel,Aragón,16,NA,NA,271,187,27,32,396,NA,93,Gobierno de Aragón;RTVE,Flourish de RTVE (act. 23:30): https://app.flourish.studio/visualisation/1845449/;http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258578,44,134137
+2020-04-07,Zaragoza,Aragón,79,NA,NA,1946,1280,192,237,2599,NA,416,Gobierno de Aragón;RTVE,Flourish de RTVE (act. 23:30): https://app.flourish.studio/visualisation/1845449/;http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258578,50,964693
+2020-04-08,Huesca,Aragón,9,NA,NA,309,190,28,51,428,NA,68,Gobierno de Aragón;RTVE,Flourish de RTVE (act. 23:30): https://app.flourish.studio/visualisation/1845449/;http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258578,22,220461
+2020-04-08,Teruel,Aragón,10,NA,NA,273,191,29,34,406,NA,99,Gobierno de Aragón;RTVE,Flourish de RTVE (act. 23:30): https://app.flourish.studio/visualisation/1845449/;http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258578,44,134137
+2020-04-08,Zaragoza,Aragón,80,NA,NA,1932,1324,197,263,2679,NA,484,Gobierno de Aragón;RTVE,Flourish de RTVE (act. 23:30): https://app.flourish.studio/visualisation/1845449/;http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258578,50,964693
+2020-04-09,Huesca,Aragón,16,NA,NA,312,193,28,58,444,NA,74,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258635,22,220461
+2020-04-09,Teruel,Aragón,10,NA,NA,276,193,30,39,416,NA,101,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258635,44,134137
+2020-04-09,Zaragoza,Aragón,109,NA,NA,1967,1368,202,287,2788,NA,534,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258635,50,964693
+2020-04-10,Huesca,Aragón,34,NA,NA,331,201,28,64,478,NA,83,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258643,22,220461
+2020-04-10,Teruel,Aragón,7,NA,NA,275,197,30,41,423,NA,107,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258643,44,134137
+2020-04-10,Zaragoza,Aragón,101,NA,NA,1989,1412,204,303,2889,NA,597,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258643,50,964693
+2020-04-11,Huesca,Aragón,13,NA,NA,328,203,29,66,491,NA,97,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258694,22,220461
+2020-04-11,Teruel,Aragón,36,NA,NA,303,202,31,43,459,NA,113,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258694,44,134137
+2020-04-11,Zaragoza,Aragón,87,NA,NA,1993,1443,205,315,2976,NA,668,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258694,50,964693
+2020-04-12,Huesca,Aragón,11,NA,NA,332,205,29,67,502,NA,103,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258729,22,220461
+2020-04-12,Teruel,Aragón,5,NA,NA,301,203,32,48,464,NA,115,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258729,44,134137
+2020-04-12,Zaragoza,Aragón,81,NA,NA,2017,1481,210,334,3057,NA,706,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258729,50,964693
+2020-04-13,Huesca,Aragón,3,NA,NA,331,208,30,68,505,NA,106,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258743,22,220461
+2020-04-13,Teruel,Aragón,32,NA,NA,333,204,32,50,496,NA,113,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258743,44,134137
+2020-04-13,Zaragoza,Aragón,80,NA,NA,2075,1512,211,345,3137,NA,717,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258743,50,964693
+2020-04-14,Huesca,Aragón,3,NA,NA,326,213,32,69,508,NA,113,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258782,22,220461
+2020-04-14,Teruel,Aragón,6,NA,NA,332,206,32,52,502,NA,118,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258782,44,134137
+2020-04-14,Zaragoza,Aragón,49,NA,NA,2094,1533,215,370,3186,NA,722,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258782,50,964693
+2020-04-15,Huesca,Aragón,21,NA,NA,337,217,33,76,529,NA,116,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258793,22,220461
+2020-04-15,Teruel,Aragón,6,NA,NA,336,209,32,54,508,NA,118,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258793,44,134137
+2020-04-15,Zaragoza,Aragón,63,NA,NA,2098,1565,216,383,3249,NA,768,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.258793,50,964693
+2020-04-16,Huesca,Aragón,9,NA,NA,342,223,34,76,538,NA,120,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.258841,22,220461
+2020-04-16,Teruel,Aragón,10,NA,NA,340,213,32,56,518,NA,122,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.258841,44,134137
+2020-04-16,Zaragoza,Aragón,52,NA,NA,2071,1589,219,410,3301,NA,820,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.258841,50,964693
+2020-04-17,Huesca,Aragón,6,NA,NA,343,226,32,76,544,NA,125,RTVE,Flourish de RTVE (2020.04.17 23:55): https://app.flourish.studio/visualisation/1451263/,22,220461
+2020-04-17,Teruel,Aragón,9,NA,NA,335,221,35,59,527,NA,133,RTVE,Flourish de RTVE (2020.04.17 23:55): https://app.flourish.studio/visualisation/1451263/,44,134137
+2020-04-17,Zaragoza,Aragón,59,NA,NA,2089,1616,167,426,3360,NA,845,RTVE,Flourish de RTVE (2020.04.17 23:55): https://app.flourish.studio/visualisation/1451263/,50,964693
+2020-04-18,Huesca,Aragón,33,NA,NA,371,236,36,78,577,NA,128,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.258983,22,220461
+2020-04-18,Teruel,Aragón,10,NA,NA,360,224,32,64,537,NA,113,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.258983,44,134137
+2020-04-18,Zaragoza,Aragón,225,NA,NA,2258,1706,174,458,3585,NA,869,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.258983,50,964693
+2020-04-19,Huesca,Aragón,8,NA,NA,370,240,36,80,585,NA,135,RTVE,Flourish de RTVE (2020.04.18 23:50): https://app.flourish.studio/visualisation/1451263/,22,220461
+2020-04-19,Teruel,Aragón,3,NA,NA,358,225,32,64,540,NA,118,RTVE,Flourish de RTVE (2020.04.18 23:50): https://app.flourish.studio/visualisation/1451263/,44,134137
+2020-04-19,Zaragoza,Aragón,58,NA,NA,2258,1736,177,474,3643,NA,911,RTVE,Flourish de RTVE (2020.04.18 23:50): https://app.flourish.studio/visualisation/1451263/,50,964693
+2020-04-20,Huesca,Aragón,16,NA,NA,384,245,36,80,601,NA,137,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1379/id.259028,22,220461
+2020-04-20,Teruel,Aragón,1,NA,NA,359,227,32,65,541,NA,117,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1379/id.259028,44,134137
+2020-04-20,Zaragoza,Aragón,35,NA,NA,2274,1756,179,491,3678,NA,913,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1379/id.259028,50,964693
+2020-04-21,Huesca,Aragón,7,NA,NA,390,245,37,81,608,NA,137,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259068,22,220461
+2020-04-21,Teruel,Aragón,3,NA,NA,356,229,32,67,544,NA,121,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259069,44,134137
+2020-04-21,Zaragoza,Aragón,44,NA,NA,2314,1781,180,494,3722,NA,914,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259070,50,964693
+2020-04-22,Huesca,Aragón,13,NA,NA,362,251,37,81,621,NA,178,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259099,22,220461
+2020-04-22,Teruel,Aragón,2,NA,NA,329,230,32,67,546,NA,150,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259099,44,134137
+2020-04-22,Zaragoza,Aragón,97,NA,NA,2126,1807,182,507,3819,NA,1186,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259099,50,964693
+2020-04-23,Huesca,Aragón,60,NA,NA,395,252,37,83,681,NA,203,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.259155,22,220461
+2020-04-23,Teruel,Aragón,1,NA,NA,311,231,32,68,547,NA,168,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.259155,44,134137
+2020-04-23,Zaragoza,Aragón,124,NA,NA,2124,1840,183,529,3943,NA,1290,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.259155,50,964693
+2020-04-24,Huesca,Aragón,5,NA,NA,392,254,38,85,686,NA,209,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.259191,22,220461
+2020-04-24,Teruel,Aragón,1,NA,NA,294,231,32,69,548,NA,185,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.259191,44,134137
+2020-04-24,Zaragoza,Aragón,49,NA,NA,2084,1857,183,540,3992,NA,1368,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.259191,50,964693
+2020-04-25,Huesca,Aragón,13,NA,NA,387,254,38,86,699,NA,226,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259252,22,220461
+2020-04-25,Teruel,Aragón,4,NA,NA,283,232,32,71,552,NA,198,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259252,44,134137
+2020-04-25,Zaragoza,Aragón,67,NA,NA,2022,1869,184,551,4059,NA,1486,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259252,50,964693
+2020-04-26,Huesca,Aragón,15,NA,NA,415,256,39,88,714,NA,211,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.259277,22,220461
+2020-04-26,Teruel,Aragón,4,NA,NA,276,233,32,71,556,NA,209,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.259277,44,134137
+2020-04-26,Zaragoza,Aragón,52,NA,NA,2039,1889,185,552,4111,NA,1520,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.259277,50,964693
+2020-04-27,Huesca,Aragón,16,NA,NA,425,256,39,89,730,NA,216,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1056/id.259315,22,220461
+2020-04-27,Teruel,Aragón,1,NA,NA,270,233,32,71,557,NA,216,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1056/id.259315,44,134137
+2020-04-27,Zaragoza,Aragón,29,NA,NA,2018,1897,185,565,4140,NA,1557,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1056/id.259315,50,964693
+2020-04-28,Huesca,Aragón,2,NA,NA,416,256,39,90,732,NA,226,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1379/id.259392,22,220461
+2020-04-28,Teruel,Aragón,3,NA,NA,260,236,32,71,560,NA,229,Falta fuente,NA,44,134137
+2020-04-28,Zaragoza,Aragón,49,NA,NA,2012,1916,186,573,4189,NA,1604,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1379/id.259392,50,964693
+2020-04-29,Huesca,Aragón,15,NA,NA,421,260,39,90,747,NA,236,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259413,22,220461
+2020-04-29,Teruel,Aragón,6,NA,NA,260,238,32,71,566,NA,235,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259413,44,134137
+2020-04-29,Zaragoza,Aragón,74,NA,NA,1993,1939,186,574,4263,NA,1696,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259413,50,964693
+2020-04-30,Huesca,Aragón,171,NA,NA,570,262,39,91,918,NA,257,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1341/id.259460,22,220461
+2020-04-30,Teruel,Aragón,4,NA,NA,250,238,32,72,570,NA,248,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1341/id.259460,44,134137
+2020-04-30,Zaragoza,Aragón,139,NA,NA,2066,1960,186,575,4402,NA,1761,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1341/id.259460,50,964693
+2020-05-01,Huesca,Aragón,18,NA,NA,582,267,39,92,936,NA,262,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.259524,22,220461
+2020-05-01,Teruel,Aragón,2,NA,NA,236,239,33,72,572,NA,264,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.259524,44,134137
+2020-05-01,Zaragoza,Aragón,111,NA,NA,2099,1971,187,584,4513,NA,1830,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.259524,50,964693
+2020-05-02,Huesca,Aragón,6,NA,NA,576,268,39,92,942,NA,274,Gobierno de Aragón,NA,22,220461
+2020-05-02,Teruel,Aragón,1,NA,NA,229,239,33,74,573,NA,270,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.259549,44,134137
+2020-05-02,Zaragoza,Aragón,50,NA,NA,2066,1979,187,594,4563,NA,1903,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.259549,50,964693
+2020-05-03,Huesca,Aragón,13,NA,NA,585,271,39,92,955,NA,278,Gobierno de Aragón,NA,22,220461
+2020-05-03,Teruel,Aragón,0,NA,NA,228,240,33,74,573,NA,271,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259564,44,134137
+2020-05-03,Zaragoza,Aragón,30,NA,NA,2048,1991,187,594,4593,NA,1951,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259564,50,964693
+2020-05-04,Huesca,Aragón,1,NA,NA,577,271,39,92,956,NA,287,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259580,22,220461
+2020-05-04,Teruel,Aragón,1,NA,NA,197,242,33,74,574,NA,303,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259580,44,134137
+2020-05-04,Zaragoza,Aragón,28,NA,NA,2020,2000,187,595,4621,NA,2006,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259580,50,964693
+2020-05-05,Huesca,Aragón,7,NA,NA,575,271,39,92,963,NA,296,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259628,22,220461
+2020-05-05,Teruel,Aragón,1,NA,NA,186,242,33,74,575,NA,315,Gobierno de Aragón,NA,44,134137
+2020-05-05,Zaragoza,Aragón,35,NA,NA,1988,2012,187,604,4656,NA,2064,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259628,50,964693
+2020-05-06,Huesca,Aragón,5,NA,NA,568,271,39,93,968,NA,307,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1341/id.259678,22,220461
+2020-05-06,Teruel,Aragón,26,NA,NA,203,244,33,76,601,NA,322,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1341/id.259678,44,134137
+2020-05-06,Zaragoza,Aragón,67,NA,NA,1977,2022,187,618,4723,NA,2128,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1341/id.259678,50,964693
+2020-05-07,Huesca,Aragón,35,NA,NA,587,272,39,96,1003,NA,320,Gobierno de Aragón,NA,22,220461
+2020-05-07,Teruel,Aragón,5,NA,NA,193,245,33,80,606,NA,333,Gobierno de Aragón,NA,44,134137
+2020-05-07,Zaragoza,Aragón,93,NA,NA,2002,2031,189,623,4816,NA,2191,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259751,50,964693
+2020-05-08,Huesca,Aragón,6,NA,NA,592,272,39,97,1009,NA,320,Gobierno de Aragón,NA,22,220461
+2020-05-08,Teruel,Aragón,5,NA,NA,195,247,33,80,611,NA,336,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259804,44,134137
+2020-05-08,Zaragoza,Aragón,44,NA,NA,1962,2042,190,637,4860,NA,2261,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259804,50,964693
+2020-05-09,Huesca,Aragón,6,NA,NA,589,272,39,97,1015,NA,329,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259869,22,220461
+2020-05-09,Teruel,Aragón,10,NA,NA,199,247,33,81,621,NA,341,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259869,44,134137
+2020-05-09,Zaragoza,Aragón,64,NA,NA,1980,2048,190,644,4924,NA,2300,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259869,50,964693
+2020-05-10,Huesca,Aragón,7,NA,NA,577,273,39,98,1022,NA,347,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259895,22,220461
+2020-05-10,Teruel,Aragón,2,NA,NA,195,247,33,81,623,NA,347,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259895,44,134137
+2020-05-10,Zaragoza,Aragón,35,NA,NA,1968,2051,190,644,4959,NA,2347,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259895,50,964693
+2020-05-11,Huesca,Aragón,5,NA,NA,576,276,39,99,1027,NA,352,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259968,22,220461
+2020-05-11,Teruel,Aragón,1,NA,NA,189,248,33,81,624,NA,354,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259968,44,134137
+2020-05-11,Zaragoza,Aragón,23,NA,NA,1968,2054,190,644,4982,NA,2370,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.259968,50,964693
+2020-05-12,Huesca,Aragón,9,NA,NA,568,281,40,99,1036,NA,369,Gobierno de Aragón,NA,22,220461
+2020-05-12,Teruel,Aragón,7,NA,NA,195,249,33,82,631,NA,354,Gobierno de Aragón,NA,44,134137
+2020-05-12,Zaragoza,Aragón,41,NA,NA,1957,2059,190,646,5023,NA,2420,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260003,50,964693
+2020-05-13,Huesca,Aragón,7,NA,NA,556,283,41,99,1043,NA,388,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.260056,22,220461
+2020-05-13,Teruel,Aragón,6,NA,NA,196,249,33,83,637,NA,358,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.260056,44,134137
+2020-05-13,Zaragoza,Aragón,46,NA,NA,1903,2065,190,646,5069,NA,2520,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.260056,50,964693
+2020-05-14,Huesca,Aragón,18,NA,NA,525,283,41,99,1061,NA,437,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260093,22,220461
+2020-05-14,Teruel,Aragón,6,NA,NA,197,251,33,83,643,NA,363,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260093,44,134137
+2020-05-14,Zaragoza,Aragón,56,NA,NA,1854,2074,190,653,5125,NA,2618,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260093,50,964693
+2020-05-15,Huesca,Aragón,29,NA,NA,550,286,41,99,1090,NA,441,Gobierno de Aragón,NA,22,220461
+2020-05-15,Teruel,Aragón,3,NA,NA,198,252,33,83,646,NA,365,Gobierno de Aragón,NA,44,134137
+2020-05-15,Zaragoza,Aragón,45,NA,NA,1840,2086,191,654,5170,NA,2676,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260141,50,964693
+2020-05-16,Huesca,Aragón,14,NA,NA,545,289,41,99,1104,NA,460,Gobierno de Aragón,NA,22,220461
+2020-05-16,Teruel,Aragón,17,NA,NA,204,254,33,83,663,NA,376,Gobierno de Aragón,NA,44,134137
+2020-05-16,Zaragoza,Aragón,77,NA,NA,1827,2088,191,655,5247,NA,2765,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260221,50,964693
+2020-05-17,Huesca,Aragón,11,NA,NA,544,292,41,99,1115,NA,472,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.260245,22,220461
+2020-05-17,Teruel,Aragón,1,NA,NA,203,254,33,83,664,NA,378,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.260245,44,134137
+2020-05-17,Zaragoza,Aragón,40,NA,NA,1812,2092,191,655,5287,NA,2820,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.260245,50,964693
+2020-05-18,Huesca,Aragón,7,NA,NA,537,292,41,99,1122,NA,486,Servicio Aragonés de Salud,https://opendata.aragon.es/datos/catalogo/dataset/publicaciones-y-anuncios-relacionados-con-el-coronavirus-en-aragon,22,220461
+2020-05-18,Teruel,Aragón,6,NA,NA,206,254,33,83,670,NA,381,Servicio Aragonés de Salud,https://opendata.aragon.es/datos/catalogo/dataset/publicaciones-y-anuncios-relacionados-con-el-coronavirus-en-aragon,44,134137
+2020-05-18,Zaragoza,Aragón,11,NA,NA,1799,2093,192,655,5298,NA,2844,Servicio Aragonés de Salud,https://opendata.aragon.es/datos/catalogo/dataset/publicaciones-y-anuncios-relacionados-con-el-coronavirus-en-aragon,50,964693
+2020-05-19,Huesca,Aragón,NA,NA,NA,247,293,41,99,NA,705,359,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.260313,22,220461
+2020-05-19,Teruel,Aragón,NA,NA,NA,109,258,33,83,NA,567,375,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.260313,44,134137
+2020-05-19,Zaragoza,Aragón,NA,NA,NA,959,2099,192,659,NA,4179,2561,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.260313,50,964693
+2020-05-20,Huesca,Aragón,NA,8,NA,219,284,40,100,NA,713,394,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.260394,22,220461
+2020-05-20,Teruel,Aragón,NA,15,NA,111,243,31,84,NA,582,387,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.260394,44,134137
+2020-05-20,Zaragoza,Aragón,NA,7,NA,795,2033,192,661,NA,4186,2730,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.260394,50,964693
+2020-05-21,Huesca,Aragón,NA,21,NA,233,275,40,101,NA,734,400,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.260438,22,220461
+2020-05-21,Teruel,Aragón,NA,3,NA,111,237,32,84,NA,585,390,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.260438,44,134137
+2020-05-21,Zaragoza,Aragón,NA,14,NA,763,1917,183,661,NA,4200,2776,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.260438,50,964693
+2020-05-22,Huesca,Aragón,NA,11,NA,239,277,40,102,NA,745,404,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260496,22,220461
+2020-05-22,Teruel,Aragón,NA,9,NA,119,239,32,86,NA,594,389,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260496,44,134137
+2020-05-22,Zaragoza,Aragón,NA,10,NA,748,1918,183,668,NA,4210,2794,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260539,50,964693
+2020-05-23,Huesca,Aragón,NA,4,NA,240,279,40,99,NA,749,410,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260539,22,220461
+2020-05-23,Teruel,Aragón,NA,3,NA,137,239,32,86,NA,597,374,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260539,44,134137
+2020-05-23,Zaragoza,Aragón,NA,2,NA,718,1920,184,671,NA,4212,2823,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260539,50,964693
+2020-05-24,Huesca,Aragón,NA,6,NA,246,279,40,99,NA,755,410,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260559,22,220461
+2020-05-24,Teruel,Aragón,NA,2,NA,139,239,32,86,NA,599,374,Servicio Aragonés de Salud,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260559,44,134137
+2020-05-24,Zaragoza,Aragón,NA,10,NA,712,1921,184,671,NA,4222,2839,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260559,50,964693
+2020-05-25,Huesca,Aragón,NA,1,NA,245,279,40,99,NA,756,412,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1036/id.260588,22,220461
+2020-05-25,Teruel,Aragón,NA,2,NA,140,241,32,86,NA,601,375,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1036/id.260588,44,134137
+2020-05-25,Zaragoza,Aragón,NA,1,NA,670,1921,184,672,NA,4223,2881,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1036/id.260588,50,964693
+2020-05-26,Huesca,Aragón,NA,5,NA,NA,279,40,99,NA,761,422,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1036/id.260633,22,220461
+2020-05-26,Teruel,Aragón,NA,4,NA,NA,243,32,86,NA,605,377,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1036/id.260633,44,134137
+2020-05-26,Zaragoza,Aragón,NA,13,NA,655,1924,184,672,NA,4236,2909,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1036/id.260633,50,964693
+2020-05-27,Huesca,Aragón,NA,1,NA,NA,279,40,99,NA,762,437,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.260685,22,220461
+2020-05-27,Teruel,Aragón,NA,5,NA,NA,243,32,85,NA,610,383,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.260685,44,134137
+2020-05-27,Zaragoza,Aragón,NA,9,NA,631,1924,183,674,NA,4245,2940,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.260685,50,964693
+2020-05-28,Huesca,Aragón,NA,9,NA,NA,280,40,100,NA,771,443,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.260710,22,220461
+2020-05-28,Teruel,Aragón,NA,0,NA,NA,243,32,85,NA,610,383,Gobierno de Aragón,php,44,134137
+2020-05-28,Zaragoza,Aragón,NA,8,NA,610,1926,183,676,NA,4253,2967,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.260710,50,964693
+2020-05-29,Huesca,Aragón,NA,5,NA,NA,282,40,99,NA,776,447,Gobierno de Aragón,EXCEL,22,220461
+2020-05-29,Teruel,Aragón,NA,4,NA,NA,246,32,85,NA,614,384,Gobierno de Aragón,EXCEL resumen situacion covid19 aragon,44,134137
+2020-05-29,Zaragoza,Aragón,NA,7,NA,574,1928,184,677,NA,4260,3009,Gobierno de Aragón,EXCEL resumen situacion covid19 aragon,50,964693
+2020-05-30,Huesca,Aragón,NA,2,NA,NA,283,40,99,NA,778,451,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.260805,22,220461
+2020-05-30,Teruel,Aragón,NA,0,NA,NA,247,32,85,NA,614,386,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.260805,44,134137
+2020-05-30,Zaragoza,Aragón,NA,7,NA,541,1930,184,677,NA,4267,3049,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.260805,50,964693
+2020-05-31,Huesca,Aragón,NA,2,NA,NA,283,40,99,NA,780,452,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260820,22,220461
+2020-05-31,Teruel,Aragón,NA,1,NA,NA,248,32,85,NA,615,387,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260820,44,134137
+2020-05-31,Zaragoza,Aragón,NA,6,NA,545,1931,184,677,NA,4273,3051,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.260820,50,964693
+2020-06-01,Huesca,Aragón,NA,1,NA,NA,283,40,99,NA,781,453,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.260849,22,220461
+2020-06-01,Teruel,Aragón,NA,2,NA,NA,249,32,85,NA,617,392,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.260849,44,134137
+2020-06-01,Zaragoza,Aragón,NA,3,NA,528,1932,184,677,NA,4276,3071,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.260849,50,964693
+2020-06-02,Huesca,Aragón,NA,1,NA,NA,283,40,99,NA,782,471,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.260913,22,220461
+2020-06-02,Teruel,Aragón,NA,1,NA,NA,249,32,89,NA,618,393,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.260913,44,134137
+2020-06-02,Zaragoza,Aragón,NA,5,NA,508,1934,186,680,NA,4281,3093,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.260913,50,964693
+2020-06-03,Huesca,Aragón,NA,14,NA,NA,286,40,99,NA,796,471,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.261019,22,220461
+2020-06-03,Teruel,Aragón,NA,0,NA,NA,249,32,89,NA,618,393,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.261019,44,134137
+2020-06-03,Zaragoza,Aragón,NA,6,NA,514,1934,186,680,NA,4287,3093,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.261019,50,964693
+2020-06-04,Huesca,Aragón,NA,-1,NA,NA,284,40,99,NA,795,505,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.261079,22,220461
+2020-06-04,Teruel,Aragón,NA,0,NA,NA,250,32,98,NA,618,401,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.261079,44,134137
+2020-06-04,Zaragoza,Aragón,NA,1,NA,NA,1934,188,694,NA,4288,3130,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1020/id.261079,50,964693
+2020-06-05,Huesca,Aragón,NA,10,NA,NA,284,40,NA,NA,805,510,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261144,22,220461
+2020-06-05,Teruel,Aragón,NA,1,NA,NA,250,32,NA,NA,619,402,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261144,44,134137
+2020-06-05,Zaragoza,Aragón,NA,10,NA,NA,1938,188,694,NA,4298,3147,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261144,50,964693
+2020-06-06,Huesca,Aragón,NA,2,NA,NA,286,40,NA,NA,807,511,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261160,22,220461
+2020-06-06,Teruel,Aragón,NA,2,NA,NA,251,32,NA,NA,621,407,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261160,44,134137
+2020-06-06,Zaragoza,Aragón,NA,9,NA,NA,1939,188,694,NA,4307,3165,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261160,50,964693
+2020-06-07,Huesca,Aragón,NA,3,NA,NA,286,40,99,NA,810,512,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.261180,22,220461
+2020-06-07,Teruel,Aragón,NA,0,NA,NA,251,32,101,NA,621,408,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.261180,44,134137
+2020-06-07,Zaragoza,Aragón,NA,8,NA,NA,1940,189,697,NA,4315,3173,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.261180,50,964693
+2020-06-08,Huesca,Aragón,NA,0,NA,197,286,40,99,NA,810,514,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261220,22,220461
+2020-06-08,Teruel,Aragón,NA,0,NA,105,251,32,101,NA,621,415,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261220,44,134137
+2020-06-08,Zaragoza,Aragón,NA,4,NA,430,1942,189,697,NA,4319,3192,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261220,50,964693
+2020-06-09,Huesca,Aragón,NA,3,NA,188,287,40,99,NA,813,526,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1056/id.261279,22,220461
+2020-06-09,Teruel,Aragón,NA,1,NA,96,251,32,102,NA,622,424,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1056/id.261279,44,134137
+2020-06-09,Zaragoza,Aragón,NA,2,NA,400,1946,189,697,NA,4321,3224,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1056/id.261279,50,964693
+2020-06-10,Huesca,Aragón,NA,4,NA,176,287,40,99,NA,817,542,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261386,22,220461
+2020-06-10,Teruel,Aragón,NA,0,NA,90,251,32,102,NA,622,430,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261386,44,134137
+2020-06-10,Zaragoza,Aragón,NA,12,NA,396,1950,189,698,NA,4333,3239,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261386,50,964693
+2020-06-11,Huesca,Aragón,NA,3,NA,168,287,40,99,NA,820,553,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1341/id.261453,22,220461
+2020-06-11,Teruel,Aragón,NA,1,NA,87,251,32,102,NA,623,434,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1341/id.261453,44,134137
+2020-06-11,Zaragoza,Aragón,NA,3,NA,390,1951,189,698,NA,4336,3248,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1341/id.261453,50,964693
+2020-06-12,Huesca,Aragón,NA,1,NA,NA,288,40,NA,NA,821,555,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261501,22,220461
+2020-06-12,Teruel,Aragón,NA,2,NA,NA,251,32,NA,NA,625,439,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261501,44,134137
+2020-06-12,Zaragoza,Aragón,NA,6,NA,NA,1955,189,698,NA,4342,3264,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261501,50,964693
+2020-06-13,Huesca,Aragón,NA,0,NA,NA,288,40,NA,NA,821,564,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261509,22,220461
+2020-06-13,Teruel,Aragón,NA,0,NA,NA,251,32,NA,NA,625,443,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261509,44,134137
+2020-06-13,Zaragoza,Aragón,NA,1,NA,NA,1954,189,698,NA,4343,3266,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261509,50,964693
+2020-06-14,Huesca,Aragón,NA,1,NA,NA,288,40,NA,NA,822,564,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261514,22,220461
+2020-06-14,Teruel,Aragón,NA,0,NA,NA,251,32,NA,NA,625,443,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261514,44,134137
+2020-06-14,Zaragoza,Aragón,NA,1,NA,NA,1954,189,698,NA,4344,3273,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261514,50,964693
+2020-06-15,Huesca,Aragón,NA,0,NA,155,288,40,99,NA,822,568,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.261576,22,220461
+2020-06-15,Teruel,Aragón,NA,1,NA,77,252,32,102,NA,626,447,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.261576,44,134137
+2020-06-15,Zaragoza,Aragón,NA,2,NA,357,1956,189,700,NA,4346,3289,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.261576,50,964693
+2020-06-16,Huesca,Aragón,NA,2,NA,NA,289,40,NA,NA,824,575,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1019/id.261610,22,220461
+2020-06-16,Teruel,Aragón,NA,0,NA,NA,252,32,NA,NA,626,450,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1019/id.261610,44,134137
+2020-06-16,Zaragoza,Aragón,NA,2,NA,NA,1959,189,700,NA,4348,3295,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1019/id.261610,50,964693
+2020-06-17,Huesca,Aragón,NA,1,NA,NA,289,40,NA,NA,825,576,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261685,22,220461
+2020-06-17,Teruel,Aragón,NA,0,NA,NA,252,32,NA,NA,626,455,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261685,44,134137
+2020-06-17,Zaragoza,Aragón,NA,5,NA,NA,1962,189,700,NA,4353,3308,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261685,50,964693
+2020-06-18,Huesca,Aragón,NA,2,NA,145,289,40,99,NA,827,583,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261743,22,220461
+2020-06-18,Teruel,Aragón,NA,2,NA,68,253,32,103,NA,628,457,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261743,44,134137
+2020-06-18,Zaragoza,Aragón,NA,11,NA,328,1967,189,701,NA,4364,3335,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261743,50,964693
+2020-06-19,Huesca,Aragón,NA,18,NA,NA,289,40,NA,NA,845,590,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261827,22,220461
+2020-06-19,Teruel,Aragón,NA,0,NA,NA,253,32,NA,NA,628,460,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261827,44,134137
+2020-06-19,Zaragoza,Aragón,NA,6,NA,NA,1972,189,701,NA,4370,3340,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.261827,50,964693
+2020-06-20,Huesca,Aragón,NA,10,NA,NA,289,40,NA,NA,855,595,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261850,22,220461
+2020-06-20,Teruel,Aragón,NA,2,NA,NA,253,32,NA,NA,630,463,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261850,44,134137
+2020-06-20,Zaragoza,Aragón,NA,7,NA,NA,1974,190,701,NA,4377,3346,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261850,50,964693
+2020-06-21,Huesca,Aragón,NA,12,NA,NA,290,40,NA,NA,867,595,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261870,22,220461
+2020-06-21,Teruel,Aragón,NA,1,NA,NA,253,32,NA,NA,631,466,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261870,44,134137
+2020-06-21,Zaragoza,Aragón,NA,5,NA,NA,1974,190,701,NA,4382,3348,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261870,50,964693
+2020-06-22,Huesca,Aragón,NA,29,NA,194,291,40,101,NA,896,601,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261916,22,220461
+2020-06-22,Teruel,Aragón,NA,0,NA,61,254,32,105,NA,631,465,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261916,44,134137
+2020-06-22,Zaragoza,Aragón,NA,3,NA,328,1975,190,705,NA,4385,3352,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261916,50,964693
+2020-06-23,Huesca,Aragón,NA,45,NA,230,292,40,101,NA,941,610,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261956,22,220461
+2020-06-23,Teruel,Aragón,NA,0,NA,57,254,32,105,NA,630,468,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261956,44,134137
+2020-06-23,Zaragoza,Aragón,NA,2,NA,327,1981,190,705,NA,4387,3355,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.261956,50,964693
+2020-06-24,Huesca,Aragón,NA,23,NA,NA,294,40,NA,NA,964,622,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.262028,22,220461
+2020-06-24,Teruel,Aragón,NA,0,NA,NA,254,32,NA,NA,630,470,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.262028,44,134137
+2020-06-24,Zaragoza,Aragón,NA,26,NA,NA,1982,190,705,NA,4413,3363,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.262028,50,964693
+2020-06-25,Huesca,Aragón,NA,40,NA,273,295,40,101,1004,1004,630,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.262079,22,220461
+2020-06-25,Teruel,Aragón,NA,2,NA,56,254,32,105,632,632,471,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.262079,44,134137
+2020-06-25,Zaragoza,Aragón,NA,11,NA,328,1984,190,706,4412,4424,3378,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.262079,50,964693
+2020-06-26,Huesca,Aragón,49,49,NA,NA,299,40,NA,1053,1053,635,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.262135,22,220461
+2020-06-26,Teruel,Aragón,1,1,NA,NA,254,32,NA,633,633,473,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.262135,44,134137
+2020-06-26,Zaragoza,Aragón,37,25,NA,351,1986,190,706,4449,4435,3392,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.262135,50,964693
+2020-06-27,Huesca,Aragón,17,17,NA,NA,299,40,NA,1070,1070,640,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.262162,22,220461
+2020-06-27,Teruel,Aragón,1,1,NA,NA,254,32,NA,634,634,474,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.262162,44,134137
+2020-06-27,Zaragoza,Aragón,13,13,NA,358,1988,190,706,4462,4448,3398,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.262162,50,964693
+2020-06-28,Huesca,Aragón,22,22,NA,NA,300,40,NA,1092,1092,640,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.262175,22,220461
+2020-06-28,Teruel,Aragón,0,0,NA,NA,254,32,NA,634,634,474,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.262175,44,134137
+2020-06-28,Zaragoza,Aragón,26,26,NA,384,1989,190,706,4488,4474,3398,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.262175,50,964693
+2020-06-29,Huesca,Aragón,11,11,NA,NA,303,40,NA,1103,1103,642,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.262247,22,220461
+2020-06-29,Teruel,Aragón,0,0,NA,NA,255,32,NA,634,634,476,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.262247,44,134137
+2020-06-29,Zaragoza,Aragón,4,4,NA,378,1991,190,706,4492,4478,3408,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.262247,50,964693
+2020-06-30,Huesca,Aragón,9,9,NA,NA,305,40,NA,1112,1112,649,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.262322,22,220461
+2020-06-30,Teruel,Aragón,0,0,NA,NA,256,32,NA,634,634,475,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.262322,44,134137
+2020-06-30,Zaragoza,Aragón,3,3,NA,376,1993,190,706,4495,4481,3413,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1384/id.262322,50,964693
+2020-07-01,Huesca,Aragón,13,3,NA,NA,305,40,NA,1125,1125,653,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.262406,22,220461
+2020-07-01,Teruel,Aragón,1,1,NA,NA,257,32,NA,635,635,476,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.262406,44,134137
+2020-07-01,Zaragoza,Aragón,8,8,NA,NA,1995,190,NA,4503,4489,3426,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/id.262406,50,964693
+2020-07-02,Huesca,Aragón,4,18,NA,368,302,40,102,1129,1129,659,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_06-07-2020.xlsx/ http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.262477,22,220461
+2020-07-02,Teruel,Aragón,3,2,NA,53,258,32,107,638,638,478,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_06-07-2020.xlsx/ http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.262477,44,134137
+2020-07-02,Zaragoza,Aragón,12,10,NA,365,2000,190,708,4515,4501,3442,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_06-07-2020.xlsx/ http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.262477,50,964693
+2020-07-03,Huesca,Aragón,NA,19,NA,NA,NA,NA,NA,NA,1148,NA,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.262549,22,220461
+2020-07-03,Teruel,Aragón,NA,1,NA,NA,NA,NA,NA,NA,639,NA,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.262549,44,134137
+2020-07-03,Zaragoza,Aragón,NA,11,NA,NA,NA,NA,NA,NA,4512,NA,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.262549,50,964693
+2020-07-05,Huesca,Aragón,NA,31,NA,392,307,42,105,1160,1160,663,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_07-07-2020.xlsx/,22,220461
+2020-07-05,Teruel,Aragón,NA,4,NA,55,258,32,107,642,642,480,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_07-07-2020.xlsx/,44,134137
+2020-07-05,Zaragoza,Aragón,NA,34,NA,372,2002,190,708,4549,4535,3469,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_07-07-2020.xlsx/,50,964693
+2020-07-06,Huesca,Aragón,13,13,NA,400,308,42,105,1173,1173,668,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_08-07-2020.xlsx/,22,220461
+2020-07-06,Teruel,Aragón,4,4,NA,58,258,32,107,646,646,481,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_08-07-2020.xlsx/,44,134137
+2020-07-06,Zaragoza,Aragón,9,9,NA,373,2003,191,708,4558,4544,3477,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_08-07-2020.xlsx/,50,964693
+2020-07-07,Huesca,Aragón,34,34,NA,415,310,42,106,1207,1207,686,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_09-07-2020.xlsx/,22,220461
+2020-07-07,Teruel,Aragón,4,4,NA,59,258,32,107,650,650,484,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_09-07-2020.xlsx/,44,134137
+2020-07-07,Zaragoza,Aragón,17,17,NA,382,2005,191,708,4575,4561,3485,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_09-07-2020.xlsx/,50,964693
+2020-07-08,Huesca,Aragón,11,11,NA,415,311,42,106,1218,1218,697,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_10-07-2020.xlsx/,22,220461
+2020-07-08,Teruel,Aragón,4,4,NA,59,258,32,107,654,654,488,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_10-07-2020.xlsx/,44,134137
+2020-07-08,Zaragoza,Aragón,42,42,NA,414,2010,192,708,4617,4603,3495,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_10-07-2020.xlsx/,50,964693
+2020-07-09,Huesca,Aragón,25,25,NA,430,311,42,107,1243,1243,706,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_13-07-2020.xlsx/,22,220461
+2020-07-09,Teruel,Aragón,2,2,NA,58,258,32,107,656,656,491,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_13-07-2020.xlsx/,44,134137
+2020-07-09,Zaragoza,Aragón,43,43,NA,451,2012,192,708,4660,4646,3501,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_13-07-2020.xlsx/,50,964693
+2020-07-10,Huesca,Aragón,NA,9,NA,NA,NA,NA,NA,NA,1252,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.262977,22,220461
+2020-07-10,Teruel,Aragón,NA,3,NA,NA,NA,NA,NA,NA,659,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.262977,44,134137
+2020-07-10,Zaragoza,Aragón,NA,50,NA,NA,NA,NA,NA,NA,4696,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.262977,50,964693
+2020-07-11,Huesca,Aragón,NA,46,NA,NA,NA,NA,NA,NA,1298,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.262977,22,220461
+2020-07-11,Teruel,Aragón,NA,1,NA,NA,NA,NA,NA,NA,660,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.262977,44,134137
+2020-07-11,Zaragoza,Aragón,NA,81,NA,NA,NA,NA,NA,NA,4777,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.262977,50,964693
+2020-07-12,Huesca,Aragón,NA,13,NA,398,318,43,107,1311,1311,806,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_14-07-2020.xlsx/2cd567fc-8134-ec64-d185-12fd614da787?t=1594729672438,22,220461
+2020-07-12,Teruel,Aragón,NA,1,NA,61,260,32,106,661,661,494,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_14-07-2020.xlsx/2cd567fc-8134-ec64-d185-12fd614da787?t=1594729672438,44,134137
+2020-07-12,Zaragoza,Aragón,NA,15,NA,540,2017,192,709,4786,4772,3523,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_14-07-2020.xlsx/2cd567fc-8134-ec64-d185-12fd614da787?t=1594729672438,50,964693
+2020-07-13,Huesca,Aragón,5,5,NA,381,323,44,107,1316,1316,828,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_15-07-2020.xlsx/06787ba8-8f70-ec7e-6015-698856122879?t=1594814472998,22,220461
+2020-07-13,Teruel,Aragón,2,2,NA,61,262,33,107,663,663,495,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_15-07-2020.xlsx/06787ba8-8f70-ec7e-6015-698856122879?t=1594814472998,44,134137
+2020-07-13,Zaragoza,Aragón,79,76,NA,594,2028,192,709,4865,4851,3548,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_15-07-2020.xlsx/06787ba8-8f70-ec7e-6015-698856122879?t=1594814472998,50,964693
+2020-07-14,Huesca,Aragón,22,33,NA,381,325,44,107,1338,1338,850,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_16-07-2020.xlsx/9006d31f-c7d1-de5a-a9ab-553f6d01a102?t=1594901496368,22,220461
+2020-07-14,Teruel,Aragón,8,7,NA,66,263,33,107,671,671,498,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_16-07-2020.xlsx/9006d31f-c7d1-de5a-a9ab-553f6d01a102?t=1594901496368,44,134137
+2020-07-14,Zaragoza,Aragón,122,126,NA,699,2042,193,709,4987,4973,3565,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_16-07-2020.xlsx/9006d31f-c7d1-de5a-a9ab-553f6d01a102?t=1594901496368,50,964693
+2020-07-15,Huesca,Aragón,NA,90,NA,453,330,44,107,NA,1424,864,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.263264,22,220461
+2020-07-15,Teruel,Aragón,NA,7,NA,72,263,33,107,NA,678,499,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.263264,44,134137
+2020-07-15,Zaragoza,Aragón,NA,175,NA,858,2047,193,709,NA,5153,3586,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.263264,50,964693
+2020-07-16,Huesca,Aragón,NA,72,NA,NA,NA,NA,NA,NA,1496,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.263331,22,220461
+2020-07-16,Teruel,Aragón,NA,23,NA,NA,NA,NA,NA,NA,701,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.263331,44,134137
+2020-07-16,Zaragoza,Aragón,NA,156,NA,NA,NA,NA,709,NA,5309,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1050/id.263331,50,964693
+2020-07-17,Huesca,Aragón,NA,85,NA,NA,NA,NA,NA,NA,1581,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1056/id.263362,22,220461
+2020-07-17,Teruel,Aragón,NA,3,NA,NA,NA,NA,NA,NA,704,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1056/id.263362,44,134137
+2020-07-17,Zaragoza,Aragón,NA,242,NA,NA,NA,NA,709,NA,5551,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1056/id.263362,50,964693
+2020-07-18,Huesca,Aragón,NA,64,NA,NA,NA,NA,NA,NA,1645,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1056/id.263362,22,220461
+2020-07-18,Teruel,Aragón,NA,2,NA,NA,NA,NA,NA,NA,706,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1056/id.263362,44,134137
+2020-07-18,Zaragoza,Aragón,NA,179,NA,NA,NA,NA,709,NA,5730,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1056/id.263362,50,964693
+2020-07-19,Huesca,Aragón,NA,57,NA,692,342,46,107,1700,1700,901,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_21-07-2020.xlsx,22,220461
+2020-07-19,Teruel,Aragón,NA,24,NA,121,264,33,107,729,729,501,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_21-07-2020.xlsx,44,134137
+2020-07-19,Zaragoza,Aragón,NA,241,NA,1621,2098,198,710,5941,5927,3610,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_21-07-2020.xlsx,50,964693
+2020-07-20,Huesca,Aragón,11,11,NA,696,346,46,107,1711,1711,908,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_22-07-2020.xlsx,22,220461
+2020-07-20,Teruel,Aragón,12,12,NA,134,266,33,107,741,741,500,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_22-07-2020.xlsx,44,134137
+2020-07-20,Zaragoza,Aragón,162,162,NA,1772,2115,199,711,6103,6089,3620,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_22-07-2020.xlsx,50,964693
+2020-07-21,Huesca,Aragón,69,69,NA,743,350,46,107,1780,1780,930,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_23-07-2020.xlsx,22,220461
+2020-07-21,Teruel,Aragón,18,18,NA,150,267,33,107,759,759,502,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_23-07-2020.xlsx,44,134137
+2020-07-21,Zaragoza,Aragón,229,229,NA,1998,2133,199,713,6332,6318,3621,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_23-07-2020.xlsx,50,964693
+2020-07-22,Huesca,Aragón,64,64,NA,795,356,47,107,1844,1844,942,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_24-07-2020.xlsx/353054fb-ac68-fdf5-f4a2-f09ce2808de6?t=1595580914386,22,220461
+2020-07-22,Teruel,Aragón,14,14,NA,163,268,33,107,773,773,503,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_24-07-2020.xlsx/353054fb-ac68-fdf5-f4a2-f09ce2808de6?t=1595580914386,44,134137
+2020-07-22,Zaragoza,Aragón,333,333,NA,2322,2156,201,713,6665,6651,3630,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_24-07-2020.xlsx/353054fb-ac68-fdf5-f4a2-f09ce2808de6?t=1595580914386,50,964693
+2020-07-23,Huesca,Aragón,44,45,NA,814,358,47,107,1888,1888,967,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_27-07-2020.xlsx/241739b3-7d81-42d6-09ee-bab182eda796?t=1595850772513,22,220461
+2020-07-23,Teruel,Aragón,34,38,NA,196,274,33,107,807,807,504,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_27-07-2020.xlsx/241739b3-7d81-42d6-09ee-bab182eda796?t=1595850772513,44,134137
+2020-07-23,Zaragoza,Aragón,207,232,NA,2536,2186,204,714,6872,6886,3636,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_27-07-2020.xlsx/241739b3-7d81-42d6-09ee-bab182eda796?t=1595850772513,50,964693
+2020-07-24,Huesca,Aragón,NA,54,NA,NA,NA,NA,NA,NA,1942,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.263691,22,220461
+2020-07-24,Teruel,Aragón,NA,22,NA,NA,NA,NA,NA,NA,829,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.263691,44,134137
+2020-07-24,Zaragoza,Aragón,NA,363,NA,NA,NA,NA,714,NA,7249,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.263691,50,964693
+2020-07-25,Huesca,Aragón,NA,52,NA,NA,NA,NA,NA,NA,1994,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.263691,22,220461
+2020-07-25,Teruel,Aragón,NA,3,NA,NA,NA,NA,NA,NA,832,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.263691,44,134137
+2020-07-25,Zaragoza,Aragón,NA,238,NA,NA,NA,NA,714,NA,7487,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.263691,50,964693
+2020-07-26,Huesca,Aragón,NA,49,NA,942,373,47,107,2040,2040,991,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_28-07-2020.xlsx/9d481e83-9ea7-478a-e040-068611486e59?t=1595940125174,22,220461
+2020-07-26,Teruel,Aragón,NA,41,NA,262,284,33,107,874,874,505,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_28-07-2020.xlsx/9d481e83-9ea7-478a-e040-068611486e59?t=1595940125174,44,134137
+2020-07-26,Zaragoza,Aragón,NA,412,NA,3511,2266,210,718,7883,7869,3654,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_28-07-2020.xlsx/9d481e83-9ea7-478a-e040-068611486e59?t=1595940125174,50,964693
+2020-07-27,Huesca,Aragón,17,18,NA,939,379,48,107,2057,2057,1011,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_29-07-20209.xlsx/b0ca7292-8037-6721-653a-4fa85c843eee?t=1596004882784,22,220461
+2020-07-27,Teruel,Aragón,19,22,NA,281,290,33,107,893,893,505,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_29-07-20209.xlsx/b0ca7292-8037-6721-653a-4fa85c843eee?t=1596004882784,44,134137
+2020-07-27,Zaragoza,Aragón,323,327,NA,3821,2314,211,719,8206,8192,3666,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_29-07-20209.xlsx/b0ca7292-8037-6721-653a-4fa85c843eee?t=1596004882784,50,964693
+2020-07-28,Huesca,Aragón,43,52,NA,965,386,49,107,2100,2100,1028,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_30-07-20209+.xlsx/a01da390-cc91-55a0-f53d-749fb3cfc92e?t=1596112218688,22,220461
+2020-07-28,Teruel,Aragón,90,93,NA,368,302,33,107,983,983,508,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_30-07-20209+.xlsx/a01da390-cc91-55a0-f53d-749fb3cfc92e?t=1596112218688,44,134137
+2020-07-28,Zaragoza,Aragón,290,297,NA,4088,2346,214,721,8496,8482,3687,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_30-07-20209+.xlsx/a01da390-cc91-55a0-f53d-749fb3cfc92e?t=1596112218688,50,964693
+2020-07-29,Huesca,Aragón,101,100,1,1041,387,51,108,2201,2200,1051,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_31-07-20209.xlsx/b2c69242-6ba6-576a-b6a9-dbf2e7ce92c1?t=1596191475324,22,220461
+2020-07-29,Teruel,Aragón,35,35,0,400,306,34,108,1018,1018,510,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_31-07-20209.xlsx/b2c69242-6ba6-576a-b6a9-dbf2e7ce92c1?t=1596191475324,44,134137
+2020-07-29,Zaragoza,Aragón,249,248,1,4291,2388,214,726,8745,8730,3713,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_31-07-20209.xlsx/b2c69242-6ba6-576a-b6a9-dbf2e7ce92c1?t=1596191475324,50,964693
+2020-07-30,Huesca,Aragón,NA,62,NA,NA,NA,NA,NA,NA,2262,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.263961,22,220461
+2020-07-30,Teruel,Aragón,NA,56,NA,NA,NA,NA,NA,NA,1074,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.263961,44,134137
+2020-07-30,Zaragoza,Aragón,NA,394,NA,NA,NA,NA,726,NA,9124,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.263961,50,964693
+2020-07-31,Huesca,Aragón,NA,48,NA,NA,NA,NA,NA,NA,2310,NA,Gobierno de Aragón,https://transparencia.aragon.es/sites/default/files/documents/20200731_casos_confirmados_zona_basica_salud.xlsx,22,220461
+2020-07-31,Teruel,Aragón,NA,23,NA,NA,NA,NA,NA,NA,1097,NA,Gobierno de Aragón,https://transparencia.aragon.es/sites/default/files/documents;https://transparencia.aragon.es/COVID19/20200731_casos_confirmados_zona_basica_salud.xlsx,44,134137
+2020-07-31,Zaragoza,Aragón,NA,376,NA,NA,NA,NA,726,NA,9500,NA,Gobierno de Aragón,https://transparencia.aragon.es/sites/default/files/documents/20200731_casos_confirmados_zona_basica_salud.xlsx;https://transparencia.aragon.es/COVID19,50,964693
+2020-08-01,Huesca,Aragón,NA,74,NA,NA,NA,NA,NA,NA,2384,NA,Heraldo de Aragón,https://www.heraldo.es/noticias/aragon/2020/08/02/aragon-contagios-coronavirus-zaragoza-1389106.html,22,220461
+2020-08-01,Teruel,Aragón,NA,11,NA,NA,NA,NA,NA,NA,1108,NA,Heraldo de Aragón,https://www.heraldo.es/noticias/aragon/2020/08/02/aragon-contagios-coronavirus-zaragoza-1389106.html,44,134137
+2020-08-01,Zaragoza,Aragón,NA,535,NA,NA,NA,NA,726,NA,10657,NA,Heraldo de Aragón,https://www.heraldo.es/noticias/aragon/2020/08/02/aragon-contagios-coronavirus-zaragoza-1389106.html,50,964693
+2020-08-02,Huesca,Aragón,NA,18,NA,1191,405,51,111,2397,2396,1095,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_04-08-2020.xlsx/,22,220461
+2020-08-02,Teruel,Aragón,NA,19,NA,497,324,35,111,1119,1119,511,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_04-08-2020.xlsx/,44,134137
+2020-08-02,Zaragoza,Aragón,NA,551,NA,6683,2565,230,732,11230,11215,3815,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_04-08-2020.xlsx/,50,964693
+2020-08-03,Huesca,Aragón,30,31,NA,1134,407,51,112,2427,2426,1181,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_05-08-2020.xlsx/7fe329fc-f236-171d-efce-05aec6ae0cd5?t=1596614064919,22,220461
+2020-08-03,Teruel,Aragón,10,12,NA,505,328,35,111,1129,1129,513,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_05-08-2020.xlsx/7fe329fc-f236-171d-efce-05aec6ae0cd5?t=1596614064919,44,134137
+2020-08-03,Zaragoza,Aragón,341,345,NA,6945,2609,230,738,11571,11556,3888,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_05-08-2020.xlsx/7fe329fc-f236-171d-efce-05aec6ae0cd5?t=1596614064919,50,964693
+2020-08-04,Huesca,Aragón,119,139,NA,1180,412,52,115,2546,2545,1251,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_06-08-2020.xlsx/,22,220461
+2020-08-04,Teruel,Aragón,60,60,NA,551,329,35,111,1189,1189,527,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_06-08-2020.xlsx/,44,134137
+2020-08-04,Zaragoza,Aragón,449,455,NA,7250,2649,235,745,12020,12005,4025,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_06-08-2020.xlsx/,50,964693
+2020-08-05,Huesca,Aragón,59,47,NA,1173,418,52,115,2605,2606,1318,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264149,22,220461
+2020-08-05,Teruel,Aragón,18,18,NA,547,333,36,114,1207,1207,546,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264149,44,134137
+2020-08-06,Teruel,Aragón,71,73,0,615,343,36,115,1278,1278,548,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_10-08-2020.xlsx/f864613f-9f4e-8d9d-ab02-24f14e5527b7?t=1597066677451,44,134137
+2020-08-06,Zaragoza,Aragón,893,564,0,7853,2739,239,752,12913,12898,4308,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_10-08-2020.xlsx/f864613f-9f4e-8d9d-ab02-24f14e5527b7?t=1597066677451,50,964693
+2020-08-07,Huesca,Aragón,NA,58,NA,NA,NA,NA,NA,NA,2702,NA,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264191,22,220461
+2020-08-07,Teruel,Aragón,NA,50,NA,NA,NA,NA,NA,NA,1328,NA,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264191,44,134137
+2020-08-07,Zaragoza,Aragón,NA,493,NA,NA,NA,NA,752,NA,13391,NA,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264191,50,964693
+2020-08-08,Huesca,Aragón,NA,41,NA,NA,NA,NA,NA,NA,2743,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264201,22,220461
+2020-08-08,Teruel,Aragón,NA,12,NA,NA,NA,NA,NA,NA,1340,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264201,44,134137
+2020-08-08,Zaragoza,Aragón,NA,567,NA,NA,NA,NA,752,NA,13958,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264201,50,964693
+2020-08-09,Huesca,Aragón,NA,32,NA,1162,438,54,116,2784,2782,1506,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_11-08-2020.xlsx/ddd2e0b2-15fc-29fe-908a-49eb0ed43ef0?t=1597152641930,22,220461
+2020-08-09,Teruel,Aragón,NA,11,NA,660,352,37,120,1352,1352,572,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_11-08-2020.xlsx/ddd2e0b2-15fc-29fe-908a-49eb0ed43ef0?t=1597152641930,44,134137
+2020-08-09,Zaragoza,Aragón,NA,305,NA,8982,2849,248,779,14325,14310,4564,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_11-08-2020.xlsx/ddd2e0b2-15fc-29fe-908a-49eb0ed43ef0?t=1597152641930,50,964693
+2020-08-10,Huesca,Aragón,34,33,NA,1122,443,54,116,2818,2816,1580,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_12-08-2020+.xlsx/062b9004-4f53-9488-c153-9d53d6b9cdb7?t=1597231812155,22,220461
+2020-08-10,Teruel,Aragón,24,21,NA,679,354,37,120,1376,1376,577,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_12-08-2020+.xlsx/062b9004-4f53-9488-c153-9d53d6b9cdb7?t=1597231812155,44,134137
+2020-08-10,Zaragoza,Aragón,406,407,NA,9182,2885,252,789,14731,14716,4760,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_12-08-2020+.xlsx/062b9004-4f53-9488-c153-9d53d6b9cdb7?t=1597231812155,50,964693
+2020-08-11,Huesca,Aragón,78,80,NA,1163,446,55,119,2896,2894,1614,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_13-08-2020.xlsx/baa49dea-a806-9735-edf3-146b6634b06e?t=1597318805818,22,220461
+2020-08-11,Teruel,Aragón,32,35,NA,694,357,38,123,1408,1408,591,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_13-08-2020.xlsx/baa49dea-a806-9735-edf3-146b6634b06e?t=1597318805818,44,134137
+2020-08-11,Zaragoza,Aragón,200,190,NA,9150,2931,255,796,14931,14916,4985,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_13-08-2020.xlsx/baa49dea-a806-9735-edf3-146b6634b06e?t=1597318805818,50,964693
+2020-08-12,Huesca,Aragón,51,60,1,1170,450,55,120,2947,2944,1654,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_14-08-2020.xlsx/9e37db04-99d4-d494-d7c0-7c6b2d83fd41?t=1597409530544,22,220461
+2020-08-12,Teruel,Aragón,12,13,0,683,361,38,123,1420,1420,614,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_14-08-2020.xlsx/9e37db04-99d4-d494-d7c0-7c6b2d83fd41?t=1597409530544,44,134137
+2020-08-12,Zaragoza,Aragón,367,360,2,9235,2981,258,809,15298,15281,5237,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_14-08-2020.xlsx/9e37db04-99d4-d494-d7c0-7c6b2d83fd41?t=1597409530544,50,964693
+2020-08-13,Huesca,Aragón,16,16,0,1142,451,55,122,2963,2960,1699,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_17-08-2020.xlsx/f4665565-4310-c172-ecd6-2504ed89038e?t=1597672012225,22,220461
+2020-08-13,Teruel,Aragón,16,16,0,682,366,38,123,1436,1436,631,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_17-08-2020.xlsx/f4665565-4310-c172-ecd6-2504ed89038e?t=1597672012225,44,134137
+2020-08-13,Zaragoza,Aragón,486,485,1,9544,3024,258,818,15784,15766,5422,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_17-08-2020.xlsx/f4665565-4310-c172-ecd6-2504ed89038e?t=1597672012225,50,964693
+2020-08-14,Huesca,Aragón,NA,52,NA,NA,NA,NA,NA,NA,3012,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1341/id.264411,22,220461
+2020-08-14,Teruel,Aragón,NA,23,NA,NA,NA,NA,NA,NA,1459,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1341/id.264411,44,134137
+2020-08-14,Zaragoza,Aragón,NA,541,NA,NA,NA,NA,NA,NA,16307,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/area.1341/id.264411,50,964693
+2020-08-15,Huesca,Aragón,NA,46,NA,NA,NA,NA,NA,NA,3058,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264425,22,220461
+2020-08-15,Teruel,Aragón,NA,5,NA,NA,NA,NA,NA,NA,1464,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264425,44,134137
+2020-08-15,Zaragoza,Aragón,NA,428,NA,NA,NA,NA,NA,NA,16735,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264425,50,964693
+2020-08-16,Huesca,Aragón,NA,26,NA,NA,NA,NA,NA,NA,3084,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264451,22,220461
+2020-08-16,Teruel,Aragón,NA,23,NA,NA,NA,NA,NA,NA,1487,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264451,44,134137
+2020-08-16,Zaragoza,Aragón,NA,338,NA,NA,NA,NA,NA,NA,17073,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264451,50,964693
+2020-08-17,Huesca,Aragón,NA,43,0,1185,466,56,125,3132,3129,1822,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_19-08-2020.xlsx/baa77c84-fe25-4168-c68d-24282ac06365?t=1597825362372,22,220461
+2020-08-17,Teruel,Aragón,NA,43,0,686,370,38,123,1523,1523,714,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_19-08-2020.xlsx/baa77c84-fe25-4168-c68d-24282ac06365?t=1597825362372,44,134137
+2020-08-17,Zaragoza,Aragón,NA,307,1,10275,3145,275,840,17418,17399,6303,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_19-08-2020.xlsx/baa77c84-fe25-4168-c68d-24282ac06365?t=1597825362372,50,964693
+2020-08-18,Huesca,Aragón,47,49,1,1187,470,56,127,3179,3175,1865,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_20-08-2020.xlsx/0b085282-63a5-06dc-a059-0f7ea9b7c32e?t=1597927418067,22,220461
+2020-08-18,Teruel,Aragón,19,19,0,696,375,38,123,1542,1542,723,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_20-08-2020.xlsx/0b085282-63a5-06dc-a059-0f7ea9b7c32e?t=1597927418067,44,134137
+2020-08-18,Zaragoza,Aragón,400,394,0,10204,3182,278,853,17818,17799,6761,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_20-08-2020.xlsx/0b085282-63a5-06dc-a059-0f7ea9b7c32e?t=1597927418067,50,964693
+2020-08-19,Huesca,Aragón,181,58,NA,1315,476,56,130,3360,3356,1915,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_21-08-2020+%281%29.xlsx/500fa5d5-65fb-4488-3dc8-2bd2fe04562a?t=1598011577415,22,220461
+2020-08-19,Teruel,Aragón,55,24,NA,734,378,38,123,1597,1597,740,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_21-08-2020+%281%29.xlsx/500fa5d5-65fb-4488-3dc8-2bd2fe04562a?t=1598011577415,44,134137
+2020-08-19,Zaragoza,Aragón,484,262,NA,9886,3220,281,863,18302,18282,7553,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_21-08-2020+%281%29.xlsx/500fa5d5-65fb-4488-3dc8-2bd2fe04562a?t=1598011577415,50,964693
+2020-08-20,Huesca,Aragón,NA,48,NA,NA,NA,NA,NA,NA,3404,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.264571,22,220461
+2020-08-20,Teruel,Aragón,NA,16,NA,NA,NA,NA,NA,NA,1613,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.264571,44,134137
+2020-08-20,Zaragoza,Aragón,NA,280,NA,NA,NA,NA,NA,NA,18562,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.264571,50,964693
+2020-08-21,Huesca,Aragón,NA,43,NA,NA,NA,NA,NA,NA,3447,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.264585,22,220461
+2020-08-21,Teruel,Aragón,NA,12,NA,NA,NA,NA,NA,NA,1625,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.264585,44,134137
+2020-08-21,Zaragoza,Aragón,NA,217,NA,NA,NA,NA,NA,NA,18779,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.264585,50,964693
+2020-08-22,Huesca,Aragón,NA,74,NA,NA,NA,NA,NA,NA,3521,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.264590,22,220461
+2020-08-22,Teruel,Aragón,NA,4,NA,NA,NA,NA,NA,NA,1629,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.264590,44,134137
+2020-08-22,Zaragoza,Aragón,NA,412,NA,NA,NA,NA,NA,NA,19191,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.264590,50,964693
+2020-08-23,Huesca,Aragón,NA,21,NA,1319,497,59,135,3546,3542,2092,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_25-08-2020.xlsx/50f34253-1a54-e269-051c-f0ed9c05a007?t=1598359576581,22,220461
+2020-08-23,Teruel,Aragón,NA,10,NA,680,383,38,126,1640,1640,834,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_25-08-2020.xlsx/50f34253-1a54-e269-051c-f0ed9c05a007?t=1598359576581,44,134137
+2020-08-23,Zaragoza,Aragón,NA,191,NA,9627,3337,287,895,19396,19376,8874,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_25-08-2020.xlsx/50f34253-1a54-e269-051c-f0ed9c05a007?t=1598359576581,50,964693
+2020-08-24,Huesca,Aragón,63,62,NA,1305,501,61,137,3609,3605,2167,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_26-08-2020.xlsx/fff5096b-a93b-3075-2e74-b725ba51f94a?t=1598446533605,22,220461
+2020-08-24,Teruel,Aragón,7,6,NA,664,388,38,129,1647,1647,854,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_26-08-2020.xlsx/fff5096b-a93b-3075-2e74-b725ba51f94a?t=1598446533605,44,134137
+2020-08-24,Zaragoza,Aragón,90,93,NA,9261,3369,290,901,19486,19466,9324,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_26-08-2020.xlsx/fff5096b-a93b-3075-2e74-b725ba51f94a?t=1598446533605,50,964693
+2020-08-25,Huesca,Aragón,45,43,NA,1313,504,61,137,3654,3650,2204,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_27-08-2020.xlsx/175b0c65-6b36-83cd-1f84-03db46d246de?t=1598543199450,22,220461
+2020-08-25,Teruel,Aragón,16,14,NA,634,391,38,129,1663,1663,900,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_27-08-2020.xlsx/175b0c65-6b36-83cd-1f84-03db46d246de?t=1598543199450,44,134137
+2020-08-25,Zaragoza,Aragón,268,265,NA,8874,3403,296,907,19754,19734,9973,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_27-08-2020.xlsx/175b0c65-6b36-83cd-1f84-03db46d246de?t=1598543199450,50,964693
+2020-08-26,Huesca,Aragón,38,37,NA,1290,507,61,137,3692,3688,2265,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_28-08-2020.xlsx/4046b36c-b09d-b098-74f1-484fce7b1703?t=1598618417704 http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264696,22,220461
+2020-08-26,Teruel,Aragón,17,17,NA,618,396,38,129,1680,1680,933,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_28-08-2020.xlsx/4046b36c-b09d-b098-74f1-484fce7b1703?t=1598618417704 http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264696,44,134137
+2020-08-26,Zaragoza,Aragón,240,234,NA,8696,3430,299,912,19994,19974,10386,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_28-08-2020.xlsx/4046b36c-b09d-b098-74f1-484fce7b1703?t=1598618417704 http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264696,50,964693
+2020-08-27,Huesca,Aragón,NA,34,NA,NA,NA,NA,NA,NA,3722,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264742,22,220461
+2020-08-27,Teruel,Aragón,NA,12,NA,NA,NA,NA,NA,NA,1692,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264742,44,134137
+2020-08-27,Zaragoza,Aragón,NA,145,NA,NA,NA,NA,NA,NA,20119,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.264742,50,964693
+2020-08-28,Huesca,Aragón,NA,53,NA,NA,NA,NA,NA,NA,3775,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200828,22,220461
+2020-08-28,Teruel,Aragón,NA,21,NA,NA,NA,NA,NA,NA,1713,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200828,44,134137
+2020-08-28,Zaragoza,Aragón,NA,257,NA,NA,NA,NA,NA,NA,20376,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200828,50,964693
+2020-08-29,Huesca,Aragón,NA,70,NA,NA,NA,NA,NA,NA,3845,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200829,22,220461
+2020-08-29,Teruel,Aragón,NA,12,NA,NA,NA,NA,NA,NA,1725,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200829,44,134137
+2020-08-29,Zaragoza,Aragón,NA,195,NA,NA,NA,NA,NA,NA,20571,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200829,50,964693
+2020-08-30,Huesca,Aragón,NA,21,NA,1258,529,62,139,3840,3836,2443,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_01-09-2020+.xlsx/09013fb1-02c2-73b9-141f-d933a1f958c9?t=1598966703843,22,220461
+2020-08-30,Teruel,Aragón,NA,9,NA,600,403,39,129,1730,1730,1001,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_01-09-2020+.xlsx/09013fb1-02c2-73b9-141f-d933a1f958c9?t=1598966703843,44,134137
+2020-08-30,Zaragoza,Aragón,NA,164,NA,7767,3548,307,927,20755,20735,12061,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_01-09-2020+.xlsx/09013fb1-02c2-73b9-141f-d933a1f958c9?t=1598966703843,50,964693
+2020-08-31,Huesca,Aragón,22,17,NA,1241,534,62,139,3862,3858,2482,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_02-09-2020_1.xlsx/77482cc6-b32c-13f5-8e4d-9b854e82098b?t=1599054899726,22,220461
+2020-08-31,Teruel,Aragón,34,35,NA,602,407,39,129,1764,1764,1033,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_02-09-2020_1.xlsx/77482cc6-b32c-13f5-8e4d-9b854e82098b?t=1599054899726,44,134137
+2020-08-31,Zaragoza,Aragón,206,211,NA,7405,3570,309,932,20961,20941,12624,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_02-09-2020_1.xlsx/77482cc6-b32c-13f5-8e4d-9b854e82098b?t=1599054899726,50,964693
+2020-09-01,Huesca,Aragón,22,22,NA,1225,537,62,141,3884,3880,2518,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_03-09-2020.xlsx/b9d0f38a-40cb-5987-244a-1502f47bda25?t=1599137873532,22,220461
+2020-09-01,Teruel,Aragón,22,22,NA,608,411,40,129,1786,1786,1049,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_03-09-2020.xlsx/b9d0f38a-40cb-5987-244a-1502f47bda25?t=1599137873532,44,134137
+2020-09-01,Zaragoza,Aragón,179,179,NA,7031,3592,312,944,21140,21120,13165,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_03-09-2020.xlsx/b9d0f38a-40cb-5987-244a-1502f47bda25?t=1599137873532,50,964693
+2020-09-02,Huesca,Aragón,55,55,NA,1231,542,63,141,3939,3935,2567,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_04-09-2020.xlsx/7108e95f-3ea7-9cc0-4f7c-3a3ccfa9ef91?t=1599225884828 http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.264946,22,220461
+2020-09-02,Teruel,Aragón,22,21,NA,616,415,40,129,1808,1808,1063,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_04-09-2020.xlsx/7108e95f-3ea7-9cc0-4f7c-3a3ccfa9ef91?t=1599225884828 http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.264946,44,134137
+2020-09-02,Zaragoza,Aragón,166,161,NA,6916,3619,314,949,21306,21286,13441,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_04-09-2020.xlsx/7108e95f-3ea7-9cc0-4f7c-3a3ccfa9ef91?t=1599225884828 http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.264946,50,964693
+2020-09-03,Huesca,Aragón,19,21,NA,1192,544,63,141,3958,3954,2625,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_07-09-2020.xlsx/d90ae0e8-0aee-9389-d936-ce9de84462c6?t=1599491236966,22,220461
+2020-09-03,Teruel,Aragón,47,47,NA,623,420,40,131,1855,1855,1101,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_07-09-2020.xlsx/d90ae0e8-0aee-9389-d936-ce9de84462c6?t=1599491236966,44,134137
+2020-09-03,Zaragoza,Aragón,284,271,NA,6780,3648,317,957,21590,21570,13853,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_07-09-2020.xlsx/d90ae0e8-0aee-9389-d936-ce9de84462c6?t=1599491236966,50,964693
+2020-09-04,Huesca,Aragón,NA,43,NA,NA,NA,NA,NA,NA,3997,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200904,22,220461
+2020-09-04,Teruel,Aragón,NA,26,NA,NA,NA,NA,NA,NA,1881,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200904,44,134137
+2020-09-04,Zaragoza,Aragón,NA,178,NA,NA,NA,NA,NA,NA,21748,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200904,50,964693
+2020-09-05,Huesca,Aragón,NA,46,NA,NA,NA,NA,NA,NA,4043,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200905,22,220461
+2020-09-05,Teruel,Aragón,NA,15,NA,NA,NA,NA,NA,NA,1896,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200905,44,134137
+2020-09-05,Zaragoza,Aragón,NA,358,NA,NA,NA,NA,NA,NA,22106,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200905,50,964693
+2020-09-06,Huesca,Aragón,NA,4,NA,1213,553,63,143,4053,4049,2697,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_08-09-2020.xlsx/4e0f6fc7-6f21-e06b-6ad9-55da8e97ba37?t=1599573482473,22,220461
+2020-09-06,Teruel,Aragón,NA,24,NA,652,423,40,131,1916,1916,1133,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_08-09-2020.xlsx/4e0f6fc7-6f21-e06b-6ad9-55da8e97ba37?t=1599573482473,44,134137
+2020-09-06,Zaragoza,Aragón,NA,210,NA,6926,3736,321,963,22343,22323,14454,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_08-09-2020.xlsx/4e0f6fc7-6f21-e06b-6ad9-55da8e97ba37?t=1599573482473,50,964693
+2020-09-07,Huesca,Aragón,33,29,NA,1183,556,63,144,4086,4082,2759,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_09-09-2020.xlsx/7237f311-bba6-6ae4-78bb-fda6b6daa71a?t=1599662648163,22,220461
+2020-09-07,Teruel,Aragón,31,30,NA,659,432,40,131,1947,1947,1157,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_09-09-2020.xlsx/7237f311-bba6-6ae4-78bb-fda6b6daa71a?t=1599662648163,44,134137
+2020-09-07,Zaragoza,Aragón,157,151,NA,6713,3766,323,970,22500,22480,14817,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_09-09-2020.xlsx/7237f311-bba6-6ae4-78bb-fda6b6daa71a?t=1599662648163,50,964693
+2020-09-08,Huesca,Aragón,90,87,NA,1235,561,63,146,4176,4172,2795,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_10-09-2020.xlsx/30e35d7b-1e5a-002f-665b-52d47a81bc62?t=1599749406270,22,220461
+2020-09-08,Teruel,Aragón,47,47,NA,678,445,41,131,1994,1994,1185,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_10-09-2020.xlsx/30e35d7b-1e5a-002f-665b-52d47a81bc62?t=1599749406270,44,134137
+2020-09-08,Zaragoza,Aragón,155,154,NA,6439,3795,323,980,22655,22635,15236,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_10-09-2020.xlsx/30e35d7b-1e5a-002f-665b-52d47a81bc62?t=1599749406270,50,964693
+2020-09-09,Huesca,Aragón,43,44,NA,1230,564,63,147,4219,4215,2842,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_11-09-2020.xlsx/b16777d4-969b-14fb-3b58-7d92aa75c3e3?t=1599828992499,22,220461
+2020-09-09,Teruel,Aragón,40,40,NA,686,451,42,133,2034,2034,1215,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_11-09-2020.xlsx/b16777d4-969b-14fb-3b58-7d92aa75c3e3?t=1599828992499,44,134137
+2020-09-09,Zaragoza,Aragón,288,282,NA,6481,3831,327,984,22943,22923,15478,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_11-09-2020.xlsx/b16777d4-969b-14fb-3b58-7d92aa75c3e3?t=1599828992499,50,964693
+2020-09-10,Huesca,Aragón,34,35,NA,1182,566,63,151,4253,4249,2920,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_14-09-2020.xlsx/768efa66-6023-880a-eea8-cd183616b382?t=1600091898187,22,220461
+2020-09-10,Teruel,Aragón,41,40,NA,699,455,42,133,2075,2075,1243,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_14-09-2020.xlsx/768efa66-6023-880a-eea8-cd183616b382?t=1600091898187,44,134137
+2020-09-10,Zaragoza,Aragón,299,300,NA,6316,3862,328,992,23242,23222,15934,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_14-09-2020.xlsx/768efa66-6023-880a-eea8-cd183616b382?t=1600091898187,50,964693
+2020-09-11,Huesca,Aragón,NA,60,NA,NA,NA,NA,NA,NA,4309,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200911,22,220461
+2020-09-11,Teruel,Aragón,NA,49,NA,NA,NA,NA,NA,NA,2124,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200911,44,134137
+2020-09-11,Zaragoza,Aragón,NA,367,NA,NA,NA,NA,NA,NA,23589,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200911,50,964693
+2020-09-12,Huesca,Aragón,NA,30,NA,NA,NA,NA,NA,NA,4339,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200912,22,220461
+2020-09-12,Teruel,Aragón,NA,30,NA,NA,NA,NA,NA,NA,2154,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200912,44,134137
+2020-09-12,Zaragoza,Aragón,NA,291,NA,NA,NA,NA,NA,NA,23880,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200912,50,964693
+2020-09-13,Huesca,Aragón,NA,19,NA,1245,577,65,151,4368,4364,2972,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_15-09-2020.xlsx/451c1352-6f36-b392-5e64-ed112c54181d?t=1600179002161,22,220461
+2020-09-13,Teruel,Aragón,NA,46,NA,780,470,43,135,2200,2200,1285,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_15-09-2020.xlsx/451c1352-6f36-b392-5e64-ed112c54181d?t=1600179002161,44,134137
+2020-09-13,Zaragoza,Aragón,NA,349,NA,6828,3944,333,1009,24270,24250,16433,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_15-09-2020.xlsx/451c1352-6f36-b392-5e64-ed112c54181d?t=1600179002161,50,964693
+2020-09-14,Huesca,Aragón,30,23,NA,1222,583,65,153,4398,4394,3023,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_16-09-2020.xlsx/a313ddc2-2539-aa43-babf-680a912724bb?t=1600269332528,22,220461
+2020-09-14,Teruel,Aragón,43,45,NA,801,477,44,138,2243,2243,1304,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_16-09-2020.xlsx/a313ddc2-2539-aa43-babf-680a912724bb?t=1600269332528,44,134137
+2020-09-14,Zaragoza,Aragón,155,153,NA,6668,3978,337,1013,24425,24405,16744,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_16-09-2020.xlsx/a313ddc2-2539-aa43-babf-680a912724bb?t=1600269332528,50,964693
+2020-09-15,Huesca,Aragón,44,39,NA,1221,585,65,154,4442,4438,3067,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_17-09-2020.xlsx/,22,220461
+2020-09-15,Teruel,Aragón,42,42,NA,818,484,44,138,2285,2285,1329,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_17-09-2020.xlsx/,44,134137
+2020-09-15,Zaragoza,Aragón,214,210,NA,6563,4017,341,1020,24639,24619,17056,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_17-09-2020.xlsx/,50,964693
+2020-09-16,Huesca,Aragón,45,44,NA,1180,590,65,154,4487,4483,3153,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_18-09-2020.xlsx/0c08c1bb-5fec-e8c9-bc7a-e8b9832a3d03?t=1600431370856,22,220461
+2020-09-16,Teruel,Aragón,52,52,NA,848,495,44,138,2337,2337,1351,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_18-09-2020.xlsx/0c08c1bb-5fec-e8c9-bc7a-e8b9832a3d03?t=1600431370856,44,134137
+2020-09-16,Zaragoza,Aragón,228,224,NA,6550,4042,342,1027,24867,24847,17290,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_18-09-2020.xlsx/0c08c1bb-5fec-e8c9-bc7a-e8b9832a3d03?t=1600431370856,50,964693
+2020-09-17,Huesca,Aragón,42,42,NA,1174,596,66,155,4529,4525,3200,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_21-09-2020.xlsx/5b7bdc67-4826-beee-28e9-340589bc88ae?t=1600694377566,22,220461
+2020-09-17,Teruel,Aragón,58,58,NA,892,503,44,139,2395,2395,1364,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_21-09-2020.xlsx/5b7bdc67-4826-beee-28e9-340589bc88ae?t=1600694377566,44,134137
+2020-09-17,Zaragoza,Aragón,328,327,NA,6657,4073,343,1032,25195,25175,17506,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_21-09-2020.xlsx/5b7bdc67-4826-beee-28e9-340589bc88ae?t=1600694377566,50,964693
+2020-09-18,Huesca,Aragón,NA,46,NA,NA,NA,NA,NA,NA,4571,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200918,22,220461
+2020-09-18,Teruel,Aragón,NA,75,NA,NA,NA,NA,NA,NA,2470,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200918,44,134137
+2020-09-18,Zaragoza,Aragón,NA,331,NA,NA,NA,NA,NA,NA,25506,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200918,50,964693
+2020-09-19,Huesca,Aragón,NA,41,NA,NA,NA,NA,NA,NA,4612,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200919,22,220461
+2020-09-19,Teruel,Aragón,NA,72,NA,NA,NA,NA,NA,NA,2542,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200919,44,134137
+2020-09-19,Zaragoza,Aragón,NA,318,NA,NA,NA,NA,NA,NA,25824,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200919,50,964693
+2020-09-20,Huesca,Aragón,NA,10,1,1185,604,66,156,4625,4620,3284,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_22-09-2020.xlsx/bf2ba72e-2dfc-d8e6-42b4-fae5582a8faa?t=1600781887918,22,220461
+2020-09-20,Teruel,Aragón,NA,59,0,1026,525,47,142,2595,2595,1427,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_22-09-2020.xlsx/bf2ba72e-2dfc-d8e6-42b4-fae5582a8faa?t=1600781887918,44,134137
+2020-09-20,Zaragoza,Aragón,NA,199,0,7033,4155,350,1047,26050,26030,17970,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_22-09-2020.xlsx/bf2ba72e-2dfc-d8e6-42b4-fae5582a8faa?t=1600781887918,50,964693
+2020-09-21,Huesca,Aragón,36,40,NA,1174,609,67,157,4661,4656,3330,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_23-09-2020.xlsx/,22,220461
+2020-09-21,Teruel,Aragón,34,34,NA,1022,532,49,145,2629,2629,1462,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_23-09-2020.xlsx/,44,134137
+2020-09-21,Zaragoza,Aragón,243,237,NA,6902,4192,355,1050,26293,26273,18341,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_23-09-2020.xlsx/,50,964693
+2020-09-22,Huesca,Aragón,59,58,NA,1201,616,67,159,4720,4715,3360,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_24-09-2020.xlsx/,22,220461
+2020-09-22,Teruel,Aragón,45,47,NA,1033,538,49,148,2674,2674,1493,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_24-09-2020.xlsx/,44,134137
+2020-09-22,Zaragoza,Aragón,156,156,NA,6749,4224,355,1063,26449,26429,18637,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_24-09-2020.xlsx/,50,964693
+2020-09-23,Huesca,Aragón,53,53,NA,1183,619,67,159,4773,4768,3431,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_25-09-2020.xlsx/2055d62e-e762-1e0e-81e8-e3936eeb57de?t=1601049629267,22,220461
+2020-09-23,Teruel,Aragón,44,47,NA,1054,544,49,148,2718,2718,1516,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_25-09-2020.xlsx/2055d62e-e762-1e0e-81e8-e3936eeb57de?t=1601049629267,44,134137
+2020-09-23,Zaragoza,Aragón,147,143,NA,6637,4246,358,1063,26596,26576,18896,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_25-09-2020.xlsx/2055d62e-e762-1e0e-81e8-e3936eeb57de?t=1601049629267,50,964693
+2020-09-24,Huesca,Aragón,NA,49,NA,NA,NA,NA,NA,NA,4817,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200924,22,220461
+2020-09-24,Teruel,Aragón,NA,50,NA,NA,NA,NA,NA,NA,2768,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200924,44,134137
+2020-09-24,Zaragoza,Aragón,NA,347,NA,NA,NA,NA,NA,NA,26923,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200924,50,964693
+2020-09-25,Huesca,Aragón,NA,59,NA,NA,NA,NA,NA,NA,4876,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200925,22,220461
+2020-09-25,Teruel,Aragón,NA,29,NA,NA,NA,NA,NA,NA,2797,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200925,44,134137
+2020-09-25,Zaragoza,Aragón,NA,331,NA,NA,NA,NA,NA,NA,27254,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200925,50,964693
+2020-09-26,Huesca,Aragón,NA,37,NA,NA,NA,NA,NA,NA,4913,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200926,22,220461
+2020-09-26,Teruel,Aragón,NA,34,NA,NA,NA,NA,NA,NA,2831,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200926,44,134137
+2020-09-26,Zaragoza,Aragón,NA,227,NA,NA,NA,NA,NA,NA,27481,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20200926,50,964693
+2020-09-27,Huesca,Aragón,NA,54,NA,1212,636,69,160,4973,4968,3601,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_29-09-2020.xlsx/290c2c3e-240c-2425-d210-6fc095fff5cf?t=1601388231329,22,220461
+2020-09-27,Teruel,Aragón,NA,24,NA,1096,578,52,156,2854,2854,1602,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_29-09-2020.xlsx/290c2c3e-240c-2425-d210-6fc095fff5cf?t=1601388231329,44,134137
+2020-09-27,Zaragoza,Aragón,NA,310,NA,7094,4350,362,1091,27821,27801,19636,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_29-09-2020.xlsx/290c2c3e-240c-2425-d210-6fc095fff5cf?t=1601388231329,50,964693
+2020-09-28,Huesca,Aragón,40,38,NA,1213,639,70,162,5013,5008,3638,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_30-09-2020.xlsx/58ca10e5-8c25-9876-a979-fb79d6e4f393?t=1601476434362,22,220461
+2020-09-28,Teruel,Aragón,45,45,NA,1113,586,54,157,2899,2899,1629,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_30-09-2020.xlsx/58ca10e5-8c25-9876-a979-fb79d6e4f393?t=1601476434362,44,134137
+2020-09-28,Zaragoza,Aragón,153,150,NA,6898,4378,362,1094,27974,27954,19982,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_30-09-2020.xlsx/58ca10e5-8c25-9876-a979-fb79d6e4f393?t=1601476434362,50,964693
+2020-09-29,Huesca,Aragón,36,36,NA,1203,643,70,162,5049,5044,3684,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_01-10-2020.xlsx/2b265fdb-8406-07c2-79d9-1e1c1117081c?t=1601560812106,22,220461
+2020-09-29,Teruel,Aragón,48,48,NA,1144,591,54,158,2947,2947,1645,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_01-10-2020.xlsx/2b265fdb-8406-07c2-79d9-1e1c1117081c?t=1601560812106,44,134137
+2020-09-29,Zaragoza,Aragón,234,231,NA,6779,4403,362,1099,28208,28188,20330,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_01-10-2020.xlsx/2b265fdb-8406-07c2-79d9-1e1c1117081c?t=1601560812106,50,964693
+2020-09-30,Huesca,Aragón,35,41,NA,1202,649,71,162,5084,5079,3720,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_02-10-2020.xlsx/16f99834-d6e5-4bec-754d-3780d25314fb?t=1601642862777,22,220461
+2020-09-30,Teruel,Aragón,32,30,NA,1142,597,54,159,2979,2979,1678,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_02-10-2020.xlsx/16f99834-d6e5-4bec-754d-3780d25314fb?t=1601642862777,44,134137
+2020-09-30,Zaragoza,Aragón,198,204,NA,6633,4437,369,1100,28406,28386,20673,Gobierno de Aragón,https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_02-10-2020.xlsx/16f99834-d6e5-4bec-754d-3780d25314fb?t=1601642862777,50,964693
+2020-10-01,Huesca,Aragón,NA,44,NA,NA,NA,NA,166,NA,5123,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201001 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-01,Teruel,Aragón,NA,30,NA,NA,NA,NA,160,NA,3009,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201001 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-01,Zaragoza,Aragón,NA,290,NA,NA,NA,NA,1116,NA,28676,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201001 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-02,Huesca,Aragón,NA,73,NA,NA,NA,NA,166,NA,5196,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201002 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-02,Teruel,Aragón,NA,48,NA,NA,NA,NA,161,NA,3057,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201002 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-02,Zaragoza,Aragón,NA,298,NA,NA,NA,NA,1118,NA,28974,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201002 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-03,Huesca,Aragón,NA,63,NA,NA,NA,NA,166,NA,5259,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201003 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-03,Teruel,Aragón,NA,20,NA,NA,NA,NA,163,NA,3077,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201003 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-03,Zaragoza,Aragón,NA,232,NA,NA,NA,NA,1119,NA,29206,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201003 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-04,Huesca,Aragón,NA,27,NA,NA,NA,NA,166,NA,5286,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201004 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-04,Teruel,Aragón,NA,22,NA,NA,NA,NA,164,NA,3099,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201004 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-04,Zaragoza,Aragón,NA,272,NA,NA,NA,NA,1123,NA,29478,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201004 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-05,Huesca,Aragón,NA,36,NA,NA,NA,NA,167,NA,5322,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201005 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-05,Teruel,Aragón,NA,57,NA,NA,NA,NA,168,NA,3156,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201005 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-05,Zaragoza,Aragón,NA,185,NA,NA,NA,NA,1129,NA,29663,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201005 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-06,Huesca,Aragón,NA,66,NA,NA,NA,NA,167,NA,5388,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201006 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-06,Teruel,Aragón,NA,49,NA,NA,NA,NA,169,NA,3205,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201006 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-06,Zaragoza,Aragón,NA,292,NA,NA,NA,NA,1142,NA,29955,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201006 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-07,Huesca,Aragón,NA,82,NA,1338,692,72,167,5476,5470,3971,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.266958,22,220461
+2020-10-07,Teruel,Aragón,NA,38,NA,1108,625,54,169,3243,3243,1966,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.266958,44,134137
+2020-10-07,Zaragoza,Aragón,NA,322,NA,6527,4627,380,1147,30323,30277,22649,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.266958,50,964693
+2020-10-08,Huesca,Aragón,NA,104,NA,NA,NA,NA,167,NA,5574,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201008 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-08,Teruel,Aragón,NA,60,NA,NA,NA,NA,171,NA,3303,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201008 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-08,Zaragoza,Aragón,NA,304,NA,NA,NA,NA,1154,NA,30581,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201008 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-09,Huesca,Aragón,NA,114,NA,NA,NA,NA,167,NA,5688,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201009 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-09,Teruel,Aragón,NA,75,NA,NA,NA,NA,171,NA,3378,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201009 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-09,Zaragoza,Aragón,NA,391,NA,NA,NA,NA,1157,NA,30972,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201009 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-10,Huesca,Aragón,NA,85,NA,NA,NA,NA,167,NA,5773,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201010 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-10,Teruel,Aragón,NA,65,NA,NA,NA,NA,173,NA,3443,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201010 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-10,Zaragoza,Aragón,NA,241,NA,NA,NA,NA,1159,NA,31213,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201010 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-11,Huesca,Aragón,NA,76,NA,NA,NA,NA,167,NA,5849,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201011 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-11,Teruel,Aragón,NA,47,NA,NA,NA,NA,173,NA,3490,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201011 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-11,Zaragoza,Aragón,NA,268,NA,NA,NA,NA,1162,NA,31481,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201011 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-12,Huesca,Aragón,NA,36,NA,NA,NA,NA,167,NA,5885,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201012 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-12,Teruel,Aragón,NA,42,NA,NA,NA,NA,173,NA,3532,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201012 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-12,Zaragoza,Aragón,NA,277,NA,NA,NA,NA,1166,NA,31758,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201012 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-13,Huesca,Aragón,NA,65,NA,NA,NA,NA,167,NA,5950,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201013 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-13,Teruel,Aragón,NA,43,NA,NA,NA,NA,174,NA,3575,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201013 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-13,Zaragoza,Aragón,NA,150,NA,NA,NA,NA,1172,NA,31908,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201013 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-14,Huesca,Aragón,NA,160,NA,NA,NA,NA,167,NA,6110,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201014 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-14,Teruel,Aragón,NA,63,NA,NA,NA,NA,174,NA,3638,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201014 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-14,Zaragoza,Aragón,NA,357,NA,NA,NA,NA,1177,NA,32265,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201014 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-15,Huesca,Aragón,NA,141,NA,NA,NA,NA,168,NA,6251,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201015 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-15,Teruel,Aragón,NA,76,NA,NA,NA,NA,174,NA,3714,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201015 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-15,Zaragoza,Aragón,NA,430,NA,NA,NA,NA,1183,NA,32695,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201015 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-16,Huesca,Aragón,NA,104,NA,NA,NA,NA,171,NA,6355,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201016 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-16,Teruel,Aragón,NA,113,NA,NA,NA,NA,175,NA,3827,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201016 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-16,Zaragoza,Aragón,NA,450,NA,NA,NA,NA,1187,NA,33145,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201016 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-17,Huesca,Aragón,NA,110,NA,NA,NA,NA,174,NA,6465,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201017 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-17,Teruel,Aragón,NA,88,NA,NA,NA,NA,175,NA,3915,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201017 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-17,Zaragoza,Aragón,NA,379,NA,NA,NA,NA,1192,NA,33524,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201017 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-18,Huesca,Aragón,NA,127,NA,NA,NA,NA,174,NA,6592,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201018 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-18,Teruel,Aragón,NA,64,NA,NA,NA,NA,175,NA,3979,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201018 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-18,Zaragoza,Aragón,NA,291,NA,NA,NA,NA,1193,NA,33815,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201018 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-19,Huesca,Aragón,NA,148,NA,NA,NA,NA,176,NA,6740,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201019 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-19,Teruel,Aragón,NA,88,NA,NA,NA,NA,176,NA,4067,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201019 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-19,Zaragoza,Aragón,NA,495,NA,NA,NA,NA,1201,NA,34310,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201019 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-20,Huesca,Aragón,149,NA,NA,NA,NA,NA,177,6889,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201020 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-20,Teruel,Aragón,133,NA,NA,NA,NA,NA,176,4200,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201020 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-20,Zaragoza,Aragón,600,NA,NA,NA,NA,NA,1217,34910,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201020 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-21,Huesca,Aragón,238,NA,NA,2367,852,92,178,7127,NA,4582,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.267434/prev.1,22,220461
+2020-10-21,Teruel,Aragón,168,NA,NA,1584,730,61,177,4368,NA,2607,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.267434/prev.1,44,134137
+2020-10-21,Zaragoza,Aragón,659,NA,NA,8316,5149,420,1221,35569,NA,26032,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.267434/prev.1,50,964693
+2020-10-22,Huesca,Aragón,250,NA,NA,NA,NA,NA,181,7377,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201022  y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-22,Teruel,Aragón,143,NA,NA,NA,NA,NA,179,4511,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201022  y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-22,Zaragoza,Aragón,803,NA,NA,NA,NA,NA,1228,36372,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201022  y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-23,Huesca,Aragón,245,NA,NA,NA,NA,NA,183,7622,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201023  y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-23,Teruel,Aragón,107,NA,NA,NA,NA,NA,180,4618,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201023  y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-23,Zaragoza,Aragón,968,NA,NA,NA,NA,NA,1244,37340,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201023  y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-24,Huesca,Aragón,187,NA,NA,NA,NA,NA,184,7809,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201024  y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-24,Teruel,Aragón,92,NA,NA,NA,NA,NA,182,4710,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201024  y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-24,Zaragoza,Aragón,791,NA,NA,NA,NA,NA,1247,38131,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201024  y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-25,Huesca,Aragón,253,NA,NA,NA,NA,NA,184,8062,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201025  y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-25,Teruel,Aragón,85,NA,NA,NA,NA,NA,182,4795,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201025  y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-25,Zaragoza,Aragón,419,NA,NA,NA,NA,NA,1254,38550,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201025  y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-26,Huesca,Aragón,160,NA,NA,NA,NA,NA,184,8222,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201026  y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-26,Teruel,Aragón,115,NA,NA,NA,NA,NA,182,4910,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201026  y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-26,Zaragoza,Aragón,749,NA,NA,NA,NA,NA,1263,39299,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201026  y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-27,Huesca,Aragón,219,NA,NA,NA,NA,NA,192,8441,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201027  y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-27,Teruel,Aragón,155,NA,NA,NA,NA,NA,184,5065,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201027  y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-27,Zaragoza,Aragón,815,NA,NA,NA,NA,NA,1274,40114,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201027  y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-28,Huesca,Aragón,268,NA,NA,3418,NA,NA,193,8721,NA,5110,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.267798/prev.1 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-28,Teruel,Aragón,91,NA,NA,2069,NA,NA,186,5146,NA,2891,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.267798/prev.1 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-28,Zaragoza,Aragón,779,NA,NA,11899,NA,NA,1284,41034,NA,27851,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.267798/prev.1 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-29,Huesca,Aragón,302,NA,NA,NA,NA,NA,196,9023,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201029  y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-29,Teruel,Aragón,115,NA,NA,NA,NA,NA,190,5261,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201029  y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-29,Zaragoza,Aragón,809,NA,NA,NA,NA,NA,1289,41843,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201029  y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-30,Huesca,Aragón,280,NA,NA,NA,NA,NA,200,9303,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201030  y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-30,Teruel,Aragón,75,NA,NA,NA,NA,NA,193,5336,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201030  y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-30,Zaragoza,Aragón,898,NA,NA,NA,NA,NA,1297,42741,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201030  y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-10-31,Huesca,Aragón,258,NA,NA,NA,NA,NA,203,9561,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201031  y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-10-31,Teruel,Aragón,84,NA,NA,NA,NA,NA,194,5420,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201031  y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-10-31,Zaragoza,Aragón,684,NA,NA,NA,NA,NA,1307,43425,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201031  y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-01,Huesca,Aragón,183,NA,NA,NA,NA,NA,203,9744,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201101  y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-01,Teruel,Aragón,73,NA,NA,NA,NA,NA,195,5493,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201101  y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-01,Zaragoza,Aragón,437,NA,NA,NA,NA,NA,1318,43862,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201101  y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-02,Huesca,Aragón,103,NA,NA,NA,NA,NA,206,9847,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201102  y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-02,Teruel,Aragón,27,NA,NA,NA,NA,NA,198,5520,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201102  y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-02,Zaragoza,Aragón,494,NA,NA,NA,NA,NA,1329,44356,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201102  y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-03,Huesca,Aragón,192,NA,NA,NA,NA,NA,209,10039,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201103  y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-03,Teruel,Aragón,77,NA,NA,NA,NA,NA,203,5597,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201103  y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-03,Zaragoza,Aragón,524,NA,NA,NA,NA,NA,1341,44880,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201103  y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-04,Huesca,Aragón,175,NA,NA,4315,NA,NA,215,10217,NA,5687,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.268079/prev.1 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-04,Teruel,Aragón,89,NA,NA,2234,NA,NA,205,5683,NA,3244,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.268079/prev.1 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-04,Zaragoza,Aragón,765,NA,NA,14617,NA,NA,1361,45707,NA,29729,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.268079/prev.1 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-05,Huesca,Aragón,230,NA,NA,NA,NA,NA,219,10447,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201105  y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-05,Teruel,Aragón,102,NA,NA,NA,NA,NA,208,5785,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201105  y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-05,Zaragoza,Aragón,636,NA,NA,NA,NA,NA,1380,46343,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201105  y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-06,Huesca,Aragón,225,NA,NA,NA,NA,NA,231,10672,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201106  y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-06,Teruel,Aragón,137,NA,NA,NA,NA,NA,212,5922,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201106  y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-06,Zaragoza,Aragón,661,NA,NA,NA,NA,NA,1400,47004,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201106  y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-07,Huesca,Aragón,126,NA,NA,NA,NA,NA,236,10798,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201107  y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-07,Teruel,Aragón,87,NA,NA,NA,NA,NA,214,6009,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201107  y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-07,Zaragoza,Aragón,541,NA,NA,NA,NA,NA,1413,47545,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201107  y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-08,Huesca,Aragón,82,NA,NA,NA,NA,NA,237,10880,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201108  y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-08,Teruel,Aragón,36,NA,NA,NA,NA,NA,217,6045,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201108  y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-08,Zaragoza,Aragón,269,NA,NA,NA,NA,NA,1435,47814,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201108  y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-09,Huesca,Aragón,142,NA,NA,NA,NA,NA,240,11022,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201109  y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-09,Teruel,Aragón,79,NA,NA,NA,NA,NA,218,6124,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201109  y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-09,Zaragoza,Aragón,412,NA,NA,NA,NA,NA,1449,48226,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201109  y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-10,Huesca,Aragón,173,NA,NA,NA,NA,NA,248,11195,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201110 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-10,Teruel,Aragón,46,NA,NA,NA,NA,NA,225,6170,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201110 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-10,Zaragoza,Aragón,611,NA,NA,NA,NA,NA,1474,48837,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201110 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-11,Huesca,Aragón,146,NA,NA,4068,NA,NA,253,11344,NA,7023,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.268330 y https://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-11,Teruel,Aragón,73,NA,NA,1842,NA,NA,229,6242,NA,4171,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.268330 y https://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-11,Zaragoza,Aragón,492,NA,NA,13077,NA,NA,1482,49384,NA,34825,Gobierno de Aragón,http://aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.268330 y https://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-12,Huesca,Aragón,116,NA,NA,NA,NA,NA,260,11460,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201112 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-12,Teruel,Aragón,79,NA,NA,NA,NA,NA,232,6321,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201112 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-12,Zaragoza,Aragón,430,NA,NA,NA,NA,NA,1499,49814,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201112 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-13,Huesca,Aragón,133,NA,NA,NA,NA,NA,270,11593,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201113 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-13,Teruel,Aragón,58,NA,NA,NA,NA,NA,241,6379,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201113 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-13,Zaragoza,Aragón,387,NA,NA,NA,NA,NA,1521,50201,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201113 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-14,Huesca,Aragón,61,NA,NA,NA,NA,NA,272,11654,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201114 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-14,Teruel,Aragón,32,NA,NA,NA,NA,NA,241,6411,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201114 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-14,Zaragoza,Aragón,250,NA,NA,NA,NA,NA,1534,50451,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201114 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-15,Huesca,Aragón,53,NA,NA,NA,NA,NA,279,11707,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201115 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-15,Teruel,Aragón,40,NA,NA,NA,NA,NA,242,6451,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201115 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-15,Zaragoza,Aragón,181,NA,NA,NA,NA,NA,1541,50632,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201115 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-16,Huesca,Aragón,97,NA,NA,NA,NA,NA,289,11804,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201116 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-16,Teruel,Aragón,43,NA,NA,NA,NA,NA,246,6494,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201116 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-16,Zaragoza,Aragón,227,NA,NA,NA,NA,NA,1560,50859,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201116 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-17,Huesca,Aragón,103,NA,NA,NA,NA,NA,300,11907,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201117 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-17,Teruel,Aragón,20,NA,NA,NA,NA,NA,250,6514,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201117 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-17,Zaragoza,Aragón,333,NA,NA,NA,NA,NA,1584,51192,NA,NA,Gobierno de Aragón,https://transparencia.aragon.es/COVID19_20201117 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-18,Huesca,Aragón,153,NA,NA,3111,1089,117,300,12060,NA,8649,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.268715 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-11-18,Teruel,Aragón,65,NA,NA,1440,813,69,252,6588,NA,4896,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.268715 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-11-18,Zaragoza,Aragón,323,NA,NA,9977,5858,488,1599,51535,NA,39959,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.268715 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-11-19,Huesca,Aragón,79,NA,NA,2935,1095,117,307,12139,NA,8897,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201119,22,220461
+2020-11-19,Teruel,Aragón,33,NA,NA,1379,815,70,256,6620,NA,4985,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201119,44,134137
+2020-11-19,Zaragoza,Aragón,292,NA,NA,9412,5901,492,1615,51830,NA,40803,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201119,50,964693
+2020-11-20,Huesca,Aragón,96,NA,NA,2772,1106,117,313,12236,NA,9151,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201120,22,220461
+2020-11-20,Teruel,Aragón,36,NA,NA,1313,817,70,261,6655,NA,5081,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201120,44,134137
+2020-11-20,Zaragoza,Aragón,250,NA,NA,8890,5936,494,1624,52088,NA,41574,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201120,50,964693
+2020-11-21,Huesca,Aragón,35,NA,NA,2615,1107,118,315,12271,NA,9341,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201121,22,220461
+2020-11-21,Teruel,Aragón,24,NA,NA,1273,819,70,261,6679,NA,5145,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201121,44,134137
+2020-11-21,Zaragoza,Aragón,200,NA,NA,8601,5954,497,1634,52295,NA,42060,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201121,50,964693
+2020-11-22,Huesca,Aragón,12,NA,NA,2565,1112,118,315,12283,NA,9403,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201122,22,220461
+2020-11-22,Teruel,Aragón,29,NA,NA,1253,823,71,264,6708,NA,5191,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201122,44,134137
+2020-11-22,Zaragoza,Aragón,106,NA,NA,8467,5966,498,1643,52400,NA,42290,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201122,50,964693
+2020-11-23,Huesca,Aragón,72,NA,NA,2556,1116,120,319,12351,NA,9476,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201123,22,220461
+2020-11-23,Teruel,Aragón,29,NA,NA,1232,823,71,267,6740,NA,5241,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201123,44,134137
+2020-11-23,Zaragoza,Aragón,139,NA,NA,8355,5980,498,1658,52543,NA,42530,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201123,50,964693
+2020-11-24,Huesca,Aragón,44,NA,NA,2382,1120,120,323,12394,NA,9689,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201124,22,220461
+2020-11-24,Teruel,Aragón,44,NA,NA,1181,834,71,270,6790,NA,5339,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201124,44,134137
+2020-11-24,Zaragoza,Aragón,235,NA,NA,7883,6017,500,1673,52775,NA,43219,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201124,50,964693
+2020-11-25,Huesca,Aragón,36,NA,NA,2136,NA,NA,329,12431,NA,9966,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.269116 y https://transparencia.aragon.es/COVID19_20201125,22,220461
+2020-11-25,Teruel,Aragón,35,NA,NA,1121,NA,NA,277,6824,NA,5426,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.269116 y https://transparencia.aragon.es/COVID19_20201125,44,134137
+2020-11-25,Zaragoza,Aragón,242,NA,NA,7259,NA,NA,1688,53012,NA,44065,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.269116 y https://transparencia.aragon.es/COVID19_20201125,50,964693
+2020-11-26,Huesca,Aragón,55,NA,NA,2002,1130,121,331,12486,NA,10153,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201126,22,220461
+2020-11-26,Teruel,Aragón,77,NA,NA,1054,840,71,280,6902,NA,5568,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201126,44,134137
+2020-11-26,Zaragoza,Aragón,206,NA,NA,6760,6059,502,1705,53218,NA,44753,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201126,50,964693
+2020-11-27,Huesca,Aragón,52,NA,NA,1853,1136,122,333,12539,NA,10353,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201127,22,220461
+2020-11-27,Teruel,Aragón,42,NA,NA,992,844,71,281,6943,NA,5670,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201127,44,134137
+2020-11-27,Zaragoza,Aragón,221,NA,NA,6294,6083,506,1716,53437,NA,45427,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201127,50,964693
+2020-11-28,Huesca,Aragón,21,NA,NA,1794,1141,122,336,12559,NA,10429,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201128,22,220461
+2020-11-28,Teruel,Aragón,14,NA,NA,946,845,71,282,6957,NA,5729,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201128,44,134137
+2020-11-28,Zaragoza,Aragón,264,NA,NA,6211,6099,507,1722,53705,NA,45772,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201128,50,964693
+2020-11-29,Huesca,Aragón,12,NA,NA,1769,1145,122,339,12569,NA,10461,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201129,22,220461
+2020-11-29,Teruel,Aragón,60,NA,NA,976,851,71,284,7018,NA,5758,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201129,44,134137
+2020-11-29,Zaragoza,Aragón,86,NA,NA,6144,6119,509,1728,53789,NA,45917,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201129,50,964693
+2020-11-30,Huesca,Aragón,49,NA,NA,1683,1149,122,340,12617,NA,10594,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201130,22,220461
+2020-11-30,Teruel,Aragón,28,NA,NA,954,853,71,285,7053,NA,5814,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201130,44,134137
+2020-11-30,Zaragoza,Aragón,139,NA,NA,5791,6147,511,1738,53920,NA,46391,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201130,50,964693
+2020-12-01,Huesca,Aragón,57,NA,NA,1552,1154,122,344,12674,NA,10778,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201201,22,220461
+2020-12-01,Teruel,Aragón,50,NA,NA,931,858,71,287,7108,NA,5890,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201201,44,134137
+2020-12-01,Zaragoza,Aragón,247,NA,NA,5439,6170,519,1744,54161,NA,46978,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201201,50,964693
+2020-12-02,Huesca,Aragón,43,NA,NA,1433,1157,122,345,12714,NA,10936,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.269458 y http://datacovid.salud.aragon.es/covid/,22,220461
+2020-12-02,Teruel,Aragón,33,NA,NA,886,866,71,288,7141,NA,5967,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.269458 y http://datacovid.salud.aragon.es/covid/,44,134137
+2020-12-02,Zaragoza,Aragón,217,NA,NA,5118,6191,520,1747,54382,NA,47517,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.269458 y http://datacovid.salud.aragon.es/covid/,50,964693
+2020-12-03,Huesca,Aragón,56,NA,NA,1365,1159,122,346,12768,NA,11057,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201203,22,220461
+2020-12-03,Teruel,Aragón,33,NA,NA,854,872,71,288,7176,NA,6034,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201203,44,134137
+2020-12-03,Zaragoza,Aragón,161,NA,NA,4893,6203,522,1749,54548,NA,47906,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201203,50,964693
+2020-12-04,Huesca,Aragón,33,NA,NA,1247,1163,123,351,12798,NA,11200,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201204,22,220461
+2020-12-04,Teruel,Aragón,23,NA,NA,818,879,71,289,7199,NA,6092,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201204,44,134137
+2020-12-04,Zaragoza,Aragón,153,NA,NA,4692,6213,523,1754,54709,NA,48263,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201204,50,964693
+2020-12-05,Huesca,Aragón,9,NA,NA,1203,1165,123,353,12807,NA,11251,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201205,22,220461
+2020-12-05,Teruel,Aragón,25,NA,NA,801,880,71,291,7224,NA,6132,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201205,44,134137
+2020-12-05,Zaragoza,Aragón,134,NA,NA,4634,6224,524,1763,54846,NA,48449,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201205,50,964693
+2020-12-06,Huesca,Aragón,15,NA,NA,1193,1170,123,353,12818,NA,11272,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201206,22,220461
+2020-12-06,Teruel,Aragón,15,NA,NA,799,882,71,293,7239,NA,6147,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201206,44,134137
+2020-12-06,Zaragoza,Aragón,91,NA,NA,4631,6245,525,1770,54941,NA,48540,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201206,50,964693
+2020-12-07,Huesca,Aragón,25,NA,NA,1100,1174,123,353,12843,NA,11390,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201207,22,220461
+2020-12-07,Teruel,Aragón,13,NA,NA,768,882,71,293,7252,NA,6191,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201207,44,134137
+2020-12-07,Zaragoza,Aragón,81,NA,NA,4350,6254,525,1778,55022,NA,48894,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201207,50,964693
+2020-12-08,Huesca,Aragón,7,NA,NA,967,1179,123,353,12850,NA,11530,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201208,22,220461
+2020-12-08,Teruel,Aragón,37,NA,NA,753,885,73,295,7289,NA,6241,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201208,44,134137
+2020-12-08,Zaragoza,Aragón,62,NA,NA,4033,6268,527,1789,55083,NA,49261,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201208,50,964693
+2020-12-09,Huesca,Aragón,23,NA,NA,881,1182,123,356,12876,NA,11639,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.269843 y https://datacovid.salud.aragon.es/covid/,22,220461
+2020-12-09,Teruel,Aragón,37,NA,NA,748,892,73,298,7327,NA,6281,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.269843 y https://datacovid.salud.aragon.es/covid/,44,134137
+2020-12-09,Zaragoza,Aragón,124,NA,NA,3844,6284,527,1803,55205,NA,49558,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/id.269843 y https://datacovid.salud.aragon.es/covid/,50,964693
+2020-12-10,Huesca,Aragón,34,NA,NA,840,1190,124,359,12915,NA,11716,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201210,22,220461
+2020-12-10,Teruel,Aragón,51,NA,NA,758,899,73,298,7378,NA,6322,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201210,44,134137
+2020-12-10,Zaragoza,Aragón,225,NA,NA,3769,6297,528,1816,55424,NA,49839,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201210,50,964693
+2020-12-11,Huesca,Aragón,32,NA,NA,777,1190,124,362,12949,NA,11810,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201211,22,220461
+2020-12-11,Teruel,Aragón,56,NA,NA,767,903,73,299,7434,NA,6368,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201211,44,134137
+2020-12-11,Zaragoza,Aragón,195,NA,NA,3684,6328,534,1831,55618,NA,50103,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201211,50,964693
+2020-12-12,Huesca,Aragón,16,NA,NA,770,1190,124,362,12964,NA,11832,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201212,22,220461
+2020-12-12,Teruel,Aragón,22,NA,NA,773,904,73,299,7456,NA,6384,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201212,44,134137
+2020-12-12,Zaragoza,Aragón,149,NA,NA,3728,6346,535,1832,55768,NA,50208,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201212,50,964693
+2020-12-13,Huesca,Aragón,10,NA,NA,774,1191,124,362,12974,NA,11838,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,22,220461
+2020-12-13,Teruel,Aragón,9,NA,NA,759,904,73,300,7465,NA,6406,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,44,134137
+2020-12-13,Zaragoza,Aragón,127,NA,NA,3800,6353,535,1836,55896,NA,50260,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,50,964693
+2020-12-14,Huesca,Aragón,39,NA,NA,724,1191,124,372,13010,NA,11914,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,22,220461
+2020-12-14,Teruel,Aragón,25,NA,NA,751,905,73,303,7487,NA,6433,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,44,134137
+2020-12-14,Zaragoza,Aragón,124,NA,NA,3636,6373,538,1855,56024,NA,50533,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,50,964693
+2020-12-15,Huesca,Aragón,33,NA,NA,707,1194,124,373,13044,NA,11964,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,22,220461
+2020-12-15,Teruel,Aragón,24,NA,NA,736,905,73,306,7511,NA,6469,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,44,134137
+2020-12-15,Zaragoza,Aragón,203,NA,NA,3592,6383,538,1863,56228,NA,50773,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,50,964693
+2020-12-16,Huesca,Aragón,30,NA,NA,708,1197,124,374,13081,NA,11999,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,22,220461
+2020-12-16,Teruel,Aragón,15,NA,NA,684,905,73,308,7527,NA,6535,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,44,134137
+2020-12-16,Zaragoza,Aragón,172,NA,NA,3544,6403,542,1870,56395,NA,50981,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,50,964693
+2020-12-17,Huesca,Aragón,25,NA,NA,683,1204,128,376,13107,NA,12048,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,22,220461
+2020-12-17,Teruel,Aragón,15,NA,NA,659,906,73,308,7542,NA,6575,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,44,134137
+2020-12-17,Zaragoza,Aragón,133,NA,NA,3415,6427,544,1877,56530,NA,51238,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,50,964693
+2020-12-18,Huesca,Aragón,22,NA,NA,648,1208,128,378,13131,NA,12105,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,22,220461
+2020-12-18,Teruel,Aragón,30,NA,NA,622,909,73,309,7574,NA,6643,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,44,134137
+2020-12-18,Zaragoza,Aragón,190,NA,NA,3342,6447,545,1887,56713,NA,51484,Gobierno de Aragón,https://datacovid.salud.aragon.es/covid/,50,964693
+2020-12-19,Huesca,Aragón,4,NA,NA,638,1211,128,378,13134,NA,12118,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201219,22,220461
+2020-12-19,Teruel,Aragón,8,NA,NA,609,909,73,309,7582,NA,6664,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201219,44,134137
+2020-12-19,Zaragoza,Aragón,150,NA,NA,3372,6468,550,1887,56866,NA,51607,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201219,50,964693
+2020-12-20,Huesca,Aragón,13,NA,NA,650,1212,128,378,13147,NA,12119,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201220,22,220461
+2020-12-20,Teruel,Aragón,27,NA,NA,616,911,73,309,7609,NA,6684,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201220,44,134137
+2020-12-20,Zaragoza,Aragón,55,NA,NA,3409,6476,550,1891,56922,NA,51622,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201220,50,964693
+2020-12-21,Huesca,Aragón,32,NA,NA,608,1214,128,382,13180,NA,12190,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201221,22,220461
+2020-12-21,Teruel,Aragón,24,NA,NA,594,917,73,309,7631,NA,6728,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201221,44,134137
+2020-12-21,Zaragoza,Aragón,118,NA,NA,3253,6496,550,1897,57040,NA,51890,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201221,50,964693
+2020-12-22,Huesca,Aragón,33,NA,NA,610,1215,128,385,13213,NA,12218,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201222,22,220461
+2020-12-22,Teruel,Aragón,17,NA,NA,568,920,73,313,7647,NA,6766,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201222,44,134137
+2020-12-22,Zaragoza,Aragón,159,NA,NA,3237,6503,552,1905,57202,NA,52060,Gobierno de Aragón,http://datacovid.salud.aragon.es/covid/ y https://transparencia.aragon.es/COVID19_20201222,50,964693
+2020-12-23,Zaragoza,Aragón,114,NA,NA,3206,6498,553,1909,57316,NA,52201,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2020-12-23,Huesca,Aragón,16,NA,NA,580,1215,128,385,13229,NA,12264,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2020-12-23,Teruel,Aragón,15,NA,NA,556,919,73,315,7662,NA,6791,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2020-12-24,Zaragoza,Aragón,273,NA,NA,3253,6520,555,1915,57589,NA,52421,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2020-12-24,Huesca,Aragón,36,NA,NA,558,1223,129,385,13265,NA,12322,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2020-12-24,Teruel,Aragón,45,NA,NA,569,928,73,317,7707,NA,6821,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2020-12-25,Zaragoza,Aragón,124,NA,NA,3182,6528,555,1917,57713,NA,52614,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2020-12-25,Huesca,Aragón,9,NA,NA,532,1227,130,385,13274,NA,12357,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2020-12-25,Teruel,Aragón,11,NA,NA,540,930,73,317,7718,NA,6861,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2020-12-26,Zaragoza,Aragón,56,NA,NA,3153,6527,556,1920,57769,NA,52696,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2020-12-26,Huesca,Aragón,24,NA,NA,544,1229,130,385,13298,NA,12369,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2020-12-26,Teruel,Aragón,21,NA,NA,547,930,73,318,7739,NA,6874,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2020-12-27,Zaragoza,Aragón,111,NA,NA,3216,6536,562,1918,57880,NA,52746,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2020-12-27,Huesca,Aragón,10,NA,NA,553,1234,131,385,13308,NA,12370,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2020-12-27,Teruel,Aragón,21,NA,NA,549,931,75,318,7760,NA,6893,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2020-12-28,Zaragoza,Aragón,176,NA,NA,3291,6555,565,1931,58056,NA,52834,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2020-12-28,Huesca,Aragón,48,NA,NA,572,1235,131,390,13356,NA,12394,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2020-12-28,Teruel,Aragón,42,NA,NA,569,933,75,319,7802,NA,6914,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2020-12-29,Zaragoza,Aragón,324,NA,NA,3549,6571,566,1938,58380,NA,52893,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2020-12-29,Huesca,Aragón,72,NA,NA,627,1235,131,392,13428,NA,12409,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2020-12-29,Teruel,Aragón,26,NA,NA,560,933,75,319,7828,NA,6949,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2020-12-30,Zaragoza,Aragón,365,NA,NA,3716,6586,568,1947,58745,NA,53082,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2020-12-30,Huesca,Aragón,49,NA,NA,653,1238,131,393,13477,NA,12431,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2020-12-30,Teruel,Aragón,29,NA,NA,546,933,75,321,7857,NA,6990,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2020-12-31,Zaragoza,Aragón,292,NA,NA,3795,6608,571,1952,59037,NA,53290,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2020-12-31,Huesca,Aragón,42,NA,NA,661,1243,131,393,13519,NA,12465,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2020-12-31,Teruel,Aragón,27,NA,NA,527,936,75,322,7884,NA,7035,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-01-01,Zaragoza,Aragón,123,NA,NA,3675,6616,573,1958,59160,NA,53527,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-01-01,Huesca,Aragón,9,NA,NA,639,1244,132,394,13528,NA,12495,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-01-01,Teruel,Aragón,17,NA,NA,492,935,75,322,7901,NA,7087,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-01-02,Zaragoza,Aragón,126,NA,NA,3703,6630,574,1961,59286,NA,53622,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-01-02,Huesca,Aragón,39,NA,NA,666,1246,133,393,13567,NA,12508,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-01-02,Teruel,Aragón,44,NA,NA,522,942,75,322,7945,NA,7101,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-01-03,Zaragoza,Aragón,171,NA,NA,3837,6637,574,1964,59457,NA,53656,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-01-03,Huesca,Aragón,13,NA,NA,669,1246,132,395,13580,NA,12516,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-01-03,Teruel,Aragón,35,NA,NA,557,944,75,323,7980,NA,7100,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-01-04,Zaragoza,Aragón,213,NA,NA,3808,6652,576,1970,59670,NA,53892,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-01-04,Huesca,Aragón,52,NA,NA,684,1255,133,395,13632,NA,12553,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-01-04,Teruel,Aragón,48,NA,NA,572,944,75,323,8028,NA,7133,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-01-05,Zaragoza,Aragón,404,NA,NA,4010,6683,578,1978,60074,NA,54086,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-01-05,Huesca,Aragón,96,NA,NA,730,1257,134,396,13728,NA,12602,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-01-05,Teruel,Aragón,64,NA,NA,606,944,75,324,8092,NA,7162,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-01-06,Zaragoza,Aragón,289,NA,NA,4118,6691,579,1984,60363,NA,54261,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-01-06,Huesca,Aragón,38,NA,NA,734,1261,134,396,13766,NA,12636,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-01-06,Teruel,Aragón,68,NA,NA,657,948,75,325,8160,NA,7178,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-01-07,Zaragoza,Aragón,267,NA,NA,4247,6712,580,1989,60630,NA,54394,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-01-07,Huesca,Aragón,98,NA,NA,807,1259,133,397,13864,NA,12660,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-01-07,Teruel,Aragón,76,NA,NA,708,952,75,328,8236,NA,7200,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-01-08,Zaragoza,Aragón,489,NA,NA,4549,6730,582,1997,61119,NA,54573,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-01-08,Huesca,Aragón,105,NA,NA,892,6730,582,399,13969,NA,12678,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-01-08,Teruel,Aragón,74,NA,NA,766,958,75,328,8310,NA,7216,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
