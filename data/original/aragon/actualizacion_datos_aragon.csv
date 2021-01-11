@@ -1,4 +1,4 @@
-date,province,ccaa,new_cases,PCR,TestAc,activos,hospitalized,intensive_care,deceased,cases_accumulated,cases_accumulated_PCR,recovered,source_name,source,ine_code,poblacion
+date,province,ccaa,new_cases,PCR,TestAc,activos,hospitalized_accumulated,intensive_care,deceased,cases_accumulated,cases_accumulated_PCR,recovered,source_name,source,ine_code,poblacion
 2020-03-09,Zaragoza,Aragón,NA,NA,NA,28,14,NA,2,30,NA,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.257068,50,964693
 2020-03-10,Teruel,Aragón,NA,NA,NA,NA,3,NA,0,3,NA,NA,Lacomarca.net,https://www.lacomarca.net/tres-casos-coronavirus-residencia-ancianos-provincia-teruel/,44,134137
 2020-03-10,Zaragoza,Aragón,6,NA,NA,33,16,NA,3,36,NA,NA,Gobierno de Aragón,http://www.aragonhoy.net/index.php/mod.noticias/mem.detalle/relmenu.9/id.257233,50,964693
@@ -909,3 +909,6 @@ date,province,ccaa,new_cases,PCR,TestAc,activos,hospitalized,intensive_care,dece
 2021-01-09,Zaragoza,Aragón,368,NA,NA,4843,6745,584,2002,61487,NA,54642,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
 2021-01-09,Huesca,Aragón,30,NA,NA,917,1270,135,399,13999,NA,12683,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
 2021-01-09,Teruel,Aragón,60,NA,NA,804,961,75,329,8370,NA,7237,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-01-10,Zaragoza,Aragón,198,NA,NA,5000,6763,585,2007,61685,NA,54678,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-01-10,Huesca,Aragón,6,NA,NA,913,1271,135,400,14005,NA,12692,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-01-10,Teruel,Aragón,80,NA,NA,868,963,75,330,8450,NA,7252,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
