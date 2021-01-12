@@ -82,7 +82,7 @@ date_pub,ccaa,Dosis entregadas,Dosis administradas,% sobre entregadas,Última fe
 11/1/21,Andalucía,140295,81387,0.5801133326205495,,9/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
 11/1/21,Aragón,23715,10998,0.4637571157495256,,9/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
 11/1/21,Asturias,23720,18943,0.7986087689713323,,9/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
-11/1/21,Baleares,12840,4652,0.36230529595015576,,8/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
+11/1/21,Baleares,12840,4652,0.3623052959501557,,8/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
 11/1/21,Canarias,27660,13607,0.4919378163412871,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
 11/1/21,Cantabria,11850,8474,0.7151054852320675,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
 11/1/21,Castilla y Leon,51390,36205,0.704514496983849,,10/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
@@ -92,10 +92,30 @@ date_pub,ccaa,Dosis entregadas,Dosis administradas,% sobre entregadas,Última fe
 11/1/21,Extremadura,21725,9303,0.4282163406214039,,10/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
 11/1/21,Galicia,37555,30418,0.8099587272001065,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
 11/1/21,La Rioja,5915,3457,0.5844463229078614,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
-11/1/21,Madrid,98790,24897,0.25201943516550257,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
-11/1/21,Murcia,25685,10361,0.40338719096749076,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
+11/1/21,Madrid,98790,24897,0.2520194351655025,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
+11/1/21,Murcia,25685,10361,0.4033871909674907,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
 11/1/21,Navarra,11850,5468,0.4614345991561181,,10/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
 11/1/21,País Vasco,31605,13103,0.4145862996361335,,10/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
 11/1/21,Ceuta,1005,698,0.6945273631840796,,8/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
 11/1/21,Melilla,1005,832,0.8278606965174129,,8/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
 11/1/21,Totales,743925,406091,0.5458762644083744,,,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210111.ods
+12/1/21,Andalucía,140295,94879,0.6762821198189529,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,Aragón,23715,11983,0.505292009276829,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,Asturias,23720,22428,0.945531197301855,,12/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,Baleares,12840,4835,0.3765576323987539,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,Canarias,27660,15328,0.5541576283441794,,12/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,Cantabria,11850,9527,0.8039662447257384,,12/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,Castilla y Leon,51390,41340,0.804436660828955,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,Castilla La Mancha,35550,23342,0.6565963431786217,,12/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,Cataluña,120545,82785,0.6867559832427724,,10/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,C. Valenciana,61225,57223,0.9346345447121274,,12/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,Extremadura,21725,11346,0.5222554660529344,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,Galicia,37555,33346,0.88792437757955,,12/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,La Rioja,5915,3826,0.6468300929839391,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,Madrid,98790,35949,0.3638931065897358,,12/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,Murcia,25685,16191,0.6303679190188826,,12/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,Navarra,11850,6557,0.5533333333333333,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,País Vasco,31605,15393,0.4870431893687708,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,Ceuta,1005,758,0.7542288557213931,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,Melilla,1005,1005,1.0,,11/1/21,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
+12/1/21,Totales,743925,488041,0.6560352186040259,,,Ministerio de Sanidad,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210112.ods
