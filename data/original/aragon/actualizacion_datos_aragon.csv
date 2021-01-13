@@ -915,3 +915,6 @@ date,province,ccaa,new_cases,PCR,TestAc,activos,hospitalized_accumulated,intensi
 2021-01-11,Zaragoza,Aragón,274,NA,NA,5080,6803,587,2015,61959,NA,54864,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
 2021-01-11,Huesca,Aragón,68,NA,NA,947,1272,137,400,14073,NA,12726,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
 2021-01-11,Teruel,Aragón,86,NA,NA,929,962,75,331,8536,NA,7276,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-01-12,Zaragoza,Aragón,467,NA,NA,5371,6820,586,2026,62426,NA,55029,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-01-12,Huesca,Aragón,76,NA,NA,989,1276,137,400,14149,NA,12760,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-01-12,Teruel,Aragón,145,NA,NA,1052,963,75,331,8681,NA,7298,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
