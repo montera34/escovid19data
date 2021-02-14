@@ -137,6 +137,31 @@ De los PDF y XLSX de vacunación del Ministerio de Sanidad:
 
 Población por provincias del INE:  https://www.ine.es/jaxiT3/Datos.htm?t=2852#!tabs-tabla
 
+## Datos de vacunaciones
+Hemos empezado a recopilar los datos de vacunaciones publicados de Lunes a Viernes por Sanidad en esta [dirección](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/vacunaCovid19.htm).
+
+Esos datos son leídos y replicados [aquí](https://github.com/montera34/escovid19data/tree/master/data/original/vacunas). Dejamos dos tipos de ficheros :
+1. Fichero diario con el formato: 
+`estado_vacunacion_añomesdía.csv`.
+Con formato año cuatro dígitos, mes y día de dos dígitos.
+2. Fichero de datos acumulados con el nómbre de fichero : `estado_vacunacion_.csv`
+
+Los campos del `csv` son los siguientes: 
+
+ * `date_pub`: fecha de publicación del informe
+ * `ccaa` : Comunidad/Ciudad autónoma	
+ * `Dosis entregadas Pfizer` : dosis entregadas a la Comunidad/Ciudad 	
+ * `Dosis entregadas Moderna` : idem	
+ * `Dosis entregadas AstraZeneca` : idem	
+ * `Dosis entregadas`: suma de las entregadas de los tres fabricantes	
+ * `Dosis administradas	% sobre entregadas`:cociente de vacunas administradas sobre vacunas entregadas	
+ * `Total pauta completada`: total de pautas completadas o dobles vacunaciones	
+ * `Última fecha de actualización de datos`: fecha indicada en la tabla como última con actualización	
+ * `Fecha de la ultima vacuna registrada`: este campo no está en uso actualmente	
+ * `source_name`: nombre la fuente `Sanidad` en todos los casos	
+ * `source` : link al fichero original de los datos
+
+
 ## Estructura de archivos
 
 ```
