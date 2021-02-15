@@ -2,6 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/montera34/escovid19data/blob/master/LICENSE.md)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/montera34/escovid19data/commits/master)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4536588.svg)](https://doi.org/10.5281/zenodo.4536588)
 
 ## ¿Puedes utilizar los datos? ¿Cómo colaborar?
 
