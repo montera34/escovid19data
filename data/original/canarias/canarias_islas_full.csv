@@ -236,6 +236,7 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care,as.Da
 2020-03-12,2,1,0,El Hierro,NA,NA,2020-03-12
 2021-03-12,221,213,1,El Hierro,0,0,2021-03-12
 2020-03-13,2,1,0,El Hierro,NA,NA,2020-03-13
+2021-03-13,221,213,1,El Hierro,0,0,2021-03-13
 2020-03-14,2,2,0,El Hierro,NA,NA,2020-03-14
 2020-03-15,2,2,0,El Hierro,NA,NA,2020-03-15
 2020-03-16,2,2,0,El Hierro,NA,NA,2020-03-16
@@ -613,6 +614,7 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care,as.Da
 2020-03-12,1,0,0,Fuerteventura,NA,NA,2020-03-12
 2021-03-12,1817,1611,8,Fuerteventura,9,6,2021-03-12
 2020-03-13,1,0,0,Fuerteventura,NA,NA,2020-03-13
+2021-03-13,1824,1611,8,Fuerteventura,10,6,2021-03-13
 2020-03-14,3,0,0,Fuerteventura,NA,NA,2020-03-14
 2020-03-15,6,0,0,Fuerteventura,NA,NA,2020-03-15
 2020-03-16,6,0,0,Fuerteventura,NA,NA,2020-03-16
@@ -976,20 +978,21 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care,as.Da
 2020-03-05,1,1,0,Gran Canaria,NA,NA,2020-03-05
 2021-03-05,17186,15426,205,Gran Canaria,123,39,2021-03-05
 2020-03-06,3,1,0,Gran Canaria,NA,NA,2020-03-06
-2021-03-06,17270,15445,206,Gran Canaria,126,37,2021-03-06
+2021-03-06,17271,15445,206,Gran Canaria,126,37,2021-03-06
 2020-03-07,3,1,0,Gran Canaria,NA,NA,2020-03-07
-2021-03-07,17345,15454,206,Gran Canaria,137,39,2021-03-07
+2021-03-07,17346,15454,206,Gran Canaria,137,39,2021-03-07
 2020-03-08,3,1,0,Gran Canaria,NA,NA,2020-03-08
-2021-03-08,17428,15514,208,Gran Canaria,131,37,2021-03-08
+2021-03-08,17429,15514,208,Gran Canaria,131,37,2021-03-08
 2020-03-09,5,1,0,Gran Canaria,NA,NA,2020-03-09
-2021-03-09,17498,15564,209,Gran Canaria,117,37,2021-03-09
+2021-03-09,17499,15564,209,Gran Canaria,117,37,2021-03-09
 2020-03-10,6,1,0,Gran Canaria,NA,NA,2020-03-10
-2021-03-10,17571,15583,210,Gran Canaria,122,37,2021-03-10
+2021-03-10,17572,15583,210,Gran Canaria,122,37,2021-03-10
 2020-03-11,11,1,0,Gran Canaria,NA,NA,2020-03-11
-2021-03-11,17665,15611,211,Gran Canaria,118,33,2021-03-11
+2021-03-11,17667,15611,211,Gran Canaria,118,33,2021-03-11
 2020-03-12,15,1,0,Gran Canaria,NA,NA,2020-03-12
-2021-03-12,17744,15630,211,Gran Canaria,118,33,2021-03-12
+2021-03-12,17746,15631,211,Gran Canaria,118,33,2021-03-12
 2020-03-13,19,1,1,Gran Canaria,NA,NA,2020-03-13
+2021-03-13,17817,15641,212,Gran Canaria,127,35,2021-03-13
 2020-03-14,23,1,1,Gran Canaria,NA,NA,2020-03-14
 2020-03-15,25,1,1,Gran Canaria,NA,NA,2020-03-15
 2020-03-16,42,1,2,Gran Canaria,NA,NA,2020-03-16
@@ -1367,6 +1370,7 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care,as.Da
 2020-03-12,0,0,0,La Gomera,NA,NA,2020-03-12
 2021-03-12,298,286,4,La Gomera,0,0,2021-03-12
 2020-03-13,0,0,0,La Gomera,NA,NA,2020-03-13
+2021-03-13,298,286,4,La Gomera,0,0,2021-03-13
 2020-03-14,0,0,0,La Gomera,NA,NA,2020-03-14
 2020-03-15,0,0,0,La Gomera,NA,NA,2020-03-15
 2020-03-16,0,0,0,La Gomera,NA,NA,2020-03-16
@@ -1744,6 +1748,7 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care,as.Da
 2020-03-12,0,0,0,Lanzarote,NA,NA,2020-03-12
 2021-03-12,4519,4377,44,Lanzarote,10,8,2021-03-12
 2020-03-13,3,0,0,Lanzarote,NA,NA,2020-03-13
+2021-03-13,4520,4388,44,Lanzarote,11,8,2021-03-13
 2020-03-14,3,0,0,Lanzarote,NA,NA,2020-03-14
 2020-03-15,3,0,0,Lanzarote,NA,NA,2020-03-15
 2020-03-16,5,0,0,Lanzarote,NA,NA,2020-03-16
@@ -2121,6 +2126,7 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care,as.Da
 2020-03-12,2,0,0,La Palma,NA,NA,2020-03-12
 2021-03-12,441,398,6,La Palma,8,3,2021-03-12
 2020-03-13,3,0,0,La Palma,NA,NA,2020-03-13
+2021-03-13,442,403,6,La Palma,8,3,2021-03-13
 2020-03-14,5,0,0,La Palma,NA,NA,2020-03-14
 2020-03-15,5,0,0,La Palma,NA,NA,2020-03-15
 2020-03-16,5,0,0,La Palma,NA,NA,2020-03-16
@@ -2494,10 +2500,11 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care,as.Da
 2020-03-10,23,5,0,Tenerife,NA,NA,2020-03-10
 2021-03-10,17922,15580,347,Tenerife,134,30,2021-03-10
 2020-03-11,32,5,0,Tenerife,NA,NA,2020-03-11
-2021-03-11,18038,15584,350,Tenerife,137,32,2021-03-11
+2021-03-11,18039,15585,350,Tenerife,137,32,2021-03-11
 2020-03-12,45,5,0,Tenerife,NA,NA,2020-03-12
-2021-03-12,18152,15600,350,Tenerife,130,30,2021-03-12
+2021-03-12,18151,15602,350,Tenerife,130,30,2021-03-12
 2020-03-13,61,6,0,Tenerife,NA,NA,2020-03-13
+2021-03-13,18221,15604,350,Tenerife,127,31,2021-03-13
 2020-03-14,77,6,0,Tenerife,NA,NA,2020-03-14
 2020-03-15,91,7,1,Tenerife,NA,NA,2020-03-15
 2020-03-16,119,8,1,Tenerife,NA,NA,2020-03-16
