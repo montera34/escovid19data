@@ -1271,36 +1271,39 @@ date,province,cases_accumulated,new_cases,deceased,recovered,ccaa,PCR,TestAc,act
 2021-04-30,Zaragoza,87174,345,2523,79803,Aragón,NA,NA,4848,9211,829,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
 2021-04-30,Huesca,17808,45,475,16499,Aragón,NA,NA,834,1600,167,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
 2021-04-30,Teruel,13519,25,415,12842,Aragón,NA,NA,262,1313,103,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
-2021-05-01,Zaragoza,87357,183,2526,79765,Aragón,NA,NA,4959,9249,833,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
-2021-05-01,Huesca,17833,25,476,16502,Aragón,NA,NA,836,1605,167,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
-2021-05-01,Teruel,13520,1,415,12837,Aragón,NA,NA,261,1310,103,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
-2021-05-02,Zaragoza,87506,149,2527,79842,Aragón,NA,NA,5026,9254,832,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
-2021-05-02,Huesca,17833,0,476,16502,Aragón,NA,NA,834,1604,167,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
-2021-05-02,Teruel,13521,1,415,12837,Aragón,NA,NA,262,1308,103,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
-2021-05-03,Zaragoza,87665,159,2527,80145,Aragón,NA,NA,4893,9265,830,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
-2021-05-03,Huesca,17855,22,476,16568,Aragón,NA,NA,790,1605,171,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
-2021-05-03,Teruel,13585,64,416,12870,Aragón,NA,NA,271,1310,103,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
-2021-05-04,Zaragoza,87973,308,2528,80394,Aragón,NA,NA,4963,9315,837,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
-2021-05-04,Huesca,17912,57,476,16612,Aragón,NA,NA,808,1612,171,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
-2021-05-04,Teruel,13547,-38,415,12848,Aragón,NA,NA,279,1314,105,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
-2021-05-05,Zaragoza,88271,298,2532,80628,Aragón,NA,NA,5037,9343,837,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
-2021-05-05,Huesca,17912,0,476,16612,Aragón,NA,NA,794,1613,173,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
-2021-05-05,Teruel,13557,10,415,12852,Aragón,NA,NA,285,1314,105,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
-2021-05-06,Zaragoza,88494,223,2535,80921,Aragón,NA,NA,4984,9371,843,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
-2021-05-06,Huesca,17966,54,477,16689,Aragón,NA,NA,789,1614,173,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
-2021-05-06,Teruel,13567,10,415,12859,Aragón,NA,NA,287,1313,105,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
-2021-05-07,Zaragoza,88733,239,2537,81207,Aragón,NA,NA,4961,NA,NA,NA,NA,NA,NA,NA
-2021-05-07,Huesca,17988,22,477,16732,Aragón,NA,NA,774,NA,NA,NA,NA,NA,NA,NA
-2021-05-07,Teruel,13578,11,415,12868,Aragón,NA,NA,293,NA,NA,NA,NA,NA,NA,NA
-2021-05-08,Zaragoza,88879,146,2540,81335,Aragón,NA,NA,4969,9420,849,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
-2021-05-08,Huesca,18003,15,478,16748,Aragón,NA,NA,772,1620,172,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
-2021-05-08,Teruel,13581,3,416,12869,Aragón,NA,NA,295,1321,105,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
-2021-05-09,Zaragoza,88941,62,2541,81394,Aragón,NA,NA,4968,9428,851,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
-2021-05-09,Huesca,18020,17,478,16759,Aragón,NA,NA,778,1624,173,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
-2021-05-09,Teruel,13585,4,416,12870,Aragón,NA,NA,298,1319,106,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
-2021-05-10,Zaragoza,89057,116,2541,81697,Aragón,NA,NA,4819,9442,853,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
-2021-05-10,Huesca,18051,31,478,16814,Aragón,NA,NA,759,1631,173,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
-2021-05-10,Teruel,13591,6,416,12894,Aragón,NA,NA,281,1320,106,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
-2021-05-11,Zaragoza,89248,191,2550,81956,Aragón,NA,NA,4742,9454,854,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
-2021-05-11,Huesca,18081,30,480,16856,Aragón,NA,NA,745,1632,173,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
-2021-05-11,Teruel,13596,5,416,12906,Aragón,NA,NA,274,1328,106,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-05-01,Zaragoza,87357,183,2525,79755,Aragón,NA,NA,4959,9249,833,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-05-01,Huesca,17826,18,477,16485,Aragón,NA,NA,836,1605,167,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-05-01,Teruel,13520,1,415,12834,Aragón,NA,NA,261,1310,103,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-05-02,Zaragoza,87506,149,2526,79832,Aragón,NA,NA,5026,9254,832,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-05-02,Huesca,17834,8,477,16494,Aragón,NA,NA,834,1604,167,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-05-02,Teruel,13521,1,415,12834,Aragón,NA,NA,262,1308,103,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-05-03,Zaragoza,87665,159,2526,80132,Aragón,NA,NA,4893,9265,830,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-05-03,Huesca,17856,22,477,16559,Aragón,NA,NA,790,1605,171,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-05-03,Teruel,13534,13,415,12840,Aragón,NA,NA,271,1310,103,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-05-04,Zaragoza,87973,308,2527,80381,Aragón,NA,NA,4963,9315,837,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-05-04,Huesca,17913,57,477,16604,Aragón,NA,NA,808,1612,171,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-05-04,Teruel,13547,13,415,12845,Aragón,NA,NA,279,1314,105,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-05-05,Zaragoza,88271,298,2531,80614,Aragón,NA,NA,5037,9343,837,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-05-05,Huesca,17940,27,477,16646,Aragón,NA,NA,794,1613,173,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-05-05,Teruel,13557,10,415,12849,Aragón,NA,NA,285,1314,105,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-05-06,Zaragoza,88494,223,2534,80901,Aragón,NA,NA,4984,9371,843,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-05-06,Huesca,17967,27,478,16681,Aragón,NA,NA,789,1614,173,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-05-06,Teruel,13567,10,415,12857,Aragón,NA,NA,287,1313,105,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-05-07,Zaragoza,88734,240,2536,81188,Aragón,NA,NA,4961,NA,NA,NA,NA,NA,NA,NA
+2021-05-07,Huesca,17989,22,478,16724,Aragón,NA,NA,774,NA,NA,NA,NA,NA,NA,NA
+2021-05-07,Teruel,13578,11,415,12865,Aragón,NA,NA,293,NA,NA,NA,NA,NA,NA,NA
+2021-05-08,Zaragoza,88881,147,2539,81315,Aragón,NA,NA,4969,9420,849,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-05-08,Huesca,18004,15,479,16741,Aragón,NA,NA,772,1620,172,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-05-08,Teruel,13581,3,416,12866,Aragón,NA,NA,295,1321,105,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-05-09,Zaragoza,88943,62,2545,81370,Aragón,NA,NA,4968,9428,851,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-05-09,Huesca,18021,17,479,16751,Aragón,NA,NA,778,1624,173,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-05-09,Teruel,13585,4,416,12867,Aragón,NA,NA,298,1319,106,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-05-10,Zaragoza,89058,115,2546,81671,Aragón,NA,NA,4819,9442,853,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-05-10,Huesca,18052,31,481,16804,Aragón,NA,NA,759,1631,173,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-05-10,Teruel,13591,6,416,12890,Aragón,NA,NA,281,1320,106,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-05-11,Zaragoza,89248,190,2548,81950,Aragón,NA,NA,4742,9454,854,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-05-11,Huesca,18081,29,481,16850,Aragón,NA,NA,745,1632,173,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-05-11,Teruel,13597,6,416,12904,Aragón,NA,NA,274,1328,106,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-05-12,Zaragoza,89444,196,2549,82214,Aragón,NA,NA,4681,9478,858,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-05-12,Huesca,18110,29,481,16915,Aragón,NA,NA,714,1634,173,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-05-12,Teruel,13604,7,416,12937,Aragón,NA,NA,251,1325,106,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
