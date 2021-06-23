@@ -1837,19 +1837,19 @@ date,province,ine_code,ccaa,new_cases,PCR,TestAc,hospitalized,intensive_care,cas
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-02
 2021-06-03,"Palmas, Las",35,Canarias,51,NA,NA,54,16,NA,332,30643,520,1120406,29791,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-03
-2021-06-03,Santa Cruz de Tenerife,38,Canarias,78,NA,NA,71,13,NA,438,26207,760,1032983,25009,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-03,Santa Cruz de Tenerife,38,Canarias,78,NA,NA,71,13,NA,438,26207,761,1032983,25008,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-03
 2021-06-04,"Palmas, Las",35,Canarias,47,NA,NA,47,16,NA,333,30690,508,1120406,29849,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-04
-2021-06-04,Santa Cruz de Tenerife,38,Canarias,59,NA,NA,61,10,NA,438,26266,756,1032983,25072,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-04,Santa Cruz de Tenerife,38,Canarias,59,NA,NA,61,10,NA,438,26266,757,1032983,25071,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-04
 2021-06-05,"Palmas, Las",35,Canarias,36,NA,NA,48,16,NA,333,30726,494,1120406,29899,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-05
-2021-06-05,Santa Cruz de Tenerife,38,Canarias,54,NA,NA,66,10,NA,439,26320,752,1032983,25129,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-05,Santa Cruz de Tenerife,38,Canarias,54,NA,NA,66,10,NA,439,26320,753,1032983,25128,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-05
 2021-06-06,"Palmas, Las",35,Canarias,34,NA,NA,47,14,NA,334,30760,497,1120406,29929,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-06
-2021-06-06,Santa Cruz de Tenerife,38,Canarias,58,NA,NA,66,12,NA,439,26378,769,1032983,25170,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-06,Santa Cruz de Tenerife,38,Canarias,58,NA,NA,66,12,NA,439,26378,770,1032983,25169,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-06
 2021-06-07,"Palmas, Las",35,Canarias,63,NA,NA,42,10,NA,335,30823,508,1120406,29980,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-07
@@ -1877,37 +1877,41 @@ date,province,ine_code,ccaa,new_cases,PCR,TestAc,hospitalized,intensive_care,cas
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-12
 2021-06-13,"Palmas, Las",35,Canarias,37,NA,NA,40,14,NA,336,31096,557,1120406,30203,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-13
-2021-06-13,Santa Cruz de Tenerife,38,Canarias,79,NA,NA,67,9,NA,443,27002,1001,1032983,25558,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-13,Santa Cruz de Tenerife,38,Canarias,79,NA,NA,67,9,NA,443,27002,1000,1032983,25559,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-13
 2021-06-14,"Palmas, Las",35,Canarias,18,NA,NA,38,14,NA,336,31114,523,1120406,30255,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-14
-2021-06-14,Santa Cruz de Tenerife,38,Canarias,88,NA,NA,71,11,NA,444,27090,1020,1032983,25626,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-14,Santa Cruz de Tenerife,38,Canarias,88,NA,NA,71,11,NA,444,27090,1016,1032983,25630,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-14
-2021-06-15,"Palmas, Las",35,Canarias,63,NA,NA,37,13,NA,336,31177,532,1120406,30309,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-15,"Palmas, Las",35,Canarias,63,NA,NA,37,13,NA,336,31177,530,1120406,30311,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-15
-2021-06-15,Santa Cruz de Tenerife,38,Canarias,113,NA,NA,63,11,NA,444,27203,1087,1032983,25672,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-15,Santa Cruz de Tenerife,38,Canarias,113,NA,NA,63,11,NA,444,27203,1081,1032983,25678,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-15
-2021-06-16,"Palmas, Las",35,Canarias,29,NA,NA,36,11,NA,336,31206,526,1120406,30344,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-16,"Palmas, Las",35,Canarias,29,NA,NA,36,11,NA,336,31206,524,1120406,30346,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-16
-2021-06-16,Santa Cruz de Tenerife,38,Canarias,124,NA,NA,68,12,NA,444,27327,1172,1032983,25711,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-16,Santa Cruz de Tenerife,38,Canarias,124,NA,NA,68,12,NA,444,27327,1160,1032983,25723,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-16
-2021-06-17,"Palmas, Las",35,Canarias,41,NA,NA,33,12,NA,336,31247,508,1120406,30403,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-17,"Palmas, Las",35,Canarias,40,NA,NA,33,12,NA,336,31246,503,1120406,30407,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-17
-2021-06-17,Santa Cruz de Tenerife,38,Canarias,144,NA,NA,72,12,NA,445,27471,1268,1032983,25758,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-17,Santa Cruz de Tenerife,38,Canarias,145,NA,NA,72,12,NA,445,27472,1251,1032983,25776,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-17
-2021-06-18,"Palmas, Las",35,Canarias,41,NA,NA,31,11,NA,336,31288,505,1120406,30447,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-18,"Palmas, Las",35,Canarias,41,NA,NA,31,11,NA,336,31287,499,1120406,30452,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-18
-2021-06-18,Santa Cruz de Tenerife,38,Canarias,150,NA,NA,71,11,NA,445,27621,1377,1032983,25799,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-18,Santa Cruz de Tenerife,38,Canarias,151,NA,NA,71,11,NA,445,27623,1353,1032983,25825,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-18
-2021-06-19,"Palmas, Las",35,Canarias,31,NA,NA,32,10,NA,336,31319,502,1120406,30481,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-19,"Palmas, Las",35,Canarias,32,NA,NA,32,10,NA,336,31319,490,1120406,30493,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-19
-2021-06-19,Santa Cruz de Tenerife,38,Canarias,101,NA,NA,80,13,NA,445,27722,1447,1032983,25830,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-19,Santa Cruz de Tenerife,38,Canarias,101,NA,NA,80,13,NA,445,27724,1402,1032983,25877,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-19
-2021-06-20,"Palmas, Las",35,Canarias,29,NA,NA,35,10,NA,336,31348,516,1120406,30496,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-20,"Palmas, Las",35,Canarias,31,NA,NA,35,10,NA,336,31350,506,1120406,30508,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-20
-2021-06-20,Santa Cruz de Tenerife,38,Canarias,144,NA,NA,86,12,NA,447,27866,1586,1032983,25833,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-20,Santa Cruz de Tenerife,38,Canarias,145,NA,NA,86,12,NA,447,27869,1542,1032983,25880,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-20
-2021-06-21,"Palmas, Las",35,Canarias,33,NA,NA,36,10,NA,336,31381,508,1120406,30537,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-21,"Palmas, Las",35,Canarias,32,NA,NA,36,10,NA,336,31382,490,1120406,30556,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-21
-2021-06-21,Santa Cruz de Tenerife,38,Canarias,117,NA,NA,90,12,NA,447,27983,1668,1032983,25868,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+2021-06-21,Santa Cruz de Tenerife,38,Canarias,120,NA,NA,90,12,NA,447,27989,1625,1032983,25917,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
   https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-21
+2021-06-22,"Palmas, Las",35,Canarias,44,NA,NA,63,8,NA,337,31426,518,1120406,30571,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+  https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-22
+2021-06-22,Santa Cruz de Tenerife,38,Canarias,133,NA,NA,90,14,NA,447,28122,1740,1032983,25935,Mapa COVID Canarias ,"https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6 , 
+  https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/6c18fb18eae64df2a5ecca8c4bd846c3",2021-06-22
