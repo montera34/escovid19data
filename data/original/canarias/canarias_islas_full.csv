@@ -264,6 +264,7 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care,as.Da
 2020-06-25,8,8,0,El Hierro,0,0,2020-06-25
 2021-06-25,248,243,1,El Hierro,0,0,2021-06-25
 2020-06-26,8,8,0,El Hierro,0,0,2020-06-26
+2021-06-26,248,243,1,El Hierro,NA,NA,2021-06-26
 2020-06-27,8,8,0,El Hierro,0,0,2020-06-27
 2020-06-28,8,8,0,El Hierro,0,0,2020-06-28
 2020-06-29,8,8,0,El Hierro,0,0,2020-06-29
@@ -746,6 +747,7 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care,as.Da
 2020-06-25,79,47,0,Fuerteventura,0,0,2020-06-25
 2021-06-25,2551,2412,13,Fuerteventura,0,0,2021-06-25
 2020-06-26,79,47,0,Fuerteventura,0,0,2020-06-26
+2021-06-26,2554,2412,13,Fuerteventura,NA,NA,2021-06-26
 2020-06-27,79,47,0,Fuerteventura,0,0,2020-06-27
 2020-06-28,79,47,0,Fuerteventura,2,0,2020-06-28
 2020-06-29,79,47,0,Fuerteventura,0,0,2020-06-29
@@ -1226,8 +1228,9 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care,as.Da
 2020-06-24,627,576,39,Gran Canaria,5,2,2020-06-24
 2021-06-24,23261,22617,275,Gran Canaria,29,6,2021-06-24
 2020-06-25,628,577,39,Gran Canaria,5,2,2020-06-25
-2021-06-25,23287,22630,275,Gran Canaria,27,7,2021-06-25
+2021-06-25,23288,22630,275,Gran Canaria,27,7,2021-06-25
 2020-06-26,629,579,39,Gran Canaria,8,3,2020-06-26
+2021-06-26,23310,22637,275,Gran Canaria,NA,NA,2021-06-26
 2020-06-27,629,580,39,Gran Canaria,5,3,2020-06-27
 2020-06-28,629,581,39,Gran Canaria,4,3,2020-06-28
 2020-06-29,629,586,39,Gran Canaria,4,3,2020-06-29
@@ -1710,6 +1713,7 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care,as.Da
 2020-06-25,3,3,0,La Gomera,0,0,2020-06-25
 2021-06-25,372,368,4,La Gomera,0,0,2021-06-25
 2020-06-26,3,3,0,La Gomera,0,0,2020-06-26
+2021-06-26,372,368,4,La Gomera,NA,NA,2021-06-26
 2020-06-27,3,3,0,La Gomera,0,0,2020-06-27
 2020-06-28,3,3,0,La Gomera,0,0,2020-06-28
 2020-06-29,3,3,0,La Gomera,0,0,2020-06-29
@@ -2192,6 +2196,7 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care,as.Da
 2020-06-25,82,75,6,Lanzarote,0,0,2020-06-25
 2021-06-25,5724,5599,49,Lanzarote,1,0,2021-06-25
 2020-06-26,82,75,6,Lanzarote,0,0,2020-06-26
+2021-06-26,5729,5607,49,Lanzarote,NA,NA,2021-06-26
 2020-06-27,82,76,6,Lanzarote,0,0,2020-06-27
 2020-06-28,82,76,6,Lanzarote,0,0,2020-06-28
 2020-06-29,82,76,6,Lanzarote,0,0,2020-06-29
@@ -2674,6 +2679,7 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care,as.Da
 2020-06-25,106,100,6,La Palma,1,0,2020-06-25
 2021-06-25,574,566,7,La Palma,0,0,2021-06-25
 2020-06-26,106,100,6,La Palma,0,0,2020-06-26
+2021-06-26,576,566,7,La Palma,NA,NA,2021-06-26
 2020-06-27,106,100,6,La Palma,0,0,2020-06-27
 2020-06-28,106,100,6,La Palma,0,0,2020-06-28
 2020-06-29,106,100,6,La Palma,0,0,2020-06-29
@@ -3154,8 +3160,9 @@ date,cases_accumulated,recovered,deceased,Isla,hospitalized,intensive_care,as.Da
 2020-06-24,1525,1406,111,Tenerife,16,2,2020-06-24
 2021-06-24,27226,24793,437,Tenerife,91,14,2021-06-24
 2020-06-25,1525,1407,111,Tenerife,12,1,2020-06-25
-2021-06-25,27391,24813,437,Tenerife,92,15,2021-06-25
+2021-06-25,27394,24813,437,Tenerife,92,15,2021-06-25
 2020-06-26,1525,1409,111,Tenerife,12,1,2020-06-26
+2021-06-26,27482,24814,437,Tenerife,NA,NA,2021-06-26
 2020-06-27,1525,1410,111,Tenerife,14,1,2020-06-27
 2020-06-28,1525,1410,111,Tenerife,13,1,2020-06-28
 2020-06-29,1525,1410,111,Tenerife,14,1,2020-06-29
