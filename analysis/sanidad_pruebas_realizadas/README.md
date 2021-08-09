@@ -9,7 +9,7 @@ Contenidos
 
 - 02-desc_datos-hoy.py: empleado para descargar los datos del día actual (si han sido publicados. 
 
-*  Si hay datos de hoy, descarga el fichero de hoy, y cambia el fichero "Datos_Pruebas_Realizadas_Historico.csv" por una copia del fichero de hoy.
+  *  Si hay datos de hoy, descarga el fichero de hoy, y cambia el fichero "Datos_Pruebas_Realizadas_Historico.csv" por una copia del fichero de hoy.
 
-* Si no hay datos de hoy (en fines de semana y festivos), muestra el texto: "Hoy no hay datos"
+  * Si no hay datos de hoy (en fines de semana y festivos), muestra el texto: "Hoy no hay datos"
 
