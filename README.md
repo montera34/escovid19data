@@ -23,7 +23,7 @@ Se han creado datos agregados por comunidades autónomas y para toda España en 
 Incluye el código del INE para las provincias y datos relativos a 100.000 habitantes.
 Cuando se indica 'NA' es que no hay datos disponibles.
 
-Los datos se descargan de múltiples fuentes. Tanto los descargados automáticamente de repositorios de datos abiertos como los que se recopilan manualmente en una hoja de cálculo online compatida son luego procesados con este [script de R](https://code.montera34.com/numeroteca/covid19/-/blob/f1fcad3fe09946e53fb11e70c36266d4d43df15f/analysis/process_spain_provinces_data.R) en otro repositorio. 
+Los datos se descargan de múltiples fuentes. Tanto los descargados automáticamente de repositorios de datos abiertos como los que se recopilan manualmente en una hoja de cálculo online compatida son luego procesados con este [script de R](https://code.montera34.com/numeroteca/covid19/-/blob/analysis/process_spain_provinces_data.R) en otro repositorio. 
 
 Los datos originales usados son almacenados en este directorio: [/data/original/spain](https://code.montera34.com/numeroteca/covid19/-/tree/master/data/original/spain). Puedes acceder a datos más desagregados que ls provinicas, por ejemplo a datos por [islas de Canarias](https://code.montera34.com/numeroteca/covid19/-/tree/master/data/original/spain/canarias) o por [área sanitaria en Galicia](https://code.montera34.com/numeroteca/covid19/-/tree/master/data/original/spain/galicia). Hay una carpeta por cada comunidad o ciudad autónoma. En los estados de git puedes acceder a cómo estaban los datos en cada momento.
 
