@@ -97,8 +97,9 @@ if fecha > fecha_cur:
 #    casos_re = re.compile('Por provincias, la distribución de nuevos positivos(.*?\))\.')
 #    casos_re = re.compile('por prueba PCR(.*? )en total\)\.|por prueba PCR.*?Por provincias(.*?)\.')
 #    casos_re = re.compile('por prueba PCR.*?Por provincias(.*?)\.')
-    casos_re = re.compile('por prueba PCR.*?Por provincias(.*?) total de .*? casos no asignados')
+#    casos_re = re.compile('por prueba PCR.*?Por provincias(.*?) total de .*? casos no asignados')
 #    casos_re = re.compile('por prueba PCR.*?Por provincias(.*?)\. El total de casos no asignados')
+    casos_re = re.compile('por prueba PCR.*?Nuevos casos por provincias(.*?) total de .*? casos no asignados')
     
     
     
