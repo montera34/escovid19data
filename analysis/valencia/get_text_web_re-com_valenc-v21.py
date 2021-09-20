@@ -99,8 +99,9 @@ if fecha > fecha_cur:
 #    casos_re = re.compile('por prueba PCR.*?Por provincias(.*?)\.')
 #    casos_re = re.compile('por prueba PCR.*?Por provincias(.*?) total de .*? casos no asignados')
 #    casos_re = re.compile('por prueba PCR.*?Por provincias(.*?)\. El total de casos no asignados')
-    casos_re = re.compile('por prueba PCR.*?Nuevos casos por provincias(.*?) total de .*? casos no asignados')
-    
+    # casos_re = re.compile('por prueba PCR.*?Nuevos casos por provincias(.*?) total de .*? casos no asignados')
+        casos_re = re.compile('por prueba PCR.*?por provincias(.*?)\. .*? casos no asignados')
+   
     
     
 
