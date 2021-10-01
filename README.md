@@ -260,7 +260,7 @@ En la wiki  puedes encontrar información sobre las fuentes e historia de la rec
 
 Cada madrina, reponsable de conseguir los datos, de una comunidad autónoma o provincia sube los datos a una hoja de cálculo común o busca fuentes que podamos descargar y procesar automáticamente.
 
-Los datos de esa hoja de cálculo se descargaban en este CSV: `data/original/covid19_spain_provincias.csv` para ser procesados con el [script de R](https://code.montera34.com:4443/numeroteca/covid19/-/blob/master/analysis/process_spain_provinces_data.R), pero ahora el script hace mucho más que eso. Descarga los datos de cada una de las pestañas y fuentes originales, procesa y une los datos y genera el CSV listo para usarse [/data/output/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/-/blob/master/data/output/covid19-provincias-spain_consolidated.csv). También puedes descargar los datos en formato .xlsx y .rds.
+Los datos de esa hoja de cálculo se descargaban en este CSV: `data/original/covid19_spain_provincias.csv` para ser procesados con el [script de R](https://code.montera34.com/numeroteca/covid19/-/blob/master/analysis/process_spain_provinces_data.R), pero ahora el script hace mucho más que eso. Descarga los datos de cada una de las pestañas y fuentes originales, procesa y une los datos y genera el CSV listo para usarse [/data/output/covid19-provincias-spain_consolidated.csv](https://github.com/montera34/escovid19data/-/blob/master/data/output/covid19-provincias-spain_consolidated.csv). También puedes descargar los datos en formato .xlsx y .rds.
 
 No todos los datos están disponibles en la hoja de cálculo compartida, como se indica en algunas comunidades se obtiene directamente de la fuente.
 
