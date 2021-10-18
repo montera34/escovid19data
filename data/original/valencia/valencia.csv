@@ -1691,6 +1691,12 @@ date,province,ccaa,new_cases,PCR,TestAc,activos,hospitalized,hospitalized_accumu
 2021-10-13,Alicante/Alacant,Comunitat Valenciana,91,,,,47,,,25,2997,187703,187779,,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=971240&languageId=es_ES
 2021-10-13,Castellón/Castelló,Comunitat Valenciana,60,,,,22,,,3,848,53375,53784,,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=971240&languageId=es_ES
 2021-10-13,Valencia/València,Comunitat Valenciana,84,,,,43,,,9,3970,270537,272013,,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=971240&languageId=es_ES
-2021-10-14,Alicante/Alacant,Comunitat Valenciana,84,,,,40,,,26,2998,187787,187848,,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=971240&languageId=es_ES
-2021-10-14,Castellón/Castelló,Comunitat Valenciana,41,,,,22,,,4,849,53416,53816,,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=971240&languageId=es_ES
-2021-10-14,Valencia/València,Comunitat Valenciana,60,,,,47,,,9,3972,270957,272088,,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=971240&languageId=es_ES
+2021-10-14,Alicante/Alacant,Comunitat Valenciana,84,,,,40,,,26,2998,187787,187848,,Sanidad Generalitat Valenciana,https://www.gva.es/va/inicio/area_de_prensa/not_detalle_area_prensa?id=976408
+2021-10-14,Castellón/Castelló,Comunitat Valenciana,41,,,,22,,,4,849,53416,53816,,Sanidad Generalitat Valenciana,https://www.gva.es/va/inicio/area_de_prensa/not_detalle_area_prensa?id=976408
+2021-10-14,Valencia/València,Comunitat Valenciana,60,,,,47,,,9,3972,270957,272088,,Sanidad Generalitat Valenciana,https://www.gva.es/va/inicio/area_de_prensa/not_detalle_area_prensa?id=976408
+2021-10-15,Alicante/Alacant,Comunitat Valenciana,73,,,,36,,,27,2998,187860,,187913,Sanidad Generalitat Valenciana,https://www.gva.es/va/inicio/area_de_prensa/not_detalle_area_prensa?id=976646
+2021-10-15,Castellón/Castelló,Comunitat Valenciana,45,,,,26,,,4,849,53461,,53848,Sanidad Generalitat Valenciana,https://www.gva.es/va/inicio/area_de_prensa/not_detalle_area_prensa?id=976646
+2021-10-15,Valencia/València,Comunitat Valenciana,62,,,,40,,,10,3972,270659,,272148,Sanidad Generalitat Valenciana,https://www.gva.es/va/inicio/area_de_prensa/not_detalle_area_prensa?id=976646
+2021-10-18,Alicante/Alacant,Comunitat Valenciana,191,,,,36,,,27,2999,188051,,188049,Sanidad Generalitat Valenciana,https://www.gva.es/va/inicio/area_de_prensa/not_detalle_area_prensa?id=976871
+2021-10-18,Castellón/Castelló,Comunitat Valenciana,155,,,,26,,,4,849,53616,,53907,Sanidad Generalitat Valenciana,https://www.gva.es/va/inicio/area_de_prensa/not_detalle_area_prensa?id=976871
+2021-10-18,Valencia/València,Comunitat Valenciana,163,,,,40,,,10,3972,270822,,272273,Sanidad Generalitat Valenciana,https://www.gva.es/va/inicio/area_de_prensa/not_detalle_area_prensa?id=976871
