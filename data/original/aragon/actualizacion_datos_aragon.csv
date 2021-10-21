@@ -1781,3 +1781,6 @@ date,province,cases_accumulated,new_cases,deceased,recovered,ccaa,PCR,TestAc,act
 2021-10-17,Zaragoza,117965,165,2817,113829,Aragón,NA,NA,1319,4639,1044,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
 2021-10-17,Huesca,26005,16,576,25168,Aragón,NA,NA,261,782,219,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
 2021-10-17,Teruel,17328,15,453,16727,Aragón,NA,NA,148,559,121,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-10-19,Zaragoza,118115,150,2817,113976,Aragón,NA,NA,1322,4647,1044,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-10-19,Huesca,26038,33,576,25193,Aragón,NA,NA,269,786,219,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-10-19,Teruel,17337,9,455,16740,Aragón,NA,NA,142,557,121,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
