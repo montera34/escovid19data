@@ -1805,9 +1805,15 @@ date,province,cases_accumulated,new_cases,deceased,recovered,ccaa,PCR,TestAc,act
 2021-10-25,Zaragoza,118358,45,2806,114277,Aragón,NA,NA,1258,4663,1048,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
 2021-10-25,Huesca,26098,11,572,25233,Aragón,NA,NA,292,787,219,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
 2021-10-25,Teruel,17375,13,451,16787,Aragón,NA,NA,136,561,123,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-10-25,Zaragoza,118358,0,2806,114277,Aragón,NA,NA,1258,4663,1048,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-10-25,Huesca,26098,0,572,25233,Aragón,NA,NA,292,787,219,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-10-25,Teruel,17375,0,451,16787,Aragón,NA,NA,136,561,123,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
 2021-10-26,Zaragoza,118408,50,2811,114334,Aragón,NA,NA,1250,4664,1048,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
 2021-10-26,Huesca,26114,16,573,25240,Aragón,NA,NA,300,788,219,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
 2021-10-26,Teruel,17376,1,451,16805,Aragón,NA,NA,118,561,123,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2021-10-26,Zaragoza,118408,0,2811,114334,Aragón,NA,NA,1250,4664,1048,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2021-10-26,Huesca,26114,0,573,25240,Aragón,NA,NA,300,788,219,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2021-10-26,Teruel,17376,0,451,16805,Aragón,NA,NA,118,561,123,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
 2021-10-27,Zaragoza,118451,43,2811,114376,Aragón,NA,NA,1251,4666,1048,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
 2021-10-27,Huesca,26136,22,573,25251,Aragón,NA,NA,311,789,219,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
 2021-10-27,Teruel,17388,12,452,16813,Aragón,NA,NA,121,561,123,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
