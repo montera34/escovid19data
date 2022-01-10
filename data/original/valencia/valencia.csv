@@ -1940,3 +1940,6 @@ date,province,ccaa,new_cases,PCR,TestAc,activos,hospitalized,hospitalized_accumu
 2022-01-06,Alicante/Alacant,Comunitat Valenciana,,,,,,,,,,,,,,,No hay datos
 2022-01-06,Castellón/Castelló,Comunitat Valenciana,,,,,,,,,,,,,,,No hay datos
 2022-01-06,Valencia/València,Comunitat Valenciana,,,,,,,,,,,,,,,No hay datos
+2022-01-10,Alicante/Alacant,Comunitat Valenciana,11014 ,,,,,,,,3161,268146),,223716,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=984986&languageId=es_ES
+2022-01-10,Castellón/Castelló,Comunitat Valenciana,3632 ,,,,,,,,928,84128 ,,69550,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=984986&languageId=es_ES
+2022-01-10,Valencia/València,Comunitat Valenciana,14701 ,,,,,,,,4130,390058),,327994,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=984986&languageId=es_ES
