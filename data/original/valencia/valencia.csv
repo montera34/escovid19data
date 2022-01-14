@@ -1940,9 +1940,27 @@ date,province,ccaa,new_cases,PCR,TestAc,activos,hospitalized,hospitalized_accumu
 2022-01-06,Alicante/Alacant,Comunitat Valenciana,,,,,,,,,,,,,,,No hay datos
 2022-01-06,Castellón/Castelló,Comunitat Valenciana,,,,,,,,,,,,,,,No hay datos
 2022-01-06,Valencia/València,Comunitat Valenciana,,,,,,,,,,,,,,,No hay datos
-2022-01-10,Alicante/Alacant,Comunitat Valenciana,11014 ,,,,,,,,3161,268146),,223716,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=984986&languageId=es_ES
-2022-01-10,Castellón/Castelló,Comunitat Valenciana,3632 ,,,,,,,,928,84128 ,,69550,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=984986&languageId=es_ES
-2022-01-10,Valencia/València,Comunitat Valenciana,14701 ,,,,,,,,4130,390058),,327994,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=984986&languageId=es_ES
-2022-01-11,Alicante/Alacant,Comunitat Valenciana,,,,,,,,,3170,,,226654,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=985084&languageId=es_ES
-2022-01-11,Castellón/Castelló,Comunitat Valenciana,,,,,,,,,928,,,70617,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=985084&languageId=es_ES
-2022-01-11,Valencia/València,Comunitat Valenciana,,,,,,,,,4146,,,333855,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=985084&languageId=es_ES
+2022-01-07,Alicante/Alacant,Comunitat Valenciana,10116,,,,322,,,74,3149,257132,,219818,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=984874&languageId=es_ES,
+2022-01-07,Castellón/Castelló,Comunitat Valenciana,4112,,,,150,,,27,925,80496,,68109,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=984874&languageId=es_ES,
+2022-01-07,Valencia/València,Comunitat Valenciana,14616,,,,522,,,89,4123,375355,,321267,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=984874&languageId=es_ES,
+2022-01-08,Alicante/Alacant,Comunitat Valenciana,,,,,,,,,,,,,,,
+2022-01-08,Castellón/Castelló,Comunitat Valenciana,,,,,,,,,,,,,,,
+2022-01-08,Valencia/València,Comunitat Valenciana,,,,,,,,,,,,,,,
+2022-01-09,Alicante/Alacant,Comunitat Valenciana,,,,,,,,,,,,,,,
+2022-01-09,Castellón/Castelló,Comunitat Valenciana,,,,,,,,,,,,,,,
+2022-01-09,Valencia/València,Comunitat Valenciana,,,,,,,,,,,,,,,
+2022-01-10,Alicante/Alacant,Comunitat Valenciana,11014,,,,388,,,70,3161,268146,,223716,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=984986&languageId=es_ES,
+2022-01-10,Castellón/Castelló,Comunitat Valenciana,3632,,,,175,,,27,928,84128,,69550,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=984986&languageId=es_ES,
+2022-01-10,Valencia/València,Comunitat Valenciana,14701,,,,610,,,104,4130,390058,,327994,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=984986&languageId=es_ES,
+2022-01-11,Alicante/Alacant,Comunitat Valenciana,6562,,,,415,,,69,3170,274708,,226654,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=985084&languageId=es_ES,
+2022-01-11,Castellón/Castelló,Comunitat Valenciana,2451,,,,173,,,27,928,86579,,70617,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=985084&languageId=es_ES,
+2022-01-11,Valencia/València,Comunitat Valenciana,7350,,,,592,,,108,4146,397408,,333855,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=985084&languageId=es_ES,
+2022-01-12,Alicante/Alacant,Comunitat Valenciana,6335,,,,440,,,67,3174,281043,,230271,Sanidad Generalitat Valenciana,https://www.gva.es/va/inicio/area_de_prensa/not_detalle_area_prensa?id=985256,
+2022-01-12,Castellón/Castelló,Comunitat Valenciana,3102,,,,176,,,27,935,89681,,71723,Sanidad Generalitat Valenciana,https://www.gva.es/va/inicio/area_de_prensa/not_detalle_area_prensa?id=985256,
+2022-01-12,Valencia/València,Comunitat Valenciana,7174,,,,611,,,106,4152,404582,,340864,Sanidad Generalitat Valenciana,https://www.gva.es/va/inicio/area_de_prensa/not_detalle_area_prensa?id=985256,
+2022-01-13,Alicante/Alacant,Comunitat Valenciana,7474,,,,470,,,68,3176,288517,,235078,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=985329&languageId=es_ES,
+2022-01-13,Castellón/Castelló,Comunitat Valenciana,3460,,,,194,,,22,936,93141,,73454,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=985329&languageId=es_ES,
+2022-01-13,Valencia/València,Comunitat Valenciana,8344,,,,635,,,106,4158,412926,,349243,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=985329&languageId=es_ES,
+2022-01-14,Alicante/Alacant,Comunitat Valenciana,7653 ,,,,454,,,61,3178,296170,,240239,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=985454&languageId=es_ES
+2022-01-14,Castellón/Castelló,Comunitat Valenciana,4545 ,,,,197,,,25,5 mujeres, de entre 36 y 93 años, y 5 hombres, de entre 51 y 88 años Se trata de personas fallecidas a lo largo de la última semana y notificadas tras la actualización de ayer jueves El total de decesos desde el inicio de la pandemia asciende a 8280: 936,97686 ,,75217,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=985454&languageId=es_ES
+2022-01-14,Valencia/València,Comunitat Valenciana,9883 ,,,,624,,,103,4166,422809,,358734,Sanidad Generalitat Valenciana,https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=985454&languageId=es_ES
