@@ -2133,5 +2133,14 @@ date,province,cases_accumulated,new_cases,deceased,recovered,ccaa,PCR,TestAc,act
 2022-02-12,Huesca,65970,123,728,55027,Aragón,NA,NA,10215,1222,269,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
 2022-02-12,Teruel,37980,57,530,32276,Aragón,NA,NA,5174,824,149,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
 2022-02-13,Zaragoza,282745,407,3352,246410,Aragón,NA,NA,32983,6873,1249,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
-2022-02-13,Huesca,66097,-216241,729,55648,Aragón,NA,NA,9720,1223,269,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
-2022-02-13,Teruel,38044,-244294,530,32603,Aragón,NA,NA,4911,825,149,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2022-02-13,Huesca,66097,127,729,55648,Aragón,NA,NA,9720,1223,269,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2022-02-13,Teruel,38044,64,530,32603,Aragón,NA,NA,4911,825,149,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2022-02-14,Zaragoza,283485,740,3385,249795,Aragón,NA,NA,30305,6943,1260,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2022-02-14,Huesca,66291,194,736,56600,Aragón,NA,NA,8955,1245,272,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2022-02-14,Teruel,38137,93,536,33084,Aragón,NA,NA,4517,835,149,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2022-02-15,Zaragoza,284190,705,3396,252784,Aragón,NA,NA,28010,9137,1695,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2022-02-15,Huesca,66478,187,738,57394,Aragón,NA,NA,8346,1247,272,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2022-02-15,Teruel,38199,62,538,33516,Aragón,NA,NA,4145,840,149,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2022-02-16,Zaragoza,284936,746,3397,255955,Aragón,NA,NA,25584,6967,1264,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2022-02-16,Huesca,66647,169,739,58231,Aragón,NA,NA,7677,1253,272,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2022-02-16,Teruel,38280,81,538,33994,Aragón,NA,NA,3748,842,149,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
