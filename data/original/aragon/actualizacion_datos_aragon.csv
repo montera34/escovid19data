@@ -2177,6 +2177,12 @@ date,province,cases_accumulated,new_cases,deceased,recovered,ccaa,PCR,TestAc,act
 2022-02-27,Zaragoza,289341,199,3478,273070,Aragón,NA,NA,12793,7052,1273,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
 2022-02-27,Huesca,67693,54,763,63397,Aragón,NA,NA,3533,1281,274,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
 2022-02-27,Teruel,38917,39,547,36485,Aragón,NA,NA,1885,853,150,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
-2022-03-02,Zaragoza,399608,110267,4836,379363,Aragón,NA,NA,15409,7070,1277,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
-2022-03-02,Huesca,67964,271,771,64318,Aragón,NA,NA,2875,1288,275,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
-2022-03-02,Teruel,39134,217,550,37013,Aragón,NA,NA,1571,863,151,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2022-02-28,Zaragoza,289779,438,3498,274118,Aragón,NA,NA,12163,7040,1278,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2022-02-28,Huesca,67784,91,768,63691,Aragón,NA,NA,3325,1281,275,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2022-02-28,Teruel,38975,58,549,36650,Aragón,NA,NA,1776,856,150,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2022-03-01,Zaragoza,290177,398,3501,275163,Aragón,NA,NA,11513,7043,1278,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2022-03-01,Huesca,67870,86,771,63993,Aragón,NA,NA,3106,1281,275,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2022-03-01,Teruel,39041,66,550,36807,Aragón,NA,NA,1684,859,151,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
+2022-03-02,Zaragoza,290562,1221,3503,276131,Aragón,NA,NA,10928,7045,1276,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,50,964693
+2022-03-02,Huesca,67966,273,771,64298,Aragón,NA,NA,2897,1283,275,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,22,220461
+2022-03-02,Teruel,39134,217,552,37005,Aragón,NA,NA,1577,860,151,NA,Gobierno de Aragón;aragon.es,https://datacovid.salud.aragon.es/covid/,44,134137
