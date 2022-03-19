@@ -1,53 +1,53 @@
-CODAUTO,Comunidad Autónoma,CPRO,Provincia
-01,Andalucía,04,Almería
-01,Andalucía,11,Cádiz
-01,Andalucía,14,Córdoba
-01,Andalucía,18,Granada
-01,Andalucía,21,Huelva
-01,Andalucía,23,Jaén
-01,Andalucía,29,Málaga
-01,Andalucía,41,Sevilla
-02,Aragón,22,Huesca
-02,Aragón,44,Teruel
-02,Aragón,50,Zaragoza
-03,Asturias, Principado de,33,Asturias
-04,Balears, Illes,07,Balears, Illes
-05,Canarias,35,Palmas, Las
-05,Canarias,38,Santa Cruz de Tenerife
-06,Cantabria,39,Cantabria
-07,Castilla y León,05,Ávila
-07,Castilla y León,09,Burgos
-07,Castilla y León,24,León
-07,Castilla y León,34,Palencia
-07,Castilla y León,37,Salamanca
-07,Castilla y León,40,Segovia
-07,Castilla y León,42,Soria
-07,Castilla y León,47,Valladolid
-07,Castilla y León,49,Zamora
-08,Castilla-La Mancha,02,Albacete
-08,Castilla-La Mancha,13,Ciudad Real
-08,Castilla-La Mancha,16,Cuenca
-08,Castilla-La Mancha,19,Guadalajara
-08,Castilla-La Mancha,45,Toledo
-09,Cataluña,08,Barcelona
-09,Cataluña,17,Girona
-09,Cataluña,25,Lleida
-09,Cataluña,43,Tarragona
-10,Comunitat Valenciana,03,Alicante/Alacant
-10,Comunitat Valenciana,12,Castellón/Castelló
-10,Comunitat Valenciana,46,Valencia/València
-11,Extremadura,06,Badajoz
-11,Extremadura,10,Cáceres
-12,Galicia,15,Coruña, A
-12,Galicia,27,Lugo
-12,Galicia,32,Ourense
-12,Galicia,36,Pontevedra
-13,Madrid, Comunidad de,28,Madrid
-14,Murcia, Región de,30,Murcia
-15,Navarra, Comunidad Foral de,31,Navarra
-16,País Vasco,01,Araba/Álava
-16,País Vasco,48,Bizkaia
-16,País Vasco,20,Gipuzkoa
-17,Rioja, La,26,Rioja, La
-18,Ceuta,51,Ceuta
-19,Melilla,52,Melilla
+CODAUTO;Comunidad Autónoma;CPRO;Provincia
+01;Andalucía;04;Almería
+01;Andalucía;11;Cádiz
+01;Andalucía;14;Córdoba
+01;Andalucía;18;Granada
+01;Andalucía;21;Huelva
+01;Andalucía;23;Jaén
+01;Andalucía;29;Málaga
+01;Andalucía;41;Sevilla
+02;Aragón;22;Huesca
+02;Aragón;44;Teruel
+02;Aragón;50;Zaragoza
+03;Asturias, Principado de;33;Asturias
+04;Balears, Illes;07;Balears, Illes
+05;Canarias;35;Palmas, Las
+05;Canarias;38;Santa Cruz de Tenerife
+06;Cantabria;39;Cantabria
+07;Castilla y León;05;Ávila
+07;Castilla y León;09;Burgos
+07;Castilla y León;24;León
+07;Castilla y León;34;Palencia
+07;Castilla y León;37;Salamanca
+07;Castilla y León;40;Segovia
+07;Castilla y León;42;Soria
+07;Castilla y León;47;Valladolid
+07;Castilla y León;49;Zamora
+08;Castilla-La Mancha;02;Albacete
+08;Castilla-La Mancha;13;Ciudad Real
+08;Castilla-La Mancha;16;Cuenca
+08;Castilla-La Mancha;19;Guadalajara
+08;Castilla-La Mancha;45;Toledo
+09;Cataluña;08;Barcelona
+09;Cataluña;17;Girona
+09;Cataluña;25;Lleida
+09;Cataluña;43;Tarragona
+10;Comunitat Valenciana;03;Alicante/Alacant
+10;Comunitat Valenciana;12;Castellón/Castelló
+10;Comunitat Valenciana;46;Valencia/València
+11;Extremadura;06;Badajoz
+11;Extremadura;10;Cáceres
+12;Galicia;15;Coruña, A
+12;Galicia;27;Lugo
+12;Galicia;32;Ourense
+12;Galicia;36;Pontevedra
+13;Madrid, Comunidad de;28;Madrid
+14;Murcia, Región de;30;Murcia
+15;Navarra, Comunidad Foral de;31;Navarra
+16;País Vasco;01;Araba/Álava
+16;País Vasco;48;Bizkaia
+16;País Vasco;20;Gipuzkoa
+17;Rioja, La;26;Rioja, La
+18;Ceuta;51;Ceuta
+19;Melilla;52;Melilla
