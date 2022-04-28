@@ -1,0 +1,53 @@
+codigo,provincia,abreviatura
+01,Araba/Álava,VI
+02,Albacete,AB
+03,Alicante/Alacant,A
+04,Almería,AL
+05,Ávila,AV
+06,Badajoz,BA
+07,"Balears, Illes",PM
+08,Barcelona,B
+09,Burgos,BU
+10,Cáceres,CC
+11,Cádiz,CA
+12,Castellón/Castelló,CS
+13,Ciudad Real,CR
+14,Córdoba,CO
+15,"Coruña, A",C
+16,Cuenca,CU
+17,Girona,GI
+18,Granada,GR
+19,Guadalajara,GU
+20,Gipuzkoa,SS
+21,Huelva,H
+22,Huesca,HU
+23,Jaén,J
+24,León,LE
+25,Lleida,L
+26,"Rioja, La",LO
+27,Lugo,LU
+28,Madrid,M
+29,Málaga,MA
+30,Murcia,MU
+31,Navarra,NA
+32,Ourense,OR
+33,Asturias,O
+34,Palencia,P
+35,"Palmas, Las",GC
+36,Pontevedra,PO
+37,Salamanca,SA
+38,"Santa Cruz de Tenerife",TF
+39,Cantabria,S
+40,Segovia,SG
+41,Sevilla,SE
+42,Soria,SO
+43,Tarragona,T
+44,Teruel,TE
+45,Toledo,TO
+46,Valencia/València,V
+47,Valladolid,VA
+48,Bizkaia,BI
+49,Zamora,ZA
+50,Zaragoza,Z
+51,Ceuta,CE
+52,Melilla,ML
