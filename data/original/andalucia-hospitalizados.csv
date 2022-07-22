@@ -5270,7 +5270,7 @@ Fecha report,provincia,Hospitalizados,UCI
 04/07/2022,Huelva,71,1
 04/07/2022,Jaén,63,9
 04/07/2022,Málaga,165,12
-04/07/2022,Sevilla,129,6
+04/07/2022,Sevilla,1,29
 07/07/2022,Almería,39,1
 07/07/2022,Cádiz,78,3
 07/07/2022,Córdoba,69,6
@@ -5278,7 +5278,7 @@ Fecha report,provincia,Hospitalizados,UCI
 07/07/2022,Huelva,73,2
 07/07/2022,Jaén,78,8
 07/07/2022,Málaga,172,3
-07/07/2022,Sevilla,114,3
+07/07/2022,Sevilla,1,14
 14/07/2022,Almería,40,2
 14/07/2022,Cádiz,81,5
 14/07/2022,Córdoba,79,2
@@ -5287,3 +5287,19 @@ Fecha report,provincia,Hospitalizados,UCI
 14/07/2022,Jaén,78,3
 14/07/2022,Málaga,167,9
 14/07/2022,Sevilla,121,4
+11/07/2022,Almería,45,1
+11/07/2022,Cádiz,82,5
+11/07/2022,Córdoba,84,4
+11/07/2022,Granada,121,2
+11/07/2022,Huelva,86,1
+11/07/2022,Jaén,82,5
+11/07/2022,Málaga,181,9
+11/07/2022,Sevilla,133,5
+21/07/2022,Almería,46,2
+21/07/2022,Cádiz,72,4
+21/07/2022,Córdoba,55,1
+21/07/2022,Granada,96,5
+21/07/2022,Huelva,80,1
+21/07/2022,Jaén,73,6
+21/07/2022,Málaga,140,7
+21/07/2022,Sevilla,127,2
